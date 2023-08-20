@@ -1,36 +1,17 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B={ac9:function ac9(d){this.a=d},aUO:function aUO(){},aUP:function aUP(){},aUQ:function aUQ(){},aUR:function aUR(){}},A,D,E,C
-B=a.updateHolder(c[80],B)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
+cRF(){return new C.asO(null)},
+asO:function asO(d){this.a=d}},A,E,D,B
+C=a.updateHolder(c[35],C)
 A=c[0]
-D=c[246]
-E=c[247]
-C=c[2]
-B.ac9.prototype={
-p(d){var w=null
-return new A.a5(D.adt,A.ag(A.a([A.dP(!1,w,w,w,E.wU,!0,w,w,!0,new B.aUO(),!1,w,w,w,w),A.dP(!1,w,w,w,D.aeW,!0,w,w,!0,new B.aUP(),!1,w,w,w,w),A.dP(!1,w,w,w,C.Fn,!0,w,w,!0,new B.aUQ(),!1,w,w,w,w),A.dP(!1,w,w,w,C.i7,!0,w,w,!0,new B.aUR(),!1,w,w,w,w)],x.e),C.h,C.hz,C.f,w),w)}}
-var z=a.updateTypes([])
-B.aUO.prototype={
-$0(){var w=0,v=A.j(x.h)
-var $async$$0=A.d(function(d,e){if(d===1)return A.f(e,v)
-while(true)switch(w){case 0:w=2
-return A.c(new A.iX().zq(y.c,y.c,!1),$async$$0)
-case 2:return A.h(null,v)}})
-return A.i($async$$0,v)},
-$S:8}
-B.aUP.prototype={
-$0(){var w="https://officialsimplecode.github.io/SimpleTorHomePage/"
-return new A.iX().zp(w,w)},
-$S:3}
-B.aUQ.prototype={
-$0(){return new A.iX().K5("simpletor.official")},
-$S:0}
-B.aUR.prototype={
-$0(){return new A.iX().wM("0504040624")},
-$S:0};(function inheritance(){var w=a.inherit,v=a.inheritMany
-w(B.ac9,A.H)
-v(A.bV,[B.aUO,B.aUP,B.aUQ,B.aUR])})()
-A.bM(b.typeUniverse,JSON.parse('{"ac9":{"H":[],"e":[]}}'))
-var y={c:"https://officialsimplecode.github.io/SimpleCodeWeb/"}
-var x={e:A.x("G<e>"),h:A.x("aK")};(function constants(){D.adt=new A.B(15,7,15,7)
-D.aeW=new A.tZ(61612,"FontAwesomeSolid","font_awesome_flutter",!1)})()}
-$__dart_deferred_initializers__["PaZe0iI8fk0YG1Os1ROediuV7xw="] = $__dart_deferred_initializers__.current
+E=c[80]
+D=c[215]
+B=c[2]
+C.asO.prototype={
+p(d){var x=null,w=A.r(d),v=$.lM(),u=$.bI(),t=$.aQ(),s=y.a
+return A.a7(x,A.S(A.a([new E.ac1(x),new A.bX(x,x,x,x,x,x),A.bc(A.a7(x,A.S(A.a([A.bc(new A.a5(D.acL,A.mR("assets/animations/cuntact_us_animation.json.zip",x,!1,x),x),1),A.cJ(!1,A.O(A.k("SupportDscription",!0),B.p,!1,!1,x,!1,x,!1,!1,!0,!1,1,x,20,x,""),0.6)],s),B.h,B.i,B.f),B.j,x,x,x,x,x,x,x,new A.B(0,0,0,20),x,x,t*0.85),1)],s),B.h,B.al,B.f),B.j,w.ax.cy,x,x,x,u*0.7,x,x,new A.B(0,0,0,30),x,x,v)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.asO,A.H)})()
+A.bN(b.typeUniverse,JSON.parse('{"asO":{"H":[],"d":[]}}'))
+var y={a:A.x("G<d>")};(function constants(){D.acL=new A.B(0,0,0,40)})()}
+$__dart_deferred_initializers__["OsrxuQWDh8zTHd9F9rx2N3JuvJA="] = $__dart_deferred_initializers__.current

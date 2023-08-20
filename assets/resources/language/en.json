@@ -277,8 +277,7 @@
   "logginErrorWithDetails": "There was a problem logging in. You can view the",
   "confirmePolicy": "Approval of company policy",
   "typeHere": "Type here",
-  "phoneInfo": "This number will be used by the employee you booked an appointment with to communicate with you",
-  "authenticationCompleted": "Authentication completed successfully",
+  "phoneInfo": "This number will be used by the employee you booked an appointment with to communicate with you - it cannot be changed",  "authenticationCompleted": "Authentication completed successfully",
   "pressOpt": "Enter the code",
   "fullname": "First name + last name",
   "nameInfo": "The name will be shown to the workers you booked a order to",
@@ -2232,5 +2231,7 @@
   "addProviderRecommendation": "We recommend that business owners add an additional login source to ensure your account is not lost",
   "providerDeletion": "deletion of connection source",
   "providerDeletionExplain": "To delete the source, type your cell phone number",
-  "joinAt": "Join at"
+  "joinAt": "Join at",
+  "cantDeleteLastProviderDeleteUser":"Unable to delete last provider",
+   "oldUserExplain": "This user relies on the cell phone. It is not possible to download this source. Contact support for information"
 }
