@@ -1,73 +1,69 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_292",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-cVL(d,e,f,g,h,i){return new B.akD(d,e,h,f,g,i,null)},
-akD:function akD(d,e,f,g,h,i,j){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,E,C={Ye:function Ye(d,e){this.c=d
+this.a=e},Yf:function Yf(d,e,f,g){var _=this
 _.c=d
 _.d=e
 _.e=f
-_.f=g
-_.r=h
-_.w=i
-_.a=j},
-b4P:function b4P(d,e,f){this.a=d
-this.b=e
-this.c=f},
-b4O:function b4O(d,e){this.a=d
-this.b=e},
-b4R:function b4R(d,e,f){this.a=d
-this.b=e
-this.c=f},
-b4Q:function b4Q(d,e,f){this.a=d
-this.b=e
-this.c=f}}
+_.a=g},
+dOg(d){var x
+if(!(d.gbi()>=19&&d.gbi()<=23)){d.gbi()
+x=d.gbi()<=2}else x=!0
+if(x)return A.d("night",!0)
+if(d.gbi()>=3&&d.gbi()<=4)return A.d("beforeMorning",!0)
+if(d.gbi()>=5&&d.gbi()<=11)return A.d("morning",!0)
+return A.d("noon",!0)}},D,F
 A=c[0]
-C=c[2]
-B=a.updateHolder(c[207],B)
-B.akD.prototype={
-n(d){var x,w,v=this,u=null,t=new A.hl().hB(),s=v.c,r=v.w,q=r?A.bA(u,A.eu(s,v.r,v.d,!1),C.t,!1,u,u,u,u,u,u,u,new B.b4O(v,d),u,u,u,u,u,u,u,u,u,u,u,u,u,new B.b4P(v,d,t),u,u,u,u,u,u,u,u,!1,C.G):v.aFR(d)
-s=A.wM(q,s+"_"+t,!1)
-q=v.e
-if(q!=null||v.f!=null){x=y.h
-w=A.cx(d,C.aA,x)!=null&&A.cx(d,C.aA,x).f3()?-7:u
-x=A.cx(d,C.aA,x)!=null&&!A.cx(d,C.aA,x).f3()?-7:u
-r=r?A.bA(u,v.amW(d),C.t,!1,u,u,u,u,u,u,u,new B.b4Q(v,d,t),u,u,u,u,u,u,u,u,u,u,u,u,u,new B.b4R(v,d,t),u,u,u,u,u,u,u,u,!1,C.G):v.amW(d)
-x=A.cy(-3,A.wM(r,A.J(q)+"_"+t,!1),u,u,w,x,u,u)
-r=x}else r=new A.m(u,u,u,u)
-return new A.bO(C.a2,u,C.R,C.j,A.a([s,r],y.e),u)},
-amW(d){var x,w=null,v=A.fq(A.q(d).ax.db,0.5),u=this.e
-if(u==null)u=""
-x=this.f
-if(x==null)x=""
-return A.ak(w,A.eu(u,this.r*0.4,x,!1),C.j,w,w,new A.c7(w,w,v,w,w,w,w,C.bp),w,w,w,w,w,w,w,w)},
-aFR(d){var x=null,w=A.q(d).ax,v=w.y
-w=v==null?w.f:v
-return A.ak(x,A.eu(this.c,this.r,this.d,!1),C.j,x,x,new A.c7(w,x,x,x,x,x,x,C.bp),x,x,x,x,x,x,x,x)}}
-var z=a.updateTypes([])
-B.b4P.prototype={
-$0(){var x=this.a.c
-A.MH(this.b,"",x,x+"_"+this.c)
-return null},
-$S:0}
-B.b4O.prototype={
-$0(){return this.a.aFR(this.b)},
-$S:0}
-B.b4R.prototype={
-$0(){var x=this.a.e
-if(x==null)x=""
-A.MH(this.b,"",x,x+"_"+this.c)
-return null},
-$S:0}
-B.b4Q.prototype={
-$0(){var x=this.a.e
-if(x==null)x=""
-A.MH(this.b,"",x,x+"_"+this.c)
-return null},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.akD,A.z)
-w(A.b4,[B.b4P,B.b4O,B.b4R,B.b4Q])})()
-A.aR(b.typeUniverse,JSON.parse('{"akD":{"z":[],"l":[]}}'))
-var y={h:A.u("kO"),e:A.u("G<l>")}};
+B=c[2]
+E=c[310]
+C=a.updateHolder(c[201],C)
+D=c[209]
+F=c[223]
+C.Ye.prototype={
+n(d){var x,w,v,u,t,s,r=null,q=this.c,p=q.Q
+if(p==null)p=q.ok
+x=$.aj()
+w=A.d("bookingTimeExplain",!0)
+v=A.dgd(p,A.d("onDay",!0)+" ")
+w=A.N(w,"DAY",v)
+v=A.v("dd/MM/yy",$.iT().b).t(p)
+w=A.N(w,"DATE",v)
+v=A.v("HH:mm",r).t(p)
+w=A.N(w,"TIME",v)
+v=C.dOg(p)
+w=A.D(A.N(w,"PERIOD",v),r,!1,!1,r,!1,!1,r,!1,!1,!1,1,r,!1,14,r,"")
+v=$.aj()
+u=A.d("treatmentDuration",!0)
+t=F.d0A(A.Y(0,0,0,0,q.gea(),0))
+u=A.D(A.N(u,"DURATION",t),r,!1,!1,r,!1,!1,r,!1,!1,!1,0.7,B.a4,!1,13,r,"")
+t=A.d("treatmentPrice",!0)
+q=q.gfU().l(0)
+s=y.a
+return new A.a8(B.ba,A.M(A.a([new A.m(x*0.53,r,w,r),new A.m(r,7,r,r),new A.m(v*0.6,r,A.ac(A.a([new A.fl(1,B.bB,u,r),new A.m(7,r,r,r),new A.fl(1,B.bB,A.D(A.N(t,"PRICE",q),r,!1,!1,r,!1,!1,r,!1,!1,!1,0.7,B.a4,!1,13,r,""),r)],s),B.e,B.h,B.d,r),r)],s),B.af,B.h,B.d),r)}}
+C.Yf.prototype={
+n(d){var x,w,v,u,t,s,r,q=null,p="assets/woman_profile.webp",o="assets/man_profile.webp",n=$.L(),m=this.c
+if(n.as.h(0,m.b)!=null&&m.e===n.x.go){x=n.as.h(0,m.b)
+x.toString
+w=x}else w=q
+x=m.e
+v=n.x
+u=x===v.go?v.k4.r:m.x2.Ek(x)
+x=this.d
+if(x){v=w==null?q:w.e
+if(v==null)v=""
+v=D.cW_(v,m.R8===B.ae?p:o,q,60,q,!1)}else{v=n.cx
+v.toString
+t=w==null?q:w.e
+v=D.cW_(u,v,m.R8===B.ae?p:o,60,t,!1)}t=m.gkh()
+x=x?"":" "+A.d("to",!0)+" "+m.f
+s=A.d("with",!0)
+m=m.c
+r=this.e?E.cX:q
+return A.co(!1,!1,q,!1,!1,!1,!1,!0,!1,!0,q,!1,new A.y(4,10,4,10),v,14,q,q,!1,s+" "+m,q,13,r,q,t+x,17.5,1,q)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany
+x(A.z,[C.Ye,C.Yf])})()
+A.aQ(b.typeUniverse,JSON.parse('{"Ye":{"z":[],"l":[]},"Yf":{"z":[],"l":[]}}'))
+var y={a:A.u("G<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_292",e:"endPart",h:b})})($__dart_deferred_initializers__,"agrp8luSv6KKgq/i9IMr/UqL2JE=");
+a.eventLog.push({p:"main.dart.js_292",e:"endPart",h:b})})($__dart_deferred_initializers__,"2zeXLIdntfsUX5knzh6OESt/0Ic=");
