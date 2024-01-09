@@ -1,45 +1,67 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_620",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-dDh(){return new C.aFT(null)},
-aFT:function aFT(d){this.a=d},
-c5i:function c5i(d,e){this.a=d
-this.b=e},
-c5j:function c5j(d){this.a=d}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,E,F,G,B={
+dti(){return new B.aq4(null)},
+aq4:function aq4(d){this.a=d},
+bhF:function bhF(d){this.a=d},
+bhG:function bhG(d){this.a=d}}
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[37],C)
-C.aFT.prototype={
-n(d){var x,w,v,u,t,s,r,q,p,o=null
-A.bR(d,!0,y.d)
-x=y.e
-w=A.a([],x)
+C=c[2]
+D=c[12]
+E=c[288]
+F=c[379]
+G=c[380]
+B=a.updateHolder(c[31],B)
+B.aq4.prototype={
+n(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="dd-MM-yyyy"
+A.bR(d,!0,y.m)
+x=A.D("\u05d3\u05e9\u05d1\u05d5\u05e8\u05d3 \u05e9\u05dc\u05d9\u05d8\u05d4",h,!1,!1,h,!1,!1,h,!1,!1,!1,1,h,!1,19,h,"")
+w=A.c_(h,h,h)
 v=$.L()
-u=v.x.k4.e
-u.ga3(u).p(0,new C.c5i(this,w))
-u=$.bP()
-t=$.V()
-s=t.gbs()===2?30:0
-r=A.D(A.d("lastUpdates",!0),o,!1,!1,o,!1,!1,o,!1,!0,!1,1,o,!1,19,o,"")
-q=A.d("fromBusiness",!0)
-p=v.x.fr
-r=A.M(A.a([r,new A.m(o,2,o,o),A.D(A.N(q,"BUSINESS",p),o,!1,!1,o,!1,!1,o,!1,!0,!1,0.7,o,!1,14,o,"")],x),B.e,B.h,B.d)
-if(t.gbs()===2){q=A.q(d)
-q=A.c5(!1,A.q(d).ax.f,q.ax.cy,B.bf,!0,!1,o,o,o,!0,new C.c5j(d),!1,new A.y(3,3,3,3),o,o,o,19,o,o)}else q=new A.m(o,o,o,o)
-return A.ak(o,A.M(A.a([new A.m(o,9,o,o),A.ac(A.a([new A.m(s,o,o,o),r,q],x),B.e,B.w,B.d,o),new A.m(o,15,o,o),A.c_(o,0,1),A.M(w,B.e,B.h,B.d)],x),B.e,B.h,B.d),B.j,o,o,o,o,u,o,o,o,o,o,o)}}
+u=i.I6("businessId:",v.x.go)
+t=A.c_(h,h,h)
+s=i.I6("businessPhone:",v.x.z)
+r=A.c_(h,h,h)
+q=i.I6("ownerName:",v.x.Q)
+p=A.c_(h,h,h)
+o=v.x.id
+o=i.I6("createdAt:",A.v(g,h).t(o))
+n=A.c_(h,h,h)
+m=i.I6("productId:",v.x.fx)
+l=A.c_(h,h,h)
+k=v.x.k2
+k=A.v(g,h).t(k)
+j=v.x.k2
+return A.M(A.a([new A.m(h,5,h,h),x,new A.m(h,10,h,h),w,u,t,s,r,q,p,o,n,m,l,i.I6("lastTimeConnected:",k+" - "+A.v("HH:mm",h).t(j)),A.c_(h,0,h),A.co(!1,!0,h,!1,!1,!1,!1,!0,!1,!0,new B.bhF(d),!1,new A.y(15,10,15,10),new A.bh(F.i0,24,!0,1,!1,!1,!1,h,h),5,h,h,!1,"\u05d4\u05e2\u05e1\u05e7 \u05d9\u05d4\u05d9\u05d4 \u05d6\u05de\u05d9\u05df \u05dc\u05d7\u05d9\u05e4\u05d5\u05e9 \u05d1\u05de\u05e1\u05da \u05d4\u05d7\u05d9\u05e4\u05d5\u05e9",h,13,E.fF(A.q(d).ax.f,new B.bhG(d),v.x.d),h,"\u05d6\u05de\u05d9\u05df \u05d1\u05d7\u05d9\u05e4\u05d5\u05e9",15,0,h),new A.m(h,30,h,h)],y.e),C.e,C.h,C.d)},
+I6(d,e){var x=null
+return new A.a8(G.hb,A.ac(A.a([A.b5(A.D(e,x,!1,!1,x,!1,!0,x,!1,!1,!1,1,x,!0,15,x,""),1),new A.m(20,x,x,x),A.D(d,x,!1,!1,x,!1,!0,x,!1,!1,!1,0.7,x,!1,14,x,"")],y.e),C.e,C.ap,C.d,x),x)}}
 var z=a.updateTypes([])
-C.c5i.prototype={
-$1(d){var x=null,w=d.a
-this.b.push(A.M(A.a([A.co(!1,!1,x,!1,!1,!1,!1,!0,!1,!0,x,!1,new A.y(10,10,10,10),x,5,x,x,!1,x,A.D(d.b,x,!1,!1,x,!1,!1,x,!1,!0,!1,0.9,x,!0,15,x,""),13,x,x,w,18,5,x),A.c_(x,0,1)],y.e),B.e,B.h,B.d))},
-$S:1419}
-C.c5j.prototype={
-$0(){return A.WN(this.a)},
-$S:25};(function inheritance(){var x=a.inherit
-x(C.aFT,A.z)
-x(C.c5i,A.b2)
-x(C.c5j,A.b4)})()
-A.aQ(b.typeUniverse,JSON.parse('{"aFT":{"z":[],"l":[]}}'))
-var y={e:A.u("G<l>"),d:A.u("j2")}};
+B.bhF.prototype={
+$0(){var x=0,w=A.j(y.p),v=this
+var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
+while(true)switch(x){case 0:x=2
+return A.c(A.ai("settingsHelper.16",0),$async$$0)
+case 2:A.ae("settingsHelper.16")
+D.fV().Jb(v.a,!$.L().x.d)
+return A.h(null,w)}})
+return A.i($async$$0,w)},
+$S:1}
+B.bhG.prototype={
+$1(d){return this.aKq(d)},
+aKq(d){var x=0,w=A.j(y.f),v=this
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:x=2
+return A.c(A.ai("settingsHelper.16",0),$async$$1)
+case 2:A.ae("settingsHelper.16")
+D.fV().Jb(v.a,!$.L().x.d)
+return A.h(null,w)}})
+return A.i($async$$1,w)},
+$S:50};(function inheritance(){var x=a.inherit
+x(B.aq4,A.z)
+x(B.bhF,A.b4)
+x(B.bhG,A.b2)})()
+A.aQ(b.typeUniverse,JSON.parse('{"aq4":{"z":[],"l":[]}}'))
+var y={e:A.u("G<l>"),p:A.u("aw"),m:A.u("j2"),f:A.u("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_620",e:"endPart",h:b})})($__dart_deferred_initializers__,"Uo0tjzI6BQznTwyTKrurc7eLjMI=");
+a.eventLog.push({p:"main.dart.js_620",e:"endPart",h:b})})($__dart_deferred_initializers__,"CQNq5QP2xUcok7WgDLUTWero10c=");

@@ -40,7 +40,7 @@ u=A.D(A.N(u,"DURATION",t),r,!1,!1,r,!1,!1,r,!1,!1,!1,0.7,B.a4,!1,13,r,"")
 t=A.d("treatmentPrice",!0)
 q=q.gfU().l(0)
 s=y.a
-return new A.a8(B.ba,A.M(A.a([new A.m(x*0.53,r,w,r),new A.m(r,7,r,r),new A.m(v*0.6,r,A.ac(A.a([new A.fl(1,B.bB,u,r),new A.m(7,r,r,r),new A.fl(1,B.bB,A.D(A.N(t,"PRICE",q),r,!1,!1,r,!1,!1,r,!1,!1,!1,0.7,B.a4,!1,13,r,""),r)],s),B.e,B.h,B.d,r),r)],s),B.af,B.h,B.d),r)}}
+return new A.a8(B.ba,A.M(A.a([new A.m(x*0.53,r,w,r),new A.m(r,7,r,r),new A.m(v*0.6,r,A.ac(A.a([new A.fm(1,B.bB,u,r),new A.m(7,r,r,r),new A.fm(1,B.bB,A.D(A.N(t,"PRICE",q),r,!1,!1,r,!1,!1,r,!1,!1,!1,0.7,B.a4,!1,13,r,""),r)],s),B.e,B.h,B.d,r),r)],s),B.af,B.h,B.d),r)}}
 C.Yf.prototype={
 n(d){var x,w,v,u,t,s,r,q=null,p="assets/woman_profile.webp",o="assets/man_profile.webp",n=$.L(),m=this.c
 if(n.as.h(0,m.b)!=null&&m.e===n.x.go){x=n.as.h(0,m.b)
@@ -48,7 +48,7 @@ x.toString
 w=x}else w=q
 x=m.e
 v=n.x
-u=x===v.go?v.k4.r:m.x2.Ek(x)
+u=x===v.go?v.k4.r:m.x2.Ej(x)
 x=this.d
 if(x){v=w==null?q:w.e
 if(v==null)v=""
@@ -66,4 +66,4 @@ x(A.z,[C.Ye,C.Yf])})()
 A.aQ(b.typeUniverse,JSON.parse('{"Ye":{"z":[],"l":[]},"Yf":{"z":[],"l":[]}}'))
 var y={a:A.u("G<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_292",e:"endPart",h:b})})($__dart_deferred_initializers__,"2zeXLIdntfsUX5knzh6OESt/0Ic=");
+a.eventLog.push({p:"main.dart.js_292",e:"endPart",h:b})})($__dart_deferred_initializers__,"EEtnMd/0jtgTyrej3Ukl53lojiw=");

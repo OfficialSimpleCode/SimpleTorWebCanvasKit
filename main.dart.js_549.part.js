@@ -1,9 +1,25 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_549",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={Kl:function Kl(d,e,f,g){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.a=g}},D
 A=c[0]
-B=c[475]
-var z=a.updateTypes([]);(function constants(){B.CM=new A.b_(58655,"MaterialIcons",null,!1)})()};
+B=c[2]
+C=a.updateHolder(c[217],C)
+D=c[475]
+C.Kl.prototype={
+n(d){var x,w=null,v=this.c
+if(v==null)return new A.m(w,w,w,w)
+x=A.Eo(v)
+x.w=A.oc(A.as(y.b),w,y.f)
+x.r=B.fZ
+return new A.a8(this.e,A.d4(A.hS(B.dl,A.a([new A.bh(D.CM,16,!0,1,!1,!1,!1,w,w),new A.m(3,w,w,w),A.D(A.d(this.d?"recurringEvent":"recurringBooking",!0)+" - ",w,!1,!1,w,!1,!1,w,!1,!0,!1,1,w,!1,14,w,""),A.D(x.gpE(),w,!1,!1,w,!1,!1,w,!1,!0,!1,1,w,!1,14,w,"")],y.e),B.bx,B.aM,0,0),0.7),w)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.Kl,A.z)})()
+A.aQ(b.typeUniverse,JSON.parse('{"Kl":{"z":[],"l":[]}}'))
+var y={f:A.u("x"),e:A.u("G<l>"),b:A.u("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_549",e:"endPart",h:b})})($__dart_deferred_initializers__,"yhtf20hwPoTHsvy3vyr1Lkw7Y2E=");
+a.eventLog.push({p:"main.dart.js_549",e:"endPart",h:b})})($__dart_deferred_initializers__,"JeV3hjTLU26WL4kIANPjL1/bEAA=");
