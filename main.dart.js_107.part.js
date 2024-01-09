@@ -7,8 +7,8 @@ C=c[2]
 A=c[442]
 D=c[445]
 var z=a.updateTypes([]);(function constants(){A.aQi=new B.b_(984254,"MaterialIcons",null,!1)
-A.aOS=new B.m_(61856,"FontAwesomeBrands","font_awesome_flutter",!1)
-A.aOX=new B.m_(61594,"FontAwesomeBrands","font_awesome_flutter",!1)
+A.aOS=new B.lZ(61856,"FontAwesomeBrands","font_awesome_flutter",!1)
+A.aOX=new B.lZ(61594,"FontAwesomeBrands","font_awesome_flutter",!1)
 A.Ec=new B.bf([C.jL,A.aQi,C.jM,A.aOS,C.hJ,A.aOX,C.d9,D.CH],B.u("bf<mY,b_>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_107",e:"endPart",h:b})})($__dart_deferred_initializers__,"Abr9RzxhNY3FVeDzNZra/KTg4BA=");
+a.eventLog.push({p:"main.dart.js_107",e:"endPart",h:b})})($__dart_deferred_initializers__,"6QvqutoN66FV20wvZUvOy9RR3ss=");

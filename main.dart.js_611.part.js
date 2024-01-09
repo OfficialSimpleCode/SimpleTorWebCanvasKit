@@ -9,7 +9,7 @@ _.f=g
 _.r=h
 _.w=i
 _.x=j
-_.a=k},t1:function t1(d,e){this.a=d
+_.a=k},t2:function t2(d,e){this.a=d
 this.b=e},a04:function a04(d,e,f){this.d=d
 this.e=e
 this.a=f},bmq:function bmq(d){this.a=d},bmr:function bmr(d,e){this.a=d
@@ -86,8 +86,8 @@ n(d){var x,w=this,v=null,u=$.bp(),t=new A.x(Date.now(),!1).d6(A.Y(7,0,0,0,0,0)),
 if(w.d||w.f||w.e){if(w.e)x="breakUpdate"
 else x=w.f?"updateMultiBookingEvent":"updateBooking"
 x=new A.a8(H.k7,new G.qI(2,C.c7,A.D(A.d(x,!0),v,!1,!1,v,!1,!1,v,!1,!0,!1,1,v,!1,19*w.c,v,""),v,v,v),v)}else x=A.ak(v,A.M(A.a([new A.m(v,10,v,v),new A.m($.aj()*0.94,v,new G.qI(2,C.c7,A.D(A.d("whatYouWaNTToDo",!0),v,!1,!1,v,!1,!1,v,!1,!0,!1,1,v,!1,19*w.c,v,""),v,v,v),v),new A.m(v,10,v,v),new B.a04(s,w.x,v)],y.p),C.e,C.h,C.d),C.j,v,v,v,v,v,v,v,v,v,v,v)
-return new A.bX(C.bt,v,v,A.cY(A.M(A.a([new A.a8(new A.y(0,5,0,5),new F.Tt(u.b,t,v),v),new B.ar8(s,w.w,v),x,new A.m(v,30,v,v)],y.p),C.e,C.h,C.d),C.a5),v)}}
-B.t1.prototype={
+return new A.bX(C.bt,v,v,A.d_(A.M(A.a([new A.a8(new A.y(0,5,0,5),new F.Tt(u.b,t,v),v),new B.ar8(s,w.w,v),x,new A.m(v,30,v,v)],y.p),C.e,C.h,C.d),C.a5),v)}}
+B.t2.prototype={
 R(){return"EventType."+this.b}}
 B.a04.prototype={
 n(d){return new A.X(this.e,new B.bmq(this),null,null,y.s)},
@@ -153,7 +153,7 @@ I.MV(d,A.N(x,"NAME",w),v)}}
 B.ar8.prototype={
 n(d){return new A.X($.bp().b,new B.bm_(this),null,null,y.H)}}
 B.a9f.prototype={
-a_(){var x=$.ua(),w=$.bP(),v=$.an(),u=y.f,t=y.e
+a_(){var x=$.ua(),w=$.bN(),v=$.an(),u=y.f,t=y.e
 return new B.afM(A.p(y.L,y.R),x*0.001,w*0.8,new A.P(D.aO6,v,y.k),new A.P(!1,v,u),new A.P(!1,v,u),new A.P(null,v,y.P),new A.P(null,v,y.C),new A.P(A.p(y.N,y.Y),v,y.c),new A.P(!1,v,u),new A.P(60,v,t),new A.P(0,v,t),new A.P(!0,v,u),E.i2,C.o)}}
 B.afM.prototype={
 an(){var x,w,v,u,t,s=this,r=null,q={}
@@ -211,7 +211,7 @@ u=y.p
 t=$.bp().ax?A.ac(A.a([s.aJv(),s.D9(A.d("edit",!0),E.hi)],u),C.e,C.ap,C.d,r):A.ac(A.a([s.aJv(),s.a7r()],u),C.e,C.ap,C.d,r)
 return new L.wa(x,!0,w,A.ak(r,A.M(A.a([t,A.c_(r,10,1),A.b5(A.yl(s.e.h(0,s.cx).$0(),A.Y(0,0,0,300,0,0),C.P,C.P,A.G7()),1)],u),C.e,C.h,C.d),C.j,v.ax.cy,r,r,r,s.r,r,r,r,r,r,r),r)},
 bPb(){var x=this
-x.e=A.H([E.i2,new B.cEc(x),E.eH,new B.cEd(x),E.ks,new B.cEe(),E.hi,new B.cEf(x)],y.L,y.R)},
+x.e=A.H([E.i2,new B.cEc(x),E.eH,new B.cEd(x),E.kt,new B.cEe(),E.hi,new B.cEf(x)],y.L,y.R)},
 aJv(){return new A.X($.bp().c,new B.cEi(this),null,null,y.B)},
 a7r(){return new A.X($.bp().a,new B.cEh(this),null,null,y.g)},
 D9(d,e){var x,w=null,v=e===this.cx,u=this.c
@@ -222,7 +222,7 @@ x=u.y
 u=x==null?u.f:x}return A.b5(A.al(C.v,w,w,A.D(d,w,!1,!1,v?$.d5().c.ax.r:w,!1,!1,w,!1,!1,!0,1,C.a4,!1,14,w,""),u,w,0,!1,w,w,w,w,new A.y(10,10,10,10),!1,new B.cEb(this,e),w,new A.y(5,10,5,10),10,w,!1,!1,!1,w),1)},
 No(d){$.bp().Q=!1
 this.a2(new B.cE9(this,d))}}
-var z=a.updateTypes(["~(B)","ff(B,t1,l?)","~(te)","Fg()","Po()"])
+var z=a.updateTypes(["~(B)","ff(B,t2,l?)","~(tf)","Fg()","Po()"])
 B.bmq.prototype={
 $3(d,e,f){var x,w=null,v=A.q(d).ax,u=v.y
 v=u==null?v.f:u
@@ -319,7 +319,7 @@ x(w,"gbNC","bND",0)
 x(w,"gbNL","bNM",0)
 x(B.afM.prototype,"gaff","No",2)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.z,[B.ara,B.a04,B.ar8])
-w(B.t1,A.eU)
+w(B.t2,A.eU)
 x(A.b2,[B.bmq,B.bm_,B.blZ,B.cEi,B.cEh])
 x(A.b4,[B.bmr,B.cEc,B.cEd,B.cEe,B.cEf,B.cEb,B.cE9])
 w(B.a9f,A.a1)
@@ -327,11 +327,11 @@ w(B.afM,A.aa)
 x(A.bI,[B.cEa,B.cEg])})()
 A.aQ(b.typeUniverse,JSON.parse('{"ara":{"z":[],"l":[]},"a04":{"z":[],"l":[]},"ar8":{"z":[],"l":[]},"a9f":{"a1":[],"l":[]},"afM":{"aa":["a9f"]}}'))
 var y=(function rtii(){var x=A.u
-return{p:x("G<l>"),L:x("te"),j:x("aF<l,e9>"),Y:x("fu"),N:x("n"),H:x("X<x>"),s:x("X<t1>"),g:x("X<a3<n,eT>>"),B:x("X<n>"),k:x("P<t1>"),c:x("P<a3<n,fu>>"),f:x("P<I>"),e:x("P<C>"),P:x("P<cu?>"),C:x("P<m8?>"),R:x("l()"),z:x("@")}})();(function constants(){D.Lj=new B.t1(0,"breakEvent")
-D.Lk=new B.t1(1,"booking")
-D.Ci=new B.t1(2,"multiBooking")
-D.Ll=new B.t1(3,"vacation")
-D.Lm=new B.t1(4,"schedule")
-D.aO6=new B.t1(5,"none")})()};
+return{p:x("G<l>"),L:x("tf"),j:x("aF<l,e9>"),Y:x("fu"),N:x("n"),H:x("X<x>"),s:x("X<t2>"),g:x("X<a3<n,eT>>"),B:x("X<n>"),k:x("P<t2>"),c:x("P<a3<n,fu>>"),f:x("P<I>"),e:x("P<C>"),P:x("P<cu?>"),C:x("P<m7?>"),R:x("l()"),z:x("@")}})();(function constants(){D.Lj=new B.t2(0,"breakEvent")
+D.Lk=new B.t2(1,"booking")
+D.Ci=new B.t2(2,"multiBooking")
+D.Ll=new B.t2(3,"vacation")
+D.Lm=new B.t2(4,"schedule")
+D.aO6=new B.t2(5,"none")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_611",e:"endPart",h:b})})($__dart_deferred_initializers__,"r2Sw7WdnYvtofsDadmvbHQaxlnM=");
+a.eventLog.push({p:"main.dart.js_611",e:"endPart",h:b})})($__dart_deferred_initializers__,"/Zxir28UUlU4i34BgYEMeaGlyzY=");

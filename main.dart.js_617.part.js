@@ -110,7 +110,7 @@ $S:492}
 B.bR5.prototype={
 $3(d,e,f){var x,w=null,v=this.b
 if(J.ee(v.a)){v=A.D(A.d("noBookingsThatDay",!0),w,!1,!1,w,!1,!1,w,!1,!1,!1,1,w,!1,19,w,"")
-x=$.bP()*0.3
+x=$.bN()*0.3
 return new A.a8(M.rh,A.M(A.a([v,new A.m(x,x,H.wz(16,100,"",$.aj()),w)],y.u),C.e,C.h,C.d),w)}x=this.a
 return O.cW0(d,J.ci(v.a),x.d,x.e,!0,!1,!1,w,!1,!0)},
 $S:493}
@@ -152,4 +152,4 @@ A.aQ(b.typeUniverse,JSON.parse('{"En":{"z":[],"l":[]}}'))
 var y=(function rtii(){var x=A.u
 return{q:x("G<bZ>"),t:x("G<ag<@>>"),u:x("G<l>"),c:x("R<bZ>"),F:x("aw"),w:x("n"),C:x("l8"),E:x("X<R<bZ>>"),a:x("P<R<bZ>>"),b:x("@")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_617",e:"endPart",h:b})})($__dart_deferred_initializers__,"+WdFh8rz/qymmbxxR/Fjaa0eKdw=");
+a.eventLog.push({p:"main.dart.js_617",e:"endPart",h:b})})($__dart_deferred_initializers__,"pUoirwcfL/dUEstUigTMWsaIBZI=");

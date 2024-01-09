@@ -11,7 +11,7 @@ alq:function alq(d){this.a=d},
 b9D:function b9D(d){this.a=d},
 b_y(d){var x=0,w=A.j(y.b),v,u
 var $async$b_y=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:if($.rF().f==null){u=$.L().x
+while(true)switch(x){case 0:if($.rG().f==null){u=$.L().x
 if(u.fx==="")u.db===""}x=3
 return A.c(A.bK(d,A.ai("subscriptionsDetails",0)),$async$b_y)
 case 3:if(f!==!0){new A.ah(A.d("thereIsProblem",!0),B.k,B.l,B.n,d).L()
@@ -27,7 +27,7 @@ return A.i($async$b_y,w)}}
 J=c[1]
 A=c[0]
 B=c[2]
-E=c[285]
+E=c[287]
 D=c[259]
 F=c[377]
 G=c[73]
@@ -35,7 +35,7 @@ C=a.updateHolder(c[11],C)
 C.aGu.prototype={
 n(d){var x=null
 $.ec.b=d
-return E.hG(A.a([new C.aG5(x),this.bVT(),this.bKY(d),new A.m(x,30,x,x)],y.u),B.b4,new A.y(0,20,0,0),x,!1)},
+return E.hx(A.a([new C.aG5(x),this.bVT(),this.bKY(d),new A.m(x,30,x,x)],y.u),B.aZ,new A.y(0,20,0,0),x,!1)},
 bVT(){var x=null,w=$.V().r.b6$
 if(w.gc0(w)==null)return new A.m(x,x,x,x)
 return D.dT($.d3Z(),x,x,x,"",new A.dY(),!0,x,x,x,x,x)},
@@ -47,11 +47,11 @@ A.bR(d,!0,y.C)
 A.bR(d,!0,y.z)
 x=$.hr()
 w=A.q(d)
-v=$.bx()
+v=$.by()
 u=v.e.h(0,0).h(0,"profile")
 u.toString
 t=A.q(d)
-s=$.bP()
+s=$.bN()
 r=s*0.06
 q=$.V()
 p=q.gbs()>0?$.ch().a.e:""
@@ -87,8 +87,8 @@ break
 default:u=""}v=A.q(d).ax.db
 t=y.u
 v=A.ac(A.a([new A.m(60,n,n,n),A.b5(A.c_(A.T(B.f.a8(25.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),0,0.4),1)],t),B.e,B.h,B.d,n)
-s=$.bP()
-if(x.c===B.mU)r="assets/golden_logo.webp"
+s=$.bN()
+if(x.c===B.mT)r="assets/golden_logo.webp"
 else r=$.d5().c.ax.cy.l9()<0.5?"assets/launch_icon.webp":"assets/logoDark.webp"
 s=A.ak(n,A.fg(r,n,n,n,n,n,n),B.j,n,n,n,n,s*0.04,n,n,new A.y(1,1,1,1),n,n,s*0.06)
 r=A.d("sub",!0)
@@ -119,7 +119,7 @@ return A.c(D.aih(t),$async$$0)
 case 5:x=3
 break
 case 4:x=6
-return A.c(A.po(t,B.kJ,!1,!1),$async$$0)
+return A.c(A.po(t,B.kK,!1,!1),$async$$0)
 case 6:case 3:return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1}
@@ -147,4 +147,4 @@ x(A.b4,[C.c9Y,C.c7J,C.b9D])})()
 A.aQ(b.typeUniverse,JSON.parse('{"aGu":{"z":[],"l":[]},"aG5":{"z":[],"l":[]},"alq":{"z":[],"l":[]}}'))
 var y={j:A.u("G<ob>"),u:A.u("G<l>"),F:A.u("aw"),C:A.u("l8"),z:A.u("jE"),b:A.u("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_619",e:"endPart",h:b})})($__dart_deferred_initializers__,"T1mku9oNRhJco322gYiwmF/7jF8=");
+a.eventLog.push({p:"main.dart.js_619",e:"endPart",h:b})})($__dart_deferred_initializers__,"xhK8QqE/IFtFlkdmmD/9pIN04zc=");

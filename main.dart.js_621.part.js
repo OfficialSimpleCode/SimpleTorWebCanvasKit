@@ -18,7 +18,7 @@ w=A.a([],x)
 v=$.L()
 u=v.x.k4.e
 u.ga3(u).p(0,new C.c5i(this,w))
-u=$.bP()
+u=$.bN()
 t=$.V()
 s=t.gbs()===2?30:0
 r=A.D(A.d("lastUpdates",!0),o,!1,!1,o,!1,!1,o,!1,!0,!1,1,o,!1,19,o,"")
@@ -42,4 +42,4 @@ x(C.c5j,A.b4)})()
 A.aQ(b.typeUniverse,JSON.parse('{"aFS":{"z":[],"l":[]}}'))
 var y={e:A.u("G<l>"),d:A.u("j2")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_621",e:"endPart",h:b})})($__dart_deferred_initializers__,"XrXf1pfk5MjPIUZ3zbJb4G0TS8o=");
+a.eventLog.push({p:"main.dart.js_621",e:"endPart",h:b})})($__dart_deferred_initializers__,"cqpUTWUjoocuFtHGYiVuyi6934c=");

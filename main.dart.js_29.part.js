@@ -117,7 +117,7 @@ var $async$cKe=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:x=d!=null?2:3
 break
 case 2:x=4
-return A.c($.N1().wF(0,A.b00(d)),$async$cKe)
+return A.c($.N1().wE(0,A.b00(d)),$async$cKe)
 case 4:case 3:return A.h(null,w)}})
 return A.i($async$cKe,w)}},C
 J=c[1]
@@ -336,7 +336,7 @@ k=new A.o4()
 k.a=k.oh(m,null)
 j=$.jn
 if(j==null)j=$.jn="en_US"
-i=$.rG().h(0,j.toLowerCase())
+i=$.rH().h(0,j.toLowerCase())
 $.pN.b=i==null?new A.n9(D.bo):i
 k=k.l7(0,1).a
 k===$&&A.b()}f=J
@@ -459,7 +459,7 @@ w.i(0,"notes","")
 w.i(0,"enviroment",x.z)
 w.i(0,"providerNumber","")
 w.i(0,"companyNumber",x.at)
-w.i(0,"path",D.mp.h(0,x.ay))
+w.i(0,"path",D.mn.h(0,x.ay))
 w.i(0,"businessAdress",x.w)
 w.i(0,"email",x.x)
 w.i(0,"status","recivedIntrested")
@@ -537,7 +537,7 @@ B.bxT.prototype={
 $1(d){var x=0,w=A.j(y.H),v=this
 var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:A.ae("settingsHelper.9")
-F.fV().wt(v.a)
+F.fV().ws(v.a)
 return A.h(null,w)}})
 return A.i($async$$1,w)},
 $S:32}
@@ -629,7 +629,7 @@ var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:p=d!=null
 x=p?3:4
 break
-case 3:$.rE().b=1
+case 3:$.rF().b=1
 t=u.a
 $.bo().dt(0,"Finish delete buisness --> "+t)
 s=$.V()
@@ -851,4 +851,4 @@ p=v}else p=v
 return new B.bxJ(new B.by_(r,q,A.n5(p.ho(0,t)),A.wG(A.kZ(s))))})
 w($,"e2f","X8",()=>A.H([C.a_9,3000,C.a_a,3001,C.a_b,3002,C.a_c,3003,C.a_d,3004,C.b0e,3005,C.b0f,3006,C.b0g,3007,C.b0h,3008,C.a_e,3009],A.u("r1"),y.S))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_29",e:"endPart",h:b})})($__dart_deferred_initializers__,"E3JRk3PmkGnTwJBkWet6u7GLP+c=");
+a.eventLog.push({p:"main.dart.js_29",e:"endPart",h:b})})($__dart_deferred_initializers__,"evpKQA5H16K3NeUvwgiADV0UsfQ=");

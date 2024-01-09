@@ -37,7 +37,7 @@ J=c[1]
 A=c[0]
 B=c[2]
 H=c[5]
-I=c[285]
+I=c[287]
 K=c[240]
 L=c[253]
 E=c[259]
@@ -49,7 +49,7 @@ F=c[479]
 C.am6.prototype={
 n(d){var x,w,v,u=null
 if($.V().gbs()===0)return new A.m(u,u,u,u)
-x=$.bx().CW.h(0,"messagesTypes")
+x=$.by().CW.h(0,"messagesTypes")
 w=$.bq()
 v=$.L().as.h(0,w.b.a)
 v.toString
@@ -60,7 +60,7 @@ x.a=!0
 $.b3.ac$.push(new C.bHB(x))
 return new A.X(w,new C.bHC(x,this,w),null,null,y.X)},
 aj4(d,e){var x=null
-return A.M(A.a([new A.m(x,10,x,x),new A.a8(B.ba,new A.bX(B.cb,x,x,new A.m(250,x,A.D(A.d(D.zg.u(0,e.a)?"ifThereIsNoApp":"ifUserNotVerifyHisPhone",!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,13,x,""),x),x),x),new A.m(x,5,x,x),A.ac(d,B.e,B.mn,B.d,x)],y.p),B.e,B.h,B.d)},
+return A.M(A.a([new A.m(x,10,x,x),new A.a8(B.ba,new A.bX(B.cb,x,x,new A.m(250,x,A.D(A.d(D.zg.u(0,e.a)?"ifThereIsNoApp":"ifUserNotVerifyHisPhone",!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,13,x,""),x),x),x),new A.m(x,5,x,x),A.ac(d,B.e,B.ml,B.d,x)],y.p),B.e,B.h,B.d)},
 a3Y(d,e,f){var x,w,v,u,t,s,r=this,q=null
 switch(e.a){case 0:x=A.br(G.hZ,A.q(d).ax.f,q,q,q)
 break
@@ -72,19 +72,19 @@ case 7:x=A.br(B.hW,A.q(d).ax.f,q,q,q)
 break
 case 8:x=A.br(G.hZ,A.q(d).ax.f,q,q,q)
 break
-case 9:x=A.br(F.lH,A.q(d).ax.f,q,q,q)
+case 9:x=A.br(F.lF,A.q(d).ax.f,q,q,q)
 break
-case 4:x=A.br(F.lH,A.q(d).ax.f,q,q,q)
+case 4:x=A.br(F.lF,A.q(d).ax.f,q,q,q)
 break
-case 5:x=A.br(F.lH,A.q(d).ax.f,q,q,q)
+case 5:x=A.br(F.lF,A.q(d).ax.f,q,q,q)
 break
 case 1:x=r.ajl(d)
 break
 case 2:x=r.ajl(d)
 break
 default:x=q}w=D.FA.u(0,f.a)&&e===B.ia
-v=D.Fz.u(0,f.a)&&e===B.mx
-if(!(D.zg.u(0,f.a)&&e===B.fS))if(!v){if(!w)if(!J.w(f.a,e))u=f.a===B.fS&&e===B.kN
+v=D.Fz.u(0,f.a)&&e===B.mv
+if(!(D.zg.u(0,f.a)&&e===B.fS))if(!v){if(!w)if(!J.w(f.a,e))u=f.a===B.fS&&e===B.kO
 else u=!0
 else u=!0
 t=u}else t=!0
@@ -116,7 +116,7 @@ v=$.aM
 u=$.bq()
 u=w.as.h(0,u.b.a).d
 if(B.i.dZ(v,A.N(u,"+","")))B.b.a0(x,$.d3x())
-v=$.bx().CW.h(0,"eventNotifications")
+v=$.by().CW.h(0,"eventNotifications")
 return E.dT(x,t,t,t,A.d("youCanGetNotifications",!1),new A.dY(),!0,t,new C.cbU(d),v,B.c9,"eventsNotificationShowcase")},
 bDR(){var x,w,v,u,t=null
 if($.V().gbs()<1)return new A.m(t,t,t,t)
@@ -136,7 +136,7 @@ return A.h(null,w)}})
 return A.i($async$$1,w)},
 $S:30}
 C.bHC.prototype={
-$3(d,a0,a1){var x,w,v,u,t,s,r,q,p,o=null,n=y.p,m=A.a([],n),l=A.a([],n),k=A.a([],n),j=A.a([],n),i=y.M,h=A.a([B.mx,B.ia,B.fS],i),g=A.a([B.d0,B.kN,B.kO],i),f=A.a([B.yC,B.my],i),e=A.a([B.yD,B.mz],i)
+$3(d,a0,a1){var x,w,v,u,t,s,r,q,p,o=null,n=y.p,m=A.a([],n),l=A.a([],n),k=A.a([],n),j=A.a([],n),i=y.M,h=A.a([B.mv,B.ia,B.fS],i),g=A.a([B.d0,B.kO,B.kP],i),f=A.a([B.yC,B.mw],i),e=A.a([B.yD,B.mx],i)
 i=this.b
 x=this.c
 B.b.p(h,new C.bHx(i,m,d,x))
@@ -144,7 +144,7 @@ B.b.p(g,new C.bHy(i,l,d,x))
 B.b.p(f,new C.bHz(i,k,d,x))
 B.b.p(e,new C.bHA(i,j,d,x))
 w=A.D(A.d("howDoYouWantClientReciveMessages",!0),o,!1,!1,o,!1,!1,o,!1,!0,!1,1,o,!1,13,o,"")
-v=A.ac(m,B.e,B.mn,B.d,o)
+v=A.ac(m,B.e,B.ml,B.d,o)
 u=this.a
 t=u.a
 s=A.Y(0,0,0,400,0,0)
@@ -183,10 +183,10 @@ C.bHE.prototype={
 $0(){var x,w=this,v=w.b
 if(D.zg.u(0,v.a)&&w.c===B.fS)return
 x=w.c
-if(x!==v.a){if(x===B.kN||x===B.ia){new A.ah(A.d("soon",!0),B.k,B.l,B.aD,w.d).L()
-return}if(x===B.fS){v.sj(0,B.kO)
-v.D()}else if(x===B.mx){v.sj(0,B.my)
-v.D()}else if(x===B.ia){v.sj(0,B.mz)
+if(x!==v.a){if(x===B.kO||x===B.ia){new A.ah(A.d("soon",!0),B.k,B.l,B.aD,w.d).L()
+return}if(x===B.fS){v.sj(0,B.kP)
+v.D()}else if(x===B.mv){v.sj(0,B.mw)
+v.D()}else if(x===B.ia){v.sj(0,B.mx)
 v.D()}else{v.sj(0,x)
 v.D()}J.aJ(A.ai("workerHelper.37",0),new C.bHD(w.a,v),y.y)}},
 $S:2}
@@ -211,8 +211,8 @@ $1(d){return this.aNj(d)},
 aNj(d){var x=0,w=A.j(y.H),v=this,u,t,s
 var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:s=v.a
-A.H([B.fs,3,B.hF,1,B.id,1,B.fr,1,B.jB,1,B.zi,1,B.mR,1],y.a,y.S).p(0,new C.cbR(s))
-u=$.bx()
+A.H([B.fs,3,B.hF,1,B.id,1,B.fr,1,B.jB,1,B.zi,1,B.mP,1],y.a,y.S).p(0,new C.cbR(s))
+u=$.by()
 t=s.b
 t.toString
 u.zd(t,s.a,B.hF,1,!0)
@@ -223,7 +223,7 @@ return A.h(null,w)}})
 return A.i($async$$1,w)},
 $S:30}
 C.cbR.prototype={
-$2(d,e){var x=$.bx(),w=this.a,v=w.b
+$2(d,e){var x=$.by(),w=this.a,v=w.b
 v.toString
 x.afA(v,w.a,d,e)},
 $S:270}
@@ -242,13 +242,13 @@ t=A.d("MessagesBalanceExplain",!0)
 t=E.dT($.d3v(),q,q,q,t,new A.dY(),!0,q,q,q,q,q)
 s=A.d("messageSettings",!0)
 r=this.b
-return A.dK(u,q,I.hG(A.a([new C.am6(q),t,E.dT($.d38(),q,q,q,s,new A.dY(),!0,q,q,q,q,q),r.bDR(),r.bWz(d)],y.p),B.b4,q,x,!1),q,q,!1,q,q,23,!1,!1,w,!0)},
+return A.dK(u,q,I.hx(A.a([new C.am6(q),t,E.dT($.d38(),q,q,q,s,new A.dY(),!0,q,q,q,q,q),r.bDR(),r.bWz(d)],y.p),B.aZ,q,x,!1),q,q,!1,q,q,23,!1,!1,w,!0)},
 $S:97}
 C.cbU.prototype={
 $0(){var x=0,w=A.j(y.P),v=this,u
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:u=$.bx()
-if(B.mR===u.b){u.c.i(0,B.mR,0)
+while(true)switch(x){case 0:u=$.by()
+if(B.mP===u.b){u.c.i(0,B.mP,0)
 u.a=!0
 A.Q(v.a,!1).W(null)
 A.bU(B.at)
@@ -263,8 +263,8 @@ A.aQ(b.typeUniverse,JSON.parse('{"am6":{"z":[],"l":[]},"ay7":{"z":[],"l":[]},"LE
 var y=(function rtii(){var x=A.u
 return{D:x("hJ<k8>"),M:x("G<k8>"),p:x("G<l>"),P:x("aw"),J:x("ob"),a:x("hk"),X:x("X<k8>"),K:x("P<k8>"),C:x("jE"),y:x("I"),S:x("C"),H:x("~")}})();(function constants(){D.aN2=new A.y(10,20,10,20)
 D.aNM=new A.y(0.5,0.5,0.5,0.5)
-D.zg=new A.hJ([B.kO,B.kN,B.d0,B.fS],y.D)
-D.Fz=new A.hJ([B.mx,B.yC,B.my],y.D)
-D.FA=new A.hJ([B.ia,B.yD,B.mz],y.D)})()};
+D.zg=new A.hJ([B.kP,B.kO,B.d0,B.fS],y.D)
+D.Fz=new A.hJ([B.mv,B.yC,B.mw],y.D)
+D.FA=new A.hJ([B.ia,B.yD,B.mx],y.D)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_577",e:"endPart",h:b})})($__dart_deferred_initializers__,"MEJGSs5Gi3kjGiqfOQUdRrNfdm4=");
+a.eventLog.push({p:"main.dart.js_577",e:"endPart",h:b})})($__dart_deferred_initializers__,"Cw9Cbq7RsujHriowvcSIkgk2+TM=");

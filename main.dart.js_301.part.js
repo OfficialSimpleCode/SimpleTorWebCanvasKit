@@ -136,7 +136,7 @@ u=t.a.e
 return A.bA(s,A.ak(s,A.M(A.a([w,v,new B.aF8(t.gH3(),u,t.a.d,s),new B.ap_(t.gH3(),t.a.f.c,s),new B.amc(t.gH3().a,t.a.e,s),new B.ZO(t.gH3(),s)],y.u),C.e,C.w,C.d),C.j,x.ax.cy,s,s,s,s,s,s,s,s,s,s),C.t,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new B.cms(d),s,s,s,s,s,s,s,s,!1,C.G)},
 btL(){var x=null,w=this.a,v=J.ab(w.d.a,w.c)
 if(v==null||!v.z)return new A.m(x,x,x,x)
-return new A.a8(C.b2,A.ac(A.a([new A.bh(D.aPD,17,!1,0.7,!1,!1,!1,x,x),new A.m(5,x,x,x),A.D(A.d("addedManually",!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14,x,"")],y.u),C.e,C.w,C.d,x),x)},
+return new A.a8(C.b3,A.ac(A.a([new A.bh(D.aPD,17,!1,0.7,!1,!1,!1,x,x),new A.m(5,x,x,x),A.D(A.d("addedManually",!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14,x,"")],y.u),C.e,C.w,C.d,x),x)},
 bv4(){var x,w=null,v=this.a,u=J.ab(v.d.a,v.c)
 if(u==null)return new A.m(w,w,w,w)
 v=A.d(u.Q===C.ae?"clientAtFemail":"clientAtMail",!1)
@@ -159,7 +159,7 @@ t=y.u
 s=A.b5(A.M(A.a([A.D(x.x,p,!1,!1,p,!1,!1,p,!1,!1,!0,1,p,!1,18,p,""),A.D(A.d("duration",!0)+": "+A.hn(A.Y(0,0,0,0,x.at,0),-1),p,!1,!1,p,!1,!1,p,!1,!1,!0,1,p,!1,14,p,"")],t),C.af,C.h,C.d),3)
 r=A.ak(p,p,C.j,p,p,new A.c7(A.T(C.f.a8(127.5),158,158,158),p,p,A.cU(new A.ax(99,99)),p,p,p,C.a1),p,40,p,new A.y(1,0,1,0),p,p,p,1)
 q=x.b
-q=A.ac(A.a([s,new A.a8(C.b2,r,p),A.b5(A.M(A.a([A.ac(A.a([new A.bh(K.cQ,20,!1,1,!1,!0,!1,p,p),new A.m(3,p,p,p),A.b5(A.D(A.v("dd-MM-yy",p).t(q),p,!1,!1,p,!1,!1,p,!1,!1,!0,1,C.a4,!1,14,p,""),1)],t),C.e,C.h,C.d,p),new A.m(p,3,p,p),A.ac(A.a([new A.bh(L.dZ,20,!1,1,!1,!0,!1,p,p),new A.m(3,p,p,p),A.b5(A.D(A.v("HH:mm",p).t(q),p,!1,!1,p,!1,!1,p,!1,!1,!0,1,p,!1,14,p,""),1)],t),C.e,C.h,C.d,p)],t),C.af,C.h,C.d),2)],t),C.e,C.h,C.d,p)
+q=A.ac(A.a([s,new A.a8(C.b3,r,p),A.b5(A.M(A.a([A.ac(A.a([new A.bh(K.cQ,20,!1,1,!1,!0,!1,p,p),new A.m(3,p,p,p),A.b5(A.D(A.v("dd-MM-yy",p).t(q),p,!1,!1,p,!1,!1,p,!1,!1,!0,1,C.a4,!1,14,p,""),1)],t),C.e,C.h,C.d,p),new A.m(p,3,p,p),A.ac(A.a([new A.bh(L.dZ,20,!1,1,!1,!0,!1,p,p),new A.m(3,p,p,p),A.b5(A.D(A.v("HH:mm",p).t(q),p,!1,!1,p,!1,!1,p,!1,!1,!0,1,p,!1,14,p,""),1)],t),C.e,C.h,C.d,p)],t),C.af,C.h,C.d),2)],t),C.e,C.h,C.d,p)
 s=x.cy
 n=s.length>0&&n.h(0,s[0])!=null?A.D(A.d("to",!0)+": "+n.h(0,x.cy[0]).b,p,!1,!1,p,!1,!1,p,!1,!1,!0,0.7,p,!1,14,p,""):new A.m(p,p,p,p)
 return A.al(p,p,p,A.M(A.a([u,new A.m(p,10,p,p),q,n],t),C.e,C.h,C.d),w,p,0,!1,p,p,p,p,new A.y(0,10,0,0),!1,p,p,new A.y(10,10,10,10),10,p,!1,!1,!1,v*0.95)}}
@@ -191,7 +191,7 @@ q=s.d=A.dB(new A.cN(new A.df(u,C.aL,C.aw),$.an()),r,r,r,r,r,r,E.aiC(),r,r,r,r,r,
 n(d){var x=this,w=null,v=x.gbL_(),u=x.a.c.a,t=y.u
 return A.b5(A.ac(A.a([new A.vn(new B.csF(x),w),new A.m(5,w,w,w),A.b5(A.M(A.a([v,new A.a8(D.aNv,x.aOK(d,u,u.Q),w)],t),C.af,C.h,C.d),1)],t),C.e,C.h,C.d,w),1)},
 aOK(d,e,f){var x,w,v=null
-switch(e.vK($.ch().a.x2.b.b,$.V().d.c).a){case 0:x=A.d(f===C.ae?"regularClientGirlFemale":"regularClient",!1)
+switch(e.vJ($.ch().a.x2.b.b,$.V().d.c).a){case 0:x=A.d(f===C.ae?"regularClientGirlFemale":"regularClient",!1)
 w=C.c6
 break
 case 1:x=A.d(f===C.ae?"returnedClientFemale":"returnedClient",!1)
@@ -232,7 +232,7 @@ v=u.a.c.a.f
 s=u.e=A.dB(new A.cN(new A.df(v,C.aL,C.aw),$.an()),t,t,t,t,t,t,t,t,x,t,t,t,new B.clC(u),t,t,t,!1,t,t,!0,new A.a8(F.BU,w,t),!1,!1,!0,!1,t,t,C.ar)}return s},
 n(d){var x,w,v,u,t,s,r=this,q=null,p="noBookings",o="dd/MM/yy",n=A.q(d).ax,m=n.y
 n=m==null?n.f:m
-m=$.bP()
+m=$.bN()
 x=$.aj()
 w=r.a.c.a
 v=A.D(A.d("FirstBooking",!0),q,!1,!1,q,!1,!1,q,!1,!1,!0,1,q,!1,14,q,"")
@@ -272,7 +272,7 @@ var $async$P0=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:t=A.D(A.d("ConfirmDeleteCustomerData",!1),C.m,!1,!1,null,!1,!1,null,!1,!1,!1,1,null,!1,16,null,"")
 s=v.c
 x=4
-return A.c(A.jX(null,A.M(A.a([t,s.a.ch.a>1?new A.a8(C.b2,A.D(A.d("allCustomersWillDeleted",!1),C.m,!1,!1,null,!1,!1,null,!1,!1,!1,1,null,!1,14,null,""),null):new A.m(null,null,null,null)],y.u),C.e,C.h,C.d),d,null,new B.c32(d),new B.c33(d),!0,null),$async$P0)
+return A.c(A.jX(null,A.M(A.a([t,s.a.ch.a>1?new A.a8(C.b3,A.D(A.d("allCustomersWillDeleted",!1),C.m,!1,!1,null,!1,!1,null,!1,!1,!1,1,null,!1,14,null,""),null):new A.m(null,null,null,null)],y.u),C.e,C.h,C.d),d,null,new B.c32(d),new B.c33(d),!0,null),$async$P0)
 case 4:x=f===!0?2:3
 break
 case 2:u=A.a([],y.d)
@@ -431,4 +431,4 @@ D.aNv=new A.y(28,0,28,0)
 D.aNJ=new A.y(8,20,8,20)
 D.aPD=new A.b_(58516,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_301",e:"endPart",h:b})})($__dart_deferred_initializers__,"lm/GCYj7odKwOVTUET5lHafuxrM=");
+a.eventLog.push({p:"main.dart.js_301",e:"endPart",h:b})})($__dart_deferred_initializers__,"lAv9cZWcsEdK5ie2m7n8pgIVUC8=");

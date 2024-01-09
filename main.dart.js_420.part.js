@@ -14,10 +14,10 @@ B=c[2]
 C=a.updateHolder(c[257],C)
 C.aqM.prototype={
 n(d){var x=this,w=null,v=x.d,u=x.e,t=y.a
-return A.du(A.M(A.a([new A.m(u,v,new A.bO(B.a2,w,B.R,B.y,A.a([new A.lp(new A.lw(A.q(d).ax.c,B.cB),A.fg("assets/box.webp",w,w,v,w,w,u),w),new A.bX(B.bt,w,w,A.D(x.c,B.m,!1,!1,w,!1,!1,w,!1,!1,!1,1,w,!1,x.f,w,""),w)],t),w),w)],t),B.e,B.w,B.d),w,B.t,w,w,w,w,B.H)}}
+return A.du(A.M(A.a([new A.m(u,v,new A.bP(B.a2,w,B.R,B.y,A.a([new A.lp(new A.lw(A.q(d).ax.c,B.cB),A.fg("assets/box.webp",w,w,v,w,w,u),w),new A.bX(B.bt,w,w,A.D(x.c,B.m,!1,!1,w,!1,!1,w,!1,!1,!1,1,w,!1,x.f,w,""),w)],t),w),w)],t),B.e,B.w,B.d),w,B.t,w,w,w,w,B.H)}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
 x(C.aqM,A.z)})()
 A.aQ(b.typeUniverse,JSON.parse('{"aqM":{"z":[],"l":[]}}'))
 var y={a:A.u("G<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_420",e:"endPart",h:b})})($__dart_deferred_initializers__,"b28DYuxOqexma/PXdV1dF9DU04k=");
+a.eventLog.push({p:"main.dart.js_420",e:"endPart",h:b})})($__dart_deferred_initializers__,"irFullDj5xpNqj7S5T3/XzKdCHA=");

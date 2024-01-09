@@ -47,7 +47,7 @@ A=c[0]
 C=c[2]
 D=c[296]
 E=c[314]
-F=c[285]
+F=c[287]
 G=c[12]
 H=c[319]
 I=c[208]
@@ -82,7 +82,7 @@ k=I.P8(A.d("addStory",!0),"assets/animations/story.json.zip",C.be,new B.cAZ(d),l
 p=m.e
 o=A.dB(m.d,l,l,l,l,A.d("myWorks",!0),l,A.dhV(),l,l,l,l,l,l,l,l,l,!0,l,l,!1,l,!1,!1,!0,!0,A.br(C.bf,l,l,l,l),l,C.ar)
 n=$.hr()
-r=F.hG(A.a([new A.m(l,20,l,l),x,A.M(A.a([A.al(l,l,l,A.M(A.a([A.M(A.a([new A.m(l,10,l,l),A.D(A.d("storyTitle",!0),l,!1,!1,l,!1,!1,l,!1,!0,!1,1,l,!1,15,l,""),new A.a8(L.Kg,o,l)],r),C.e,C.h,C.d),A.c_(l,0,1),K.d52(p,A.d("storyViewExplain",!0))],r),C.e,C.h,C.d),l,l,0,!1,l,l,l,l,l,!1,l,l,l,15,l,!1,!1,!1,n)],r),C.e,C.h,C.d),new A.m(l,20,l,l),new A.a7N(w,new A.y(0,0,0,13),l),A.bE(new A.X(p,new B.cB_(k,m,v,u,w,t),l,l,y.D),l,l)],r),C.b4,l,s,!1)
+r=F.hx(A.a([new A.m(l,20,l,l),x,A.M(A.a([A.al(l,l,l,A.M(A.a([A.M(A.a([new A.m(l,10,l,l),A.D(A.d("storyTitle",!0),l,!1,!1,l,!1,!1,l,!1,!0,!1,1,l,!1,15,l,""),new A.a8(L.Kg,o,l)],r),C.e,C.h,C.d),A.c_(l,0,1),K.d52(p,A.d("storyViewExplain",!0))],r),C.e,C.h,C.d),l,l,0,!1,l,l,l,l,l,!1,l,l,l,15,l,!1,!1,!1,n)],r),C.e,C.h,C.d),new A.m(l,20,l,l),new A.a7N(w,new A.y(0,0,0,13),l),A.bE(new A.X(p,new B.cB_(k,m,v,u,w,t),l,l,y.D),l,l)],r),C.aZ,l,s,!1)
 k=r}return A.dK(q,l,A.bA(C.aY,k,C.t,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new B.cB0(d),l,l,l,l,l,l,l,l,!1,C.G),l,l,!1,l,l,23,!1,!1,s,!0)},
 Qm(d){var x,w,v,u,t,s=null,r=$.L()
 if(!C.b.u(r.db,C.cs))return new A.m(s,s,s,s)
@@ -159,4 +159,4 @@ A.aQ(b.typeUniverse,JSON.parse('{"EX":{"a1":[],"l":[]},"aUr":{"aa":["EX"]}}'))
 var y=(function rtii(){var x=A.u
 return{O:x("n1"),o:x("G<xw>"),p:x("G<l>"),f:x("a3<n,n>"),C:x("j2"),N:x("n"),D:x("X<k_>"),l:x("P<k_>"),P:x("P<a3<n,a3<n,n>>>"),J:x("fa"),y:x("I"),S:x("C")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_585",e:"endPart",h:b})})($__dart_deferred_initializers__,"+nyJI9daGSS0tQ0XWUalKsztvfw=");
+a.eventLog.push({p:"main.dart.js_585",e:"endPart",h:b})})($__dart_deferred_initializers__,"9CDCN8jd9d2x4nPdAjnXKuU4Tiw=");

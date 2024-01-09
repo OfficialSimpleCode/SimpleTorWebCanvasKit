@@ -157,8 +157,8 @@ r=Q.wz(20,r,"",r)
 x=v.f
 w=A.D(A.d(x?"noClientWaitingOnMutli":"noClientsMultiExplain",!0),B.m,!1,!1,u,!1,!1,u,!1,!1,!1,0.7,u,!1,19,u,"")
 if(!x){x=A.q(d)
-x=new A.a8(B.nJ,A.al(u,u,u,new C.Xh(v.d,A.cY(A.ac(A.a([new A.bh(D.bR,28,!1,1,!0,!1,!1,u,u),new A.m(5,u,u,u),A.D(A.d("addClients",!0),u,!1,!1,u,!1,!1,u,!0,!1,!1,1,u,!1,16,u,"")],y.p),B.e,B.w,B.d,u),B.a5),v.r,v.e,u),x.ax.f,u,0,!1,u,u,u,u,u,!1,u,u,new A.y(17,4,17,4),u,u,!1,!1,!1,u),u)}else x=new A.m(u,u,u,u)
-return new A.a8(U.rh,new A.bX(B.bt,u,u,A.du(A.M(A.a([t,r,new A.m(s*0.7,u,w,u),x,new A.m(u,$.bP()*0.06,u,u)],y.p),B.e,B.w,B.d),u,B.t,u,u,u,u,B.H),u),u)}}
+x=new A.a8(B.nI,A.al(u,u,u,new C.Xh(v.d,A.d_(A.ac(A.a([new A.bh(D.bR,28,!1,1,!0,!1,!1,u,u),new A.m(5,u,u,u),A.D(A.d("addClients",!0),u,!1,!1,u,!1,!1,u,!0,!1,!1,1,u,!1,16,u,"")],y.p),B.e,B.w,B.d,u),B.a5),v.r,v.e,u),x.ax.f,u,0,!1,u,u,u,u,u,!1,u,u,new A.y(17,4,17,4),u,u,!1,!1,!1,u),u)}else x=new A.m(u,u,u,u)
+return new A.a8(U.rh,new A.bX(B.bt,u,u,A.du(A.M(A.a([t,r,new A.m(s*0.7,u,w,u),x,new A.m(u,$.bN()*0.06,u,u)],y.p),B.e,B.w,B.d),u,B.t,u,u,u,u,B.H),u),u)}}
 C.axs.prototype={
 n(d){var x,w,v,u,t,s,r,q,p,o,n,m,l=this,k=null,j=l.c,i=j.a.dx.h(0,l.d)
 if(i==null)return new A.m(k,k,k,k)
@@ -199,10 +199,10 @@ j=A.ac(A.a([r,new A.m(5,k,k,k),o,new A.m(10,k,k,k),q,j,L.cX],m),B.e,B.h,B.d,k)
 r=y.x
 q=A.cx(d,B.aA,r).f3()?2:k
 r=!A.cx(d,B.aA,r).f3()?2:k
-return A.M(A.a([A.al(k,k,u,A.mz(new A.a8(new A.y(10,10,10,10),new A.bO(B.a2,k,B.R,B.y,A.a([j,A.cy(k,A.al(k,k,k,k,l.a6A(i.r),k,0,!1,k,8,k,k,k,!1,k,k,k,k,k,!1,!1,!1,8),k,k,r,q,2,k)],m),k),k),k,!1,!1,new C.bEj(l,d),k),v.ax.cy,k,0,!1,k,k,k,k,new A.y(0,7,0,7),!1,k,k,k,10,k,!1,!1,!1,s)],m),B.e,B.h,B.d)},
+return A.M(A.a([A.al(k,k,u,A.mz(new A.a8(new A.y(10,10,10,10),new A.bP(B.a2,k,B.R,B.y,A.a([j,A.cy(k,A.al(k,k,k,k,l.a6A(i.r),k,0,!1,k,8,k,k,k,!1,k,k,k,k,k,!1,!1,!1,8),k,k,r,q,2,k)],m),k),k),k,!1,!1,new C.bEj(l,d),k),v.ax.cy,k,0,!1,k,k,k,k,new A.y(0,7,0,7),!1,k,k,k,10,k,!1,!1,!1,s)],m),B.e,B.h,B.d)},
 a6A(d){var x,w=this.e.x2,v=w.a.h(0,d)
 if(v==null)return B.A
-x=v.vK(w.b.b,$.ch().a.d)
+x=v.vJ(w.b.b,$.ch().a.d)
 w=$.X5().h(0,x)
 return w==null?B.cR:w}}
 C.Ly.prototype={
@@ -225,7 +225,7 @@ return null},
 $S:0}
 C.b1M.prototype={
 $1(d){var x=this.a
-J.by(x.a,d.r,d)
+J.bx(x.a,d.r,d)
 x.D()},
 $S:437}
 C.b1L.prototype={
@@ -286,7 +286,7 @@ w=p.Q
 if(w&&!n.a.gh9()){v=A.d("showToNewUsers",!1)
 m=A.al(q,q,q,V.dbl(n,!1,!1,new A.y(16,12,16,12),A.d("showWaitingListToNewClients",!1),v,p.f),q,q,0,!1,q,q,q,q,new A.y(10,5,10,5),!1,q,q,q,q,q,!1,!1,!1,m)}else m=new A.m(q,q,q,q)
 v=w?A.c_(q,q,0.8):new A.m(q,q,q,q)
-t=A.b5(new A.a8(B.b2,W.a6H(q,q,q,s,!1,!0),q),1)
+t=A.b5(new A.a8(B.b3,W.a6H(q,q,q,s,!1,!0),q),1)
 p=P.Sq(A.M(A.a([m,v,new A.a8(B.k8,A.ac(A.a([t,w?new A.m(q,q,q,q):new C.Xh(p.f,A.br(D.bR,q,q,q,q),n,p.z,q)],u),B.e,B.h,B.d,q),q),p.bIU(0,s,r)],u),B.e,B.h,B.d),!1,60,r)}return A.M(A.a([o,new A.m(q,5,q,q),A.b5(p,1)],u),B.e,B.h,B.d)},
 $S:1357}
 C.c8Y.prototype={
@@ -294,7 +294,7 @@ $3(d,e,f){var x=null,w=A.p(y.N,y.z),v=this.a,u=this.b,t=v.c.a
 if(v.Q)t.dy.p(0,new C.c8V(u,w))
 else t.dx.p(0,new C.c8W(u,w))
 u=w.a
-return A.b5(A.M(A.a([new A.a8(B.b2,A.D(u===1?A.d("oneClient",!1):""+u+" "+A.d("clients",!1),x,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,15,x,""),x),A.b5(A.jd(x,B.y,this.c,new C.c8X(v,w),w.a,x,x,B.aT,x,x,x,!1,B.H,!0),1)],y.p),B.e,B.h,B.d),1)},
+return A.b5(A.M(A.a([new A.a8(B.b3,A.D(u===1?A.d("oneClient",!1):""+u+" "+A.d("clients",!1),x,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,15,x,""),x),A.b5(A.jd(x,B.y,this.c,new C.c8X(v,w),w.a,x,x,B.aT,x,x,x,!1,B.H,!0),1)],y.p),B.e,B.h,B.d),1)},
 $S:1358}
 C.c8V.prototype={
 $2(d,e){var x=e.a,w=this.a.a
@@ -318,4 +318,4 @@ A.aQ(b.typeUniverse,JSON.parse('{"Xh":{"z":[],"l":[]},"aqK":{"z":[],"l":[]},"axs
 var y=(function rtii(){var x=A.u
 return{x:x("kP"),b:x("ag<dP?>"),p:x("G<l>"),O:x("mH"),Y:x("fu"),N:x("n"),f:x("X<dP>"),B:x("X<n>"),c:x("P<a3<n,fu>>"),q:x("P<n>"),y:x("I"),z:x("@"),u:x("dP?"),d:x("I?"),H:x("~")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_538",e:"endPart",h:b})})($__dart_deferred_initializers__,"HgOnBHTrvBy0d/GxN6L+KVHHc3Y=");
+a.eventLog.push({p:"main.dart.js_538",e:"endPart",h:b})})($__dart_deferred_initializers__,"MKzb7jONhG0sOow1UnElEo/lqVE=");

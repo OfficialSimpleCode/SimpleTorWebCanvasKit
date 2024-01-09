@@ -15,7 +15,7 @@ ci_:function ci_(d){this.a=d},
 ci0:function ci0(d){this.a=d}},D
 A=c[0]
 C=c[2]
-E=c[285]
+E=c[287]
 F=c[240]
 G=c[253]
 B=a.updateHolder(c[121],B)
@@ -32,10 +32,10 @@ B.ci2.prototype={
 $1(d){return this.aNs(d)},
 aNs(d){var x=0,w=A.j(y.f),v=this,u,t
 var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:u=$.bx()
+while(true)switch(x){case 0:u=$.by()
 t=v.a.d
 t.toString
-u.uO(t,C.fr,2)
+u.wO(t,C.fr,2)
 return A.h(null,w)}})
 return A.i($async$$1,w)},
 $S:30}
@@ -46,7 +46,7 @@ x=this.b
 w=$.V().gbs()
 v=A.d("clientsMessage",!0)
 v=G.qo(s,w>1,s,s,d,s,s,s,A.d("clientMessagesExplanation",!0),!1,s,32,v)
-w=$.bx().ch
+w=$.by().ch
 u=w.h(0,"onOrder")
 u.toString
 u=D.awS("messageWhenOrder","bookingOrderedContentMessage",s,new B.ci_(d),s,!0,u,C.bp,"clientMessageOnOrderShowcase")
@@ -55,12 +55,12 @@ t.toString
 t=D.awS("messageWhileUpdate","bookingUpdateDateContentMessage",s,s,s,!1,t,C.bp,"clientMessageOnUpdateShowcase")
 w=w.h(0,"onDelete")
 w.toString
-return A.dK(v,s,E.hG(A.a([u,t,D.awS("messageWhileCanceletion","bookingCanceledContentMessage",new B.ci0(d),s,s,!1,w,C.c9,"clientMessageOnDeleteShowcase"),new A.m(s,30,s,s)],y.e),C.b4,s,x,!1),s,s,!1,s,s,23,!1,!1,x,!0)},
+return A.dK(v,s,E.hx(A.a([u,t,D.awS("messageWhileCanceletion","bookingCanceledContentMessage",new B.ci0(d),s,s,!1,w,C.c9,"clientMessageOnDeleteShowcase"),new A.m(s,30,s,s)],y.e),C.aZ,s,x,!1),s,s,!1,s,s,23,!1,!1,x,!0)},
 $S:97}
 B.ci_.prototype={
 $0(){var x=0,w=A.j(y.p),v=this,u,t
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:t=$.bx()
+while(true)switch(x){case 0:t=$.by()
 if(C.fr===t.b){t.c.i(0,C.fr,1)
 t.a=!0
 u=v.a
@@ -72,7 +72,7 @@ $S:1}
 B.ci0.prototype={
 $0(){var x=0,w=A.j(y.p),v=this
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:$.bx().kW(v.a)
+while(true)switch(x){case 0:$.by().kW(v.a)
 return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
@@ -83,4 +83,4 @@ w(A.b4,[B.ci_,B.ci0])})()
 A.aQ(b.typeUniverse,JSON.parse('{"BB":{"a1":[],"l":[]},"aKl":{"aa":["BB"]}}'))
 var y={e:A.u("G<l>"),p:A.u("aw"),j:A.u("jE"),f:A.u("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_574",e:"endPart",h:b})})($__dart_deferred_initializers__,"eQ1IyY/5I2ImsXC/6Pzn0IXiWSI=");
+a.eventLog.push({p:"main.dart.js_574",e:"endPart",h:b})})($__dart_deferred_initializers__,"XgrYZMkD2yppdmxmYbE1QSvKmeQ=");

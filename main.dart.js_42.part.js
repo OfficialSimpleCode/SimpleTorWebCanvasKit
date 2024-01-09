@@ -1,7 +1,7 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_42",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={Zg:function Zg(){},rP:function rP(d,e){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={Zg:function Zg(){},rQ:function rQ(d,e){this.a=d
 this.b=e},Ox:function Ox(d,e){this.a=d
 this.b=e},Zh:function Zh(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v){var _=this
 _.c=d
@@ -70,7 +70,7 @@ F=c[499]
 G=c[351]
 H=c[500]
 C.Zg.prototype={}
-C.rP.prototype={
+C.rQ.prototype={
 R(){return"CardType."+this.b}}
 C.Ox.prototype={}
 C.Zh.prototype={
@@ -132,7 +132,7 @@ else v=s
 m=y.p
 v=A.b5(A.ak(k,A.ac(A.a([n,A.b5(A.ak(k,new A.a8(G.fF,A.aC(v,k,1,k,k,k,u,k,k,k,k),k),B.j,B.u,k,k,k,k,k,k,k,k,k,k),3)],m),B.e,B.h,B.d,k),B.j,k,k,k,k,k,k,D.K7,k,k,k,k),2)
 n=l.al5(l.a.id)
-return new A.bO(B.a2,k,B.R,B.y,A.a([x,l.aq0(new E.Nm(C.d5M(r,t,k,k,A.M(A.a([o,v,A.b5(new A.bX(B.jI,k,k,new A.a8(D.Ke,n,k),k),2)],m),B.af,B.jn,B.d),k,k,p,q),w,k,k))],m),k)},
+return new A.bP(B.a2,k,B.R,B.y,A.a([x,l.aq0(new E.Nm(C.d5M(r,t,k,k,A.M(A.a([o,v,A.b5(new A.bX(B.jI,k,k,new A.a8(D.Ke,n,k),k),2)],m),B.af,B.jn,B.d),k,k,p,q),w,k,k))],m),k)},
 azk(d){this.a2(new C.cj3(this,d))},
 b3C(){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="flutter_credit_card",f=i.c
 f.toString
@@ -243,13 +243,13 @@ s=x?-1.5707963267948966:1.5707963267948966
 r=y.Q
 q=y.S
 p=y.i
-s=A.TG(A.a([new A.iA(new A.dQ(new A.fl(B.P),new A.bg(0,w,v),u),50,t),new A.iA(new A.rR(s,s,r),50,t)],q),p)
+s=A.TG(A.a([new A.iA(new A.dQ(new A.fl(B.P),new A.bg(0,w,v),u),50,t),new A.iA(new A.rS(s,s,r),50,t)],q),p)
 w=o.d
 w===$&&A.b()
 o.e=new A.aW(w,s,s.$ti.k("aW<b8.T>"))
 w=x?1.5707963267948966:-1.5707963267948966
 s=x?-1.5707963267948966:1.5707963267948966
-p=A.TG(A.a([new A.iA(new A.rR(w,w,r),50,t),new A.iA(new A.dQ(new A.fl(B.P),new A.bg(s,0,v),u),50,t)],q),p)
+p=A.TG(A.a([new A.iA(new A.rS(w,w,r),50,t),new A.iA(new A.dQ(new A.fl(B.P),new A.bg(s,0,v),u),50,t)],q),p)
 o.f=new A.aW(o.d,p,p.$ti.k("aW<b8.T>"))},
 $S:0}
 C.cj4.prototype={
@@ -267,18 +267,18 @@ if(u.length!==0)u=A.d6z(B.aas,new A.Pg(u,1,r,r),r)
 else u=r
 t=x.w
 s=x.x
-if(this.b===B.kR)q=(t-w*2)*0.5714
+if(this.b===B.kS)q=(t-w*2)*0.5714
 else q=q.a.b/2
 s=A.kq(25)
 q=A.a([A.ak(r,A.iq(s,A.ak(r,x.e,B.j,r,r,r,r,r,r,r,r,r,r,r),B.y),B.j,r,r,new A.c7(r,u,x.z,v,r,x.f,r,B.a1),r,q,r,new A.y(w,w,w,w),r,r,r,t)],y.p)
-return new A.bO(B.v,r,B.R,B.y,q,r)},
+return new A.bP(B.v,r,B.R,B.y,q,r)},
 $S:410}
 C.bb9.prototype={
 $1(d){},
 $S:z+1};(function aliases(){var x=C.ag3.prototype
 x.aZN=x.q})();(function inheritance(){var x=a.mixinHard,w=a.inheritMany,v=a.inherit
 w(A.af,[C.Zg,C.Ox])
-v(C.rP,A.eU)
+v(C.rQ,A.eU)
 v(C.Zh,A.a1)
 v(C.ag3,A.aa)
 v(C.aKS,C.ag3)
@@ -290,27 +290,27 @@ v(C.coB,A.nS)
 x(C.ag3,A.eS)})()
 A.aQ(b.typeUniverse,JSON.parse('{"Zh":{"a1":[],"l":[]},"aKS":{"aa":["Zh"]},"alK":{"z":[],"l":[]},"cow":{"z":[],"l":[]},"coB":{"bc":[]},"YL":{"z":[],"l":[]}}'))
 var y=(function rtii(){var x=A.u
-return{R:x("rP"),Q:x("rR<a4>"),O:x("G<k>"),m:x("G<Ox>"),s:x("G<n>"),S:x("G<iA<a4>>"),p:x("G<l>"),n:x("G<a4>"),a:x("R<n>"),w:x("l2"),V:x("bW<R<n>>"),E:x("iA<a4>"),t:x("bg<a4>"),i:x("a4")}})();(function constants(){var x=a.makeConstList
+return{R:x("rQ"),Q:x("rS<a4>"),O:x("G<k>"),m:x("G<Ox>"),s:x("G<n>"),S:x("G<iA<a4>>"),p:x("G<l>"),n:x("G<a4>"),a:x("R<n>"),w:x("l2"),V:x("bW<R<n>>"),E:x("iA<a4>"),t:x("bg<a4>"),i:x("a4")}})();(function constants(){var x=a.makeConstList
 D.yY=new A.ax(10,10)
 D.aa_=new A.eg(D.yY,D.yY,D.yY,D.yY)
 D.aap=new A.c7(null,null,null,D.aa_,null,null,null,B.a1)
-D.qJ=new C.rP(1,"mastercard")
-D.Ia=new C.rP(2,"visa")
-D.Ib=new C.rP(3,"rupay")
-D.Ic=new C.rP(4,"americanExpress")
-D.Id=new C.rP(5,"unionpay")
-D.Ie=new C.rP(6,"discover")
-D.If=new C.rP(7,"elo")
-D.Ig=new C.rP(8,"hipercard")
+D.qJ=new C.rQ(1,"mastercard")
+D.Ia=new C.rQ(2,"visa")
+D.Ib=new C.rQ(3,"rupay")
+D.Ic=new C.rQ(4,"americanExpress")
+D.Id=new C.rQ(5,"unionpay")
+D.Ie=new C.rQ(6,"discover")
+D.If=new C.rQ(7,"elo")
+D.Ig=new C.rQ(8,"hipercard")
 D.K7=new A.y(0,16,0,0)
 D.aMO=new A.y(0,16,16,0)
 D.BZ=new A.y(16,0,0,0)
 D.Ke=new A.y(16,0,16,16)
 D.aYc=A.a(x([0.06,0.95,1]),y.n)
 D.aZ_=A.a(x([0.1,0.4,0.7,0.9]),y.n)
-D.b2r=new A.bf([D.Ia,"icons/visa.png",D.Ib,"icons/rupay.png",D.Ic,"icons/amex.png",D.qJ,"icons/mastercard.png",D.Id,"icons/unionpay.png",D.Ie,"icons/discover.png",D.If,"icons/elo.png",D.Ig,"icons/hipercard.png"],A.u("bf<rP,n>"))
+D.b2r=new A.bf([D.Ia,"icons/visa.png",D.Ib,"icons/rupay.png",D.Ic,"icons/amex.png",D.qJ,"icons/mastercard.png",D.Id,"icons/unionpay.png",D.Ie,"icons/discover.png",D.If,"icons/elo.png",D.Ig,"icons/hipercard.png"],A.u("bf<rQ,n>"))
 D.b9_=new A.m(5,null,null,null)
 D.b91=new A.m(null,10,null,null)
 D.bbn=new A.aq(!0,B.F,null,"packages/flutter_credit_card/halter",null,"flutter_credit_card",16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_42",e:"endPart",h:b})})($__dart_deferred_initializers__,"ySofIuVT+fCQGrnRa27KRJxvggo=");
+a.eventLog.push({p:"main.dart.js_42",e:"endPart",h:b})})($__dart_deferred_initializers__,"wLGHaQemfHv58Ov8nSfCQ2+TgO4=");

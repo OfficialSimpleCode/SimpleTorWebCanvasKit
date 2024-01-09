@@ -13,7 +13,7 @@ B.alu.prototype={
 n(d){var w=null
 return new A.a8(D.aNf,A.ac(A.a([A.c5(!1,w,w,E.CH,!0,!1,w,w,w,!0,new B.b9U(),!1,w,w,w,w,w,w,w),A.c5(!1,w,w,D.aP5,!0,!1,w,w,w,!0,new B.b9V(),!1,w,w,w,w,w,w,w),A.c5(!1,w,w,C.rH,!0,!1,w,w,w,!0,new B.b9W(d),!1,w,w,w,w,w,w,w),A.c5(!1,w,w,C.hW,!0,!1,w,w,w,!0,new B.b9X(),!1,w,w,w,w,w,w,w)],x.e),C.e,C.dR,C.d,w),w)}}
 B.aEg.prototype={
-n(d){var w=null,v=A.q(d),u=$.nO(),t=$.bP(),s=A.c_(w,w,w),r=$.aj(),q=x.e
+n(d){var w=null,v=A.q(d),u=$.nO(),t=$.bN(),s=A.c_(w,w,w),r=$.aj(),q=x.e
 return A.ak(w,A.M(A.a([new B.alu(w),s,A.b5(A.ak(w,A.M(A.a([A.b5(new A.a8(D.aMD,new A.hb("assets/animations/cuntact_us_animation.json.zip",w,w,C.be,w),w),1),A.d4(A.D(A.d("SupportDscription",!0),C.m,!1,!1,w,!1,!1,w,!1,!0,!1,1,w,!1,20,w,""),0.6)],q),C.e,C.h,C.d),C.j,w,w,w,w,w,w,w,new A.y(0,0,0,20),w,w,r*0.85),1)],q),C.e,C.ap,C.d),C.j,v.ax.cy,w,w,w,t*0.7,w,w,new A.y(0,0,0,30),w,w,u)}}
 var z=a.updateTypes([])
 B.b9U.prototype={
@@ -40,6 +40,6 @@ A.aQ(b.typeUniverse,JSON.parse('{"alu":{"z":[],"l":[]},"aEg":{"z":[],"l":[]}}'))
 var y={c:"https://officialsimplecode.github.io/SimpleCodeWeb/"}
 var x={e:A.u("G<l>"),h:A.u("aw")};(function constants(){D.aMD=new A.y(0,0,0,40)
 D.aNf=new A.y(15,7,15,7)
-D.aP5=new A.t9(61612,"FontAwesomeSolid","font_awesome_flutter",!1)})()};
+D.aP5=new A.ta(61612,"FontAwesomeSolid","font_awesome_flutter",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_517",e:"endPart",h:b})})($__dart_deferred_initializers__,"IPa4rPnHMFlN+bsHrY8KCSjzadc=");
+a.eventLog.push({p:"main.dart.js_517",e:"endPart",h:b})})($__dart_deferred_initializers__,"lYwx/bG9B1teviBcpDU9Q/w5IPk=");

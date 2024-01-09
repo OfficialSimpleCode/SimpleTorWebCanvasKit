@@ -305,7 +305,7 @@ var $async$AF=A.e(function(g,h){if(g===1)return A.f(h,w)
 while(true)switch(x){case 0:x=3
 return A.c($.cUH().qF(C.EX),$async$AF)
 case 3:u=h
-x=u===C.kS?4:6
+x=u===C.kT?4:6
 break
 case 4:x=7
 return A.c(A.aZK(A.d("needToAllowContactInSettings",!0),d),$async$AF)
@@ -334,7 +334,7 @@ B.aq6.prototype={
 n(d){var x=this,w=null,v=x.d.x2.a,u=A.K(v).k("aK<1>")
 x.bOX(d,A.cV(new A.aK(v,u),u.k("U.E")))
 u=A.q(d)
-v=$.bP()
+v=$.bN()
 return A.bA(w,A.ak(w,new A.X(x.e,new B.bhM(x),w,w,y.Y),C.j,u.ax.cy,w,w,w,v*0.85,w,w,w,w,w,w),C.t,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new B.bhN(d),w,w,w,w,w,w,w,w,!1,C.G)},
 afO(){var x=null
 if(this.y==null)return new A.m(x,x,x,x)
@@ -346,7 +346,7 @@ a_(){return new B.aKw(new A.P("",$.an(),y.J),C.o)}}
 B.aKw.prototype={
 n(d){var x=null,w=$.aj(),v=N.a6H(x,x,x,this.d,!1,!0),u=this.a,t=u.e,s=u.f
 if(J.ee(u.c)){u=$.aj()*0.05
-u=new A.a8(new A.y(u,0,u,0),A.M(A.a([new A.bh(D.aQ3,75,!0,1,!1,!1,!1,x,x),new A.m(x,7,x,x),A.D(A.d("noContactFound",!1),C.m,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,30,x,""),new A.m(x,$.bP()*0.2,x,x)],y.p),C.e,C.w,C.d),x)}else u=this.bIY()
+u=new A.a8(new A.y(u,0,u,0),A.M(A.a([new A.bh(D.aQ3,75,!0,1,!1,!1,!1,x,x),new A.m(x,7,x,x),A.D(A.d("noContactFound",!1),C.m,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,30,x,""),new A.m(x,$.bN()*0.2,x,x)],y.p),C.e,C.w,C.d),x)}else u=this.bIY()
 return A.M(A.a([new A.m(x,10,x,x),new A.m(w*0.9,x,v,x),new B.aC5(t,s,new A.dd("SelectedContactsList",y.X)),A.b5(u,1)],y.p),C.e,C.h,C.d)},
 bIY(){return new A.X(this.d,new B.ciT(this),null,null,y.B)},
 bIW(d,e){var x,w,v,u=null
@@ -361,7 +361,7 @@ w=A.q(w).ax
 v=w.y
 w=v==null?w.f:v
 v=$.aj()
-return M.cZg(A.bE(A.cY(A.al(u,u,u,A.jd(u,C.y,u,new B.ciQ(this,d),d.length,u,u,C.b4,C.N,u,!1,!1,C.H,!0),w,u,0,!1,u,u,u,u,new A.y(0,0,0,10),!1,u,u,u,15,u,!1,!1,!1,v*0.9),C.a5),u,u),x)},
+return M.cZg(A.bE(A.d_(A.al(u,u,u,A.jd(u,C.y,u,new B.ciQ(this,d),d.length,u,u,C.aZ,C.N,u,!1,!1,C.H,!0),w,u,0,!1,u,u,u,u,new A.y(0,0,0,10),!1,u,u,u,15,u,!1,!1,!1,v*0.9),C.a5),u,u),x)},
 bE0(d){var x=A.a([],y.F)
 J.ap(this.a.c,new B.ciO(this,d,x))
 return x},
@@ -525,7 +525,7 @@ C.b.p(u.bE0(e),new B.ciR(t))
 x=t.$ti.k("aK<1>")
 w=A.am(new A.aK(t,x),!0,x.k("U.E"))
 C.b.iI(w)
-return A.jd(v,C.y,v,new B.ciS(u,t,w),w.length,v,v,C.b4,new A.y(0,0,0,30),v,v,!1,C.H,!0)},
+return A.jd(v,C.y,v,new B.ciS(u,t,w),w.length,v,v,C.aZ,new A.y(0,0,0,30),v,v,!1,C.H,!0)},
 $S:245}
 B.ciR.prototype={
 $1(d){var x,w,v=d.b
@@ -579,7 +579,7 @@ $2(d,e){var x,w,v=null,u=this.a,t=this.b,s=t.b
 s=A.D(s===""?t.a:s,v,!1,!1,v,!1,!1,v,!1,!0,!1,1,v,!1,15,v,"")
 x=A.es("",40,t.Q===C.ae?"assets/woman_profile.webp":"assets/man_profile.webp",!1)
 w=A.q(d).ax.f
-return A.m0(!1,v,!0,I.aus(!1,v,v,v,!0,v,!1,x,v,v,!1,v,v,v,v,v,s,A.d6(A.br(K.Mx,A.T(204,w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255),v,v,v),u,0.5),v),v,!0,v,v,v,v,v,v,v,v,v,v,v,u,v,v,v,v,v,v,v)},
+return A.m_(!1,v,!0,I.aus(!1,v,v,v,!0,v,!1,x,v,v,!1,v,v,v,v,v,s,A.d6(A.br(K.Mx,A.T(204,w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255),v,v,v),u,0.5),v),v,!0,v,v,v,v,v,v,v,v,v,v,v,u,v,v,v,v,v,v,v)},
 $S:1129}
 B.coq.prototype={
 $1(d){var x,w,v,u,t=d.at[0].b
@@ -592,7 +592,7 @@ t=this.a
 v=t.a.d.a
 u=d.b
 u.toString
-J.by(v,x,A.n4(!0,0,x,w,null,t.d,!1,null,"",x,null,u))}},
+J.bx(v,x,A.n4(!0,0,x,w,null,t.d,!1,null,"",x,null,u))}},
 $S:z+0}
 B.cou.prototype={
 $0(){},
@@ -608,7 +608,7 @@ else x=A.ak(C.d6,A.iq(A.cU(new A.ax(500,500)),new A.wQ(A.bTz(u,u,new A.uT(s,1)),
 w=t.b
 if(w==null)w=""
 v=y.p
-return A.ak(C.v,new A.bO(C.a2,u,C.R,C.y,A.a([A.du(A.M(A.a([x,new A.m(u,5,u,u),A.aC(w,u,u,C.a4,u,u,A.q(d).p3.z.fF(10),C.m,u,u,u)],v),C.e,C.h,C.d),u,C.t,u,u,u,u,C.H),A.cy(u,this.a.bQY(d,t),u,u,u,u,u,u)],v),u),C.j,u,u,u,u,u,u,u,new A.y(5,0,5,0),u,u,80)},
+return A.ak(C.v,new A.bP(C.a2,u,C.R,C.y,A.a([A.du(A.M(A.a([x,new A.m(u,5,u,u),A.aC(w,u,u,C.a4,u,u,A.q(d).p3.z.fF(10),C.m,u,u,u)],v),C.e,C.h,C.d),u,C.t,u,u,u,u,C.H),A.cy(u,this.a.bQY(d,t),u,u,u,u,u,u)],v),u),C.j,u,u,u,u,u,u,u,new A.y(5,0,5,0),u,u,80)},
 $S:43}
 B.bVK.prototype={
 $0(){var x=this.a.c
@@ -689,4 +689,4 @@ D.a9g=new B.Ni(3,"other")
 D.aQ3=new A.b_(61975,"MaterialIcons",null,!1)
 D.b31=new A.i3("github.com/clovisnicolas/flutter_contacts",C.bh,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_281",e:"endPart",h:b})})($__dart_deferred_initializers__,"E9519maPo9coKSntgIoWECURSbo=");
+a.eventLog.push({p:"main.dart.js_281",e:"endPart",h:b})})($__dart_deferred_initializers__,"teVGIpS+lGQGxE7E8AAHpVJCkEg=");
