@@ -2,8 +2,8 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_210",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,G,H,B={
-dsq(d,e){return new B.amC(d,e,null)},
-amC:function amC(d,e,f){this.c=d
+dsq(d,e){return new B.amD(d,e,null)},
+amD:function amD(d,e,f){this.c=d
 this.d=e
 this.a=f},
 bdL:function bdL(d,e,f,g){var _=this
@@ -37,7 +37,7 @@ N=c[343]
 O=c[306]
 D=c[338]
 P=c[249]
-B.amC.prototype={
+B.amD.prototype={
 n(d){var x,w,v,u,t,s,r,q=this,p=null,o=new A.P(A.as(y.j),$.an(),y.o),n=y.e,m=A.a([],n)
 C.b.p(E.aXq,new B.bdL(q,m,d,o))
 x=A.q(d)
@@ -88,14 +88,14 @@ if(!v)J.dm(u,w)
 else J.f4(u,w)
 x.D()},
 $S:45};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.amC,A.A)
+x(B.amD,A.A)
 w(A.b4,[B.bdL,B.bdQ,B.bdO])
 w(A.b8,[B.bdN,B.bdM,B.bdP])})()
-A.aW(b.typeUniverse,JSON.parse('{"amC":{"A":[],"l":[]}}'))
+A.aW(b.typeUniverse,JSON.parse('{"amD":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),j:A.v("lZ"),m:A.v("X<bW<lZ>>"),o:A.v("P<bW<lZ>>")};(function constants(){var x=a.makeConstList
 E.aXq=A.a(x([D.oA,D.yf,D.oB,D.oC,D.oD,F.mm]),A.v("G<lZ>"))
 E.b7Z=new A.hJ([D.oA,D.oB,D.oC,D.oD],A.v("hJ<lZ>"))})();(function lazyInitializers(){var x=a.lazy
 x($,"e2g","d3t",()=>A.H([D.oA,"workTime",D.yf,"treatments",D.oB,"notifications",D.oC,"workSettings",D.oD,"scheduleSettings",F.mm,"clients"],y.j,A.v("n")))
 x($,"e2f","doB",()=>A.H([D.oA,G.dZ,D.yf,K.lK,D.oB,L.iK,D.oC,M.Ms,D.oD,N.iL,F.mm,O.hg],y.j,A.v("b_")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_210",e:"endPart",h:b})})($__dart_deferred_initializers__,"8gtZ1PXWUxPL8mfNoucCTmtHAmQ=");
+a.eventLog.push({p:"main.dart.js_210",e:"endPart",h:b})})($__dart_deferred_initializers__,"b9ybDPyrwWLbQ1wXopORfB1HIGM=");

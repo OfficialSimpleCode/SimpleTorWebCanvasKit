@@ -64,7 +64,7 @@ case 18:w=j===!0?16:17
 break
 case 16:t=A.Q(d,!1)
 w=19
-return A.c(A.bB(y.c,d,C.I,B.air(e.a,f,!1),A.d("bookingSplitedSuccessfully",!0),t,!0,!1,!0,!0,C.K).bc(),$async$G7)
+return A.c(A.bB(y.c,d,C.I,B.ais(e.a,f,!1),A.d("bookingSplitedSuccessfully",!0),t,!0,!1,!0,!0,C.K).bc(),$async$G7)
 case 19:u=j
 w=1
 break
@@ -97,9 +97,9 @@ w=1
 break
 case 1:return A.h(u,v)}})
 return A.i($async$cSY,v)},
-air(d,e,f){return B.dPH(d,e,f)},
+ais(d,e,f){return B.dPH(d,e,f)},
 dPH(d,e,f){var w=0,v=A.j(x.e),u,t,s,r,q,p,o,n,m
-var $async$air=A.e(function(g,h){if(g===1)return A.f(h,v)
+var $async$ais=A.e(function(g,h){if(g===1)return A.f(h,v)
 while(true)switch(w){case 0:p={}
 o=A.iF(d)
 n=x.w
@@ -120,20 +120,20 @@ w=1
 break}q=$.V()
 q.b=!1
 w=3
-return A.c(A.ai("booking_helper",0),$async$air)
+return A.c(A.ai("booking_helper",0),$async$ais)
 case 3:A.ae("booking_helper")
 w=4
-return A.c(D.fp().aCP(d,r,f),$async$air)
+return A.c(D.fp().aCP(d,r,f),$async$ais)
 case 4:A.ae("booking_helper")
 p=D.fp().aAa(o,r,!0,!0,f)
 A.ae("booking_helper")
 w=5
-return A.c(A.cd(A.a([p,D.fp().aAa(t,r,!0,!0,f)],x.t),x.b),$async$air)
+return A.c(A.cd(A.a([p,D.fp().aAa(t,r,!0,!0,f)],x.t),x.b),$async$ais)
 case 5:u=q.b=!0
 w=1
 break
 case 1:return A.h(u,v)}})
-return A.i($async$air,v)},
+return A.i($async$ais,v)},
 cKs:function cKs(d,e,f,g){var _=this
 _.a=d
 _.b=e
@@ -207,4 +207,4 @@ v(A.b8,[B.cKq,B.cKr,B.cSZ,B.cT_])})()
 var y={c:"assets/animations/success_animation.json.zip"}
 var x={t:A.v("G<af<@>>"),E:A.v("ag"),w:A.v("n"),q:A.v("f0"),e:A.v("I"),b:A.v("@"),h:A.v("I?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_525",e:"endPart",h:b})})($__dart_deferred_initializers__,"wNX72SdmlXYw9DptZKW64XzCX3M=");
+a.eventLog.push({p:"main.dart.js_525",e:"endPart",h:b})})($__dart_deferred_initializers__,"LkZRkP7Z1QgcX1vTcrN+pVxn1Kw=");

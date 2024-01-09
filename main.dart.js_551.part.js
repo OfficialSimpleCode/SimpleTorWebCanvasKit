@@ -2,8 +2,8 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_551",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-dw8(){return new B.at_(null)},
-at_:function at_(d){this.a=d},
+dw8(){return new B.at0(null)},
+at0:function at0(d){this.a=d},
 brM:function brM(d){this.a=d},
 brN:function brN(d){this.a=d},
 brL:function brL(d){this.a=d}},D
@@ -12,7 +12,7 @@ C=c[2]
 E=c[356]
 B=a.updateHolder(c[69],B)
 D=c[355]
-B.at_.prototype={
+B.at0.prototype={
 n(d){var x=null
 return A.bE(A.M(A.a([new A.m(x,10,x,x),new A.m($.aj()*0.8,x,A.D(A.d("guides",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,19,x,""),x),new A.m(x,8,x,x),new A.m($.aj()*0.7,x,A.D(A.d("guidesExplain",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14,x,""),x),new A.m(x,15,x,x),new A.hb("assets/animations/guide.json.zip",$.aj(),$.bN()*0.3,x,x),new A.m(x,20,x,x),this.bVU(d),this.bWA(d),this.bKd(d),new A.m(x,30,x,x)],y.a),C.e,C.h,C.d),x,x)},
 bVU(d){var x,w=null,v=$.V().r.b6$
@@ -46,10 +46,10 @@ B.brL.prototype={
 $0(){A.Q(this.a,!1).W(null)
 $.by().Ko()},
 $S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.at_,A.A)
+x(B.at0,A.A)
 w(A.b8,[B.brM,B.brN,B.brL])})()
-A.aW(b.typeUniverse,JSON.parse('{"at_":{"A":[],"l":[]}}'))
+A.aW(b.typeUniverse,JSON.parse('{"at0":{"A":[],"l":[]}}'))
 var y={a:A.v("G<l>")};(function constants(){D.aQ_=new A.b_(60903,"MaterialIcons",null,!1)
 D.aQd=new A.b_(63646,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_551",e:"endPart",h:b})})($__dart_deferred_initializers__,"ql/95scEd/dmx4/t6UTna/YU/pY=");
+a.eventLog.push({p:"main.dart.js_551",e:"endPart",h:b})})($__dart_deferred_initializers__,"F90ux7K+UbPkhxVYFxqfdArk+h0=");

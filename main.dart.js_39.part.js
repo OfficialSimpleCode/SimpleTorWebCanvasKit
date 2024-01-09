@@ -1,7 +1,7 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_39",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={as_:function as_(d,e){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={as0:function as0(d,e){this.a=d
 this.b=e},Nk:function Nk(d,e,f,g){var _=this
 _.c=d
 _.d=e
@@ -11,7 +11,7 @@ B=c[0]
 D=c[2]
 A=a.updateHolder(c[172],A)
 C=c[484]
-A.as_.prototype={
+A.as0.prototype={
 R(){return"FlipDirection."+this.b}}
 A.Nk.prototype={
 n(d){var y=this.d
@@ -49,9 +49,9 @@ n[11]=q*o+p*w}else{n=x.b
 x=x.a
 m.aIf(n.au(0,x.gj(x)))}return B.rl(D.v,e,null,m,!0)},
 $S:416};(function inheritance(){var y=a.inherit
-y(A.as_,B.f2)
+y(A.as0,B.f2)
 y(A.Nk,B.A)
 y(A.b2N,B.bJ)})()
-B.aW(b.typeUniverse,JSON.parse('{"Nk":{"A":[],"l":[]}}'));(function constants(){C.aOw=new A.as_(0,"VERTICAL")})()};
+B.aW(b.typeUniverse,JSON.parse('{"Nk":{"A":[],"l":[]}}'));(function constants(){C.aOw=new A.as0(0,"VERTICAL")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_39",e:"endPart",h:b})})($__dart_deferred_initializers__,"uwQq9SdtxdbauSvhGflU9K3yGdU=");
+a.eventLog.push({p:"main.dart.js_39",e:"endPart",h:b})})($__dart_deferred_initializers__,"f7lWSVJWm7pOicmauikwZUZsIqo=");

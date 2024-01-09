@@ -47,10 +47,10 @@ w=A.ht(!1,s,!0,!1,!1,!0,!1,14,A.d("bookingsWillUpdatedFromNowOn",!0))
 u=$.by().ay
 t=u.h(0,"reminder")
 t.toString
-t=D.awR("alertToCustomersAboutComing","alertBookingTemplate",new B.bcj(x),new B.bck(d),C.cr,!0,t,C.bp,"reminderShowcase")
+t=D.awS("alertToCustomersAboutComing","alertBookingTemplate",new B.bcj(x),new B.bck(d),C.cr,!0,t,C.bp,"reminderShowcase")
 u=u.h(0,"approvalArrivalReminder")
 u.toString
-return A.dK(v,s,A.hx(A.a([new A.m(s,24,s,s),w,t,D.awR("needConfirmationTitle","needConfirmBookingMessageFormat",new B.bcl(d),s,C.dm,!1,u,C.c9,"approvalArrivalReminderShowcase"),new A.m(s,30,s,s)],y.e),C.aZ,s,x,!1),s,s,!1,s,s,23,!1,!1,x,!0)},
+return A.dK(v,s,A.hx(A.a([new A.m(s,24,s,s),w,t,D.awS("needConfirmationTitle","needConfirmBookingMessageFormat",new B.bcl(d),s,C.dm,!1,u,C.c9,"approvalArrivalReminderShowcase"),new A.m(s,30,s,s)],y.e),C.aZ,s,x,!1),s,s,!1,s,s,23,!1,!1,x,!0)},
 $S:102}
 B.bcj.prototype={
 $0(){var x=0,w=A.j(y.p),v=this,u
@@ -86,4 +86,4 @@ w(A.b8,[B.bcj,B.bck,B.bcl])})()
 A.aW(b.typeUniverse,JSON.parse('{"H8":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),p:A.v("ax"),j:A.v("jE"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_534",e:"endPart",h:b})})($__dart_deferred_initializers__,"LCCkJOTn1BIG9kr1V3jnwVEJazk=");
+a.eventLog.push({p:"main.dart.js_534",e:"endPart",h:b})})($__dart_deferred_initializers__,"gXviQjx1PaUJhAKIGjgJIMJQluc=");

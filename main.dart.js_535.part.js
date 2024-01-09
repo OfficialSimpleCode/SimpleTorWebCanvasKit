@@ -1,7 +1,7 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_535",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,H,I,K,E,L,G,C={am5:function am5(d){this.a=d},ay6:function ay6(d,e){this.c=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,H,I,K,E,L,G,C={am6:function am6(d){this.a=d},ay7:function ay7(d,e){this.c=d
 this.a=e},bHB:function bHB(d){this.a=d},bHC:function bHC(d,e,f){this.a=d
 this.b=e
 this.c=f},bHx:function bHx(d,e,f,g){var _=this
@@ -45,15 +45,15 @@ G=c[448]
 C=a.updateHolder(c[122],C)
 D=c[447]
 F=c[449]
-C.am5.prototype={
+C.am6.prototype={
 n(d){var x,w,v,u=null
 if($.V().gbs()===0)return new A.m(u,u,u,u)
 x=$.by().CW.h(0,"messagesTypes")
 w=$.bq()
 v=$.L().as.h(0,w.b.a)
 v.toString
-return E.dS(L.fh,u,A.M(A.a([new A.a8(D.aN2,new C.ay6(v,u),u)],y.p),B.e,B.h,B.d),u,"",u,!0,u,u,x,B.bp,"messagesTypesShowcase")}}
-C.ay6.prototype={
+return E.dS(L.fh,u,A.M(A.a([new A.a8(D.aN2,new C.ay7(v,u),u)],y.p),B.e,B.h,B.d),u,"",u,!0,u,u,x,B.bp,"messagesTypesShowcase")}}
+C.ay7.prototype={
 n(d){var x={},w=new A.P(this.c.M.z,$.an(),y.K)
 x.a=!0
 $.b2.ac$.push(new C.bHB(x))
@@ -241,7 +241,7 @@ t=A.d("MessagesBalanceExplain",!0)
 t=E.dS($.d3v(),q,q,q,t,new A.dY(),!0,q,q,q,q,q)
 s=A.d("messageSettings",!0)
 r=this.b
-return A.dK(u,q,A.hx(A.a([new C.am5(q),t,E.dS($.d38(),q,q,q,s,new A.dY(),!0,q,q,q,q,q),r.bDR(),r.bWz(d)],y.p),B.aZ,q,x,!1),q,q,!1,q,q,23,!1,!1,w,!0)},
+return A.dK(u,q,A.hx(A.a([new C.am6(q),t,E.dS($.d38(),q,q,q,s,new A.dY(),!0,q,q,q,q,q),r.bDR(),r.bWz(d)],y.p),B.aZ,q,x,!1),q,q,!1,q,q,23,!1,!1,w,!0)},
 $S:102}
 C.cbU.prototype={
 $0(){var x=0,w=A.j(y.P),v=this,u
@@ -254,11 +254,11 @@ A.bU(B.at)
 A.ct(null,null)}return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.A,[C.am5,C.ay6,C.LC])
+x(A.A,[C.am6,C.ay7,C.LC])
 x(A.b4,[C.bHB,C.bHC,C.bHx,C.bHy,C.bHz,C.bHA,C.bHD,C.cbS,C.cbT])
 x(A.b8,[C.bHE,C.cbU])
 w(C.cbR,A.bJ)})()
-A.aW(b.typeUniverse,JSON.parse('{"am5":{"A":[],"l":[]},"ay6":{"A":[],"l":[]},"LC":{"A":[],"l":[]}}'))
+A.aW(b.typeUniverse,JSON.parse('{"am6":{"A":[],"l":[]},"ay7":{"A":[],"l":[]},"LC":{"A":[],"l":[]}}'))
 var y=(function rtii(){var x=A.v
 return{D:x("hJ<k7>"),M:x("G<k7>"),p:x("G<l>"),P:x("ax"),J:x("o9"),a:x("hk"),X:x("X<k7>"),K:x("P<k7>"),C:x("jE"),y:x("I"),S:x("C"),H:x("~")}})();(function constants(){D.aN2=new A.y(10,20,10,20)
 D.aNM=new A.y(0.5,0.5,0.5,0.5)
@@ -266,4 +266,4 @@ D.zg=new A.hJ([B.kP,B.kO,B.d0,B.fS],y.D)
 D.Fz=new A.hJ([B.mv,B.yC,B.mw],y.D)
 D.FA=new A.hJ([B.ia,B.yD,B.mx],y.D)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_535",e:"endPart",h:b})})($__dart_deferred_initializers__,"Zmcr56kg4NGxYqYmZ/iCRZkn31E=");
+a.eventLog.push({p:"main.dart.js_535",e:"endPart",h:b})})($__dart_deferred_initializers__,"fQrfNH8kL7zrBjSZXVLt4VHXNwA=");

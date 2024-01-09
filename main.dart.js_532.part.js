@@ -4,7 +4,7 @@ a[b][c].push({p:"main.dart.js_532",e:"beginPart"})})(self,"$__dart_deferred_init
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,B={
 drW(){return new B.BB(null)},
 BB:function BB(d){this.a=d},
-aKk:function aKk(d){var _=this
+aKl:function aKl(d){var _=this
 _.a=_.d=null
 _.b=d
 _.c=null},
@@ -20,8 +20,8 @@ F=c[242]
 B=a.updateHolder(c[120],B)
 D=c[151]
 B.BB.prototype={
-a_(){return new B.aKk(C.o)}}
-B.aKk.prototype={
+a_(){return new B.aKl(C.o)}}
+B.aKl.prototype={
 an(){this.aC()
 $.b2.ac$.push(new B.ci2(this))},
 n(d){A.bR(d,!0,y.j)
@@ -48,13 +48,13 @@ v=F.qm(s,w>1,s,s,d,s,s,s,A.d("clientMessagesExplanation",!0),!1,s,32,v)
 w=$.by().ch
 u=w.h(0,"onOrder")
 u.toString
-u=D.awR("messageWhenOrder","bookingOrderedContentMessage",s,new B.ci_(d),s,!0,u,C.bp,"clientMessageOnOrderShowcase")
+u=D.awS("messageWhenOrder","bookingOrderedContentMessage",s,new B.ci_(d),s,!0,u,C.bp,"clientMessageOnOrderShowcase")
 t=w.h(0,"onUpdate")
 t.toString
-t=D.awR("messageWhileUpdate","bookingUpdateDateContentMessage",s,s,s,!1,t,C.bp,"clientMessageOnUpdateShowcase")
+t=D.awS("messageWhileUpdate","bookingUpdateDateContentMessage",s,s,s,!1,t,C.bp,"clientMessageOnUpdateShowcase")
 w=w.h(0,"onDelete")
 w.toString
-return A.dK(v,s,A.hx(A.a([u,t,D.awR("messageWhileCanceletion","bookingCanceledContentMessage",new B.ci0(d),s,s,!1,w,C.c9,"clientMessageOnDeleteShowcase"),new A.m(s,30,s,s)],y.e),C.aZ,s,x,!1),s,s,!1,s,s,23,!1,!1,x,!0)},
+return A.dK(v,s,A.hx(A.a([u,t,D.awS("messageWhileCanceletion","bookingCanceledContentMessage",new B.ci0(d),s,s,!1,w,C.c9,"clientMessageOnDeleteShowcase"),new A.m(s,30,s,s)],y.e),C.aZ,s,x,!1),s,s,!1,s,s,23,!1,!1,x,!0)},
 $S:102}
 B.ci_.prototype={
 $0(){var x=0,w=A.j(y.p),v=this,u,t
@@ -76,10 +76,10 @@ return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.BB,A.a2)
-x(B.aKk,A.ab)
+x(B.aKl,A.ab)
 w(A.b4,[B.ci2,B.ci1])
 w(A.b8,[B.ci_,B.ci0])})()
-A.aW(b.typeUniverse,JSON.parse('{"BB":{"a2":[],"l":[]},"aKk":{"ab":["BB"]}}'))
+A.aW(b.typeUniverse,JSON.parse('{"BB":{"a2":[],"l":[]},"aKl":{"ab":["BB"]}}'))
 var y={e:A.v("G<l>"),p:A.v("ax"),j:A.v("jE"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_532",e:"endPart",h:b})})($__dart_deferred_initializers__,"DM+aLbUCaYihEWovkUsf2DRfMr4=");
+a.eventLog.push({p:"main.dart.js_532",e:"endPart",h:b})})($__dart_deferred_initializers__,"LrnOt4+Lq8Ehit8rzJHvb88T54I=");

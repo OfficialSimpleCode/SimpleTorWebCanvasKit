@@ -2,8 +2,8 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_418",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,C={
-ds4(d,e){return new C.ame(e,d,null)},
-ame:function ame(d,e,f){this.c=d
+ds4(d,e){return new C.amf(e,d,null)},
+amf:function amf(d,e,f){this.c=d
 this.d=e
 this.a=f},
 bcZ:function bcZ(d){this.a=d},
@@ -19,7 +19,7 @@ J=c[1]
 A=c[0]
 B=c[2]
 C=a.updateHolder(c[56],C)
-C.ame.prototype={
+C.amf.prototype={
 n(d){var x=null,w=$.bN(),v=A.q(d)
 return A.ak(B.v,A.M(A.a([A.D(A.d("chooseColor",!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,19,x,""),new A.m(x,20,x,x),new A.X(this.d,new C.bcZ(this),x,x,y.h)],y.e),B.e,B.h,B.d),B.j,v.ax.cy,x,x,x,w*0.6,x,x,new A.y(5,0,5,0),x,x,x)},
 bxJ(d,e,f){var x,w=null,v=e===this.d.a,u=v?1:0.7
@@ -44,11 +44,11 @@ x.sj(0,this.b)
 x.D()
 A.Q(this.c,!1).W(null)},
 $S:0};(function inheritance(){var x=a.inherit
-x(C.ame,A.A)
+x(C.amf,A.A)
 x(C.bcZ,A.b4)
 x(C.bcY,A.bJ)
 x(C.bd_,A.b8)})()
-A.aW(b.typeUniverse,JSON.parse('{"ame":{"A":[],"l":[]}}'))
+A.aW(b.typeUniverse,JSON.parse('{"amf":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),h:A.v("X<C>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_418",e:"endPart",h:b})})($__dart_deferred_initializers__,"Wwh2aoIiT4JbhuxfeVtlwcXxFrg=");
+a.eventLog.push({p:"main.dart.js_418",e:"endPart",h:b})})($__dart_deferred_initializers__,"qKNNJWoJnaZ6MSMd87LnU1ig1Nc=");
