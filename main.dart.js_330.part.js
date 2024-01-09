@@ -1,14 +1,35 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_330",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-dNS(d){var y=d.length
-if(y<5)return A.d("shortMassage",!0)
-if(y>200)return A.d("toLong",!0)
-return null}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+WG(d){var x=0,w=A.j(y.b),v,u,t,s
+var $async$WG=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:x=3
+return A.c(A.bK(d,A.cd(A.a([A.ai("bankDetaildPage",0),A.ai("mangePayments",0)],y.d),y.b)),$async$WG)
+case 3:u=f
+t=$.L()
+s=t.x
+if(!(A.fT(s.ax,null)!=null&&s.x!=null)&&!t.x.gti()&&$.V().gbs()<2){new A.ah(A.d("noRecipetsAvaliableInThisBusiness",!0),B.k,B.l,B.n,d).L()
+x=1
+break}x=u===!0?4:6
+break
+case 4:A.ae("mangePayments")
+x=7
+return A.c(A.po(d,D.dxt()),$async$WG)
+case 7:v=f
+x=1
+break
+x=5
+break
+case 6:new A.ah(A.d("thereIsProblem",!0),B.k,B.l,B.n,d).L()
+case 5:case 1:return A.h(v,w)}})
+return A.i($async$WG,w)}},D
 A=c[0]
-B=a.updateHolder(c[274],B)
-var z=a.updateTypes(["n?(n?)"]);(function installTearOffs(){var y=a._static_1
-y(B,"cU1","dNS",0)})()};
+B=c[2]
+C=a.updateHolder(c[251],C)
+D=c[83]
+var z=a.updateTypes([])
+A.aW(b.typeUniverse,JSON.parse('{"Fo":{"a2":[],"l":[]}}'))
+var y={d:A.v("G<af<@>>"),b:A.v("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_330",e:"endPart",h:b})})($__dart_deferred_initializers__,"KLk4K50NIkHIS1R9SZAiOVtf85Q=");
+a.eventLog.push({p:"main.dart.js_330",e:"endPart",h:b})})($__dart_deferred_initializers__,"D0D7Wt7Wc6KO0pM/on76RkZVIJU=");

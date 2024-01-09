@@ -1,9 +1,85 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_532",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,B={
+drW(){return new B.BB(null)},
+BB:function BB(d){this.a=d},
+aKk:function aKk(d){var _=this
+_.a=_.d=null
+_.b=d
+_.c=null},
+ci2:function ci2(d){this.a=d},
+ci1:function ci1(d,e){this.a=d
+this.b=e},
+ci_:function ci_(d){this.a=d},
+ci0:function ci0(d){this.a=d}},D
 A=c[0]
-B=c[504]
-var z=a.updateTypes([]);(function constants(){B.Kb=new A.y(10,3,10,3)})()};
+C=c[2]
+E=c[230]
+F=c[242]
+B=a.updateHolder(c[120],B)
+D=c[151]
+B.BB.prototype={
+a_(){return new B.aKk(C.o)}}
+B.aKk.prototype={
+an(){this.aC()
+$.b2.ac$.push(new B.ci2(this))},
+n(d){A.bR(d,!0,y.j)
+return new E.ot(new A.et(new B.ci1(this,A.cL(null,0,!0)),null),null)}}
+var z=a.updateTypes([])
+B.ci2.prototype={
+$1(d){return this.aNs(d)},
+aNs(d){var x=0,w=A.j(y.f),v=this,u,t
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:u=$.by()
+t=v.a.d
+t.toString
+u.wO(t,C.fr,2)
+return A.h(null,w)}})
+return A.i($async$$1,w)},
+$S:30}
+B.ci1.prototype={
+$1(d){var x,w,v,u,t,s=null
+this.a.d=d
+x=this.b
+w=$.V().gbs()
+v=A.d("clientsMessage",!0)
+v=F.qm(s,w>1,s,s,d,s,s,s,A.d("clientMessagesExplanation",!0),!1,s,32,v)
+w=$.by().ch
+u=w.h(0,"onOrder")
+u.toString
+u=D.awR("messageWhenOrder","bookingOrderedContentMessage",s,new B.ci_(d),s,!0,u,C.bp,"clientMessageOnOrderShowcase")
+t=w.h(0,"onUpdate")
+t.toString
+t=D.awR("messageWhileUpdate","bookingUpdateDateContentMessage",s,s,s,!1,t,C.bp,"clientMessageOnUpdateShowcase")
+w=w.h(0,"onDelete")
+w.toString
+return A.dK(v,s,A.hx(A.a([u,t,D.awR("messageWhileCanceletion","bookingCanceledContentMessage",new B.ci0(d),s,s,!1,w,C.c9,"clientMessageOnDeleteShowcase"),new A.m(s,30,s,s)],y.e),C.aZ,s,x,!1),s,s,!1,s,s,23,!1,!1,x,!0)},
+$S:102}
+B.ci_.prototype={
+$0(){var x=0,w=A.j(y.p),v=this,u,t
+var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
+while(true)switch(x){case 0:t=$.by()
+if(C.fr===t.b){t.c.i(0,C.fr,1)
+t.a=!0
+u=v.a
+A.Q(u,!1).W(null)
+A.bU(C.bn)
+A.ct(u,null)}return A.h(null,w)}})
+return A.i($async$$0,w)},
+$S:1}
+B.ci0.prototype={
+$0(){var x=0,w=A.j(y.p),v=this
+var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
+while(true)switch(x){case 0:$.by().kW(v.a)
+return A.h(null,w)}})
+return A.i($async$$0,w)},
+$S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.BB,A.a2)
+x(B.aKk,A.ab)
+w(A.b4,[B.ci2,B.ci1])
+w(A.b8,[B.ci_,B.ci0])})()
+A.aW(b.typeUniverse,JSON.parse('{"BB":{"a2":[],"l":[]},"aKk":{"ab":["BB"]}}'))
+var y={e:A.v("G<l>"),p:A.v("ax"),j:A.v("jE"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_532",e:"endPart",h:b})})($__dart_deferred_initializers__,"9D0F0U/Ft7Tgu7kWJRf5nEhUTxI=");
+a.eventLog.push({p:"main.dart.js_532",e:"endPart",h:b})})($__dart_deferred_initializers__,"DM+aLbUCaYihEWovkUsf2DRfMr4=");
