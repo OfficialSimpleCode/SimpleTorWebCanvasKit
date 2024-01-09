@@ -35,10 +35,10 @@ C=a.updateHolder(c[11],C)
 C.aGv.prototype={
 n(d){var x=null
 $.ec.b=d
-return E.hG(A.a([new C.aG6(x),this.bVU(),this.bKZ(d),new A.m(x,30,x,x)],y.u),B.b4,new A.y(0,0,0,0),x,!1)},
+return E.hG(A.a([new C.aG6(x),this.bVU(),this.bKZ(d),new A.m(x,30,x,x)],y.u),B.b4,new A.y(0,20,0,0),x,!1)},
 bVU(){var x=null,w=$.V().r.b6$
 if(w.gc0(w)==null)return new A.m(x,x,x,x)
-return D.dT($.d3Z(),x,x,x,"",new A.dW(),!0,x,x,x,x,x)},
+return D.dT($.d3Z(),x,x,x,"",new A.dY(),!0,x,x,x,x,x)},
 bKZ(d){var x=null
 return D.dT(A.a([D.cb(!1,!1,F.T,x,x,B.Mw,3,!1,!1,B.Q,"myBookings",!1,!1,x,x,new C.c9Y(d),0,x,!0,!1,x,x,x,!0,!0,x,x,!0,x)],y.j),x,x,x,"",x,!0,x,x,x,x,x)}}
 C.aG6.prototype={
@@ -147,4 +147,4 @@ x(A.b4,[C.c9Y,C.c7J,C.b9E])})()
 A.aQ(b.typeUniverse,JSON.parse('{"aGv":{"z":[],"l":[]},"aG6":{"z":[],"l":[]},"alq":{"z":[],"l":[]}}'))
 var y={j:A.u("G<ob>"),u:A.u("G<l>"),F:A.u("aw"),C:A.u("l8"),z:A.u("jE"),b:A.u("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_618",e:"endPart",h:b})})($__dart_deferred_initializers__,"tUKkwKRBbBDCKLFJlSjG18+Zcyk=");
+a.eventLog.push({p:"main.dart.js_618",e:"endPart",h:b})})($__dart_deferred_initializers__,"EVtGQEVQAPxyulhLfpDojq0ykmE=");

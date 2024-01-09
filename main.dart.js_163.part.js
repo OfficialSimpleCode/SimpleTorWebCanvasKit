@@ -1,1519 +1,507 @@
-self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-cU_(d){return new A.m7(d)},
-cul(d,e,f){return new B.a4w(d,f,!0,e,A.a([],y.d),$.bq())},
-Xy:function Xy(d,e,f,g){var _=this
-_.c=d
-_.r=e
-_.w=f
-_.a=g},
-Xz:function Xz(d,e){var _=this
-_.d=d
-_.a=_.f=_.e=null
-_.b=e
-_.c=null},
-bjQ:function bjQ(){},
-bjR:function bjR(d,e){this.a=d
-this.b=e},
-Pv:function Pv(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u){var _=this
-_.p3=d
-_.cx=e
-_.c=f
-_.d=g
-_.e=h
-_.f=i
-_.r=j
-_.w=k
-_.x=l
-_.y=m
-_.z=n
-_.Q=o
-_.as=p
-_.at=q
-_.ax=r
-_.ay=s
-_.ch=t
-_.a=u},
-aBI:function aBI(d,e,f){this.f=d
-this.b=e
-this.a=f},
-aDv:function aDv(d,e,f,g,h,i,j,k,l){var _=this
-_.r=d
-_.w=e
-_.x=f
-_.a=g
-_.b=h
-_.c=i
-_.d=j
-_.e=k
-_.f=l},
-bV6:function bV6(d,e,f,g,h){var _=this
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_163",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C={ay:function ay(d,e,f,g,h,i){var _=this
 _.a=d
-_.b=e
-_.c=f
-_.d=g
-_.f=_.e=$
-_.r=h
-_.w=null},
-bV9:function bV9(d,e){this.a=d
-this.b=e},
-bV7:function bV7(d,e,f,g,h){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h},
-bVa:function bVa(){},
-bV8:function bV8(d){this.a=d},
-a4w:function a4w(d,e,f,g,h,i){var _=this
-_.z=d
-_.a=e
-_.b=f
-_.c=g
-_.d=h
-_.J$=0
-_.K$=i
-_.a7$=_.a4$=0
-_.a6$=!1},
-bV5:function bV5(d){this.a=d},
-nn:function nn(d,e,f,g,h,i,j){var _=this
-_.k3=d
-_.k4=null
-_.r=e
-_.w=f
-_.x=g
-_.y=h
-_.Q=_.z=null
-_.as=0
-_.ax=_.at=null
-_.ay=!1
-_.ch=!0
-_.CW=!1
-_.cx=null
-_.cy=!1
-_.dx=_.db=null
-_.dy=i
-_.fr=null
-_.J$=0
-_.K$=j
-_.a7$=_.a4$=0
-_.a6$=!1},
-a4v:function a4v(d,e){this.a=d
-this.b=e},
-bV3:function bV3(d,e,f){var _=this
-_.e=d
-_.b=$
 _.c=e
-_.a=f},
-bV4:function bV4(d,e,f,g){var _=this
-_.e=d
-_.f=e
-_.b=$
-_.c=f
-_.a=g},
-as4:function as4(d){var _=this
-_.J$=0
-_.K$=d
-_.a7$=_.a4$=0
-_.a6$=!1},
-anC:function anC(d,e,f,g,h,i,j,k,l,m,n){var _=this
-_.ax=d
-_.e=e
-_.f=f
-_.r=g
-_.w=h
-_.x=i
-_.y=j
-_.z=k
-_.Q=l
-_.c=m
-_.a=n},
-Za:function Za(d,e,f,g,h,i,j,k,l,m,n,o,p,q){var _=this
-_.e4=d
-_.bd=e
-_.bk=f
-_.dh=_.bO=$
-_.eV=!1
-_.E=g
-_.J=h
-_.K=i
-_.a4=j
-_.a7=null
-_.a6=k
-_.bb=l
-_.bc=m
-_.ai$=n
-_.a3$=o
-_.c5$=p
-_.k1=_.id=null
-_.k2=!1
-_.k4=_.k3=null
-_.ok=0
-_.d=!1
-_.f=_.e=null
-_.w=_.r=!1
-_.x=null
-_.y=!1
-_.z=!0
-_.Q=null
-_.as=!1
-_.at=null
-_.ax=!1
-_.ay=$
-_.ch=q
-_.CW=!1
-_.cx=$
-_.cy=!0
-_.db=!1
-_.dx=null
-_.dy=!0
-_.fr=null
-_.a=0
-_.c=_.b=null},
-cIS(d,e){return new B.yQ(e,d,null)},
-yQ:function yQ(d,e,f){this.c=d
-this.d=e
-this.a=f},
-a2F:function a2F(d,e,f,g,h,i,j,k,l,m){var _=this
-_.d=d
-_.e=e
-_.f=f
-_.r=g
-_.w=h
-_.x=i
-_.y=j
-_.z=k
-_.Q=l
-_.a=null
-_.b=m
-_.c=null},
-bPn:function bPn(d){this.a=d},
-bPh:function bPh(d){this.a=d},
-bPg:function bPg(d){this.a=d},
-bPe:function bPe(d,e){this.a=d
-this.b=e},
-bPf:function bPf(d){this.a=d},
-bPq:function bPq(d){this.a=d},
-bPp:function bPp(d,e){this.a=d
-this.b=e},
-bPo:function bPo(d,e){this.a=d
-this.b=e},
-bPm:function bPm(d){this.a=d},
-bPl:function bPl(d,e){this.a=d
-this.b=e},
-bPk:function bPk(d,e,f){this.a=d
-this.b=e
-this.c=f},
-bPj:function bPj(d,e,f,g){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g},
-bPi:function bPi(d,e,f,g,h){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h},
-QI(d,e,f){var x=0,w=A.j(y.H),v,u,t,s
-var $async$QI=A.e(function(g,h){if(g===1)return A.f(h,w)
-while(true)switch(x){case 0:x=2
-return A.c(A.ccI(d,A.ap(A.k("WhereToAddFrom",!0),null,null,null,null,null,null,null,null,null),B.d_H(d)),$async$QI)
-case 2:t=h
-s=J.ih(t)
-x=s.m(t,"contacts")?3:5
-break
-case 3:x=6
-return A.c(G.a9n(d,!1,e),$async$QI)
-case 6:v=h
-x=4
-break
-case 5:x=s.m(t,"manually")?7:9
-break
-case 7:x=10
-return A.c(G.aLJ(d,e),$async$QI)
-case 10:u=h
-v=u instanceof A.dr?A.F([u.c,u],y.N,y.O):null
-x=8
-break
-case 9:v=null
-case 8:case 4:if(y.f.b(v)){J.aH(v,new B.cbW(f))
-f.R()}return A.h(null,w)}})
-return A.i($async$QI,w)},
-d_H(d){var x=null
-return A.a([new A.D1(new B.c8X(d),A.ap(A.k("Contacts",!0),x,x,x,x,x,A.aw(x,x,C.cg,x,x,x,x,x,x,x,x,x,x,x,C.ac,x,x,!0,x,x,x,x,x,x,x,x),x,x,x)),new A.D1(new B.c8Y(d),A.ap(A.k("manually",!0),x,x,x,x,x,A.aw(x,x,C.cg,x,x,x,x,x,x,x,x,x,x,x,C.ac,x,x,!0,x,x,x,x,x,x,x,x),x,x,x))],y.E)},
-cbW:function cbW(d){this.a=d},
-c8X:function c8X(d){this.a=d},
-c8Y:function c8Y(d){this.a=d},
-d2K(d,e,f,g){var x=y.N,w=y.O,v=A.n(x,w),u=A.n(x,w),t=A.n(x,w),s=A.n(x,w)
-J.aH(e,new B.cd5(f,t,u,s,v))
-if(d==="NewToRegular"){t.a0(0,u)
-t.a0(0,s)
-t.a0(0,v)
-return t}else{v.a0(0,s)
-v.a0(0,u)
-v.a0(0,t)
-return v}},
-d2I(d,e,f){var x,w,v,u,t,s=A.a([],y.n),r=J.d3(e)
-r.q(e,new B.cd1(s))
-C.b.ih(s)
-x=A.n(y.S,y.i)
-r.q(e,new B.cd2(s,x))
-w=A.n(y.N,y.O)
-if(d==="maxBookings")for(v=x.a-1;v>=0;--v){r=x.h(0,v)
-r.toString
-r=new A.aN(r,A.C(r).j("aN<1>"))
-u=r.gb5(r)
-if(!u.F())A.z(A.e2())
-r=u.ga1(u)
-t=x.h(0,v)
-t=t.gaf(t)
-w.i(0,r,t.b.$1(J.dl(t.a)))}else for(v=0;v<x.a;++v){r=x.h(0,v)
-r.toString
-r=new A.aN(r,A.C(r).j("aN<1>"))
-u=r.gb5(r)
-if(!u.F())A.z(A.e2())
-r=u.ga1(u)
-t=x.h(0,v)
-t=t.gaf(t)
-w.i(0,r,t.b.$1(J.dl(t.a)))}return w},
-d2J(d){var x,w=J.l4(J.iT(d))
-C.b.dA(w,new B.cd3())
-x=A.n(y.N,y.O)
-C.b.q(w,new B.cd4(x))
-return x},
-cd5:function cd5(d,e,f,g,h){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h},
-cd1:function cd1(d){this.a=d},
-cd2:function cd2(d,e){this.a=d
-this.b=e},
-cd3:function cd3(){},
-cd4:function cd4(d){this.a=d},
-ag1:function ag1(d,e,f,g,h){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.a=h},
-aZn:function aZn(d){this.a=d},
-ag_:function ag_(d,e,f){this.c=d
-this.d=e
-this.a=f},
-Tn:function Tn(d,e,f){this.c=d
-this.d=e
-this.a=f},
-afZ:function afZ(d){var _=this
-_.d=-1
-_.a=null
-_.b=d
-_.c=null},
-aZe:function aZe(d){this.a=d},
-aZd:function aZd(d){this.a=d},
-aZa:function aZa(d,e){this.a=d
-this.b=e},
-aZb:function aZb(d,e,f,g){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g},
-aZc:function aZc(d){this.a=d},
-aZ9:function aZ9(d,e,f){this.a=d
-this.b=e
-this.c=f},
-aZf:function aZf(d,e,f){this.a=d
-this.b=e
-this.c=f},
-ar7:function ar7(d,e){this.c=d
-this.a=e},
-bvp:function bvp(d,e){this.a=d
-this.b=e},
-bvq:function bvq(d){this.a=d},
-bvr:function bvr(d){this.a=d},
-ag0:function ag0(d,e,f,g,h,i,j,k,l,m){var _=this
-_.c=d
-_.e=e
-_.f=f
-_.r=g
-_.w=h
-_.x=i
-_.y=j
-_.z=k
-_.Q=l
-_.a=m},
-aZi:function aZi(d,e){this.a=d
-this.b=e},
-aZh:function aZh(d,e){this.a=d
-this.b=e},
-aZl:function aZl(d){this.a=d},
-aZk:function aZk(d){this.a=d},
-aZj:function aZj(d){this.a=d},
-aZg:function aZg(d){this.a=d},
-aZm:function aZm(d){this.a=d},
-ckN(d,e){var x=A.a([],y.h),w=A.yP(e)
-w.Q=w.z=null
-w.y=0
-w.as=null
-w.at.q(0,new B.cdq(d,x))
-J.be(A.aG("workerHelper.43",0),new B.cdr(w,x),y.v)},
-cdq:function cdq(d,e){this.a=d
-this.b=e},
-cdr:function cdr(d,e){this.a=d
-this.b=e},
-mH:function mH(d,e){this.c=d
-this.a=e},
-S_:function S_(d,e){this.c=d
-this.a=e},
-axN:function axN(d,e){var _=this
-_.d=d
-_.a=null
-_.b=e
-_.c=null},
-bKz:function bKz(d){this.a=d},
-bKx:function bKx(d,e){this.a=d
-this.b=e},
-bKy:function bKy(){},
-a_d:function a_d(d,e){this.c=d
-this.a=e},
-aGF:function aGF(d,e){var _=this
-_.d=d
-_.a=null
-_.b=e
-_.c=null},
-c_V:function c_V(d){this.a=d},
-c_T:function c_T(d,e){this.a=d
-this.b=e},
-c_U:function c_U(){},
-asf:function asf(d,e){this.c=d
-this.a=e},
-bxP:function bxP(d,e){this.a=d
-this.b=e},
-bxO:function bxO(d,e,f,g,h){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h},
-bxQ:function bxQ(d,e){this.a=d
-this.b=e},
-ag2:function ag2(d,e,f,g){var _=this
-_.c=d
-_.e=e
-_.f=f
-_.a=g},
-aZo:function aZo(d,e){this.a=d
-this.b=e},
-aM5(d,e,f,g){var x=0,w=A.j(y.e),v
-var $async$aM5=A.e(function(h,i){if(h===1)return A.f(i,w)
-while(true)switch(x){case 0:x=3
-return A.c(A.dq(d,A.aG("customerDataDetailsSheet",0)),$async$aM5)
-case 3:if(i!==!0){new A.aK(A.k("thereIsProblem",!0),C.o,C.r,d,null).ag()
-v=null
-x=1
-break}A.ay("customerDataDetailsSheet")
-x=4
-return A.c(A.j6(d,!0,N.cJk(e,f,g),1,null).iR(),$async$aM5)
-case 4:v=i
-x=1
-break
-case 1:return A.h(v,w)}})
-return A.i($async$aM5,w)}},C,A,J,D,E,L,M,H,K,I,O,F,P,G,N
-B=a.updateHolder(c[30],B)
-C=c[2]
-A=c[0]
-J=c[1]
-D=c[216]
-E=c[217]
-L=c[130]
-M=c[110]
-H=c[129]
-K=c[120]
-I=c[4]
-O=c[121]
-F=c[92]
-P=c[181]
-G=c[119]
-N=c[62]
-B.Xy.prototype={
-a5(){return new B.Xz(new B.as4($.bq()),C.l)},
-bk8(d,e){return this.r.$2(d,e)},
-gkR(d){return this.w}}
-B.Xz.prototype={
-an(){var x,w,v,u=this
-u.aE()
-x=u.a.c
-w=new B.bV6(u,x,u.gaVt(),!1,C.fb)
-v=x.a
-w.e=B.cul(w,"outer",v)
-w.f=B.cul(w,"inner",0)
-u.e=w},
-d6(){this.eS()
-var x=this.e
-x.toString
-x.b=this.a.c
-x.a9y()},
-b3(d){var x,w
-this.bg(d)
-x=this.a.c
-if(d.c!==x){w=this.e
-w.b=x
-w.a9y()}},
-n(){var x=this.e,w=x.w
-if(w!=null)w.n()
-x.w=null
-w=x.e
-w===$&&A.b()
-w.n()
-x=x.f
-x===$&&A.b()
-x.n()
-this.e=null
-this.aM()},
-aVu(){var x,w=this
-if(w.c==null)return
-x=w.e.garv()
-if(w.f!==x)w.a2(new B.bjQ())},
-p(d){this.a.toString
-return new B.aBI(this,new A.eL(new B.bjR(this,C.j_),null),null)}}
-B.Pv.prototype={
-aok(d,e,f,g){var x=null
-return new B.anC(this.p3,f,x,0,e,x,x,C.kp,this.ch,g,x)}}
-B.aBI.prototype={
-ez(d){return this.f!==d.f}}
-B.aDv.prototype={}
-B.bV6.prototype={
-gda(){var x=this.e
-x===$&&A.b()
-x=x.d
-if(x.length===0)return null
-x=A.dK(x,y.B,y.F)
-return A.C(x).z[1].a(J.aNe(x.a))},
-gbbD(){var x=this.gda()
-if(x==null)return!0
-return x.ay&&Math.max(x.gbq()-x.gfz(),0)===0},
-garv(){var x,w,v,u=this.f
-u===$&&A.b()
-u=A.dK(u.d,y.B,y.F)
-x=J.b6(u.a)
-u=A.C(u)
-u=u.j("@<1>").aI(u.z[1]).z[1]
-for(;x.F();){w=u.a(x.ga1(x))
-v=w.z
-if(!(v!=null&&w.Q!=null)||w.at==null)continue
-else{w=w.at
-w.toString
-v.toString
-if(w>v)return!0}}return!1},
-xg(d){var x,w,v,u,t,s=this
-if(s.r===d)return
-s.r=d
-s.gda().apX(d)
-x=s.f
-x===$&&A.b()
-x=A.dK(x.d,y.B,y.F)
-w=J.b6(x.a)
-x=A.C(x)
-x=x.j("@<1>").aI(x.z[1]).z[1]
-for(;w.F();){v=x.a(w.ga1(w))
-u=v.m3()
-v=v.w.z
-t=$.aW.aC$.z.h(0,v)
-t.toString
-v=$.aW.aC$.z.h(0,v)
-if(v!=null){v=v.c
-if(v!=null)v.jL(new A.a12(d,u,t,0))}}},
-C7(d,e){var x,w,v,u,t,s=this
-s.gda().jJ(d)
-x=d.gnV()
-w=s.f
-w===$&&A.b()
-w=A.dK(w.d,y.B,y.F)
-v=J.b6(w.a)
-w=A.C(w)
-w=w.j("@<1>").aI(w.z[1]).z[1]
-for(;v.F();){u=w.a(v.ga1(v))
-t=e.$1(u)
-u.jJ(t)
-x=x&&t.gnV()}w=s.w
-if(w!=null)w.n()
-s.w=null
-if(!x)s.xg(C.fb)},
-gjk(){return this.gda().w.a.c},
-ix(d){this.C7(this.a52(d),new B.bV9(this,d))},
-a52(d){var x,w,v,u,t,s,r,q,p=this
-if(d!==0){x=p.f
-x===$&&A.b()
-x=A.dK(x.d,y.B,y.F)
-w=J.b6(x.a)
-x=A.C(x)
-x=x.j("@<1>").aI(x.z[1]).z[1]
-v=d>0
-u=null
-for(;w.F();){t=x.a(w.ga1(w))
-if(u!=null)if(v){s=u.at
-s.toString
-r=t.at
-r.toString
-if(s<r)continue}else{s=u.at
-s.toString
-r=t.at
-r.toString
-if(s>r)continue}u=t}}else u=null
-if(u==null){x=p.gda()
-x.toString
-w=p.gda().r
-v=p.gda()
-v.toString
-return x.a4W(w.pS(v,d),D.a12)}q=p.agC(u,d)
-x=p.gda()
-x.toString
-return x.apj(p.gda().r.pS(q,d),q,D.aFy)},
-a50(d,e){return d.a4W(d.r.pS(this.agC(d,e),e),D.aFz)},
-agC(d,e){var x,w,v,u,t,s,r,q,p,o,n,m=this,l=d.at
-l.toString
-x=d.z
-x.toString
-if(l===x){l=m.gda().at
-l.toString
-x=m.gda().z
-x.toString
-w=m.gda().Q
-w.toString
-v=A.ad(l,x,w)
-w=m.gda().z
-w.toString
-x=m.gda().Q
-x.toString
-u=x
-t=w
-s=0
-r=0}else{w=l-x
-if(l<x){l=m.gda().z
-l.toString
-v=w+l}else{l=m.gda().Q
-l.toString
-v=w+l}l=e>0
-if(l){x=d.at
-x.toString
-w=d.z
-w.toString
-w=x>w
-x=w}else x=!1
-if(x){l=m.gda().Q
-l.toString
-x=m.gda().at
-x.toString
-r=l-x
-u=v+r
-x=m.gda().at
-x.toString
-s=x-v
-t=v}else{x=e<0
-if(x){w=d.at
-w.toString
-q=d.z
-q.toString
-q=w<q
-w=q}else w=!1
-if(w){l=m.gda().at
-l.toString
-x=m.gda().z
-x.toString
-r=l-x
-t=v-r
-x=m.gda().at
-x.toString
-s=x-v
-u=v}else{if(l){l=m.gda().z
-l.toString
-x=m.gda().at
-x.toString
-r=l-x}else if(x){l=m.gda().at
-l.toString
-x=m.gda().Q
-x.toString
-w=m.gda().z
-w.toString
-r=l-(x-w)}else r=0
-l=m.gda().z
-l.toString
-x=m.gda().Q
-x.toString
-u=x+r
-t=l
-s=0}}}l=m.gda().z
-l.toString
-x=m.gda().Q
-x.toString
-w=d.Q
-w.toString
-q=d.z
-q.toString
-p=m.gda().ax
-p.toString
-o=m.gda().w.a.c
-n=m.gda()
-return new B.aDv(t,u,s,l,x+w-q+r,v,p,o,n.gq_(n))},
-auV(d,e){var x,w,v=this
-if(e===v.gda()){x=v.gda().z
-x.toString
-w=v.gda().Q
-w.toString
-return A.ad(d,x,w)}x=e.z
-x.toString
-if(d<x){w=v.gda().z
-w.toString
-return d-x+w}w=v.gda().Q
-w.toString
-return d-x+w},
-Kt(d,e){var x,w,v=this
-if(e===v.gda()){x=v.gda().z
-x.toString
-w=v.gda().Q
-w.toString
-return A.ad(d,x,w)}x=v.gda().z
-x.toString
-if(d<x){x=v.gda().z
-x.toString
-w=e.z
-w.toString
-return d-x+w}x=v.gda().Q
-x.toString
-if(d>x){x=v.gda().Q
-x.toString
-w=e.z
-w.toString
-return d-x+w}x=e.z
-x.toString
-return x},
-auY(){var x,w,v,u,t
-if(!this.gda().ay)return
-x=this.f
-x===$&&A.b()
-x=A.dK(x.d,y.B,y.F)
-w=J.b6(x.a)
-x=A.C(x)
-x=x.j("@<1>").aI(x.z[1]).z[1]
-v=0
-for(;w.F();){u=x.a(w.ga1(w))
-if(!u.ay)return
-t=u.Q
-t.toString
-u=u.z
-u.toString
-v=Math.max(v,t-u)}x=this.gda()
-w=x.w
-u=x.ax
-u.toString
-t=x.Q
-t.toString
-if(!(v>u-t)){x=x.z
-x.toString
-t=x!==t
-x=t}else x=!0
-w.aaT(x)},
-iC(d,e,f){return this.bax(d,e,f)},
-bax(d,e,f){var x=0,w=A.j(y.H),v=this,u,t,s,r
-var $async$iC=A.e(function(g,h){if(g===1)return A.f(h,w)
-while(true)switch(x){case 0:r=v.gda()
-r.toString
-u=v.gda()
-u.toString
-t=r.apm(v.Kt(d,u),f,e)
-u=t.b
-u===$&&A.b()
-s=A.a([u.a],y.M)
-v.C7(t,new B.bV7(v,d,f,e,s))
-x=2
-return A.c(A.di(s,y.H),$async$iC)
-case 2:return A.h(null,w)}})
-return A.i($async$iC,w)},
-cQ(d){var x,w,v=this,u=v.gda()
-u.toString
-v.C7(new A.m7(u),B.cxO())
-u=v.gda()
-u.toString
-x=v.gda()
-x.toString
-u.asy(v.Kt(d,x))
-u=v.f
-u===$&&A.b()
-u=A.dK(u.d,y.B,y.F)
-x=J.b6(u.a)
-u=A.C(u)
-u=u.j("@<1>").aI(u.z[1]).z[1]
-for(;x.F();){w=u.a(x.ga1(x))
-w.asy(v.Kt(d,w))}v.ix(0)},
-DW(d){var x,w,v,u,t,s,r,q,p,o=this
-if(d===0){o.ix(0)
-return}x=o.gda()
-x.toString
-o.C7(new A.m7(x),B.cxO())
-o.xg(d<0?C.hK:C.k9)
-o.gda().dy.sk(0,!0)
-o.gda().IO()
-x=o.f
-x===$&&A.b()
-w=y.B
-v=y.F
-x=A.dK(x.d,w,v)
-u=J.b6(x.a)
-x=A.C(x)
-x=x.j("@<1>").aI(x.z[1]).z[1]
-for(;u.F();){t=x.a(u.ga1(u))
-t.dy.sk(0,!0)
-s=t.fr
-s.toString
-r=t.m3()
-t=t.w
-s.a5I(r,$.aW.aC$.z.h(0,t.z))}if(J.ec(A.dK(o.f.d,w,v).a))o.gda().BY(d)
-else if(d>0){for(x=A.dK(o.f.d,w,v),u=J.b6(x.a),x=A.C(x),x=x.j("@<1>").aI(x.z[1]).z[1],q=d;u.F();){t=x.a(u.ga1(u))
-s=t.at
-s.toString
-if(s<0)q=Math.max(q,t.BY(d))}if(q!==0){p=o.gda().BY(q)
-if(p!==0)for(x=A.dK(o.f.d,w,v),u=J.b6(x.a),x=A.C(x),x=x.j("@<1>").aI(x.z[1]).z[1];u.F();)x.a(u.ga1(u)).BY(p)}}else{for(x=A.dK(o.f.d,w,v),u=J.b6(x.a),x=A.C(x),x=x.j("@<1>").aI(x.z[1]).z[1],q=0;u.F();)q=Math.min(q,x.a(u.ga1(u)).BY(d))
-if(q!==0)o.gda().BY(q)}o.gda().yM()
-for(x=A.dK(o.f.d,w,v),w=J.b6(x.a),x=A.C(x),x=x.j("@<1>").aI(x.z[1]).z[1];w.F();){v=x.a(w.ga1(w))
-u=v.fr
-u.toString
-t=v.m3()
-s=v.w
-s=$.aW.aC$.z.h(0,s.z)
-s.toString
-u.a5H(t,s)
-v.Ym()
-v.MI()}o.ix(0)},
-D8(d){var x=this.gda()
-x.toString
-this.C7(new A.Ex(d,x),new B.bVa())
-return this},
-aU(d){this.ix(0)},
-yW(d,e){var x=this,w=A.csx(null,x,d,null,e),v=x.gda()
-v.toString
-x.C7(new A.DX(w,v),new B.bV8(w))
-return x.w=w},
-RN(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=this
-j.xg(d>0?C.hK:C.k9)
-x=j.f
-x===$&&A.b()
-w=y.B
-v=y.F
-if(J.ec(A.dK(x.d,w,v).a))j.gda().a42(d)
-else if(d<0){for(x=A.dK(j.f.d,w,v),u=J.b6(x.a),x=A.C(x),x=x.j("@<1>").aI(x.z[1]).z[1],t=d;u.F();){s=x.a(u.ga1(u))
-r=s.at
-r.toString
-if(r<0)t=Math.max(t,s.RJ(d))}if(t!==0){q=j.gda().RJ(t)
-if(q!==0)for(x=A.dK(j.f.d,w,v),w=J.b6(x.a),x=A.C(x),x=x.j("@<1>").aI(x.z[1]).z[1];w.F();)x.a(w.ga1(w)).a42(q)}}else if(d!==0){p=A.a([],y.n)
-x=A.dK(j.f.d,w,v)
-o=A.an(x,!0,A.C(x).j("K.E"))
-for(x=o.length,t=0,n=0;n<x;++n){m=o[n].RJ(d)
-t=Math.max(t,m)
-p.push(m)}if(t!==0)t-=j.gda().RJ(t)
-for(l=0;l<o.length;++l){k=p[l]-t
-if(k>0)o[l].a42(k)}}},
-a9y(){var x,w=this.gda()
-if(w!=null){x=this.b
-w.ab9(x)}},
-l(d){var x,w=this.e
-w===$&&A.b()
-w=w.l(0)
-x=this.f
-x===$&&A.b()
-return"_NestedScrollCoordinator(outer="+w+"; inner="+x.l(0)+")"}}
-B.a4w.prototype={
-Ih(d,e,f){var x=this.c,w=new B.nn(this.z,d,e,!0,x,A.az(!1,y.v),$.bq())
-w.FF(e,x,!0,f,d)
-if(w.at==null)w.at=this.a
-if(w.fr==null)w.My()
-w.MI()
-return w},
-aQ(d){var x,w=this
-w.acw(d)
-x=w.z
-x.a9y()
-x.auY()
-d.Z(0,w.gakq())
-w.a2n()},
-wk(d,e){y.F.a(e)
-e.ab9(null)
-e.L(0,this.gakq())
-this.aGt(0,e)
-this.a2n()},
-a2n(){$.cR.id$.push(new B.bV5(this))}}
-B.nn.prototype={
-ab9(d){var x=this,w=x.k4
-if(w!=null)w.wk(0,x)
-x.k4=d
-if(d!=null)d.aQ(x)},
-gjk(){return this.w.a.c},
-tU(d){this.acy(d)
-this.fr.a=this},
-WG(){if(this.k3.gbbD())this.aGB()},
-RJ(d){var x,w,v,u,t,s,r,q=this
-if(d<0)x=-1/0
-else{w=q.z
-w.toString
-v=q.at
-v.toString
-x=Math.min(w,v)}if(d>0)u=1/0
-else{w=q.at
-w.toString
-if(w<0)u=0
-else{v=q.Q
-v.toString
-w=Math.max(v,w)
-u=w}}w=q.at
-w.toString
-t=A.ad(w-d,x,u)
-if(t-w===0)return d
-s=t-q.r.yx(q,t)
-r=s-w
-if(r!==0){q.zb(s)
-q.yR(r)}return d+r},
-a42(d){var x,w,v,u,t=this,s=t.at
-s.toString
-x=t.r
-w=s-x.RM(t,d)
-if(s===w)return 0
-v=x.yx(t,w)
-u=w-v
-if(u!==s){t.zb(u)
-t.yR(u-s)}if(v!==0){t.apU(v)
-return v}return 0},
-BY(d){var x,w,v,u,t,s,r=this
-if(d>0)x=-1/0
-else{w=r.z
-w.toString
-v=r.at
-v.toString
-x=Math.min(w,v)}if(d<0)u=1/0
-else{w=r.Q
-w.toString
-v=r.at
-v.toString
-u=Math.max(w,v)}w=r.at
-w.toString
-t=A.ad(w+d,x,u)
-s=t-w
-if(s===0)return d
-r.zb(t)
-r.yR(s)
-return d-s},
-gEq(){return this.k3.r},
-apm(d,e,f){var x=this.at
-x.toString
-return A.cp1(this,f,e,x,d,this.w)},
-My(){this.jJ(new A.m7(this))
-this.k3.xg(C.fb)},
-ix(d){var x=this
-x.jJ(x.a4W(d!==0||x.gVZ()?x.r.pS(x,d):null,D.a12))},
-apj(d,e,f){var x,w,v=this
-if(d==null)return new A.m7(v)
-switch(f.a){case 0:if(e.r===e.w)return new A.m7(v)
-x=v.fr
-x=x==null?null:x.gog()
-x=x!==!1
-w=new B.bV4(v.k3,e,x,v)
-w.Zx(v,d,v.w,x)
-return w
-case 1:x=v.fr
-x=x==null?null:x.gog()
-x=x!==!1
-w=new B.bV3(v.k3,x,v)
-w.Zx(v,d,v.w,x)
-return w
-case 2:x=v.fr
-x=x==null?null:x.gog()
-return A.cnj(v,d,v.w,x!==!1)}},
-a4W(d,e){return this.apj(d,null,e)},
-iC(d,e,f){var x=this.k3
-return x.iC(x.auV(d,this),e,f)},
-cQ(d){var x=this.k3
-return x.cQ(x.auV(d,this))},
-DW(d){return this.k3.DW(d)},
-asy(d){var x,w=this,v=w.at
-v.toString
-if(v!==d){w.zb(d)
-w.IO()
-x=w.at
-x.toString
-w.yR(x-v)
-w.yM()}},
-rb(){this.acA()
-this.k3.auY()},
-D8(d){return this.k3.D8(d)},
-yW(d,e){return this.k3.yW(d,e)}}
-B.a4v.prototype={
-T(){return"_NestedBallisticScrollActivityMode."+this.b}}
-B.bV3.prototype={
-gcY(){return y.F.a(A.n_.prototype.gcY.call(this))},
-WD(){var x,w=this,v=y.F,u=v.a(A.n_.prototype.gcY.call(w))
-v=v.a(A.n_.prototype.gcY.call(w))
-x=w.b
-x===$&&A.b()
-u.jJ(w.e.a50(v,x.gjy()))},
-rb(){var x,w=this,v=y.F,u=v.a(A.n_.prototype.gcY.call(w))
-v=v.a(A.n_.prototype.gcY.call(w))
-x=w.b
-x===$&&A.b()
-u.jJ(w.e.a50(v,x.gjy()))},
-RL(d){return this.abN(this.e.Kt(d,y.F.a(A.n_.prototype.gcY.call(this))))}}
-B.bV4.prototype={
-gcY(){return y.F.a(A.n_.prototype.gcY.call(this))},
-WD(){var x=y.F.a(A.n_.prototype.gcY.call(this)),w=this.b
-w===$&&A.b()
-x.jJ(this.e.a52(w.gjy()))},
-rb(){var x=y.F.a(A.n_.prototype.gcY.call(this)),w=this.b
-w===$&&A.b()
-x.jJ(this.e.a52(w.gjy()))},
-RL(d){var x,w,v=this,u=v.b
-u===$&&A.b()
-if(u.gjy()>0){u=v.f
-if(d<u.r)return!0
-x=u.w
-if(d>x){d=x
-w=!0}else w=!1}else if(v.b.gjy()<0){u=v.f
-if(d>u.w)return!0
-x=u.r
-if(d<x){d=x
-w=!0}else w=!1}else{u=v.f
-d=A.ad(d,u.r,u.w)
-w=!0}v.abN(d+u.x)
-return!w},
-l(d){var x=this.f
-return"_NestedOuterBallisticScrollActivity("+A.D(x.r)+" .. "+A.D(x.w)+"; correcting by "+A.D(x.x)+")"}}
-B.as4.prototype={
-l(d){switch(0){case 0:break}return"SliverOverlapAbsorberHandle(null, orphan)"}}
-B.anC.prototype={
-b2(d){var x=this,w=null,v=x.e,u=A.a16(d,v),t=x.r,s=x.w,r=x.Q,q=A.aZ(y.I)
-q=new B.Za(x.ax,t,w,v,u,s,250,C.kp,r,q,0,w,w,A.aZ(y.g))
-q.b4()
-q.ad0(t,v,w,C.kp,w,w,r,u,s)
-return q},
-b7(d,e){var x=this,w=x.e
-e.sjk(w)
-w=A.a16(d,w)
-e.sa57(w)
-e.sRD(x.r)
-e.sei(0,x.w)
-e.sbiO(x.ax)
-e.smG(x.Q)}}
-B.Za.prototype={
-sbiO(d){if(this.e4===d)return
-this.e4=d
-d.R()},
-a_(){this.e4.R()
-this.Zj()}}
-B.yQ.prototype={
-a5(){var x=y.N
-return new B.a2F(A.az(new A.jF(C.eD,2,30),y.c),A.az(A.n(x,y.O),y.i),A.az(A.n(x,y.w),y.b),A.az("",x),A.az("",x),A.az(!1,y.v),new A.dp(0,!0,null,A.a([],y.d),$.bq()),A.az(E.kM,y.y),A.az("without",x),C.l)}}
-B.a2F.prototype={
-an(){var x,w,v=this
-v.aE()
-x=v.d
-w=new A.jF(C.eD,2,30)
-w.acZ($.c_().a.ry.b)
-x.sk(0,w)
-v.Ye(!1)
-x=$.cm9().h(0,x.a.a)
-if(x==null)x="perMonth"
-v.r.sk(0,x)},
-n(){var x=this,w=x.d.a,v=$.cwm.h(0,x.r.a)
-v.toString
-w.a=v
-J.be(A.aG("workerHelper.11",0),new B.bPn(x),y.v)
-x.aM()},
-p(d){var x=this,w=null,v=x.a.d&&$.a_().gc8()>1,u=x.a.c
-if(u==null)u=A.k("clients",!0)
-return A.ha(L.awu(w,x.gazV(),v,w,w,A.k("clientsExplain",!0),!0,w,32,u),w,M.ctQ(A.bw(C.aZ,new A.a8(x.e,new B.bPg(x),w,w,y.D),C.m,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new B.bPh(d),w,w,w,w,w,w,w,w,!1,C.D),C.uE),w,w,!1,w,w,w)},
-Ye(d){var x=this.e
-x.sk(0,A.n(y.N,y.O))
-$.h0().gCt().q(0,new B.bPq(this))
-if(d)x.R()},
-azW(){return this.Ye(!0)},
-azu(d,e,f){var x,w={}
-w.a=A.n(y.N,y.O)
-x=this.e.a
-if(f!=="")J.aH(x,new B.bPo(w,f))
-else w.a=x
-x=y.s
-if(C.b.v(A.a(["NewToRegular","RegularToNew"],x),d))return B.d2K(d,w.a,e,f)
-else if(C.b.v(A.a(["maxBookings","minBookings"],x),d))return B.d2I(d,w.a,f)
-else{w=w.a
-if(d==="freeFromPayment")return B.d2J(w)
-else return w}},
-beX(){return new A.a8(this.d,new B.bPm(this),null,null,y.t)}}
-B.ag1.prototype={
-p(d){return new A.a8(this.c,new B.aZn(this),null,null,y.D)}}
-B.ag_.prototype={
-p(d){var x,w=null,v=this.d
-if(J.ec(v.a))v=new A.q(w,w,w,w)
-else{x=this.c
-x=new A.bP(C.W,w,C.J,C.u,A.a([new B.Tn(v,x,w),A.ck(w,new B.ar7(x,w),w,w,w,0,10,w)],y.p),w)
-v=x}return v}}
-B.Tn.prototype={
-a5(){return new B.afZ(C.l)}}
-B.afZ.prototype={
-p(d){return new A.a8(this.a.d,new B.aZe(this),null,null,y.t)},
-arI(d,e,f){var x=null,w=A.ap(A.k(f,!0),x,x,x,x,x,x,x,x,x),v=C.c.l(C.e.au(d))
-return new A.a5(C.b_,A.ag(A.a([w,new A.q(10,x,x,x),A.a7(C.q,A.ap(v,x,x,x,x,x,A.aw(x,x,(e==null?C.E:e).nI()>0.5?new A.T(4280229673):C.v,x,x,x,x,x,x,x,x,x,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x,x),C.j,e,x,x,x,30,x,x,x,x,x,30)],y.p),C.h,C.i,C.f,x),x)},
-aCv(d){var x={},w=A.a([],y.G)
-x.a=0
-d.q(0,new B.aZf(x,this,w))
-return w}}
-B.ar7.prototype={
-p(d){return A.cV(A.b_(D.afp,null,null,null,32),C.w,new B.bvp(this,d),1)},
-Nq(d){return this.aCq(d)},
-aCq(d){var x=0,w=A.j(y.H),v=this,u,t,s,r,q,p,o,n,m
-var $async$Nq=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:r=v.c
-q=y.S
-p=A.az(r.a.c,q)
-o=A.az(r.a.b,q)
-n=H.ul(null,!1,null,30,70,1,999,1,null,!0,p)
-q=r.a
-if(q.b<2)q.b=2
-u=H.ul(null,!1,null,30,70,1,999,2,null,!0,o)
-q=A.k("ManageStatisticsDisplay",!0)
-t=y.p
-t=A.a7(null,A.S(A.a([A.ag(A.a([A.ap(A.k("MissingClient",!0),null,null,null,null,null,A.aw(null,null,A.U(C.e.aa(127.5),244,67,54),null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null),null,null,null),new A.a5(C.wb,n,null),new A.uF(null),A.ap(A.k("DaysWithNoBookings",!0),null,null,null,null,null,null,null,null,null)],t),C.h,C.al,C.f,null),new A.q(null,10,null,null),A.ag(A.a([A.ap(A.k("RegularClient",!0),null,null,null,null,null,A.aw(null,null,C.cg,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null),null,null,null),new A.a5(C.wb,u,null),new A.uF(null),A.ap(A.k("BookingsPerMonth",!0),null,null,null,null,null,null,null,null,null)],t),C.h,C.al,C.f,null)],t),C.h,C.A,C.f),C.j,null,null,null,null,null,null,null,null,null,null,null)
-s=A.k("save",!0)
-m=J
-x=2
-return A.c(A.et(C.aY,!1,1,!0,null,A.k("cancel",!0),t,d,C.O,20,!0,C.w,new B.bvq(d),new B.bvr(d),!1,s,q),$async$Nq)
-case 2:if(m.p(f,"save")){r.sk(0,new A.jF(r.a.a,o.a,p.a))
-r.R()}return A.h(null,w)}})
-return A.i($async$Nq,w)}}
-B.ag0.prototype={
-p(d){A.cY(d,!0,y.C)
-return new A.a8(this.y,new B.aZi(this,d),null,null,y.t)},
-biM(){var x=null,w=$.a3().Q
-return A.hu(w.at,x)!=null&&w.w!=null?new A.i6(new A.a8(this.Q,new B.aZl(this),x,x,y.q),J.p(this.e.a,"freeFromPayment"),x,C.y,!1,x):new A.q(x,x,x,x)},
-bau(){return new A.a8(this.x,new B.aZg(this),null,null,y.K)},
-buq(d){return new A.a8(this.y,new B.aZm(this),null,null,y.t)},
-bo8(){var x,w,v,u=null,t=J.V(this.z.a,this.c)
-if(t==null)return new A.q(u,u,u,u)
-x=$.aQ()
-w=$.ol()
-v=t.x===C.ap?"assets/woman_profile.webp":"assets/man_profile.webp"
-v=A.eV("",w*0.05,v)
-w=t.b
-return new B.mH(new A.q(x*0.3,u,A.ag(A.a([new A.q(x*0.12,u,new A.a5(new A.B(0,0,0,5),v,u),u),A.a7(C.cR,A.cw(A.O(w===""?t.a:w,u,!1,!1,u,!1,u,!1,!1,!1,!0,1,u,16,u,""),u,C.m,C.G,u,u,u,C.y),C.j,u,u,u,u,40,u,u,u,u,u,x*0.15)],y.p),C.h,C.al,C.f,u),u),u)}}
-B.mH.prototype={
-p(d){var x=null,w=$.aQ()
-return A.a7(C.q,A.cw(this.c,x,C.m,C.G,x,x,x,C.Z),C.j,x,x,x,x,x,x,x,x,x,x,w*0.3)}}
-B.S_.prototype={
-a5(){return new B.axN(A.a(["perMonth","perWeek","perDay"],y.s),C.l)}}
-B.axN.prototype={
-p(d){var x=null,w=this.a.c.a,v=this.d,u=A.as(v).j("ar<1,mE<l>>")
-return A.b9(x,x,x,x,A.cgh(C.v5,A.l5(10),16,new A.q(x,x,x,x),!0,A.an(new A.ar(v,new B.bKy(),u),!0,u.j("bk.E")),new B.bKz(this),C.T,new A.q(x,x,x,x),w,y.N),x,x,!1,x,x,x,x,x,!0,x,x,new A.B(10,6,10,6),10,x,!1,!1,x)}}
-B.a_d.prototype={
-a5(){return new B.aGF(A.a([E.kM,C.kK,C.kJ,C.kL,E.n4],y.m),C.l)}}
-B.aGF.prototype={
-p(d){var x=null,w=this.a.c.a,v=this.d,u=A.as(v).j("ar<1,mE<i3>>")
-return A.b9(x,x,x,x,A.cgh(C.v5,A.l5(10),16,new A.q(x,x,x,x),!0,A.an(new A.ar(v,new B.c_U(),u),!0,u.j("bk.E")),new B.c_V(this),x,new A.q(x,x,x,x),w,y.y),x,x,!1,x,x,x,x,x,!0,x,x,new A.B(10,7,10,7),10,x,!1,!1,x)}}
-B.asf.prototype={
-p(d){var x=A.a(["without","NewToRegular","RegularToNew","maxBookings","minBookings"],y.s),w=$.a3().Q
-if(A.hu(w.at,null)!=null&&w.w!=null)x.push("freeFromPayment")
-return new A.a8(this.c,new B.bxP(this,x),null,null,y.K)},
-abD(d,e){var x,w,v=null,u=this.c,t=J.p(u.a,e)?1:0.6
-if(J.p(u.a,e))x=A.r(d).ax.f
-else{x=A.r(d).ax
-w=x.y
-x=w==null?x.f:w}return A.bw(v,A.b9(v,v,v,v,A.O(A.k(e,!0),v,!1,!1,v,!1,v,!1,J.p(u.a,e),!1,!J.p(u.a,e),1,v,13,v,""),x,v,!1,v,v,v,v,new A.B(6,6,6,6),!0,v,t,new A.B(9,5,9,5),5,v,!1,!1,v),C.m,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,new B.bxQ(this,e),v,v,v,v,v,v,v,v,!1,C.D)}}
-B.ag2.prototype={
-p(d){var x=null,w=J.ec(this.e.a)?C.A:C.hC,v=y.p
-return A.S(A.a([A.ag(A.a([A.bc(K.aqP($.bI()*0.06,this.c,x,!0),1),new A.q(10,x,x,x),A.cV(A.b_(C.cA,x,x,x,30),C.w,new B.aZo(this,d),1)],v),C.h,C.i,C.f,x),new A.q(x,10,x,x)],v),C.h,w,C.f)}}
-var z=a.updateTypes(["~()","Pv(y)","n_(nn)","JX(nn)","Ex(nn)","DX(nn)","~({withNotify:I})","~(i7,FJ?)","mH(y,l,d?)","mH(y,jF,d?)","m7(nn)"])
-B.bjQ.prototype={
-$0(){},
-$S:0}
-B.bjR.prototype={
-$1(d){var x,w,v,u,t,s=null,r=this.a
-r.f=r.e.garv()
-r.a.toString
-x=A.uy(d).Cq(!1)
-w=r.e
-v=w.e
-v===$&&A.b()
-u=r.a
-u.toString
-w=w.f
-w===$&&A.b()
-t=r.f
-t.toString
-t=A.an(u.bk8(d,t),!0,y.l)
-t.push(new A.uA(A.chL(A.kc(C.Nm,y.Q),u.w,w),!0,!1,s))
-r.a.toString
-return new B.Pv(r.d,t,C.y,!1,v,s,this.b,x,!1,s,0,s,s,C.m,C.G,s,C.u,s)},
-$S:z+1}
-B.bV9.prototype={
-$1(d){return this.a.a50(d,this.b)},
-$S:z+2}
-B.bV7.prototype={
-$1(d){var x=this,w=d.apm(x.a.Kt(x.b,d),x.c,x.d),v=w.b
-v===$&&A.b()
-x.e.push(v.a)
-return w},
-$S:z+3}
-B.bVa.prototype={
-$1(d){return new A.Ex(null,d)},
-$S:z+4}
-B.bV8.prototype={
-$1(d){return new A.DX(this.a,d)},
-$S:z+5}
-B.bV5.prototype={
-$1(d){this.a.z.c.$0()},
-$S:5}
-B.bPn.prototype={
-$1(d){var x=0,w=A.j(y.v),v,u=this
-var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:A.ay("workerHelper.11")
-x=3
-return A.c(I.de().Yk(u.a.d.a,$.c_().a),$async$$1)
-case 3:v=f
-x=1
-break
-case 1:return A.h(v,w)}})
-return A.i($async$$1,w)},
-$S:4}
-B.bPh.prototype={
-$0(){return A.fD(this.a)},
-$S:0}
-B.bPg.prototype={
-$3(d,e,f){var x,w,v,u=null,t=this.a
-if(J.ec(e))t=new O.tD(A.k("noClientsAvaliable",!0),A.k("noClientsAvaliableExplain",!0),A.k("AddClient",!0),new B.bPe(t,d),"assets/animations/empty_animation.json.zip",u)
-else{x=A.r(d)
-w=$.aQ()*0.05
-v=t.y
-w=A.a7(u,new A.x2(new B.Xy(v,new B.bPf(t),t.beX(),u),v,u),C.j,x.ax.CW,u,u,u,u,u,u,new A.B(w,0,w,0),u,u,u)
-t=w}return t},
-$S:966}
-B.bPe.prototype={
-$0(){return B.QI(this.b,$.c_().a,this.a.e)},
-$S:3}
-B.bPf.prototype={
-$2(d,e){var x=this.a
-return A.a([new B.ag1(x.e,x.r,x.d,x.w,null)],y.p)},
-$S:967}
-B.bPq.prototype={
-$2(d,e){e.ry.a.q(0,new B.bPp(this.a,d))},
-$S:98}
-B.bPp.prototype={
-$2(d,e){var x,w=this.a.e,v=this.b
-if(J.V(w.a,d)!=null){w=J.V(w.a,d)
-w.toString
-w.at.u(0,v)
-w.as=A.cxy(w.as,e.as)
-w.z=A.aLI(w.z,e.z)
-w.Q=A.aLI(w.Q,e.Q)
-w.y=w.y+Math.max(0,e.y)}else{x=A.yP(e)
-x.at=A.d5([v],y.N)
-J.bv(w.a,d,x)}},
-$S:33}
-B.bPo.prototype={
-$2(d,e){var x,w=e.b
-if(w==="")w=e.a
-x=this.b
-if(C.d.v(w.toLowerCase(),x.toLowerCase())||C.d.v(e.c,x))J.bv(this.a.a,d,e)},
-$S:33}
-B.bPm.prototype={
-$3(d,e,f){var x=this.a
-return new A.a8(x.Q,new B.bPl(x,e),null,null,y.K)},
-$S:968}
-B.bPl.prototype={
-$3(d,e,f){var x=this.a
-return new A.a8(x.z,new B.bPk(x,e,this.b),null,null,y._)},
-$S:969}
-B.bPk.prototype={
-$3(d,e,f){var x=this.a
-return new A.a8(x.w,new B.bPj(x,this.b,this.c,e),null,null,y.K)},
-$S:970}
-B.bPj.prototype={
-$3(d,e,f){var x,w,v=this,u=null,t=v.a,s=v.c,r=t.azu(v.b,s,e),q=J.b5(r),p=J.l4(q.gdI(r)),o=J.l4(q.gaf(r))
-if(J.ec(t.e.a))x=new A.q(u,u,u,u)
-else{x=y.p
-x=A.S(A.a([A.ag(A.a([new B.mH(A.ap(A.k("name",!0),u,u,u,u,u,A.r(d).p3.z,u,u,u),u),new B.mH(new B.S_(t.r,u),u),new B.mH(new B.a_d(t.z,u),u)],x),C.h,C.al,C.f,u),new A.q(u,7,u,u)],x),C.h,C.i,C.f)}w=y.p
-return A.S(A.a([A.S(A.a([new B.asf(t.Q,u),x],w),C.h,C.i,C.f),A.bc(A.h8(C.u,u,new B.bPi(t,v.d,s,o,p),q.gA(r),u,u,C.G,new A.B(0,0,0,30),u,u,!1,C.y,!1),1)],w),C.h,C.i,C.f)},
-$S:239}
-B.bPi.prototype={
-$2(d,e){var x,w,v=this,u=null,t=v.b,s=v.c,r=v.d
-if(t!==E.kM)if(t!==r[e].Ai(s.b,$.c_().a.d))t=t===E.n4&&r[e].a7c(s.c)
-else t=!0
-else t=!0
-if(!t)return new A.q(u,u,u,u)
-x=$.h0()
-t=x.gCt()
-s=v.a
-w=x.gCt()
-J.aJ(x.a.a)
-r=r[e]
-return new B.ag0(v.e[e],s.Q,w,r,t,s.r,s.d,s.e,s.f,u)},
-$S:55}
-B.cbW.prototype={
-$2(d,e){var x=this.a.a,w=J.ceO(e),v=A.yP(e)
-v.at=A.d5([$.a_().d.c],y.N)
-J.bv(x,w,v)},
-$S:14}
-B.c8X.prototype={
-$1(d){return this.axY(d)},
-axY(d){var x=0,w=A.j(y.H),v=this
-var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:A.ae(v.a,!1).ar("contacts")
-return A.h(null,w)}})
-return A.i($async$$1,w)},
-$S:113}
-B.c8Y.prototype={
-$1(d){return this.axX(d)},
-axX(d){var x=0,w=A.j(y.H),v=this
-var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:A.ae(v.a,!1).ar("manually")
-return A.h(null,w)}})
-return A.i($async$$1,w)},
-$S:113}
-B.cd5.prototype={
-$2(d,e){var x=this
-switch(e.Ai(x.a.b,$.c_().a.d).a){case 2:x.b.i(0,d,e)
-break
-case 1:x.c.i(0,d,e)
-break
-case 5:x.d.i(0,d,e)
-break
-case 0:x.e.i(0,d,e)
-break}},
-$S:33}
-B.cd1.prototype={
-$2(d,e){this.a.push(e.RC())},
-$S:33}
-B.cd2.prototype={
-$2(d,e){var x,w=C.b.fu(this.a,e.RC())
-for(x=this.b;x.H(0,w);)++w
-x.i(0,w,A.F([d,e],y.N,y.O))},
-$S:33}
-B.cd3.prototype={
-$2(d,e){return e.d?1:-1},
-$S:374}
-B.cd4.prototype={
-$1(d){this.a.i(0,d.f,d)},
-$S:973}
-B.aZn.prototype={
-$3(d,e,f){var x=null,w=J.ec(e)?0:230,v=this.a,u=v.c
-return A.N9(x,!1,0,w,A.Ku(new B.ag_(v.e,u,x),x,C.a4u,1,A.a([C.fD,C.hL],y.u),new B.ag2(v.f,u,$.c_().a,x),new A.B(0,0,0,0)),!1,!0,!1,100,85)},
-$S:974}
-B.aZe.prototype={
-$3(d,e,f){var x=this.a
-return new A.a8(x.a.c,new B.aZd(x),null,null,y.D)},
-$S:975}
-B.aZd.prototype={
-$3(d,e,f){var x,w,v,u,t=null,s=A.F([C.kL,0,E.kM,0,E.n4,0,C.kK,0,C.kJ,0,C.n5,0],y.y,y.V),r=this.a,q=J.d3(e)
-q.q(e,new B.aZa(r,s))
-x=q.gA(e)
-q=y.p
-w=A.a([],q)
-w.push(r.arI(x,C.ch,"total"))
-v=x>0
-if(v)s.q(0,new B.aZb(r,s,x,w))
-u=$.bI()
-if(v){v=F.crN(new B.aZc(r))
-r=A.bc(F.crM(F.chD(F.Ks(t,!1),t,0,v,r.aCv(s),0,t)),1)}else r=new A.q(t,t,t,t)
-return new A.a5(new A.B(0,0,0,u*0.07),A.ag(A.a([r,new A.a5(D.adv,A.a7(t,A.cw(A.S(w,C.h,C.i,C.f),t,C.m,C.G,t,t,t,C.y),C.j,t,t,t,t,t,t,t,new A.B(0,0,0,25),t,t,t),t)],q),C.h,C.i,C.f,t),t)},
-$S:976}
-B.aZa.prototype={
-$2(d,e){var x=this.b,w=this.a,v=w.a.d.a.b,u=$.c_()
-v=e.Ai(v,u.a.d)
-w=x.h(0,e.Ai(w.a.d.a.b,u.a.d))
-w.toString
-x.i(0,v,w+1)},
-$S:33}
-B.aZb.prototype={
-$2(d,e){var x,w,v=this
-v.b.i(0,d,e/v.c*100)
-if(e>0){x=$.aN6().h(0,d)
-w=$.ceB().h(0,d)
-w.toString
-v.d.push(v.a.arI(e,x,w))}},
-$S:375}
-B.aZc.prototype={
-$2(d,e){var x=this.a
-x.a2(new B.aZ9(x,d,e))},
-$S:z+7}
-B.aZ9.prototype={
-$0(){var x=this
-if(!x.b.gJT()||x.c==null||!1){x.a.d=-1
-return}x.a.d=x.c.a.b},
-$S:0}
-B.aZf.prototype={
-$2(d,e){var x=null,w=this.a,v=w.a===this.b.d,u=v?20:16,t=v?$.bI()*0.08:$.bI()*0.07,s=$.aN6().h(0,d),r=C.e.aW(e,e-C.e.au(e)>0?1:0),q=Math.min(17,u*(e*0.035)),p=$.aN6().h(0,d)
-this.c.push(F.chE(x,x,x,s,t,x,r+"%",x,A.aw(x,x,(p==null?C.E:p).nI()>0.5?new A.T(4280229673):C.v,x,x,x,x,x,x,x,x,q,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),e));++w.a},
-$S:375}
-B.bvp.prototype={
-$0(){return this.a.Nq(this.b)},
-$S:0}
-B.bvq.prototype={
-$0(){A.ae(this.a,!1).ar(null)
-return null},
-$S:0}
-B.bvr.prototype={
-$0(){A.ae(this.a,!1).ar("save")
-return null},
-$S:0}
-B.aZi.prototype={
-$3(d,e,f){var x,w,v,u,t=null,s=this.a,r=this.b,q=A.r(r).ax.cx
-q=A.hl(A.U(51,q.gk(q)>>>16&255,q.gk(q)>>>8&255,q.gk(q)&255),1)
-x=s.r
-if(x.a7c(e.c))w=A.U(C.e.aa(127.5),244,67,54)
-else{w=A.r(r).ax
-v=w.y
-w=v==null?w.f:v}v=x.a7c(e.c)
-u=y.p
-return A.bw(t,A.b9(t,t,q,t,A.S(A.a([A.kn(new A.a5(C.dx,A.ag(A.a([A.O(A.k(x.x===C.ap?"MissingClientMessageFemale":"MissingClientMessageMale",!1),t,!1,!1,t,!1,t,!1,!1,!1,!0,1,t,14,t,""),new A.cD(D.afH,24,!1,1,!1,!0,!1,t,t)],u),C.h,C.A,C.f,t),t),!1,!1,!1,!1,!1,v),s.biM(),A.ag(A.a([s.bo8(),s.bau(),s.buq(r)],u),C.h,C.i,C.f,t)],u),C.h,C.i,C.f),w,t,!1,t,t,t,new A.dY("CustomerDateWidget",y.W),new A.B(0,5,0,5),!0,t,t,new A.B(0,5,0,5),14,t,!1,!1,t),C.m,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new B.aZh(s,r),t,t,t,t,t,t,t,t,!1,C.D)},
-$S:978}
-B.aZh.prototype={
-$0(){var x=0,w=A.j(y.H),v,u=this,t,s,r
-var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:t=u.a
-s=t.z
-x=3
-return A.c(B.aM5(u.b,t.c,s,t.w),$async$$0)
-case 3:r=e
-if(r==null){x=1
-break}J.bv(s.a,r.f,r)
-s.R()
-B.ckN(t.f,r)
-case 1:return A.h(v,w)}})
-return A.i($async$$0,w)},
-$S:3}
-B.aZl.prototype={
-$3(d,e,f){var x=null,w=this.a,v=A.r(d).ax,u=v.y
-v=u==null?v.f:u
-return A.bw(x,A.cv(A.h4(A.b9(x,x,x,x,A.ag(A.a([new A.q(20,20,A.pu(x,new B.aZj(w),new A.f6(0,C.N),x,!1,w.r.d),x),new A.q(4,x,x,x),A.O(A.k("freeFromPay",!0),x,!1,!1,x,!1,x,!1,!1,!0,!1,1,x,14,x,"")],y.p),C.h,C.i,C.f,x),v,x,!1,x,x,x,x,C.b_,!0,x,x,P.DF,20,x,!1,!1,x),C.b7),x,x),C.m,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,new B.aZk(w),x,x,x,x,x,x,x,x,!1,C.D)},
-$S:979}
-B.aZk.prototype={
-$0(){var x=this.a,w=x.r
-w.d=!w.d
-B.ckN(x.f,w)
-x.Q.R()},
-$S:0}
-B.aZj.prototype={
-$1(d){var x=this.a,w=x.r
-w.d=!w.d
-B.ckN(x.f,w)
-x.Q.R()},
-$S:49}
-B.aZg.prototype={
-$3(d,e,f){var x,w,v,u=null,t=this.a,s=t.r
-if(s.y>9000)return new B.mH(new A.cD(D.aeI,16,!1,1,!1,!0,!1,u,u),u)
-x=s.RC()
-if(x<0)return new B.mH(A.O("0",u,!1,!1,u,!1,u,!1,!1,!1,!0,1,u,14,u,""),u)
-w=A.F(["perDay",x/30,"perWeek",x/4,"perMonth",x],y.N,y.V).h(0,t.x.a)
-if(w==null)w=1
-v=A.cG("([.]*0)(?!.*\\d)",!0,!1,!1)
-t=C.e.aW(w,2)
-return new B.mH(A.O(A.N(t,v,""),u,!1,!1,u,!1,u,!1,!1,!1,!0,1,u,14,u,""),u)},
-$S:z+8}
-B.aZm.prototype={
-$3(d,e,f){var x,w=null,v=this.a,u=v.r.Ai(e.b,$.c_().a.d),t=$.ceB().h(0,u)
-t.toString
-t=A.k(t,!0)
-x=$.aN6().h(0,u)
-t=A.O(t,w,!1,!1,x==null?C.hD:x,!1,w,!1,!1,!1,!1,1,w,14,w,"")
-v=$.a3().Q.go.H(0,v.c)
-return new B.mH(A.S(A.a([t,A.kn(A.O(A.k("blockUser",!0),C.p,!1,!1,w,!1,w,!1,!1,!0,!1,0.7,w,13,w,""),!1,!1,!1,!1,!1,v)],y.p),C.h,C.i,C.f),w)},
-$S:z+9}
-B.cdq.prototype={
-$1(d){var x=this.a.h(0,d)
-if(x==null)return
-this.b.push(x)},
-$S:7}
-B.cdr.prototype={
-$1(d){A.ay("workerHelper.43")
-return I.de().Xc(this.a,this.b)},
-$S:4}
-B.bKz.prototype={
-$1(d){var x=this.a
-x.a2(new B.bKx(x,d))
-x.a.c.R()},
-$S:143}
-B.bKx.prototype={
-$0(){this.a.a.c.sk(0,this.b)},
-$S:0}
-B.bKy.prototype={
-$1(d){var x=null
-return A.cgi(A.cv(A.O(A.k(d,!0),x,!1,!1,x,!1,x,!1,!1,!0,!1,1,x,14,x,""),x,x),d,y.N)},
-$S:980}
-B.c_V.prototype={
-$1(d){var x=this.a
-x.a2(new B.c_T(x,d))
-x.a.c.R()},
-$S:981}
-B.c_T.prototype={
-$0(){this.a.a.c.sk(0,this.b)},
-$S:0}
-B.c_U.prototype={
-$1(d){var x=null,w=$.ceB().h(0,d)
-w.toString
-return A.cgi(A.cv(A.O(A.k(w,!0),x,!1,!1,x,!1,x,!1,!1,!0,!1,1,x,14,x,""),x,x),d,y.y)},
-$S:982}
-B.bxP.prototype={
-$3(d,e,f){var x=null,w=y.p,v=A.a([],w),u=A.a([],w),t=this.b
-C.b.q(t,new B.bxO(this.a,u,t,v,d))
-return A.a7(C.cR,A.cw(A.S(A.a([A.ag(u,C.h,C.i,C.f,x),A.ag(v,C.h,C.i,C.f,x)],w),C.af,C.i,C.f),x,C.m,C.G,x,x,x,C.Z),C.j,x,x,x,x,80,x,x,x,x,x,x)},
-$S:983}
-B.bxO.prototype={
-$1(d){var x=this,w=x.b,v=x.a,u=x.e
-if(w.length>=x.c.length/2)x.d.push(v.abD(u,d))
-else w.push(v.abD(u,d))},
-$S:7}
-B.bxQ.prototype={
-$0(){var x=this.a.c
-x.sk(0,this.b)
-x.R()},
-$S:0}
-B.aZo.prototype={
-$0(){var x=0,w=A.j(y.H),v,u=this,t
-var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:t=u.a
-x=3
-return A.c(B.QI(u.b,t.f,t.e),$async$$0)
-case 3:v=e
-x=1
-break
-case 1:return A.h(v,w)}})
-return A.i($async$$0,w)},
-$S:3};(function installTearOffs(){var x=a._static_1,w=a._instance_0u,v=a.installInstanceTearOff
-x(B,"cxO","cU_",10)
-w(B.Xz.prototype,"gaVt","aVu",0)
-w(B.a4w.prototype,"gakq","a2n",0)
-w(B.Za.prototype,"guD","a_",0)
-v(B.a2F.prototype,"gazV",0,0,null,["$1$withNotify","$0"],["Ye","azW"],6,0,0)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.X,[B.Xy,B.yQ,B.Tn,B.S_,B.a_d])
-x(A.a1,[B.Xz,B.a2F,B.afZ,B.axN,B.aGF])
-x(A.bV,[B.bjQ,B.bPh,B.bPe,B.aZ9,B.bvp,B.bvq,B.bvr,B.aZh,B.aZk,B.bKx,B.c_T,B.bxQ,B.aZo])
-x(A.bH,[B.bjR,B.bV9,B.bV7,B.bVa,B.bV8,B.bV5,B.bPn,B.bPg,B.bPm,B.bPl,B.bPk,B.bPj,B.c8X,B.c8Y,B.cd4,B.aZn,B.aZe,B.aZd,B.aZi,B.aZl,B.aZj,B.aZg,B.aZm,B.cdq,B.cdr,B.bKz,B.bKy,B.c_V,B.c_U,B.bxP,B.bxO])
-w(B.Pv,A.Tk)
-w(B.aBI,A.c1)
-w(B.aDv,A.Ef)
-w(B.bV6,A.a0)
-w(B.a4w,A.dp)
-w(B.nn,A.ir)
-w(B.a4v,A.iy)
-x(A.IG,[B.bV3,B.bV4])
-w(B.as4,A.bO)
-w(B.anC,A.xq)
-w(B.Za,A.wY)
-x(A.cl,[B.bPf,B.bPq,B.bPp,B.bPo,B.bPi,B.cbW,B.cd5,B.cd1,B.cd2,B.cd3,B.aZa,B.aZb,B.aZc,B.aZf])
-x(A.H,[B.ag1,B.ag_,B.ar7,B.ag0,B.mH,B.asf,B.ag2])})()
-A.bN(b.typeUniverse,JSON.parse('{"Xy":{"X":[],"d":[]},"Pv":{"H":[],"d":[]},"nn":{"ir":[],"jr":[],"bO":[],"b0":[],"mi":[]},"Xz":{"a1":["Xy"]},"aBI":{"c1":[],"bW":[],"d":[]},"aDv":{"mi":[]},"a4w":{"dp":[],"bO":[],"b0":[]},"as4":{"bO":[],"b0":[]},"anC":{"xq":[],"dM":[],"b1":[],"d":[]},"Za":{"wY":[],"ob":["pe"],"Q":[],"ai":["e9","pe"],"B1":[],"P":[],"aq":[],"aY":[],"ai.1":"pe","ob.0":"pe","ai.0":"e9"},"yQ":{"X":[],"d":[]},"a2F":{"a1":["yQ"]},"ag1":{"H":[],"d":[]},"ag_":{"H":[],"d":[]},"Tn":{"X":[],"d":[]},"afZ":{"a1":["Tn"]},"ar7":{"H":[],"d":[]},"ag0":{"H":[],"d":[]},"mH":{"H":[],"d":[]},"S_":{"X":[],"d":[]},"axN":{"a1":["S_"]},"a_d":{"X":[],"d":[]},"aGF":{"a1":["a_d"]},"asf":{"H":[],"d":[]},"ag2":{"H":[],"d":[]}}'))
-var y=(function rtii(){var x=A.x
-return{I:x("qU"),g:x("fu"),O:x("dr"),y:x("i3"),c:x("jF"),m:x("G<i3>"),M:x("G<ab<~>>"),G:x("G<ia>"),d:x("G<ir>"),u:x("G<xa>"),s:x("G<l>"),p:x("G<d>"),h:x("G<eI>"),n:x("G<Z>"),E:x("G<D1?>"),i:x("Y<l,dr>"),b:x("Y<l,mY>"),f:x("Y<@,@>"),w:x("mY"),B:x("ir"),C:x("kS"),N:x("l"),Q:x("iM"),W:x("dY<l>"),_:x("a8<i3>"),t:x("a8<jF>"),D:x("a8<Y<l,dr>>"),q:x("a8<Y<l,mY>>"),K:x("a8<l>"),l:x("d"),F:x("nn"),v:x("I"),V:x("Z"),S:x("v"),e:x("dr?"),H:x("~")}})();(function constants(){D.adv=new A.B(30,0,30,0)
-D.aeI=new A.tU(62772,"FontAwesomeSolid","font_awesome_flutter",!1)
-D.afp=new A.bx(59011,"MaterialIcons",null,!1)
-D.afH=new A.bx(983713,"MaterialIcons",null,!1)
-D.aFy=new B.a4v(0,"outer")
-D.aFz=new B.a4v(1,"inner")
-D.a12=new B.a4v(2,"independent")})();(function lazyInitializers(){var x=a.lazy
-x($,"deE","ceB",()=>A.F([C.kJ,"RegularClient",C.kK,"ReturnedClient",C.kL,"NewClient",E.n4,"MissingClient",C.n5,"selfClient",E.kM,"All"],y.y,y.N))})()}
-$__dart_deferred_initializers__["1SZdTuh9/MzhpXfFVWJ1mUDeXPU="] = $__dart_deferred_initializers__.current
+_.d=f
+_.e=g
+_.r=h
+_.w=i}},A
+B=c[0]
+C=a.updateHolder(c[313],C)
+A=c[539]
+C.ay.prototype={}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.ay,B.ab)})()
+var y={d:B.r("a_<m,m>")};(function constants(){var x=a.makeConstList
+A.q={sk:0,se:1,pl:2,no:3,ja:4,it:5,zh:6,nl:7,de:8,fr:9,es:10,en:11,pt_BR:12,"sr-Cyrl":13,"sr-Latn":14,zh_TW:15,tr:16,ro:17,ar:18,fa:19,yue:20}
+A.bK4=new B.a_(A.q,["Afganistan","Afghanistan","Afganistan","Afghanistan","\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3","Afghanistan","\u963f\u5bcc\u6c57","Afghanistan","Afghanistan","Afghanistan","Afganist\xe1n","Afghanistan","Afeganist\xe3o","\u0410\u0432\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d","Avganistan","\u963f\u5bcc\u6c57","Afganistan","Afganistan","\u0623\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646","\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646","\u963f\u5bcc\u6c57"],y.d)
+A.aH4=new C.ay("Afghanistan","\ud83c\udde6\ud83c\uddeb","AF","93",9,9)
+A.bKy=new B.a_(A.q,["Alandy","\xc5l\xe1nda","Wyspy Alandzkie","\xc5land","\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6","Isole \xc5land","\u5965\u5170\u7fa4\u5c9b","\xc5land","\xc5landinseln","\xceles \xc5land","Islas \xc5land","\xc5land Islands","Ilhas Aland","\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Alandska Ostrva","\u5967\u862d\u7fa4\u5cf6","\xc5land","Insulele \xc5land","\u062c\u0632\u0631 \u0623\u0648\u0644\u0627\u0646\u062f","\u062c\u0632\u06cc\u0631\u0647 \u0627\u0648\u0644\u0627\u0646\u062f","\u5967\u862d\u7fa4\u5cf6"],y.d)
+A.aI7=new C.ay("\xc5land Islands","\ud83c\udde6\ud83c\uddfd","AX","358",15,15)
+A.bKP=new B.a_(A.q,["Alb\xe1nsko","Alb\xe1nia","Albania","Albania","\u30a2\u30eb\u30d0\u30cb\u30a2","Albania","\u963f\u5c14\u5df4\u5c3c\u4e9a","Albani\xeb","Albanien","Albanie","Albania","Albania","Alb\xe2nia","\u0410\u043b\u0431\u0430\u043d\u0438\u0458\u0430","Albanija","\u963f\u723e\u5df4\u5c3c\u4e9e","Arnavutluk","Albania","\u0623\u0644\u0628\u0627\u0646\u064a\u0627","\u0622\u0644\u0628\u0627\u0646\u06cc","\u963f\u723e\u5df4\u5c3c\u4e9e"],y.d)
+A.aGm=new C.ay("Albania","\ud83c\udde6\ud83c\uddf1","AL","355",9,9)
+A.bL1=new B.a_(A.q,["Al\u017e\xedrsko","Algeria","Algieria","Algerie","\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2","Algeria","\u963f\u5c14\u53ca\u5229\u4e9a","Algerije","Algerien","Alg\xe9rie","Argelia","Algeria","Arg\xe9lia","\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430","Argentina","\u963f\u723e\u53ca\u5229\u4e9e","Cezayir","Algeria","\u0627\u0644\u062c\u0632\u0627\u0626\u0631","\u0627\u0644\u062c\u0632\u06cc\u0631\u0647","\u963f\u723e\u53ca\u5229\u4e9e"],y.d)
+A.aIN=new C.ay("Algeria","\ud83c\udde9\ud83c\uddff","DZ","213",9,9)
+A.bM_=new B.a_(A.q,["Americk\xe1 Samoa","Amerihk\xe1 Samoa","Samoa Ameryka\u0144skie","Amerikansk Samoa","\u7c73\u9818\u30b5\u30e2\u30a2","Samoa americane","\u7f8e\u5c5e\u8428\u6469\u4e9a","Amerikaans-Samoa","Amerikanisch-Samoa","Samoa am\xe9ricaines","Samoa Americana","American Samoa","Samoa Americana","\u0410\u043c\u0435\u0440\u0438\u0447\u043a\u0430 \u0421\u0430\u043c\u043e\u0430","Ameri\u010dka Samoa","\u7f8e\u5c6c\u85a9\u6469\u4e9e","Amerikan Samoas\u0131","Samoa American\u0103","\u0633\u0627\u0645\u0648\u0627 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629","\u0633\u0627\u0645\u0648\u0627 \u0622\u0645\u0631\u06cc\u06a9\u0627","\u7f8e\u5c6c\u85a9\u6469\u4e9e"],y.d)
+A.aJE=new C.ay("American Samoa","\ud83c\udde6\ud83c\uddf8","AS","1684",7,7)
+A.bLY=new B.a_(A.q,["Andorra","Andorra","Andora","Andorra","\u30a2\u30f3\u30c9\u30e9","Andorra","\u5b89\u9053\u5c14","Andorra","Andorra","Andorre","Andorra","Andorra","Andorra","\u0410\u043d\u0434\u043e\u0440\u0430","Andora","\u5b89\u9053\u723e","Andora","Andorra","\u0623\u0646\u062f\u0648\u0631\u0627","\u0622\u0646\u062f\u0648\u0631\u0627","\u5b89\u9053\u723e"],y.d)
+A.aGy=new C.ay("Andorra","\ud83c\udde6\ud83c\udde9","AD","376",6,6)
+A.bLn=new B.a_(A.q,["Angola","Angola","Angola","Angola","\u30a2\u30f3\u30b4\u30e9","Angola","\u5b89\u54e5\u62c9","Angola","Angola","Angola","Angola","Angola","Angola","\u0410\u043d\u0433\u043e\u043b\u0430","Angola","\u5b89\u54e5\u62c9","Angola","Angola","\u0623\u0646\u063a\u0648\u0644\u0627","\u0622\u0646\u06af\u0648\u0644\u0627","\u5b89\u54e5\u62c9"],y.d)
+A.aH2=new C.ay("Angola","\ud83c\udde6\ud83c\uddf4","AO","244",9,9)
+A.bL_=new B.a_(A.q,["Anguilla","Anguilla","Anguilla","Anguilla","\u30a2\u30f3\u30ae\u30e9","Anguilla","\u5b89\u572d\u62c9","Anguilla","Anguilla","Anguilla","Anguila","Anguilla","Anguilla","\u0410\u043d\u0433\u0432\u0438\u043b\u0430","Angvila","\u5b89\u572d\u62c9","Anguilla","Anguilla","\u0623\u0646\u063a\u0648\u064a\u0644\u0627","\u0622\u0646\u06af\u0648\u0644\u06cc\u0627","\u5b89\u572d\u62c9"],y.d)
+A.aGf=new C.ay("Anguilla","\ud83c\udde6\ud83c\uddee","AI","1264",7,7)
+A.bLx=new B.a_(A.q,["Antarkt\xedda","Ant\xe1rktis","Antarktyda","Antarktis","\u5357\u6975","Antartide","\u5357\u6781\u6d32","Antarctica","Antarktis","Antarctique","Ant\xe1rtida","Antarctica","Ant\xe1rtica","\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a","Antarktik","\u5357\u6975","Antarktika","Antarctica","\u0627\u0644\u0642\u0627\u0631\u0629 \u0627\u0644\u0642\u0637\u0628\u064a\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629","\u0642\u0637\u0628 \u062c\u0646\u0648\u0628","\u5357\u6781\u6d32"],y.d)
+A.aG_=new C.ay("Antarctica","\ud83c\udde6\ud83c\uddf6","AQ","672",6,6)
+A.bMz=new B.a_(A.q,["Antigua a Barbuda","Antigua ja Barbuda","Antigua i Barbuda","Antigua og Barbuda","\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0","Antigua e Barbuda","\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe","Antigua en Barbuda","Antigua und Barbuda","Antigua-et-Barbuda","Antigua y Barbuda","Antigua & Barbuda","Antigua e Barbuda","\u0410\u043d\u0442\u0438\u0433\u0432\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430","Antigva i Barbuda","\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054","Antigua ve Barbuda","Antigua \u015fi Barbuda","\u0623\u0646\u062a\u064a\u063a\u0648\u0627 \u0648\u0628\u0627\u0631\u0628\u0648\u062f\u0627","\u0622\u0646\u062a\u06cc\u06af\u0648\u0622 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627","\u5b89\u63d0\u74dc\u540c\u5df4\u5e03\u8fbe"],y.d)
+A.aG0=new C.ay("Antigua and Barbuda","\ud83c\udde6\ud83c\uddec","AG","1268",7,7)
+A.bLU=new B.a_(A.q,["Argent\xedna","Argentina","Argentyna","Argentina","\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3","Argentina","\u963f\u6839\u5ef7","Argentini\xeb","Argentinien","Argentine","Argentina","Argentina","Argentina","\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430","Argentina","\u963f\u6839\u5ef7","Arjantin","Argentina","\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646","\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646","\u963f\u6839\u5ef7"],y.d)
+A.aIp=new C.ay("Argentina","\ud83c\udde6\ud83c\uddf7","AR","54",12,12)
+A.bMg=new B.a_(A.q,["Arm\xe9nsko","Armenia","Armenia","Armenia","\u30a2\u30eb\u30e1\u30cb\u30a2","Armenia","\u4e9a\u7f8e\u5c3c\u4e9a","Armeni\xeb","Armenien","Arm\xe9nie","Armenia","Armenia","Arm\xeania","\u0408\u0435\u0440\u043c\u0435\u043d\u0438\u0458\u0430","Jermenija","\u4e9e\u7f8e\u5c3c\u4e9e","Ermenistan","Armenia","\u0623\u0631\u0645\u064a\u0646\u064a\u0627","\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646","\u4e9e\u7f8e\u5c3c\u4e9e"],y.d)
+A.aGN=new C.ay("Armenia","\ud83c\udde6\ud83c\uddf2","AM","374",8,8)
+A.bJu=new B.a_(A.q,["Aruba","Aruba","Aruba","Aruba","\u30a2\u30eb\u30d0","Aruba","\u963f\u9c81\u5df4","Aruba","Aruba","Aruba","Aruba","Aruba","Aruba","\u0410\u0440\u0443\u0431\u0430","Aruba","\u963f\u9b6f\u5df4","Aruba","Aruba","\u0623\u0631\u0648\u0628\u0627","\u0622\u0631\u0648\u0628\u0627","\u963f\u9b6f\u5df4\u5cf6"],y.d)
+A.aGo=new C.ay("Aruba","\ud83c\udde6\ud83c\uddfc","AW","297",7,7)
+A.bKd=new B.a_(A.q,["Austr\xe1lia","Austr\xe1lia","Australia","Australia","\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2","Australia","\u6fb3\u5927\u5229\u4e9a","Australi\xeb","Australien","Australie","Australia","Australia","Austr\xe1lia","\u0410\u0443\u0441\u0442\u0440\u0430\u043b\u0438\u0458\u0430","Australija","\u6fb3\u5dde","Avustralya","Australia","\u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627","\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627","\u6fb3\u6d32"],y.d)
+A.aHJ=new C.ay("Australia","\ud83c\udde6\ud83c\uddfa","AU","61",9,9)
+A.bKj=new B.a_(A.q,["Rak\xfasko","Nuortariika","Austria","\xd8sterrike","\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2","Austria","\u5965\u5730\u5229","Oostenrijk","\xd6sterreich","Autriche","Austria","Austria","\xc1ustria","\u0410\u0443\u0441\u0442\u0440\u0438\u0458\u0430","Austrija","\u5965\u5730\u5229","Avusturya","Austria","\u0627\u0644\u0646\u0645\u0633\u0627","\u0627\u062a\u0631\u06cc\u0634","\u5967\u5730\u5229"],y.d)
+A.aJq=new C.ay("Austria","\ud83c\udde6\ud83c\uddf9","AT","43",13,13)
+A.bMa=new B.a_(A.q,["Azerbajd\u017ean","Aserbai\u017ean","Azerbejd\u017can","Aserbajdsjan","\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3","Azerbaigian","\u963f\u585e\u62dc\u7586","Azerbeidzjan","Aserbaidschan","Azerba\xefdjan","Azerbaiy\xe1n","Azerbaijan","Azerbaij\xe3o","\u0410\u0437\u0435\u0440\u0431\u0435\u0458\u045f\u0430\u043d","Azerbejd\u017ean","\u4e9e\u585e\u62dc\u7136","Azerbaycan","Azerbaidjan","\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646","\u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646","\u963f\u585e\u62dc\u7586"],y.d)
+A.aHH=new C.ay("Azerbaijan","\ud83c\udde6\ud83c\uddff","AZ","994",9,9)
+A.bMm=new B.a_(A.q,["Bahamy","Bahamas","Bahamy","Bahamas","\u30d0\u30cf\u30de","Bahamas","\u5df4\u54c8\u9a6c","Bahama's","Bahamas","Bahamas","Bahamas","Bahamas","Bahamas","\u0411\u0430\u0445\u0430\u043c\u0435","Bahame","\u5df4\u54c8\u99ac","Bahama","Bahamas","\u0628\u0627\u0647\u0627\u0645\u0627\u0633","\u0628\u0627\u0647\u0627\u0645\u0627\u0633","\u5df4\u54c8\u99ac"],y.d)
+A.aJH=new C.ay("Bahamas","\ud83c\udde7\ud83c\uddf8","BS","1242",7,7)
+A.bJ6=new B.a_(A.q,["Bahrajn","Bahrain","Bahrajn","Bahrain","\u30d0\u30fc\u30ec\u30fc\u30f3","Bahrein","\u5df4\u6797","Bahrein","Bahrain","Bahre\xefn","Bar\xe9in","Bahrain","Bahrain","\u0411\u0430\u0445\u0440\u0435\u0438\u043d","Bahrein","\u5df4\u6797","Bahreyn","Bahrein","\u0627\u0644\u0628\u062d\u0631\u064a\u0646","\u0628\u062d\u0631\u06cc\u0646","\u5df4\u6797"],y.d)
+A.aHs=new C.ay("Bahrain","\ud83c\udde7\ud83c\udded","BH","973",8,8)
+A.bMx=new B.a_(A.q,["Banglad\xe9\u0161","Bangladesh","Bangladesz","Bangladesh","\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5","Bangladesh","\u5b5f\u52a0\u62c9\u56fd","Bangladesh","Bangladesch","Bangladesh","Banglad\xe9s","Bangladesh","Bangladesh","\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448","Banglade\u0161","\u5b5f\u52a0\u62c9","Banglade\u015f","Bangladesh","\u0628\u0646\u063a\u0644\u0627\u062f\u064a\u0634","\u0628\u0646\u06af\u0644\u0627\u062f\u0634","\u5b5f\u52a0\u62c9\u56ef"],y.d)
+A.aGT=new C.ay("Bangladesh","\ud83c\udde7\ud83c\udde9","BD","880",10,10)
+A.bLt=new B.a_(A.q,["Barbados","Barbados","Barbados","Barbados","\u30d0\u30eb\u30d0\u30c9\u30b9","Barbados","\u5df4\u5df4\u591a\u65af","Barbados","Barbados","Barbade","Barbados","Barbados","Barbados","\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441","Barbados","\u5df4\u5df4\u591a\u65af","Barbados","Barbados","\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633","\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633","\u5df4\u5df4\u591a\u65af"],y.d)
+A.aIG=new C.ay("Barbados","\ud83c\udde7\ud83c\udde7","BB","1246",7,7)
+A.bLi=new B.a_(A.q,["Bielorusko","Vilges-Ruo\u0161\u0161a","Bia\u0142oru\u015b","Hviterussland","\u30d9\u30e9\u30eb\u30fc\u30b7","Bielorussia","\u767d\u4fc4\u7f57\u65af","Belarus","Belarus","Bi\xe9lorussie","Bielorrusia","Belarus","Bielo-R\xfassia","\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0438\u0458\u0430","Belorusija","\u767d\u4fc4\u7f85\u65af","Belarus","Belarus","\u0628\u064a\u0644\u0627\u0631\u0648\u0633","\u0628\u0644\u0627\u0631\u0648\u0633","\u767d\u4fc4\u7f85\u65af"],y.d)
+A.aIU=new C.ay("Belarus","\ud83c\udde7\ud83c\uddfe","BY","375",10,10)
+A.bKz=new B.a_(A.q,["Belgicko","Belgia","Belgia","Belgia","\u30d9\u30eb\u30ae\u30fc","Belgio","\u6bd4\u5229\u65f6","Belgi\xeb","Belgien","Belgique","B\xe9lgica","Belgium","B\xe9lgica","\u0411\u0435\u043b\u0433\u0438\u0458\u0430","Belgija","\u6bd4\u5229\u6642","Bel\xe7ika","Belgia","\u0628\u0644\u062c\u064a\u0643\u0627","\u0628\u0644\u0698\u06cc\u06a9","\u6bd4\u5229\u6642"],y.d)
+A.aI4=new C.ay("Belgium","\ud83c\udde7\ud83c\uddea","BE","32",9,9)
+A.bM1=new B.a_(A.q,["Belize","Belize","Belize","Belize","\u30d9\u30ea\u30fc\u30ba","Belize","\u4f2f\u5229\u5179","Belize","Belize","Belize","Belice","Belize","Belize","\u0411\u0435\u043b\u0438\u0437\u0435","Belize","\u4f2f\u5229\u8332","Belize","Belize","\u0628\u0644\u064a\u0632","\u0628\u0644\u064a\u0632","\u4f2f\u5229\u8332"],y.d)
+A.aJF=new C.ay("Belize","\ud83c\udde7\ud83c\uddff","BZ","501",7,7)
+A.bMB=new B.a_(A.q,["Benin","Benin","Benin","Benin","\u30d9\u30ca\u30f3","Benin","\u8d1d\u5b81","Benin","Benin","B\xe9nin","Ben\xedn","Benin","Benin","\u0411\u0435\u043d\u0438\u043d","Benin","\u8c9d\u5357","Benin","Benin","\u0628\u0646\u064a\u0646","\u0628\u0646\u064a\u0646","\u8c9d\u5be7"],y.d)
+A.aGP=new C.ay("Benin","\ud83c\udde7\ud83c\uddef","BJ","229",8,8)
+A.bL9=new B.a_(A.q,["Bermudy","Bermuda","Bermudy","Bermuda","\u30d0\u30df\u30e5\u30fc\u30c0","Bermuda","\u767e\u6155\u5927","Bermuda","Bermuda","Bermudes","Bermudas","Bermuda","Bermudas","\u0411\u0435\u0440\u043c\u0443\u0434\u0430","Bermuda","\u767e\u6155\u9054","Bermuda","Insulele Bermude","\u0628\u0631\u0645\u0648\u062f\u0627","\u0628\u0631\u0645\u0648\u062f\u0627","\u767e\u6155\u5927"],y.d)
+A.aGF=new C.ay("Bermuda","\ud83c\udde7\ud83c\uddf2","BM","1441",7,7)
+A.bK8=new B.a_(A.q,["Bhut\xe1n","Bhutan","Bhutan","Bhutan","\u30d6\u30fc\u30bf\u30f3","Bhutan","\u4e0d\u4e39","Bhutan","Bhutan","Bhoutan","But\xe1n","Bhutan","But\xe3o","\u0411\u0443\u0442\u0430\u043d","Butan","\u4e0d\u4e39","Bhutan","Bhutan","\u0628\u0648\u062a\u0627\u0646","\u0628\u0648\u062a\u0627\u0646","\u4e0d\u4e39"],y.d)
+A.aGs=new C.ay("Bhutan","\ud83c\udde7\ud83c\uddf9","BT","975",8,8)
+A.bLB=new B.a_(A.q,["Bol\xedvia","Bolivia","Boliwia","Bolivia","\u30dc\u30ea\u30d3\u30a2","Bolivia","\u73bb\u5229\u7ef4\u4e9a","Bolivia","Bolivien","Bolivie","Bolivia","Bolivia","Bol\xedvia","\u0411\u043e\u043b\u0438\u0432\u0438\u0458\u0430","Bolivija","\u73bb\u5229\u7dad\u4e9e","Bolivya","Bolivia","\u0628\u0648\u0644\u064a\u0641\u064a\u0627","\u0628\u0648\u0644\u06cc\u0648\u06cc","\u73bb\u5229\u7dad\u4e9e\uff08\u591a\u6c11\u65cf\u570b\u5bb6\uff09"],y.d)
+A.aIX=new C.ay("Bolivia, Plurinational State of bolivia","\ud83c\udde7\ud83c\uddf4","BO","591",8,8)
+A.bKc=new B.a_(A.q,["Bosna a Hercegovina","Bosnia-Hercegovina","Bo\u015bnia i Hercegowina","Bosnia-Hercegovina","\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca","Bosnia ed Erzegovina","\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3","Bosni\xeb en Herzegovina","Bosnien und Herzegowina","Bosnie-Herz\xe9govine","Bosnia y Herzegovina","Bosnia & Herzegovina","B\xf3snia e Herzegovina","\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430","Bosna i Hercegovina","\u6ce2\u58eb\u5c3c\u4e9e\u548c\u9ed1\u585e\u54e5\u7dad\u90a3","Bosna Hersek","Bosnia \u0219i Her\u021begovina","\u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643","\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646","\u6ce2\u65af\u5c3c\u4e9e\u9ed1\u585e\u54e5\u7dad\u90a3"],y.d)
+A.aGv=new C.ay("Bosnia and Herzegovina","\ud83c\udde7\ud83c\udde6","BA","387",9,9)
+A.bJ2=new B.a_(A.q,["Botswana","Botswana","Botswana","Botswana","\u30dc\u30c4\u30ef\u30ca","Botswana","\u535a\u8328\u74e6\u7eb3","Botswana","Botsuana","Botswana","Botsuana","Botswana","Botswana","\u0411\u043e\u0446\u0432\u0430\u043d\u0430","Bocvana","\u535a\u8328\u74e6\u7d0d","Botsvana","Botswana","\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627","\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627","\u535a\u8328\u74e6\u7d0d"],y.d)
+A.aJp=new C.ay("Botswana","\ud83c\udde7\ud83c\uddfc","BW","267",8,8)
+A.bMF=new B.a_(A.q,["Bouvetov ostrov","Bouvet-sullot","Wyspa Bouveta","Bouvet\xf8ya","\u30d6\u30fc\u30d9\u5cf6","Isola Bouvet","\u5e03\u97e6\u5c9b","Bouveteiland","Bouvetinsel","\xcele Bouvet","Isla Bouvet","Bouvet Island","Ilha Bouvet","\u041e\u0441\u0442\u0440\u0432\u043e \u0411\u0443\u0432\u0435","Ostrvo Buve","\u5e03\u7dad\u7279\u5cf6","Bouvet Adas\u0131","Insula Bouvet","\u062c\u0632\u064a\u0631\u0629 \u0628\u0648\u0641\u064a\u0647","\u062c\u0632\u06cc\u0631\u0647 \u0628\u0648\u0648\u0647","\u5e03\u7ef4\u7279\u5c9b"],y.d)
+A.aHj=new C.ay("Bouvet Island","\ud83c\udde7\ud83c\uddfb","BV","47",15,15)
+A.bK2=new B.a_(A.q,["Braz\xedlia","Brasil","Brazylia","Brasil","\u30d6\u30e9\u30b8\u30eb","Brasile","\u5df4\u897f","Brazili\xeb","Brasilien","Br\xe9sil","Brasil","Brazil","Brasil","\u0411\u0440\u0430\u0437\u0438\u043b","Brazil","\u5df4\u897f","Brezilya","Brazilia","\u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644","\u0628\u0631\u0632\u06cc\u0644","\u5df4\u897f"],y.d)
+A.aFX=new C.ay("Brazil","\ud83c\udde7\ud83c\uddf7","BR","55",11,11)
+A.bMw=new B.a_(A.q,["Britsk\xe9 indickooce\xe1nske \xfazemie","British Indian Ocean Territory","Brytyjskie Terytorium Oceanu Indyjskiego","Det britiske territoriet i Indiahavet","\u82f1\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df","Territorio britannico dell'Oceano Indiano","\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u5730","Brits Indische Oceaanterritorium","Britisches Territorium im Indischen Ozean","Territoire britannique de l'oc\xe9an Indien","Territorio Brit\xe1nico del Oc\xe9ano \xcdndico","British Indian Ocean Territory","Territ\xf3rio Brit\xe2nico do Oceano \xcdndico","\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0458\u0430 \u0418\u043d\u0434\u0438\u0458\u0441\u043a\u043e\u0433 \u043e\u043a\u0435\u0430\u043d\u0430","Britanska teritorija Indijskog okeana","\u82f1\u5c6c\u5370\u5ea6\u6d0b\u9818\u5730","Britanya Hint Okyanusu Topraklar\u0131","Teritoriul Britanic din Oceanul Indian","\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0645\u062d\u064a\u0637 \u0627\u0644\u0647\u0646\u062f\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a","\u0633\u0631\u0632\u0645\u06cc\u0646 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0647\u0646\u062f - \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627","\u82f1\u5c6c\u5370\u5ea6\u6d0b\u9818\u571f"],y.d)
+A.aGM=new C.ay("British Indian Ocean Territory","\ud83c\uddee\ud83c\uddf4","IO","246",7,7)
+A.bJt=new B.a_(A.q,["Brunej","Brunei","Brunei","Brunei","\u30d6\u30eb\u30cd\u30a4","Brunei","\u6587\u83b1","Brunei","Brunei Darussalam","Brun\xe9i Darussalam","Brun\xe9i","Brunei","Brunei","\u0411\u0440\u0443\u043d\u0435\u0458","Brunej","\u6c76\u840a","Bruney","Brunei","\u0628\u0631\u0648\u0646\u0627\u064a","\u0628\u0631\u0648\u0646\u0626\u06cc","\u6587\u840a\u9054\u9b6f\u85a9\u862d\u570b"],y.d)
+A.aJA=new C.ay("Brunei Darussalam","\ud83c\udde7\ud83c\uddf3","BN","673",7,7)
+A.bMJ=new B.a_(A.q,["Bulharsko","Bulg\xe1ria","Bu\u0142garia","Bulgaria","\u30d6\u30eb\u30ac\u30ea\u30a2","Bulgaria","\u4fdd\u52a0\u5229\u4e9a","Bulgarije","Bulgarien","Bulgarie","Bulgaria","Bulgaria","Bulg\xe1ria","\u0411\u0443\u0433\u0430\u0440\u0441\u043a\u0430","Bugarska","\u4fdd\u52a0\u5229\u4e9e","Bulgaristan","Bulgaria","\u0628\u0644\u063a\u0627\u0631\u064a\u0627","\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646","\u4fdd\u52a0\u5229\u4e9e"],y.d)
+A.aGK=new C.ay("Bulgaria","\ud83c\udde7\ud83c\uddec","BG","359",9,9)
+A.bLG=new B.a_(A.q,["Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd","Burkina Faso","\u5e03\u57fa\u7eb3\u6cd5\u7d22","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e","Burkina Faso","\u5e03\u5409\u7d0d\u6cd5\u7d22","Burkina Faso","Burkina Faso","\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648","\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648","\u5e03\u57fa\u7d0d\u6cd5\u7d22"],y.d)
+A.aGS=new C.ay("Burkina Faso","\ud83c\udde7\ud83c\uddeb","BF","226",8,8)
+A.bJU=new B.a_(A.q,["Burundi","Burundi","Burundi","Burundi","\u30d6\u30eb\u30f3\u30b8","Burundi","\u5e03\u9686\u8fea","Burundi","Burundi","Burundi","Burundi","Burundi","Burundi","\u0411\u0443\u0440\u0443\u043d\u0434\u0438","Burundi","\u84b2\u9686\u5730","Burundi","Burundi","\u0628\u0648\u0631\u0648\u0646\u062f\u064a","\u0628\u0648\u0631\u0648\u0646\u062f\u06cc","\u84b2\u9686\u5730"],y.d)
+A.aIR=new C.ay("Burundi","\ud83c\udde7\ud83c\uddee","BI","257",8,8)
+A.bLr=new B.a_(A.q,["Kambod\u017ea","Kambod\u017ea","Kambod\u017ca","Kambodsja","\u30ab\u30f3\u30dc\u30b8\u30a2","Cambogia","\u67ec\u57d4\u5be8","Cambodja","Kambodscha","Cambodge","Camboya","Cambodia","Camboja","\u041a\u0430\u043c\u0431\u043e\u045f\u0430","Kambod\u017ea","\u67ec\u57d4\u5be8","Kambo\xe7ya","Cambogia","\u0643\u0645\u0628\u0648\u062f\u064a\u0627","\u06a9\u0627\u0645\u0628\u0648\u062c","\u67ec\u57d4\u5be8"],y.d)
+A.aJ4=new C.ay("Cambodia","\ud83c\uddf0\ud83c\udded","KH","855",9,9)
+A.bL3=new B.a_(A.q,["Kamerun","Kamerun","Kamerun","Kamerun","\u30ab\u30e1\u30eb\u30fc\u30f3","Camerun","\u5580\u9ea6\u9686","Kameroen","Kamerun","Cameroun","Camer\xfan","Cameroon","Camar\xf5es","\u041a\u0430\u043c\u0435\u0440\u0443\u043d","Kamerun","\u5580\u9ea5\u9686","Kamerun","Camerun","\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646","\u06a9\u0627\u0645\u0631\u0648\u0646","\u5580 \u9ea5 \u9686"],y.d)
+A.aHp=new C.ay("Cameroon","\ud83c\udde8\ud83c\uddf2","CM","237",9,9)
+A.bLb=new B.a_(A.q,["Kanada","Kan\xe1da","Kanada","Canada","\u30ab\u30ca\u30c0","Canada","\u52a0\u62ff\u5927","Canada","Kanada","Canada","Canad\xe1","Canada","Canad\xe1","\u041a\u0430\u043d\u0430\u0434\u0430","Kanada","\u52a0\u62ff\u5927","Kanada","Canada","\u0643\u0646\u062f\u0627","\u06a9\u0627\u0646\u0627\u062f\u0627","\u52a0\u62ff\u5927"],y.d)
+A.aIW=new C.ay("Canada","\ud83c\udde8\ud83c\udde6","CA","1",10,10)
+A.bJh=new B.a_(A.q,["Kajmanie ostrovy","Cayman-sullot","Kajmany","Cayman\xf8yene","\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6","Isole Cayman","\u5f00\u66fc\u7fa4\u5c9b","Kaaimaneilanden","Kaimaninseln","\xceles Ca\xefmans","Islas Caim\xe1n","Cayman Islands","Ilhas Cayman","\u041a\u0430\u0458\u043c\u0430\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Kajmanska Ostrva","\u958b\u66fc\u7fa4\u5cf6","Cayman Adalar\u0131","Insulele Cayman","\u062c\u0632\u0631 \u0643\u0627\u064a\u0645\u0627\u0646","\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646","\u958b\u66fc\u7fa4\u5cf6"],y.d)
+A.aIs=new C.ay("Cayman Islands","\ud83c\uddf0\ud83c\uddfe","KY","345",7,7)
+A.bJR=new B.a_(A.q,["Stredoafrick\xe1 republika","Gaska-Afrihk\xe1 d\xe1ssev\xe1ldi","Republika \u015arodkowoafryka\u0144ska","Den sentralafrikanske republikk","\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd","Repubblica Centrafricana","\u4e2d\u975e\u5171\u548c\u56fd","Centraal-Afrikaanse Republiek","Zentralafrikanische Republik","R\xe9publique centrafricaine","Rep\xfablica Centroafricana","Central African Republic","Rep\xfablica Centro-Africana","\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u043e\u0430\u0444\u0440\u0438\u0447\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430","Centralnoafri\u010dka Republika","\u4e2d\u975e\u5171\u548c\u570b","Orta Afrika Cumhuriyeti","Republica Centrafrican\u0103","\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u0641\u0631\u064a\u0642\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649","\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc","\u4e2d\u975e\u5171\u548c\u570b"],y.d)
+A.aIV=new C.ay("Central African Republic","\ud83c\udde8\ud83c\uddeb","CF","236",8,8)
+A.bL4=new B.a_(A.q,["\u010cad","T\u010dad","Czad","Tsjad","\u30c1\u30e3\u30c9","Ciad","\u4e4d\u5f97","Tsjaad","Tschad","Tchad","Chad","Chad","Chade","\u0427\u0430\u0434","\u010cad","\u67e5\u5fb7","\xc7ad","Ciad","\u062a\u0634\u0627\u062f","\u0686\u0627\u062f","\u4e4d\u5f97"],y.d)
+A.aJd=new C.ay("Chad","\ud83c\uddf9\ud83c\udde9","TD","235",7,7)
+A.bLZ=new B.a_(A.q,["\u010cile","\u010ciile","Chile","Chile","\u30c1\u30ea","Cile","\u667a\u5229","Chili","Chile","Chili","Chile","Chile","Chile","\u0427\u0438\u043b\u0435","\u010cile","\u667a\u5229","\u015eili","Chile","\u062a\u0634\u064a\u0644\u064a","\u0634\u06cc\u0644\u06cc","\u667a\u5229"],y.d)
+A.aJ0=new C.ay("Chile","\ud83c\udde8\ud83c\uddf1","CL","56",9,9)
+A.bLS=new B.a_(A.q,["\u010c\xedna","Kiinn\xe1","Chiny","Kina","\u4e2d\u56fd","Cina","\u4e2d\u56fd","China","China","Chine","China","China","China","\u041a\u0438\u043d\u0430","Kina","\u4e2d\u570b","\xc7in","China","\u0627\u0644\u0635\u064a\u0646","\u0686\u06cc\u0646","\u4e2d\u570b"],y.d)
+A.aI5=new C.ay("China","\ud83c\udde8\ud83c\uddf3","CN","86",11,12)
+A.bLF=new B.a_(A.q,["Viano\u010dn\xfd ostrov","Juovllat-sullot","Wyspa Bo\u017cego Narodzenia","Christmas\xf8ya","\u30af\u30ea\u30b9\u30de\u30b9\u5cf6","Isola Christmas","\u5723\u8bde\u5c9b","Christmaseiland","Weihnachtsinsel","\xcele Christmas","Isla de Navidad","Christmas Island","Ilha do Natal","\u0423\u0441\u043a\u0440\u0448\u045a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Uskr\u0161nja Ostrva","\u8056\u8a95\u5cf6","Christmas Adas\u0131","Insula Cr\u0103ciunului","\u062c\u0632\u064a\u0631\u0629 \u0639\u064a\u062f \u0627\u0644\u0645\u064a\u0644\u0627\u062f","\u062c\u0632\u06cc\u0631\u0647 \u06a9\u0631\u06cc\u0633\u0645\u0633","\u8056\u8a95\u5cf6"],y.d)
+A.aHY=new C.ay("Christmas Island","\ud83c\udde8\ud83c\uddfd","CX","61",15,15)
+A.bKf=new B.a_(A.q,["Kokosov\xe9 ostrovy","Cocos-sullot","Wyspy Kokosowe","Kokos\xf8yene","\u30b3\u30b3\u30b9(\u30ad\u30fc\u30ea\u30f3\u30b0)\u8af8\u5cf6","Isole Cocos (Keeling)","\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5c9b","Cocoseilanden","Kokosinseln","\xceles Cocos","Islas Cocos","Cocos (Keeling) Islands","Ilhas Cocos (Keeling)","\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Kokosova Ostrva","\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5cf6","Cocos (Keyling) Adalar\u0131","Insulele Cocos","\u062c\u0632\u0631 \u0643\u0648\u0643\u0648\u0633","\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633","\u53ef\u53ef\u5cf6\uff08\u57fa\u6797\uff09\u7fa4\u5cf6"],y.d)
+A.aIe=new C.ay("Cocos (Keeling) Islands","\ud83c\udde8\ud83c\udde8","CC","61",15,15)
+A.bJK=new B.a_(A.q,["Kolumbia","Kolombia","Kolumbia","Colombia","\u30b3\u30ed\u30f3\u30d3\u30a2","Colombia","\u54e5\u4f26\u6bd4\u4e9a","Colombia","Kolumbien","Colombie","Colombia","Colombia","Col\xf4mbia","\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u0458\u0430","Kolumbija","\u54e5\u502b\u6bd4\u4e9e","Kolombiya","Columbia","\u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627","\u06a9\u0644\u0645\u0628\u06cc\u0627","\u54e5\u502b\u6bd4\u4e9e"],y.d)
+A.aGt=new C.ay("Colombia","\ud83c\udde8\ud83c\uddf4","CO","57",10,10)
+A.bJE=new B.a_(A.q,["Komory","Komoros","Komory","Komorene","\u30b3\u30e2\u30ed","Comore","\u79d1\u6469\u7f57","Comoren","Komoren","Comores","Comoras","Comoros","Comores","\u041a\u043e\u043c\u043e\u0440\u0438","Komori","\u79d1\u6469\u7f85","Komor Adalar\u0131","Comore","\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631","\u062c\u0632\u06cc\u0631\u0647 \u06a9\u0648\u0645\u0648\u0631","\u79d1\u6469\u7f85"],y.d)
+A.aIq=new C.ay("Comoros","\ud83c\uddf0\ud83c\uddf2","KM","269",7,7)
+A.bMj=new B.a_(A.q,["Kon\u017esk\xe1 republika","Kongo-Brazzaville","Kongo","Kongo-Brazzaville","\u30b3\u30f3\u30b4\u5171\u548c\u56fd(\u30d6\u30e9\u30b6\u30d3\u30eb)","Congo-Brazzaville","\u521a\u679c\uff08\u5e03\uff09","Congo-Brazzaville","Kongo-Brazzaville","Congo-Brazzaville","Congo","Congo - Brazzaville","Rep\xfablica do Congo","\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e","Republika Kongo","\u525b\u679c\u5171\u548c\u570b\uff08\u5e03\u62c9\u67f4\u7dad\u723e\uff09","Kongo Cumhuriyeti","Republica Congo","\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648","\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0646\u06af\u0648","\u525b\u679c\uff08\u5171\u548c\u570b\uff09"],y.d)
+A.aGV=new C.ay("Congo","\ud83c\udde8\ud83c\uddec","CG","242",7,7)
+A.bJY=new B.a_(A.q,["Kon\u017esk\xe1 demokratick\xe1 republika","Kongo-Kinshasa","Demokratyczna Republika Konga","Kongo-Kinshasa","\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd(\u30ad\u30f3\u30b7\u30e3\u30b5)","Congo - Kinshasa","\u521a\u679c\uff08\u91d1\uff09","Congo-Kinshasa","Kongo-Kinshasa","Congo-Kinshasa","Rep\xfablica Democr\xe1tica del Congo","Congo - Kinshasa","Rep\xfablica Democr\xe1tica do Congo","\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e","Demokratska Republika Kongo","\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b\uff08\u91d1\u6c99\u85a9\uff09","Kongo Demokratik Cumhuriyeti","Republica Democrat\u0103 Congo","\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629","\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u06a9\u0646\u06af\u0648","\u525b\u679c\uff08\u91d1\uff09"],y.d)
+A.aJ7=new C.ay("Congo, The Democratic Republic of the Congo","\ud83c\udde8\ud83c\udde9","CD","243",9,9)
+A.bKM=new B.a_(A.q,["Cookove ostrovy","Cook-sullot","Wyspy Cooka","Cook\xf8yene","\u30af\u30c3\u30af\u8af8\u5cf6","Isole Cook","\u5e93\u514b\u7fa4\u5c9b","Cookeilanden","Cookinseln","\xceles Cook","Islas Cook","Cook Islands","Ilhas Cook","\u041a\u0443\u043a\u043e\u0432\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Kukova Ostrva","\u5eab\u514b\u7fa4\u5cf6","Cook Adalar\u0131","Insulele Cook","\u062c\u0632\u0631 \u0643\u0648\u0643","\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9","\u5eab\u514b\u7fa4\u5cf6"],y.d)
+A.aIg=new C.ay("Cook Islands","\ud83c\udde8\ud83c\uddf0","CK","682",5,5)
+A.bKr=new B.a_(A.q,["Kostarika","Costa Rica","Kostaryka","Costa Rica","\u30b3\u30b9\u30bf\u30ea\u30ab","Costa Rica","\u54e5\u65af\u8fbe\u9ece\u52a0","Costa Rica","Costa Rica","Costa Rica","Costa Rica","Costa Rica","Costa Rica","\u041a\u043e\u0441\u0442\u0430 \u0420\u0438\u043a\u0430","Kosta Rika","\u54e5\u65af\u5927\u9ece\u52a0","Kosta Rika","Costa Rica","\u0643\u0648\u0633\u062a\u0627\u0631\u064a\u0643\u0627","\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627","\u54e5\u65af\u9054\u9ece\u52a0"],y.d)
+A.aH1=new C.ay("Costa Rica","\ud83c\udde8\ud83c\uddf7","CR","506",8,8)
+A.bKb=new B.a_(A.q,["Pobre\u017eie Slonoviny","Elfenbenariddu","C\xf4te d'Ivoire","Elfenbenskysten","\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb","Costa d'Avorio","\u79d1\u7279\u8fea\u74e6","Ivoorkust","C\xf4te d'Ivoire","C\xf4te d'Ivoire","C\xf4te d'Ivoire","C\xf4te d'Ivoire","C\xf4te d'Ivoire","\u041e\u0431\u0430\u043b\u0430 \u0421\u043b\u043e\u043d\u043e\u0432\u0430\u0447\u0435","Obala Slonova\u010de","\u8c61\u7259\u6d77\u5cb8","Fildi\u015fi K\u0131y\u0131s\u0131","Coasta de filde\u0219","\u0633\u0627\u062d\u0644 \u0627\u0644\u0639\u0627\u062c","\u0633\u0627\u062d\u0644 \u0639\u0627\u062c","\u79d1\u7279\u8fea\u74e6"],y.d)
+A.aIc=new C.ay("C\xf4te d'Ivoire","\ud83c\udde8\ud83c\uddee","CI","225",10,10)
+A.bLW=new B.a_(A.q,["Chorv\xe1tsko","Kro\xe1tia","Chorwacja","Kroatia","\u30af\u30ed\u30a2\u30c1\u30a2","Croazia","\u514b\u7f57\u5730\u4e9a","Kroati\xeb","Kroatien","Croatie","Croacia","Croatia","Cro\xe1cia","\u0425\u0440\u0432\u0430\u0442\u0441\u043a\u0430","Hrvatska","\u514b\u7f85\u57c3\u897f\u4e9e","H\u0131rvatistan","Croa\u021bia","\u0643\u0631\u0648\u0627\u062a\u064a\u0627","\u06a9\u0631\u0648\u0627\u0633\u06cc","\u514b\u7f85\u5730\u4e9e"],y.d)
+A.aHx=new C.ay("Croatia","\ud83c\udded\ud83c\uddf7","HR","385",12,12)
+A.bMf=new B.a_(A.q,["Kuba","Kuba","Kuba","Cuba","\u30ad\u30e5\u30fc\u30d0","Cuba","\u53e4\u5df4","Cuba","Kuba","Cuba","Cuba","Cuba","Cuba","\u041a\u0443\u0431\u0430","Kuba","\u53e4\u5df4","K\xfcba","Cuba","\u0643\u0648\u0628\u0627","\u0643\u0648\u0628\u0627","\u53e4\u5df4"],y.d)
+A.aGJ=new C.ay("Cuba","\ud83c\udde8\ud83c\uddfa","CU","53",8,8)
+A.bJj=new B.a_(A.q,["Cyprus","Kypros","Cypr","Kypros","\u30ad\u30d7\u30ed\u30b9","Cipro","\u585e\u6d66\u8def\u65af","Cyprus","Zypern","Chypre","Chipre","Cyprus","Chipre","\u041a\u0438\u043f\u0430\u0440","Kipar","\u585e\u666e\u52d2\u65af","K\u0131br\u0131s","Cipru","\u0642\u0628\u0631\u0635","\u0642\u0628\u0631\u0633","\u585e\u6d66\u8def\u65af"],y.d)
+A.aJM=new C.ay("Cyprus","\ud83c\udde8\ud83c\uddfe","CY","357",8,8)
+A.bLQ=new B.a_(A.q,["\u010cesko","\u010ceahkka","Czechy","Tsjekkia","\u30c1\u30a7\u30b3","Cechia","\u6377\u514b","Tsjechi\xeb","Tschechien","Tch\xe9quie","Chequia","Czechia","Czechia","\u0427\u0435\u0448\u043a\u0430","\u010ce\u0161ka","\u6377\u514b","\xc7ek Cumhuriyeti","Cehia","\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0634\u064a\u0643","\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9","\u6377\u514b\u5171\u548c\u570b"],y.d)
+A.aIm=new C.ay("Czech Republic","\ud83c\udde8\ud83c\uddff","CZ","420",9,9)
+A.bMA=new B.a_(A.q,["D\xe1nsko","D\xe1nm\xe1rku","Dania","Danmark","\u30c7\u30f3\u30de\u30fc\u30af","Danimarca","\u4e39\u9ea6","Denemarken","D\xe4nemark","Danemark","Dinamarca","Denmark","Dinamarca","\u0414\u0430\u043d\u0441\u043a\u0430","Danska","\u4e39\u9ea5","Danimarka","Danemarca","\u0627\u0644\u062f\u0646\u0645\u0627\u0631\u0643","\u062f\u0627\u0646\u0645\u0627\u0631\u06a9","\u4e39\u9ea5"],y.d)
+A.aJG=new C.ay("Denmark","\ud83c\udde9\ud83c\uddf0","DK","45",8,8)
+A.bIW=new B.a_(A.q,["D\u017eibutsko","Djibouti","D\u017cibuti","Djibouti","\u30b8\u30d6\u30c1","Gibuti","\u5409\u5e03\u63d0","Djibouti","Dschibuti","Djibouti","Yibuti","Djibouti","Djibouti","\u040f\u0438\u0431\u0443\u0442\u0438","D\u017eibuti","\u5409\u5e03\u5730","Cibuti","Djibouti","\u062c\u064a\u0628\u0648\u062a\u064a","\u062c\u06cc\u0628\u0648\u062a\u06cc","\u5409\u5e03\u63d0"],y.d)
+A.aIL=new C.ay("Djibouti","\ud83c\udde9\ud83c\uddef","DJ","253",6,6)
+A.bKJ=new B.a_(A.q,["Dominika","Dominica","Dominika","Dominica","\u30c9\u30df\u30cb\u30ab\u56fd","Dominica","\u591a\u7c73\u5c3c\u514b","Dominica","Dominica","Dominique","Dominica","Dominica","Dominica","\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430","Dominika","\u591a\u660e\u5c3c\u52a0","Dominika","Dominica","\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627","\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627","\u591a\u7c73\u5c3c\u52a0"],y.d)
+A.aGn=new C.ay("Dominica","\ud83c\udde9\ud83c\uddf2","DM","1767",7,7)
+A.bKA=new B.a_(A.q,["Dominik\xe1nska republika","Dominik\xe1na d\xe1ssev\xe1ldi","Dominikana","Den dominikanske republikk","\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd","Repubblica Dominicana","\u591a\u7c73\u5c3c\u52a0\u5171\u548c\u56fd","Dominicaanse Republiek","Dominikanische Republik","R\xe9publique dominicaine","Rep\xfablica Dominicana","Dominican Republic","Rep\xfablica Dominicana","\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430","Dominikanska Republika","\u591a\u660e\u5c3c\u52a0\u5171\u548c\u570b","Dominik Cumhuriyeti","Republica Dominican\u0103","\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627\u0646","\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u0646\u06cc\u06a9\u0646","\u591a\u660e\u5c3c\u52a0\u5171\u548c\u570b"],y.d)
+A.aJ8=new C.ay("Dominican Republic","\ud83c\udde9\ud83c\uddf4","DO","1",10,10)
+A.bLg=new B.a_(A.q,["Ekv\xe1dor","Ecuador","Ekwador","Ecuador","\u30a8\u30af\u30a2\u30c9\u30eb","Ecuador","\u5384\u74dc\u591a\u5c14","Ecuador","Ecuador","\xc9quateur","Ecuador","Ecuador","Equador","\u0415\u043a\u0432\u0430\u0434\u043e\u0440","Ekvador","\u5384\u74dc\u591a","Ekvador","Ecuador","\u0627\u0644\u0625\u0643\u0648\u0627\u062f\u0648\u0631","\u0627\u0643\u0648\u0627\u062f\u0648\u0631","\u5384\u74dc\u591a\u723e"],y.d)
+A.aIA=new C.ay("Ecuador","\ud83c\uddea\ud83c\udde8","EC","593",8,9)
+A.bMM=new B.a_(A.q,["Egypt","Egypt","Egipt","Egypt","\u30a8\u30b8\u30d7\u30c8","Egitto","\u57c3\u53ca","Egypt","\xc4gypt","\xc9gypte","Egipt","Egypt","Egito","\u0415\u0433\u0438\u043f\u0430\u0442","Egipat","\u57c3\u53ca","M\u0131s\u0131r","Egipt","\u0645\u0635\u0631","\u0645\u0635\u0631","\u57c3\u53ca"],y.d)
+A.aI3=new C.ay("Egypt","\ud83c\uddea\ud83c\uddec","EG","20",10,10)
+A.bJQ=new B.a_(A.q,["Salv\xe1dor","El Salvador","Salwador","El Salvador","\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb","El Salvador","\u8428\u5c14\u74e6\u591a","El Salvador","El Salvador","Salvador","El Salvador","El Salvador","El Salvador","\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440","Salvador","\u85a9\u723e\u74e6\u591a","El Salvador","Salvador","\u0627\u0644\u0633\u0644\u0641\u0627\u062f\u0648\u0631","\u0627\u0644 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631","\u85a9\u723e\u74e6\u591a"],y.d)
+A.aH0=new C.ay("El Salvador","\ud83c\uddf8\ud83c\uddfb","SV","503",11,11)
+A.bMr=new B.a_(A.q,["Rovn\xedkov\xe1 Guinea","Ekvatori\xe1la Guinea","Gwinea R\xf3wnikowa","Ekvatorial-Guinea","\u8d64\u9053\u30ae\u30cb\u30a2","Guinea Equatoriale","\u8d64\u9053\u51e0\u5185\u4e9a","Equatoriaal-Guinea","\xc4quatorialguinea","Guin\xe9e \xe9quatoriale","Guinea Ecuatorial","Equatorial Guinea","Guin\xe9 Equatorial","\u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0458\u0430\u043b\u043d\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430","Ekvatorijalna Gvineja","\u8d64\u9053\u5e7e\u5167\u4e9e","Ekvator Ginesi","Guineea Ecuatorial\u0103","\u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629","\u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc","\u8d64\u9053\u5e7e\u5167\u4e9e"],y.d)
+A.aI_=new C.ay("Equatorial Guinea","\ud83c\uddec\ud83c\uddf6","GQ","240",6,6)
+A.bJ1=new B.a_(A.q,["Eritrea","Eritrea","Erytrea","Eritrea","\u30a8\u30ea\u30c8\u30ea\u30a2","Eritrea","\u5384\u7acb\u7279\u91cc\u4e9a","Eritrea","Eritrea","\xc9rythr\xe9e","Eritrea","Eritrea","Eritreia","\u0415\u0440\u0438\u0442\u0440\u0435\u0458\u0430","Eritreja","\u5384\u7acb\u7279\u88e1\u4e9e","Eritre","Eritreea","\u0625\u0631\u064a\u062a\u0631\u064a\u0627","\u0627\u0631\u06cc\u062a\u0631\u0647","\u5384\u7acb\u7279\u91cc\u4e9e"],y.d)
+A.aIQ=new C.ay("Eritrea","\ud83c\uddea\ud83c\uddf7","ER","291",7,7)
+A.bMn=new B.a_(A.q,["Est\xf3nsko","Estl\xe1nda","Estonia","Estland","\u30a8\u30b9\u30c8\u30cb\u30a2","Estonia","\u7231\u6c99\u5c3c\u4e9a","Estland","Estland","Estonie","Estonia","Estonia","Est\xf4nia","\u0415\u0441\u0442\u043e\u043d\u0438\u0458\u0430","Estonija","\u611b\u6c99\u5c3c\u4e9e","Estonya","Estonia","\u0625\u0633\u062a\u0648\u0646\u064a\u0627","\u0627\u0633\u062a\u0648\u0646\u06cc","\u611b\u6c99\u5c3c\u4e9e"],y.d)
+A.aG4=new C.ay("Estonia","\ud83c\uddea\ud83c\uddea","EE","372",10,10)
+A.bMI=new B.a_(A.q,["Eti\xf3pia","Etiopia","Etiopia","Etiopia","\u30a8\u30c1\u30aa\u30d4\u30a2","Etiopia","\u57c3\u585e\u4fc4\u6bd4\u4e9a","Ethiopi\xeb","\xc4thiopien","\xc9thiopie","Etiop\xeda","Ethiopia","Eti\xf3pia","\u0415\u0442\u0438\u043e\u043f\u0438\u0458\u0430","Etiopija","\u4f0a\u7d22\u6bd4\u4e9e","Etiyopya","Etiopia","\u0625\u062b\u064a\u0648\u0628\u064a\u0627","\u0627\u062a\u06cc\u0648\u067e\u06cc","\u57c3\u585e\u4fc4\u6bd4\u4e9e"],y.d)
+A.aIw=new C.ay("Ethiopia","\ud83c\uddea\ud83c\uddf9","ET","251",9,9)
+A.bJb=new B.a_(A.q,["Falklandy","Falklandsullot","Falklandy","Falklands\xf8yene","\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6","Isole Falkland","\u798f\u514b\u5170\u7fa4\u5c9b","Falklandeilanden","Falklandinseln","\xceles Malouines","Islas Malvinas","Falkland Islands","Ilhas Falkland","\u0424\u043e\u043a\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Foklandska Ostrva","\u798f\u514b\u862d\u7fa4\u5cf6","Falkland Adalar\u0131","Insulele Falklands","\u062c\u0632\u0631 \u0641\u0648\u0643\u0644\u0627\u0646\u062f","\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f","\u798f\u514b\u862d\u7fa4\u5cf6\uff08\u99ac\u723e\u7dad\u7d0d\u65af\u7fa4\u5cf6\uff09"],y.d)
+A.aIu=new C.ay("Falkland Islands (Malvinas)","\ud83c\uddeb\ud83c\uddf0","FK","500",5,5)
+A.bJM=new B.a_(A.q,["Faersk\xe9 ostrovy","Fearsullot","Wyspy Owcze","F\xe6r\xf8yene","\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6","Isole F\xe6r \xd8er","\u6cd5\u7f57\u7fa4\u5c9b","Faer\xf6er","F\xe4r\xf6er","\xceles F\xe9ro\xe9","Islas Feroe","Faroe Islands","ilhas Faroe","\u0424\u0430\u0440\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Farska Ostrva","\u6cd5\u7f85\u7fa4\u5cf6","Faroe Adalar\u0131","Insulele Feroe","\u062c\u0632\u0631 \u0641\u0627\u0631\u0648","\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648","\u6cd5\u7f85\u7fa4\u5cf6"],y.d)
+A.aI1=new C.ay("Faroe Islands","\ud83c\uddeb\ud83c\uddf4","FO","298",6,6)
+A.bMy=new B.a_(A.q,["Fid\u017ei","Fijisullot","Fid\u017ci","Fiji","\u30d5\u30a3\u30b8\u30fc","Figi","\u6590\u6d4e","Fiji","Fidschi","Fidji","Fiyi","Fiji","Fiji","\u0424\u0438\u045f\u0438","Fid\u017ei","\u6590\u6fdf","Fiji","Fiji","\u0641\u064a\u062c\u064a","\u0641\u064a\u062c\u064a","\u6590\u6fdf"],y.d)
+A.aHT=new C.ay("Fiji","\ud83c\uddeb\ud83c\uddef","FJ","679",7,7)
+A.bLj=new B.a_(A.q,["F\xednsko","Suopma","Finlandia","Finland","\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9","Finlandia","\u82ac\u5170","Finland","Finnland","Finlande","Finlandia","Finland","Finl\xe2ndia","\u0424\u0438\u043d\u0441\u043a\u0430","Finska","\u82ac\u862d","Finlandiya","Finlanda","\u0641\u0646\u0644\u0646\u062f\u0627","\u0641\u0646\u0644\u0627\u0646\u062f","\u82ac\u862d"],y.d)
+A.aHP=new C.ay("Finland","\ud83c\uddeb\ud83c\uddee","FI","358",12,12)
+A.bIX=new B.a_(A.q,["Franc\xfazsko","Frankriika","Francja","Frankrike","\u30d5\u30e9\u30f3\u30b9","Francia","\u6cd5\u56fd","Frankrijk","Frankreich","France","Francia","France","Fran\xe7a","\u0424\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0430","Francuska","\u6cd5\u570b","Fransa","Fran\u021ba","\u0641\u0631\u0646\u0633\u0627","\u0641\u0631\u0627\u0646\u0633\u0647","\u6cd5\u570b"],y.d)
+A.aJa=new C.ay("France","\ud83c\uddeb\ud83c\uddf7","FR","33",9,9)
+A.bKR=new B.a_(A.q,["Franc\xfazska Guyana","Frankriikka Guayana","Gujana Francuska","Fransk Guyana","\u4ecf\u9818\u30ae\u30a2\u30ca","Guyana francese","\u6cd5\u5c5e\u572d\u4e9a\u90a3","Frans-Guyana","Franz\xf6sisch-Guayana","Guyane fran\xe7aise","Guayana Francesa","French Guiana","Guiana Francesa","\u0424\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0430 \u0413\u0432\u0430\u0458\u0430\u043d\u0430","Francuska Gvajana","\u6cd5\u5c6c\u84cb\u4e9e\u90a3","Frans\u0131z Guyanas\u0131","Guiana Francez\u0103","\u063a\u0648\u064a\u0627\u0646\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629","\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647","\u6cd5\u5c6c\u572d\u4e9e\u90a3"],y.d)
+A.aIK=new C.ay("French Guiana","\ud83c\uddec\ud83c\uddeb","GF","594",15,15)
+A.bJz=new B.a_(A.q,["Franc\xfazska Polyn\xe9zia","Frankriikka Polynesia","Polinezja Francuska","Fransk Polynesia","\u4ecf\u9818\u30dd\u30ea\u30cd\u30b7\u30a2","Polinesia francese","\u6cd5\u5c5e\u6ce2\u5229\u5c3c\u897f\u4e9a","Frans-Polynesi\xeb","Franz\xf6sisch-Polynesien","Polyn\xe9sie fran\xe7aise","Polinesia Francesa","French Polynesia","Polin\xe9sia Francesa","\u0424\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0430 \u041f\u043e\u043b\u0438\u043d\u0435\u0437\u0438\u0458\u0430","Francuska Polinezija","\u6cd5\u5c6c\u73bb\u91cc\u5c3c\u897f\u4e9e","Frans\u0131z Polinezyas\u0131","Polinezia Francez\u0103","\u0628\u0648\u0644\u064a\u0646\u0632\u064a\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629","\u067e\u0644\u06cc\u200c\u0646\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647","\u6cd5\u5c6c\u6ce2\u5229\u5c3c\u897f\u4e9e"],y.d)
+A.aIj=new C.ay("French Polynesia","\ud83c\uddf5\ud83c\uddeb","PF","689",6,6)
+A.bLf=new B.a_(A.q,["Franc\xfazske ju\u017en\xe9 a antarktick\xe9 \xfazemia","French Southern Territories","Francuskie Terytoria Po\u0142udniowe i Antarktyczne","De franske s\xf8rterritorier","\u4ecf\u9818\u6975\u5357\u8af8\u5cf6","Terre australi francesi","\u6cd5\u5c5e\u5357\u90e8\u9886\u5730","Franse Gebieden in de zuidelijke Indische Oceaan","Franz\xf6sische S\xfcd- und Antarktisgebiete","Terres australes fran\xe7aises","Territorios Australes Franceses","French Southern Territories","Territ\xf3rios Franceses do Sul","\u0424\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0435 \u0458\u0443\u0436\u043d\u0435 \u0438 \u0430\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u043a\u0435 \u0437\u0435\u043c\u0459\u0435","Francuske ju\u017ene i antarkti\u010dke zemlje","\u6cd5\u5c6c\u5357\u90e8\u5c6c\u5730","Frans\u0131z G\xfcney ve Antarktika Topraklar\u0131","Teritoriile australe \u0219i antarctice franceze","\u0623\u0631\u0627\u0636 \u0641\u0631\u0646\u0633\u064a\u0629 \u062c\u0646\u0648\u0628\u064a\u0629 \u0648\u0623\u0646\u062a\u0627\u0631\u062a\u064a\u0643\u064a\u0629","\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u0647","\u6cd5\u570b\u5357\u90e8\u9818\u571f"],y.d)
+A.aGD=new C.ay("French Southern Territories","\ud83c\uddf9\ud83c\uddeb","TF","262",15,15)
+A.bJo=new B.a_(A.q,["Gabon","Gabon","Gabon","Gabon","\u30ac\u30dc\u30f3","Gabon","\u52a0\u84ec","Gabon","Gabun","Gabon","Gab\xf3n","Gabon","Gab\xe3o","\u0413\u0430\u0431\u043e\u043d","Gabon","\u52a0\u5f6d","Gabon","Gabon","\u0627\u0644\u063a\u0627\u0628\u0648\u0646","\u06af\u0627\u0628\u0646","\u52a0\u84ec"],y.d)
+A.aHe=new C.ay("Gabon","\ud83c\uddec\ud83c\udde6","GA","241",9,9)
+A.bK0=new B.a_(A.q,["Gambia","G\xe1mbia","Gambia","Gambia","\u30ac\u30f3\u30d3\u30a2","Gambia","\u5188\u6bd4\u4e9a","Gambia","Gambia","Gambie","Gambia","Gambia","G\xe2mbia","\u0413\u0430\u043c\u0431\u0438\u0458\u0430","Gambija","\u5ca1\u6bd4\u4e9e","Gambiya","Gambia","\u063a\u0627\u0645\u0628\u064a\u0627","\u06af\u0627\u0645\u0628\u06cc\u0627","\u5ca1\u6bd4\u4e9e"],y.d)
+A.aJL=new C.ay("Gambia","\ud83c\uddec\ud83c\uddf2","GM","220",7,7)
+A.bK1=new B.a_(A.q,["Gruz\xednsko","Georgia","Gruzja","Georgia","\u30b8\u30e7\u30fc\u30b8\u30a2","Georgia","\u683c\u9c81\u5409\u4e9a","Georgi\xeb","Georgien","G\xe9orgie","Georgia","Georgia","Georgia","\u0413\u0440\u0443\u0437\u0438\u0458\u0430","Gruzija","\u55ac\u6cbb\u4e9e","G\xfcrcistan","Georgia","\u062c\u0648\u0631\u062c\u064a\u0627","\u06af\u0631\u062c\u0633\u062a\u0627\u0646","\u683c\u9b6f\u5409\u4e9e"],y.d)
+A.aGX=new C.ay("Georgia","\ud83c\uddec\ud83c\uddea","GE","995",8,9)
+A.bLL=new B.a_(A.q,["Nemecko","Duiska","Niemcy","Tyskland","\u30c9\u30a4\u30c4","Germania","\u5fb7\u56fd","Duitsland","Deutschland","Allemagne","Alemania","Germany","Alemanha","\u041d\u0435\u043c\u0430\u0447\u043a\u0430","Nema\u010dka","\u5fb7\u570b","Almanya","Germania","\u0623\u0644\u0645\u0627\u0646\u064a\u0627","\u0622\u0644\u0645\u0627\u0646","\u5fb7\u570b"],y.d)
+A.aHw=new C.ay("Germany","\ud83c\udde9\ud83c\uddea","DE","49",9,13)
+A.bME=new B.a_(A.q,["Ghana","Ghana","Ghana","Ghana","\u30ac\u30fc\u30ca","Ghana","\u52a0\u7eb3","Ghana","Ghana","Ghana","Ghana","Ghana","Gana","\u0413\u0430\u043d\u0430","Gana","\u8fe6\u7d0d","Gana","Ghana","\u063a\u0627\u0646\u0627","\u063a\u0646\u0627","\u52a0\u7d0d"],y.d)
+A.aJh=new C.ay("Ghana","\ud83c\uddec\ud83c\udded","GH","233",9,9)
+A.bLR=new B.a_(A.q,["Gibralt\xe1r","Gibraltar","Gibraltar","Gibraltar","\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb","Gibilterra","\u76f4\u5e03\u7f57\u9640","Gibraltar","Gibraltar","Gibraltar","Gibraltar","Gibraltar","Gibraltar","\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440","Gibraltar","\u76f4\u5e03\u7f85\u9640","Cebelitar\u0131k","Gibraltar","\u062c\u0628\u0644 \u0637\u0627\u0631\u0642","\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642","\u76f4\u5e03\u7f85\u9640"],y.d)
+A.aIv=new C.ay("Gibraltar","\ud83c\uddec\ud83c\uddee","GI","350",8,8)
+A.bLk=new B.a_(A.q,["Gr\xe9cko","Greika","Grecja","Hellas","\u30ae\u30ea\u30b7\u30e3","Grecia","\u5e0c\u814a","Griekenland","Griechenland","Gr\xe8ce","Grecia","Greece","Gr\xe9cia","\u0413\u0440\u0447\u043a\u0430","Gr\u010dka","\u5e0c\u81d8","Yunanistan","Grecia","\u0627\u0644\u064a\u0648\u0646\u0627\u0646","\u06cc\u0648\u0646\u0627\u0646","\u5e0c\u81d8"],y.d)
+A.aHM=new C.ay("Greece","\ud83c\uddec\ud83c\uddf7","GR","30",10,10)
+A.bLM=new B.a_(A.q,["Gr\xf3nsko","Kalaallit Nunaat","Grenlandia","Gr\xf8nland","\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9","Groenlandia","\u683c\u9675\u5170","Groenland","Gr\xf6nland","Groenland","Groenlandia","Greenland","Groenl\xe2ndia","\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434","Grenland","\u683c\u9675\u862d","Gr\xf6nland","Groenlanda","\u062c\u0631\u064a\u0646\u0644\u0627\u0646\u062f","\u06af\u0631\u06cc\u0646\u0644\u0646\u062f","\u683c\u9675\u862d"],y.d)
+A.aG1=new C.ay("Greenland","\ud83c\uddec\ud83c\uddf1","GL","299",6,6)
+A.bLE=new B.a_(A.q,["Grenada","Grenada","Grenada","Grenada","\u30b0\u30ec\u30ca\u30c0","Grenada","\u683c\u6797\u7eb3\u8fbe","Grenada","Grenada","Grenade","Granada","Grenada","Grenada","\u0413\u0440\u0435\u043d\u0430\u0434\u0430","Grenada","\u683c\u6797\u7d0d\u9054","Grenada","Grenada","\u063a\u0631\u064a\u0646\u0627\u062f\u0627","\u06af\u0631\u0646\u0627\u062f\u0627","\u683c\u6797\u7d0d\u9054"],y.d)
+A.aIZ=new C.ay("Grenada","\ud83c\uddec\ud83c\udde9","GD","1473",7,7)
+A.bKv=new B.a_(A.q,["Guadeloupe","Guadeloupe","Gwadelupa","Guadeloupe","\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7","Guadalupa","\u74dc\u5fb7\u7f57\u666e","Guadeloupe","Guadeloupe","Guadeloupe","Guadalupe","Guadeloupe","Guadalupe","\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f","Gvadelup","\u74dc\u5730\u6d1b\u666e","Guadeloupe","Guadelupa","\u063a\u0648\u0627\u062f\u0644\u0648\u0628","\u06af\u0648\u0627\u062f\u0644\u0648\u067e","\u74dc\u5fb7\u7f57\u666e"],y.d)
+A.aG8=new C.ay("Guadeloupe","\ud83c\uddec\ud83c\uddf5","GP","590",15,15)
+A.bJ9=new B.a_(A.q,["Guam","Guam","Guam","Guam","\u30b0\u30a2\u30e0","Guam","\u5173\u5c9b","Guam","Guam","Guam","Guam","Guam","Guam","\u0413\u0432\u0430\u043c","Gvam","\u95dc\u5cf6","Guam","Guam","\u063a\u0648\u0627\u0645","\u06af\u0648\u0627\u0645","\u95dc\u5cf6"],y.d)
+A.aHQ=new C.ay("Guam","\ud83c\uddec\ud83c\uddfa","GU","1671",7,7)
+A.bJ5=new B.a_(A.q,["Guatemala","Guatemala","Gwatemala","Guatemala","\u30b0\u30a2\u30c6\u30de\u30e9","Guatemala","\u5371\u5730\u9a6c\u62c9","Guatemala","Guatemala","Guatemala","Guatemala","Guatemala","Guatemala","\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430","Gvatemala","\u74dc\u5730\u99ac\u62c9","Guatemala","Guatemala","\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627","\u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627","\u5371\u5730\u99ac\u62c9"],y.d)
+A.aJO=new C.ay("Guatemala","\ud83c\uddec\ud83c\uddf9","GT","502",8,8)
+A.bLm=new B.a_(A.q,["Guernsey","Guernsey","Guernsey","Guernsey","\u30ac\u30fc\u30f3\u30b8\u30fc","Guernsey","\u6839\u897f\u5c9b","Guernsey","Guernsey","Guernesey","Guernsey","Guernsey","Guernsey","\u0413\u0435\u0440\u043d\u0437\u0438","Gernzi","\u6839\u606f\u5cf6","Guernsey","Guernsey","\u063a\u064a\u0631\u0646\u0632\u064a","\u06af\u0631\u0646\u0632\u06cc","\u683c\u6069\u897f\u5cf6"],y.d)
+A.aHr=new C.ay("Guernsey","\ud83c\uddec\ud83c\uddec","GG","44",6,6)
+A.bKK=new B.a_(A.q,["Guinea","Guinea","Gwinea","Guinea","\u30ae\u30cb\u30a2","Guinea","\u51e0\u5185\u4e9a","Guinee","Guinea","Guin\xe9e","Guinea","Guinea","Guin\xe9","\u0413\u0432\u0438\u043d\u0435\u0458\u0430","Gvineja","\u5e7e\u5167\u4e9e","Gine","Guinea","\u063a\u064a\u0646\u064a\u0627","\u06af\u06cc\u0646\u0647","\u5e7e\u5167\u4e9e"],y.d)
+A.aHV=new C.ay("Guinea","\ud83c\uddec\ud83c\uddf3","GN","224",8,9)
+A.bM9=new B.a_(A.q,["Guinea-Bissau","Guinea-Bissau","Gwinea Bissau","Guinea-Bissau","\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6","Guinea-Bissau","\u51e0\u5185\u4e9a\u6bd4\u7ecd","Guinee-Bissau","Guinea-Bissau","Guin\xe9e-Bissau","Guinea-Bis\xe1u","Guinea-Bissau","Guin\xe9-bissau","\u0413\u0432\u0438\u043d\u0435\u0458\u0430 \u0411\u0438\u0441\u0430\u043e","Gvineja Bisao","\u5e7e\u5167\u4e9e\u6bd4\u7d22","Gine-Bissau","Guineea-Bissau","\u063a\u064a\u0646\u064a\u0627 \u0628\u064a\u0633\u0627\u0648","\u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648","\u5e7e\u5167\u4e9e\u6bd4\u7d39"],y.d)
+A.aGq=new C.ay("Guinea-Bissau","\ud83c\uddec\ud83c\uddfc","GW","245",7,7)
+A.bKx=new B.a_(A.q,["Guyana","Guyana","Gujana","Guyana","\u30ac\u30a4\u30a2\u30ca","Guyana","\u572d\u4e9a\u90a3","Guyana","Guyana","Guyana","Guyana","Guyana","Guiana","\u0413\u0432\u0430\u0458\u0430\u043d\u0430","Gvajana","\u84cb\u4e9e\u90a3","Guyana","Guyana","\u063a\u064a\u0627\u0646\u0627","\u06af\u0648\u06cc\u0627\u0646","\u572d\u4e9e\u90a3"],y.d)
+A.aHk=new C.ay("Guyana","\ud83c\uddec\ud83c\uddfe","GY","592",7,7)
+A.bJH=new B.a_(A.q,["Haiti","Haiti","Haiti","Haiti","\u30cf\u30a4\u30c1","Haiti","\u6d77\u5730","Ha\xefti","Haiti","Ha\xefti","Hait\xed","Haiti","Haiti","\u0425\u0430\u0438\u0442\u0438","Haiti","\u6d77\u5730","Haiti","Haiti","\u0647\u0627\u064a\u062a\u064a","\u0647\u0627\u0626\u06cc\u062a\u06cc","\u6d77\u5730"],y.d)
+A.aGr=new C.ay("Haiti","\ud83c\udded\ud83c\uddf9","HT","509",8,8)
+A.bKX=new B.a_(A.q,["Heardov ostrov a Macdonaldove ostrovy","Heard- ja McDonald-sullot","Wyspy Heard i McDonalda","Heard- og McDonald\xf8yene","\u30cf\u30fc\u30c9\u5cf6\u30fb\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6","Isole Heard e McDonald","\u8d6b\u5fb7\u5c9b\u548c\u9ea6\u514b\u5510\u7eb3\u7fa4\u5c9b","Heard en McDonaldeilanden","Heard und McDonaldinseln","\xceles Heard et McDonald","Islas Heard y McDonald","Heard & McDonald Islands","Ilhas Heard e McDonald","\u041e\u0441\u0442\u0440\u0432\u0430 \u0425\u0435\u0440\u0434 \u0438 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u0434","Ostrva Herd i Makdonald","\u8d6b\u5fb7\u66a8\u9ea5\u7576\u52de\u7fa4\u5cf6","Heard Adas\u0131 ve McDonald Adalar\u0131","Insula Heard \u0219i Insulele McDonald","\u062c\u0632\u064a\u0631\u0629 \u0647\u064a\u0631\u062f \u0648\u062c\u0632\u0631 \u0645\u0627\u0643\u062f\u0648\u0646\u0627\u0644\u062f","\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f","\u8d6b\u5fb7\u5c9b\u540c\u9ea6\u514b\u5510\u7eb3\u7fa4\u5c9b"],y.d)
+A.aGh=new C.ay("Heard Island and Mcdonald Islands","\ud83c\udded\ud83c\uddf2","HM","672",15,15)
+A.bJc=new B.a_(A.q,["Vatik\xe1n","Vatik\xe1na","Watykan","Vatikanstaten","\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd","Citt\xe0 del Vaticano","\u68b5\u8482\u5188","Vaticaanstad","Vatikanstadt","\xc9tat de la Cit\xe9 du Vatican","Ciudad del Vaticano","Vatican City","Cidade do Vaticano","\u0412\u0430\u0442\u0438\u043a\u0430\u043d","Vatikan","\u68b5\u8482\u5ca1","Vatikan","Vatican","\u0627\u0644\u0641\u0627\u062a\u064a\u0643\u0627\u0646","\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646","\u68b5\u8482\u5ca1\u57ce\u570b"],y.d)
+A.aJt=new C.ay("Holy See (Vatican City State)","\ud83c\uddfb\ud83c\udde6","VA","379",10,10)
+A.bK_=new B.a_(A.q,["Honduras","Honduras","Honduras","Honduras","\u30db\u30f3\u30b8\u30e5\u30e9\u30b9","Honduras","\u6d2a\u90fd\u62c9\u65af","Honduras","Honduras","Honduras","Honduras","Honduras","Honduras","\u0425\u043e\u043d\u0434\u0443\u0440\u0430\u0441","Honduras","\u5b8f\u90fd\u62c9\u65af","Honduras","Honduras","\u0647\u0646\u062f\u0648\u0631\u0627\u0633","\u0647\u0646\u062f\u0648\u0631\u0627\u0633","\u6d2a\u90fd\u62c9\u65af"],y.d)
+A.aIz=new C.ay("Honduras","\ud83c\udded\ud83c\uddf3","HN","504",8,8)
+A.bKZ=new B.a_(A.q,["Hongkong \u2013 OAO \u010c\xedny","Hongkong","SRA Hongkong (Chiny)","Hongkong S.A.R. Kina","\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a","RAS di Hong Kong","\u4e2d\u56fd\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a","Hongkong SAR van China","Sonderverwaltungsregion Hongkong","R.A.S. chinoise de Hong Kong","RAE de Hong Kong (China)","Hong Kong SAR China","RAE de Hong Kong China","\u0425\u043e\u043d\u0433 \u041a\u043e\u043d\u0433","Hong Kong","\u9999\u6e2f","Hong Kong","Hong Kong","\u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a","\u0647\u0646\u06af \u06a9\u0646\u06af","\u9999\u6e2f"],y.d)
+A.aI8=new C.ay("Hong Kong","\ud83c\udded\ud83c\uddf0","HK","852",8,8)
+A.bJr=new B.a_(A.q,["Ma\u010farsko","Ung\xe1r","W\u0119gry","Ungarn","\u30cf\u30f3\u30ac\u30ea\u30fc","Ungheria","\u5308\u7259\u5229","Hongarije","Ungarn","Hongrie","Hungr\xeda","Hungary","Hungria","\u041c\u0430\u0452\u0430\u0440\u0441\u043a\u0430","Ma\u0111arska","\u5308\u7259\u5229","Macaristan","Ungaria","\u0627\u0644\u0645\u062c\u0631","\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646","\u5308\u7259\u5229"],y.d)
+A.aJ5=new C.ay("Hungary","\ud83c\udded\ud83c\uddfa","HU","36",9,9)
+A.bLP=new B.a_(A.q,["Island","Isl\xe1nda","Islandia","Island","\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9","Islanda","\u51b0\u5c9b","IJsland","Island","Islande","Islandia","Iceland","Isl\xe2ndia","\u0418\u0441\u043b\u0430\u043d\u0434","Island","\u51b0\u5cf6","\u0130zlanda","Islanda","\u0622\u064a\u0633\u0644\u0646\u062f\u0627","\u0627\u06cc\u0633\u0644\u0646\u062f","\u51b0\u5cf6"],y.d)
+A.aIE=new C.ay("Iceland","\ud83c\uddee\ud83c\uddf8","IS","354",7,9)
+A.bJ8=new B.a_(A.q,["India","India","Indie","India","\u30a4\u30f3\u30c9","India","\u5370\u5ea6","India","Indien","Inde","India","India","\xcdndia","\u0418\u043d\u0434\u0438\u0458\u0430","Indija","\u5370\u5ea6","Hindistan","India","\u0627\u0644\u0647\u0646\u062f","\u0647\u0646\u062f","\u5370\u5ea6"],y.d)
+A.aHn=new C.ay("India","\ud83c\uddee\ud83c\uddf3","IN","91",10,10)
+A.bMi=new B.a_(A.q,["Indon\xe9zia","Indonesia","Indonezja","Indonesia","\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2","Indonesia","\u5370\u5ea6\u5c3c\u897f\u4e9a","Indonesi\xeb","Indonesien","Indon\xe9sie","Indonesia","Indonesia","Indon\xe9sia","\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0458\u0430","Indonezija","\u5370\u5c3c","Endonezya","Indonezia","\u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627","\u0627\u0646\u062f\u0648\u0646\u0632\u06cc","\u5370\u5c3c"],y.d)
+A.aIo=new C.ay("Indonesia","\ud83c\uddee\ud83c\udde9","ID","62",10,13)
+A.bKl=new B.a_(A.q,["Ir\xe1n","Iran","Iran","Iran","\u30a4\u30e9\u30f3","Iran","\u4f0a\u6717","Iran","Iran","Iran","Ir\xe1n","Iran","Ir\xe3","\u0418\u0440\u0430\u043d","Iran","\u4f0a\u6717","\u0130ran","Iran","\u0625\u064a\u0631\u0627\u0646","\u0627\u06cc\u0631\u0627\u0646","\u4f0a\u6717"],y.d)
+A.aFZ=new C.ay("Iran, Islamic Republic of Persian Gulf","\ud83c\uddee\ud83c\uddf7","IR","98",10,10)
+A.bJF=new B.a_(A.q,["Irak","Irak","Irak","Irak","\u30a4\u30e9\u30af","Iraq","\u4f0a\u62c9\u514b","Irak","Irak","Irak","Irak","Iraq","Iraque","\u0418\u0440\u0430\u043a","Irak","\u4f0a\u62c9\u514b","Irak","Irak","\u0627\u0644\u0639\u0631\u0627\u0642","\u0639\u0631\u0627\u0642","\u4f0a\u62c9\u514b"],y.d)
+A.aIx=new C.ay("Iraq","\ud83c\uddee\ud83c\uddf6","IQ","964",10,10)
+A.bK9=new B.a_(A.q,["\xcdrsko","Irl\xe1nda","Irlandia","Irland","\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9","Irlanda","\u7231\u5c14\u5170","Ierland","Irland","Irlande","Irlanda","Ireland","Irlanda","\u0418\u0440\u0441\u043a\u0430","Irska","\u611b\u723e\u862d","\u0130rlanda","Irlanda","\u0623\u064a\u0631\u0644\u0646\u062f\u0627","\u0627\u06cc\u0631\u0644\u0646\u062f","\u611b\u723e\u862d"],y.d)
+A.aHG=new C.ay("Ireland","\ud83c\uddee\ud83c\uddea","IE","353",7,9)
+A.bKe=new B.a_(A.q,["Ostrov Man","Mann-sullot","Wyspa Man","Man","\u30de\u30f3\u5cf6","Isola di Man","\u9a6c\u6069\u5c9b","Isle of Man","Isle of Man","\xcele de Man","Isla de Man","Isle of Man","Ilha de Man","\u041e\u0441\u0442\u0440\u0432\u043e \u041c\u0435\u043d","Ostrvo Men","\u66fc\u5cf6","Man Adas\u0131","Insula Man","\u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0646","\u062c\u0632\u06cc\u0631\u0647 \u0645\u0627\u0646","\u9a6c\u4f0a\u5c9b"],y.d)
+A.aJI=new C.ay("Isle of Man","\ud83c\uddee\ud83c\uddf2","IM","44",6,6)
+A.bJy=new B.a_(A.q,["Izrael","Israel","Izrael","Israel","\u30a4\u30b9\u30e9\u30a8\u30eb","Israele","\u4ee5\u8272\u5217","Isra\xebl","Israel","Isra\xebl","Israel","Israel","Israel","\u0418\u0437\u0440\u0430\u0435\u043b","Izrael","\u4ee5\u8272\u5217","\u0130srail","Israel","\u0625\u0633\u0631\u0627\u0626\u064a\u0644","\u0625\u0633\u0631\u0627\u0626\u064a\u0644","\u4ee5\u8272\u5217"],y.d)
+A.aIT=new C.ay("Israel","\ud83c\uddee\ud83c\uddf1","IL","972",9,9)
+A.bKn=new B.a_(A.q,["Taliansko","It\xe1lia","W\u0142ochy","Italia","\u30a4\u30bf\u30ea\u30a2","Italia","\u610f\u5927\u5229","Itali\xeb","Italien","Italie","Italia","Italy","It\xe1lia","\u0418\u0442\u0430\u043b\u0438\u0458\u0430","Italija","\u7fa9\u5927\u5229","\u0130talya","Italia","\u0625\u064a\u0637\u0627\u0644\u064a\u0627","\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627","\u610f\u5927\u5229"],y.d)
+A.aII=new C.ay("Campione d'Italia","\ud83c\uddee\ud83c\uddf9","IT","41",13,13)
+A.bMv=new B.a_(A.q,["Jamajka","Jamaica","Jamajka","Jamaica","\u30b8\u30e3\u30de\u30a4\u30ab","Giamaica","\u7259\u4e70\u52a0","Jamaica","Jamaika","Jama\xefque","Jamaica","Jamaica","Jamaica","\u0408\u0430\u043c\u0430\u0458\u043a\u0430","Jamajka","\u7259\u8cb7\u52a0","Jamaika","Jamaica","\u062c\u0627\u0645\u0627\u064a\u0643\u0627","\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627","\u7259\u8cb7\u52a0"],y.d)
+A.aH5=new C.ay("Jamaica","\ud83c\uddef\ud83c\uddf2","JM","1876",7,7)
+A.bLA=new B.a_(A.q,["Japonsko","Jap\xe1na","Japonia","Japan","\u65e5\u672c","Giappone","\u65e5\u672c","Japan","Japan","Japon","Jap\xf3n","Japan","Jap\xe3o","\u0408\u0430\u043f\u0430\u043d","Japan","\u65e5\u672c","Japonya","Japonia","\u0627\u0644\u064a\u0627\u0628\u0627\u0646","\u0698\u0627\u067e\u0646","\u65e5\u672c"],y.d)
+A.aGQ=new C.ay("Japan","\ud83c\uddef\ud83c\uddf5","JP","81",10,10)
+A.bJg=new B.a_(A.q,["Jersey","Jersey","Jersey","Jersey","\u30b8\u30e3\u30fc\u30b8\u30fc","Jersey","\u6cfd\u897f\u5c9b","Jersey","Jersey","Jersey","Jersey","Jersey","Jersey","\u040f\u0435\u0440\u0437\u0438","D\u017eerzi","\u6fa4\u897f","Jersey","Jersey","\u062c\u064a\u0631\u0632\u064a","\u062c\u0631\u0632\u06cc","\u6fa4\u897f"],y.d)
+A.aHc=new C.ay("Jersey","\ud83c\uddef\ud83c\uddea","JE","44",6,6)
+A.bKa=new B.a_(A.q,["Jord\xe1nsko","Jord\xe1nia","Jordania","Jordan","\u30e8\u30eb\u30c0\u30f3","Giordania","\u7ea6\u65e6","Jordani\xeb","Jordanien","Jordanie","Jordania","Jordan","Jord\xe2nia","\u0408\u043e\u0440\u0434\u0430\u043d","Jordan","\u7d04\u65e6","Mavera-i \xdcrd\xfcn","Iordania","\u0627\u0644\u0623\u0631\u062f\u0646","\u0627\u0631\u062f\u0646","\u7d04\u65e6"],y.d)
+A.aHK=new C.ay("Jordan","\ud83c\uddef\ud83c\uddf4","JO","962",9,9)
+A.bLl=new B.a_(A.q,["Kazachstan","Kasakstan","Kazachstan","Kasakhstan","\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3","Kazakistan","\u54c8\u8428\u514b\u65af\u5766","Kazachstan","Kasachstan","Kazakhstan","Kazajist\xe1n","Kazakhstan","Cazaquist\xe3o","\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d","Kazahstan","\u54c8\u85a9\u514b","Kazakistan","Kazahstan","\u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646","\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646","\u54c8\u85a9\u514b\u65af\u5766"],y.d)
+A.aIM=new C.ay("Kazakhstan","\ud83c\uddf0\ud83c\uddff","KZ","7",10,10)
+A.bLc=new B.a_(A.q,["Ke\u0148a","Kenia","Kenia","Kenya","\u30b1\u30cb\u30a2","Kenya","\u80af\u5c3c\u4e9a","Kenia","Kenia","Kenya","Kenia","Kenya","Qu\xeania","\u041a\u0435\u043d\u0438\u0458\u0430","Kenija","\u80af\u4e9e","Kenya","Kenya","\u0643\u064a\u0646\u064a\u0627","\u0643\u0646\u064a\u0627","\u80af\u96c5"],y.d)
+A.aHA=new C.ay("Kenya","\ud83c\uddf0\ud83c\uddea","KE","254",10,10)
+A.bJ3=new B.a_(A.q,["Kiribati","Kiribati","Kiribati","Kiribati","\u30ad\u30ea\u30d0\u30b9","Kiribati","\u57fa\u91cc\u5df4\u65af","Kiribati","Kiribati","Kiribati","Kiribati","Kiribati","Kiribati","\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438","Kiribati","\u5409\u91cc\u5df4\u65af","Kiribati","Kiribati","\u0643\u064a\u0631\u064a\u0628\u0627\u062a\u064a","\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc","\u57fa\u91cc\u5df4\u65af"],y.d)
+A.aGi=new C.ay("Kiribati","\ud83c\uddf0\ud83c\uddee","KI","686",5,5)
+A.bKY=new B.a_(A.q,["Severn\xe1 K\xf3rea","Davvi-Korea","Korea P\xf3\u0142nocna","Nord-Korea","\u5317\u671d\u9bae","Corea del Nord","\u671d\u9c9c","Noord-Korea","Nordkorea","Cor\xe9e du Nord","Corea del Norte","North Korea","Coreia do Norte","\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041a\u043e\u0440\u0435\u0458\u0430","Severna Koreja","\u5317\u97d3","Kuzey Kore","Coreea de Nord","\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629","\u06a9\u0631\u0647 \u0634\u0645\u0627\u0644\u06cc","\u671d\u9bae\uff08\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548a\u56ef\uff09"],y.d)
+A.aHN=new C.ay("Korea, Democratic People's Republic of Korea","\ud83c\uddf0\ud83c\uddf5","KP","850",10,10)
+A.bK6=new B.a_(A.q,["Ju\u017en\xe1 K\xf3rea","M\xe1tta-Korea","Korea Po\u0142udniowa","S\xf8r-Korea","\u97d3\u56fd","Corea del Sud","\u97e9\u56fd","Zuid-Korea","S\xfcdkorea","Cor\xe9e du Sud","Corea del Sur","South Korea","Coreia do Sul","\u0408\u0443\u0436\u043d\u0430 \u041a\u043e\u0440\u0435\u0458\u0430","Ju\u017ena Koreja","\u5357\u97d3","G\xfcney Kore","Coreea de Sud","\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629","\u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc","\u97d3\u570b\uff08\u5927\u97d3\u6c11\u570b\uff09"],y.d)
+A.aIB=new C.ay("Korea, Republic of South Korea","\ud83c\uddf0\ud83c\uddf7","KR","82",11,11)
+A.bKG=new B.a_(A.q,["Kuvajt","Kuwait","Kuwejt","Kuwait","\u30af\u30a6\u30a7\u30fc\u30c8","Kuwait","\u79d1\u5a01\u7279","Koeweit","Kuwait","Kowe\xeft","Kuwait","Kuwait","Kuwait","\u041a\u0443\u0432\u0430\u0458\u0442","Kuvajt","\u79d1\u5a01\u7279","Kuveyt","Kuweit","\u0627\u0644\u0643\u0648\u064a\u062a","\u06a9\u0648\u06cc\u062a","\u79d1\u5a01\u7279"],y.d)
+A.aGj=new C.ay("Kuwait","\ud83c\uddf0\ud83c\uddfc","KW","965",8,8)
+A.bML=new B.a_(A.q,["Kirgizsko","Kirgisistan","Kirgistan","Kirgisistan","\u30ad\u30eb\u30ae\u30b9","Kirghizistan","\u5409\u5c14\u5409\u65af\u65af\u5766","Kirgizi\xeb","Kirgisistan","Kirghizistan","Kirguist\xe1n","Kyrgyzstan","Quirguist\xe3o","\u041a\u0438\u0440\u0433\u0438\u0441\u0442\u0430\u043d","Kirgistan","\u5409\u723e\u5409\u65af","K\u0131rg\u0131zistan","K\xeerg\xeezstan","\u0642\u064a\u0631\u063a\u064a\u0632\u0633\u062a\u0627\u0646","\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646","\u5409\u723e\u5409\u65af\u65af\u5766"],y.d)
+A.aIO=new C.ay("Kyrgyzstan","\ud83c\uddf0\ud83c\uddec","KG","996",9,9)
+A.bM5=new B.a_(A.q,["Laos","Laos","Laos","Laos","\u30e9\u30aa\u30b9","Laos","\u8001\u631d","Laos","Laos","Laos","Laos","Laos","Laos","\u041b\u0430\u043e\u0441","Laos","\u5bee\u570b","Laos","Laos","\u0644\u0627\u0648\u0633","\u0644\u0627\u0626\u0648\u0633","\u8001\u64be\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u570b"],y.d)
+A.aHD=new C.ay("Laos","\ud83c\uddf1\ud83c\udde6","LA","856",10,10)
+A.bMq=new B.a_(A.q,["Loty\u0161sko","L\xe1tvia","\u0141otwa","Latvia","\u30e9\u30c8\u30d3\u30a2","Lettonia","\u62c9\u8131\u7ef4\u4e9a","Letland","Lettland","Lettonie","Letonia","Latvia","Let\xf4nia","\u041b\u0435\u0442\u043e\u043d\u0438\u0458\u0430","Letonija","\u62c9\u6258\u7dad\u4e9e","Letonya","Letonia","\u0644\u0627\u062a\u0641\u064a\u0627","\u0644\u062a\u0648\u0646\u06cc","\u62c9\u812b\u7dad\u4e9e"],y.d)
+A.aJe=new C.ay("Latvia","\ud83c\uddf1\ud83c\uddfb","LV","371",8,8)
+A.bJT=new B.a_(A.q,["Libanon","Libanon","Liban","Libanon","\u30ec\u30d0\u30ce\u30f3","Libano","\u9ece\u5df4\u5ae9","Libanon","Libanon","Liban","L\xedbano","Lebanon","L\xedbano","\u041b\u0438\u0431\u0430\u043d","Liban","\u9ece\u5df4\u5ae9","L\xfcbnan","Liban","\u0644\u0628\u0646\u0627\u0646","\u0644\u0628\u0646\u0627\u0646","\u9ece\u5df4\u5ae9"],y.d)
+A.aGW=new C.ay("Lebanon","\ud83c\uddf1\ud83c\udde7","LB","961",8,8)
+A.bLy=new B.a_(A.q,["Lesotho","Lesotho","Lesotho","Lesotho","\u30ec\u30bd\u30c8","Lesotho","\u83b1\u7d22\u6258","Lesotho","Lesotho","Lesotho","Lesoto","Lesotho","Lesoto","\u041b\u0435\u0441\u043e\u0442\u043e","Lesoto","\u8cf4\u7d22\u6258","Lesotho","Lesotho","\u0644\u064a\u0633\u0648\u062a\u0648","\u0644\u0633\u0648\u062a\u0648","\u840a\u7d22\u6258"],y.d)
+A.aIt=new C.ay("Lesotho","\ud83c\uddf1\ud83c\uddf8","LS","266",8,8)
+A.bK3=new B.a_(A.q,["Lib\xe9ria","Liberia","Liberia","Liberia","\u30ea\u30d9\u30ea\u30a2","Liberia","\u5229\u6bd4\u91cc\u4e9a","Liberia","Liberia","Lib\xe9ria","Liberia","Liberia","Lib\xe9ria","\u041b\u0438\u0431\u0435\u0440\u0438\u0458\u0430","Liberija","\u8cf4\u6bd4\u745e\u4e9e","Liberya","Liberia","\u0644\u064a\u0628\u064a\u0631\u064a\u0627","\u0644\u06cc\u0628\u0631\u06cc\u0627","\u5229\u6bd4\u91cc\u4e9e"],y.d)
+A.aIr=new C.ay("Liberia","\ud83c\uddf1\ud83c\uddf7","LR","231",8,8)
+A.bJZ=new B.a_(A.q,["L\xedbya","Libya","Libia","Libya","\u30ea\u30d3\u30a2","Libia","\u5229\u6bd4\u4e9a","Libi\xeb","Libyen","Libye","Libia","Libya","L\xedbia","\u041b\u0438\u0431\u0438\u0458\u0430","Libija","\u5229\u6bd4\u4e9e","Libya","Libia","\u0644\u064a\u0628\u064a\u0627","\u0644\u06cc\u0628\u06cc","\u5229\u6bd4\u4e9e"],y.d)
+A.aI9=new C.ay("Libyan Arab Jamahiriya","\ud83c\uddf1\ud83c\uddfe","LY","218",9,9)
+A.bIY=new B.a_(A.q,["Lichten\u0161tajnsko","Liechtenstein","Liechtenstein","Liechtenstein","\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3","Liechtenstein","\u5217\u652f\u6566\u58eb\u767b","Liechtenstein","Liechtenstein","Liechtenstein","Liechtenstein","Liechtenstein","Liechtenstein","\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0430\u0458\u043d","Lihten\u0161tajn","\u5217\u652f\u6566\u65af\u767b","Lihten\u015ftayn","Liechtenstein","\u0644\u064a\u062e\u062a\u0646\u0634\u062a\u0627\u064a\u0646","\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646","\u5217\u652f\u6566\u58eb\u767b"],y.d)
+A.aJi=new C.ay("Liechtenstein","\ud83c\uddf1\ud83c\uddee","LI","423",9,9)
+A.bJL=new B.a_(A.q,["Litva","Lietuva","Litwa","Litauen","\u30ea\u30c8\u30a2\u30cb\u30a2","Lituania","\u7acb\u9676\u5b9b","Litouwen","Litauen","Lituanie","Lituania","Lithuania","Litu\xe2nia","\u041b\u0438\u0442\u0432\u0430\u043d\u0438\u0458\u0430","Litvanija","\u7acb\u9676\u5b9b","Litvanya","Lituania","\u0644\u064a\u062a\u0648\u0627\u0646\u064a\u0627","\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc","\u7acb\u9676\u5b9b"],y.d)
+A.aHB=new C.ay("Lithuania","\ud83c\uddf1\ud83c\uddf9","LT","370",8,8)
+A.bKU=new B.a_(A.q,["Luxembursko","Luxembourg","Luksemburg","Luxemburg","\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af","Lussemburgo","\u5362\u68ee\u5821","Luxemburg","Luxemburg","Luxembourg","Luxemburgo","Luxembourg","Luxemburgo","\u041b\u0443\u043a\u0441\u0435\u043d\u0431\u0443\u0440\u0433","Luksenburg","\u76e7\u68ee\u5821","L\xfcksemburg","Luxemburg","\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063a","\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af","\u76e7\u68ee\u5821"],y.d)
+A.aH8=new C.ay("Luxembourg","\ud83c\uddf1\ud83c\uddfa","LU","352",11,11)
+A.bJV=new B.a_(A.q,["Macao \u2013 OAO \u010c\xedny","Mak\xe1o","SRA Makau (Chiny)","Macao S.A.R. Kina","\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a","RAS di Macao","\u4e2d\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a","Macau SAR van China","Sonderverwaltungsregion Macau","R.A.S. chinoise de Macao","RAE de Macao (China)","Macao SAR China","RAE de Macau China","\u041c\u0430\u043a\u0430\u043e","Makao","\u6fb3\u9580","Makao","Macao","\u0645\u0627\u0643\u0627\u0648","\u0645\u0627\u0643\u0627\u0626\u0648","\u6fb3\u9580"],y.d)
+A.aJf=new C.ay("Macao","\ud83c\uddf2\ud83c\uddf4","MO","853",8,8)
+A.bIZ=new B.a_(A.q,["Severn\xe9 Maced\xf3nsko","North Macedonia","Macedonia P\xf3\u0142nocna","Nord-Makedonia","\u5317\u30de\u30b1\u30c9\u30cb\u30a2","Macedonia del Nord","\u5317\u9a6c\u5176\u987f","Noord-Macedoni\xeb","Nordmazedonien","Mac\xe9doine du Nord","Macedonia del Norte","North Macedonia","Maced\xf4nia do Norte","\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430","Severna Makedonija","\u5317\u99ac\u5176\u9813","Kuzey Makedonya","Macedonia de Nord","\u0645\u0642\u062f\u0648\u0646\u064a\u0627","\u0645\u0642\u062f\u0648\u0646\u06cc\u0647","\u99ac\u5176\u9813\uff08\u524d\u5357\u65af\u62c9\u592b\u5171\u548c\u570b\uff09"],y.d)
+A.aHa=new C.ay("Macedonia","\ud83c\uddf2\ud83c\uddf0","MK","389",8,8)
+A.bL8=new B.a_(A.q,["Madagaskar","Madagaskar","Madagaskar","Madagaskar","\u30de\u30c0\u30ac\u30b9\u30ab\u30eb","Madagascar","\u9a6c\u8fbe\u52a0\u65af\u52a0","Madagaskar","Madagaskar","Madagascar","Madagascar","Madagascar","Madag\xe1scar","\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440","Madagaskar","\u99ac\u9054\u52a0\u65af\u52a0","Madagaskar","Madagascar","\u0645\u062f\u063a\u0634\u0642\u0631","\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631","\u99ac\u9054\u52a0\u65af\u52a0"],y.d)
+A.aJN=new C.ay("Madagascar","\ud83c\uddf2\ud83c\uddec","MG","261",10,10)
+A.bLD=new B.a_(A.q,["Malawi","Malawi","Malawi","Malawi","\u30de\u30e9\u30a6\u30a4","Malawi","\u9a6c\u62c9\u7ef4","Malawi","Malawi","Malawi","Malaui","Malawi","Malawi","\u041c\u0430\u043b\u0430\u0432\u0438","Malavi","\u99ac\u62c9\u5a01","Malavi","Malawi","\u0645\u0627\u0644\u0627\u0648\u064a","\u0645\u0627\u0644\u0627\u0648\u06cc","\u99ac\u62c9\u7dad"],y.d)
+A.aGG=new C.ay("Malawi","\ud83c\uddf2\ud83c\uddfc","MW","265",7,9)
+A.bM6=new B.a_(A.q,["Malajzia","Malesia","Malezja","Malaysia","\u30de\u30ec\u30fc\u30b7\u30a2","Malaysia","\u9a6c\u6765\u897f\u4e9a","Maleisi\xeb","Malaysia","Malaisie","Malasia","Malaysia","Mal\xe1sia","\u041c\u0430\u043b\u0435\u0437\u0438\u0458\u0430","Malezija","\u99ac\u4f86\u897f\u4e9e","Malezya","Malaezia","\u0645\u0627\u0644\u064a\u0632\u064a\u0627","\u0645\u0627\u0644\u0632\u06cc","\u99ac\u4f86\u897f\u4e9e"],y.d)
+A.aJC=new C.ay("Malaysia","\ud83c\uddf2\ud83c\uddfe","MY","60",11,11)
+A.bL7=new B.a_(A.q,["Maldivy","Malediivvat","Malediwy","Maldivene","\u30e2\u30eb\u30c7\u30a3\u30d6","Maldive","\u9a6c\u5c14\u4ee3\u592b","Maldiven","Malediven","Maldives","Maldivas","Maldives","Maldivas","\u041c\u0430\u043b\u0434\u0438\u0432\u0438","Maldivi","\u99ac\u723e\u5730\u592b","Maldivler","Maldive","\u062c\u0632\u0631 \u0627\u0644\u0645\u0627\u0644\u062f\u064a\u0641","\u0645\u0627\u0644\u062f\u06cc\u0648","\u99ac\u723e\u4ee3\u592b"],y.d)
+A.aHi=new C.ay("Maldives","\ud83c\uddf2\ud83c\uddfb","MV","960",7,7)
+A.bKN=new B.a_(A.q,["Mali","Mali","Mali","Mali","\u30de\u30ea","Mali","\u9a6c\u91cc","Mali","Mali","Mali","Mali","Mali","Mali","\u041c\u0430\u043b\u0438","Mali","\u99ac\u91cc","Mali","Mali","\u0645\u0627\u0644\u064a","\u0645\u0627\u0644\u06cc","\u99ac\u91cc"],y.d)
+A.aHu=new C.ay("Mali","\ud83c\uddf2\ud83c\uddf1","ML","223",8,8)
+A.bMC=new B.a_(A.q,["Malta","M\xe1lta","Malta","Malta","\u30de\u30eb\u30bf","Malta","\u9a6c\u8033\u4ed6","Malta","Malta","Malte","Malta","Malta","Malta","\u041c\u0430\u043b\u0442\u0430","Malta","\u99ac\u723e\u4ed6","Malta","Malta","\u0645\u0627\u0644\u0637\u0627","\u0645\u0627\u0644\u062a","\u99ac\u8033\u4ed6"],y.d)
+A.aIn=new C.ay("Malta","\ud83c\uddf2\ud83c\uddf9","MT","356",8,8)
+A.bMK=new B.a_(A.q,["Marshallove ostrovy","Marshallsullot","Wyspy Marshalla","Marshall\xf8yene","\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6","Isole Marshall","\u9a6c\u7ecd\u5c14\u7fa4\u5c9b","Marshalleilanden","Marshallinseln","\xceles Marshall","Islas Marshall","Marshall Islands","Ilhas Marshall","\u041c\u0430\u0440\u0448\u0430\u043b\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Mar\u0161alska Ostrva","\u99ac\u7d39\u723e\u7fa4\u5cf6","Marshall Adalar\u0131","Insulele Marshall","\u062c\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644","\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644","\u99ac\u7d39\u723e\u7fa4\u5cf6"],y.d)
+A.aJo=new C.ay("Marshall Islands","\ud83c\uddf2\ud83c\udded","MH","692",7,7)
+A.bLu=new B.a_(A.q,["Martinik","Martinique","Martynika","Martinique","\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af","Martinica","\u9a6c\u63d0\u5c3c\u514b","Martinique","Martinique","Martinique","Martinica","Martinique","Martinica","\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a","Martinik","\u99ac\u4e01\u5c3c\u514b","Martinique","Martinica","\u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0643","\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9","\u9a6c\u63d0\u5c3c\u514b"],y.d)
+A.aIJ=new C.ay("Martinique","\ud83c\uddf2\ud83c\uddf6","MQ","596",15,15)
+A.bKs=new B.a_(A.q,["Maurit\xe1nia","Mauret\xe1nia","Mauretania","Mauritania","\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2","Mauritania","\u6bdb\u91cc\u5854\u5c3c\u4e9a","Mauritani\xeb","Mauretanien","Mauritanie","Mauritania","Mauritania","Maurit\xe2nia","\u041c\u0430\u0443\u0440\u0438\u0442\u0430\u043d\u0438\u0458\u0430","Mauritanija","\u8305\u5229\u5854\u5c3c\u4e9e","Moritanya","Mauritania","\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627","\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc","\u6bdb\u91cc\u5854\u5c3c\u4e9e"],y.d)
+A.aJx=new C.ay("Mauritania","\ud83c\uddf2\ud83c\uddf7","MR","222",8,8)
+A.bMe=new B.a_(A.q,["Maur\xedcius","Mauritius","Mauritius","Mauritius","\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9","Mauritius","\u6bdb\u91cc\u6c42\u65af","Mauritius","Mauritius","Maurice","Mauricio","Mauritius","Maur\xedcio","\u041c\u0430\u0443\u0440\u0438\u0446\u0438\u0458\u0443\u0441","Mauricijus","\u6a21\u91cc\u897f\u65af","Mauritius","Mauritius","\u0645\u0648\u0631\u064a\u0634\u064a\u0648\u0633","\u0645\u0648\u0631\u06cc\u0633","\u6bdb\u91cc\u6c42\u65af"],y.d)
+A.aJv=new C.ay("Mauritius","\ud83c\uddf2\ud83c\uddfa","MU","230",7,8)
+A.bMG=new B.a_(A.q,["Mayotte","Mayotte","Majotta","Mayotte","\u30de\u30e8\u30c3\u30c8","Mayotte","\u9a6c\u7ea6\u7279","Mayotte","Mayotte","Mayotte","Mayotte","Mayotte","Mayotte","\u041c\u0430\u0458\u043e\u0442\u0430","Majota","\u99ac\u7d04\u7279","Mayotte","Mayotte","\u0645\u0627\u064a\u0648\u062a","\u0645\u0627\u06cc\u0648\u062a","\u99ac\u7d04\u7279"],y.d)
+A.aIk=new C.ay("Mayotte","\ud83c\uddfe\ud83c\uddf9","YT","262",9,9)
+A.bMb=new B.a_(A.q,["Mexiko","Meksiko","Meksyk","Mexico","\u30e1\u30ad\u30b7\u30b3","Messico","\u58a8\u897f\u54e5","Mexico","Mexiko","Mexique","M\xe9xico","Mexico","M\xe9xico","\u041c\u0435\u043a\u0441\u0438\u043a\u043e","Meksiko","\u58a8\u897f\u54e5","Meksika","Mexic","\u0627\u0644\u0645\u0643\u0633\u064a\u0643","\u0645\u06a9\u0632\u06cc\u06a9","\u58a8\u897f\u54e5"],y.d)
+A.aGY=new C.ay("Mexico","\ud83c\uddf2\ud83c\uddfd","MX","52",10,10)
+A.bKQ=new B.a_(A.q,["Mikron\xe9zia","Mikronesia","Mikronezja","Mikronesiaf\xf8derasjonen","\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6","Micronesia","\u5bc6\u514b\u7f57\u5c3c\u897f\u4e9a","Micronesia","Mikronesien","\xc9tats f\xe9d\xe9r\xe9s de Micron\xe9sie","Micronesia","Micronesia","Micron\xe9sia","\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0458\u0430","Mikronezija","\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e","Mikronezya","Micronezia","\u0648\u0644\u0627\u064a\u0627\u062a \u0645\u064a\u0643\u0631\u0648\u0646\u064a\u0633\u064a\u0627 \u0627\u0644\u0645\u062a\u062d\u062f\u0629","\u0627\u06cc\u0627\u0644\u0627\u062a \u0641\u062f\u0631\u0627\u0644 \u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc","\u5bc6\u514b\u7f57\u5c3c\u897f\u4e9a\uff08\u806f\u90a6\uff09"],y.d)
+A.aIC=new C.ay("Micronesia, Federated States of Micronesia","\ud83c\uddeb\ud83c\uddf2","FM","691",7,7)
+A.bJS=new B.a_(A.q,["Moldavsko","Mold\xe1via","Mo\u0142dawia","Moldova","\u30e2\u30eb\u30c9\u30d0","Moldavia","\u6469\u5c14\u591a\u74e6","Moldavi\xeb","Republik Moldau","Moldavie","Moldavia","Moldova","Moldova","\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u0458\u0430","Moldavija","\u6469\u723e\u591a\u74e6","Moldova","Moldova","\u0645\u0648\u0644\u062f\u0648\u0641\u0627","\u0645\u0648\u0644\u062f\u0627\u0648\u06cc","\u6469\u723e\u591a\u74e6\uff08\u5171\u548c\u570b\uff09"],y.d)
+A.aFY=new C.ay("Moldova","\ud83c\uddf2\ud83c\udde9","MD","373",8,8)
+A.bKO=new B.a_(A.q,["Monako","Monaco","Monako","Monaco","\u30e2\u30ca\u30b3","Monaco","\u6469\u7eb3\u54e5","Monaco","Monaco","Monaco","M\xf3naco","Monaco","M\xf4naco","\u041c\u043e\u043d\u0430\u043a\u043e","Monako","\u6469\u7d0d\u54e5","Monako","Monaco","\u0645\u0648\u0646\u0627\u0643\u0648","\u0645\u0648\u0646\u0627\u0643\u0648","\u6469\u7d0d\u54e5"],y.d)
+A.aGa=new C.ay("Monaco","\ud83c\uddf2\ud83c\udde8","MC","377",9,9)
+A.bJ4=new B.a_(A.q,["Mongolsko","Mongolia","Mongolia","Mongolia","\u30e2\u30f3\u30b4\u30eb","Mongolia","\u8499\u53e4","Mongoli\xeb","Mongolei","Mongolie","Mongolia","Mongolia","Mong\xf3lia","\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0458\u0430","Mongolija","\u8499\u53e4","Mo\u011folistan","Mongolia","\u0645\u0646\u063a\u0648\u0644\u064a\u0627","\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646","\u8499\u53e4"],y.d)
+A.aIl=new C.ay("Mongolia","\ud83c\uddf2\ud83c\uddf3","MN","976",8,8)
+A.bK7=new B.a_(A.q,["\u010cierna Hora","Montenegro","Czarnog\xf3ra","Montenegro","\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed","Montenegro","\u9ed1\u5c71","Montenegro","Montenegro","Mont\xe9n\xe9gro","Montenegro","Montenegro","Montenegro","\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430","Crna Gora","\u8499\u7279\u5167\u54e5\u7f85","Karada\u011f","Muntenegru","\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u0633\u0648\u062f","\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648","\u9ed1\u5c71"],y.d)
+A.aGE=new C.ay("Montenegro","\ud83c\uddf2\ud83c\uddea","ME","382",12,12)
+A.bJw=new B.a_(A.q,["Montserrat","Montserrat","Montserrat","Montserrat","\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8","Montserrat","\u8499\u7279\u585e\u62c9\u7279","Montserrat","Montserrat","Montserrat","Montserrat","Montserrat","Montserrat","\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0430\u0442","Montserat","\u8499\u54f2\u81d8","Montserrat","Montserrat","\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a","\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a","\u8499\u7279\u585e\u62c9\u7279"],y.d)
+A.aHv=new C.ay("Montserrat","\ud83c\uddf2\ud83c\uddf8","MS","1664",7,7)
+A.bKL=new B.a_(A.q,["Maroko","Marokko","Maroko","Marokko","\u30e2\u30ed\u30c3\u30b3","Marocco","\u6469\u6d1b\u54e5","Marokko","Marokko","Maroc","Marruecos","Morocco","Marrocos","\u041c\u0430\u0440\u043e\u043a\u043e","Maroko","\u6469\u6d1b\u54e5","Fas","Maroc","\u0627\u0644\u0645\u063a\u0631\u0628","\u0645\u0631\u0627\u06a9\u0634","\u6469\u6d1b\u54e5"],y.d)
+A.aG9=new C.ay("Morocco","\ud83c\uddf2\ud83c\udde6","MA","212",9,9)
+A.bJJ=new B.a_(A.q,["Mozambik","Mosambik","Mozambik","Mosambik","\u30e2\u30b6\u30f3\u30d3\u30fc\u30af","Mozambico","\u83ab\u6851\u6bd4\u514b","Mozambique","Mosambik","Mozambique","Mozambique","Mozambique","Mo\xe7ambique","\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a","Mozambik","\u83ab\u4e09\u6bd4\u514b","Mozambik","Mozambic","\u0645\u0648\u0632\u0645\u0628\u064a\u0642","\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9","\u83ab\u6851\u6bd4\u514b"],y.d)
+A.aJy=new C.ay("Mozambique","\ud83c\uddf2\ud83c\uddff","MZ","258",9,9)
+A.bLN=new B.a_(A.q,["Mjanmarsko","Burma","Mjanma (Birma)","Myanmar (Burma)","\u30df\u30e3\u30f3\u30de\u30fc (\u30d3\u30eb\u30de)","Myanmar (Birmania)","\u7f05\u7538","Myanmar (Birma)","Myanmar","Myanmar (Birmanie)","Myanmar (Birmania)","Myanmar (Burma)","Mianmar (Birm\xe2nia)","\u041c\u0458\u0430\u043d\u043c\u0430\u0440 (\u0411\u0443\u0440\u043c\u0430)","Mjanmar (Burma)","\u7dec\u7538","Myanmar","Myanmar","\u0645\u064a\u0627\u0646\u0645\u0627\u0631","\u0645\u06cc\u0627\u0646\u0645\u0627\u0631","\u7dec\u7538"],y.d)
+A.aHW=new C.ay("Myanmar","\ud83c\uddf2\ud83c\uddf2","MM","95",9,9)
+A.bKp=new B.a_(A.q,["Nam\xedbia","Namibia","Namibia","Namibia","\u30ca\u30df\u30d3\u30a2","Namibia","\u7eb3\u7c73\u6bd4\u4e9a","Namibi\xeb","Namibia","Namibie","Namibia","Namibia","Namibia","\u041d\u0430\u043c\u0438\u0431\u0438\u0458\u0430","Namibija","\u7d0d\u7c73\u6bd4\u4e9e","Namibya","Namibia","\u0646\u0627\u0645\u064a\u0628\u064a\u0627","\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627","\u7d0d\u7c73\u6bd4\u4e9e"],y.d)
+A.aHR=new C.ay("Namibia","\ud83c\uddf3\ud83c\udde6","NA","264",10,10)
+A.bKw=new B.a_(A.q,["Nauru","Nauru","Nauru","Nauru","\u30ca\u30a6\u30eb","Nauru","\u7459\u9c81","Nauru","Nauru","Nauru","Nauru","Nauru","Nauru","\u041d\u0430\u0443\u0440\u0443","Nauru","\u8afe\u9b6f","Nauru","Nauru","\u0646\u0627\u0648\u0631\u0648","\u0646\u0627\u0626\u0648\u0631\u0648","\u7459\u9b6f"],y.d)
+A.aJl=new C.ay("Nauru","\ud83c\uddf3\ud83c\uddf7","NR","674",7,7)
+A.bJm=new B.a_(A.q,["Nep\xe1l","Nepal","Nepal","Nepal","\u30cd\u30d1\u30fc\u30eb","Nepal","\u5c3c\u6cca\u5c14","Nepal","Nepal","N\xe9pal","Nepal","Nepal","Nepal","\u041d\u0435\u043f\u0430\u043b","Nepal","\u5c3c\u6cca\u723e","Nepal","Nepal","\u0646\u064a\u0628\u0627\u0644","\u0646\u067e\u0627\u0644","\u5c3c\u6cca\u723e"],y.d)
+A.aHb=new C.ay("Nepal","\ud83c\uddf3\ud83c\uddf5","NP","977",10,10)
+A.bJB=new B.a_(A.q,["Holandsko","Vuolleeatnamat","Holandia","Nederland","\u30aa\u30e9\u30f3\u30c0","Paesi Bassi","\u8377\u5170","Nederland","Niederlande","Pays-Bas","Pa\xedses Bajos","Netherlands","Pa\xedses Baixos","\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430","Holandija","\u8377\u862d","Hollanda","Olanda","\u0647\u0648\u0644\u0646\u062f\u0627","\u0647\u0644\u0646\u062f","\u8377\u862d"],y.d)
+A.aGl=new C.ay("Netherlands","\ud83c\uddf3\ud83c\uddf1","NL","31",9,9)
+A.bJG=new B.a_(A.q,["Nov\xe1 Kaled\xf3nia","O\u0111\u0111a-Kaledonia","Nowa Kaledonia","Ny-Caledonia","\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2","Nuova Caledonia","\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a","Nieuw-Caledoni\xeb","Neukaledonien","Nouvelle-Cal\xe9donie","Nueva Caledonia","New Caledonia","Nova Caled\xf4nia","\u041d\u043e\u0432\u0430 \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u0458\u0430","Nova Kaledonija","\u65b0\u5580\u91cc\u591a\u5c3c\u4e9e","Yeni Kaledonya","Noua Caledonie","\u0643\u0627\u0644\u064a\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629","\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f","\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a"],y.d)
+A.aGz=new C.ay("New Caledonia","\ud83c\uddf3\ud83c\udde8","NC","687",6,6)
+A.bM3=new B.a_(A.q,["Nov\xfd Z\xe9land","O\u0111\u0111a-Sel\xe1nda","Nowa Zelandia","New Zealand","\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9","Nuova Zelanda","\u65b0\u897f\u5170","Nieuw-Zeeland","Neuseeland","Nouvelle-Z\xe9lande","Nueva Zelanda","New Zealand","Nova Zel\xe2ndia","\u041d\u043e\u0432\u0438 \u0417\u0435\u043b\u0430\u043d\u0434","Novi Zeland","\u7d10\u897f\u862d","Yeni Zelanda","Noua Zeeland\u0103","\u0646\u064a\u0648\u0632\u064a\u0644\u0646\u062f\u0627","\u0646\u06cc\u0648\u0632\u0644\u0646\u062f","\u7d10\u897f\u862d"],y.d)
+A.aID=new C.ay("New Zealand","\ud83c\uddf3\ud83c\uddff","NZ","64",10,10)
+A.bKI=new B.a_(A.q,["Nikaragua","Nicaragua","Nikaragua","Nicaragua","\u30cb\u30ab\u30e9\u30b0\u30a2","Nicaragua","\u5c3c\u52a0\u62c9\u74dc","Nicaragua","Nicaragua","Nicaragua","Nicaragua","Nicaragua","Nicar\xe1gua","\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0432\u0430","Nikaragva","\u5c3c\u52a0\u62c9\u74dc","Nikaragua","Nicaragua","\u0646\u064a\u0643\u0627\u0631\u0627\u063a\u0648\u0627","\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647","\u5c3c\u52a0\u62c9\u74dc"],y.d)
+A.aJ3=new C.ay("Nicaragua","\ud83c\uddf3\ud83c\uddee","NI","505",8,8)
+A.bL6=new B.a_(A.q,["Niger","Niger","Niger","Niger","\u30cb\u30b8\u30a7\u30fc\u30eb","Niger","\u5c3c\u65e5\u5c14","Niger","Niger","Niger","N\xedger","Niger","N\xedger","\u041d\u0438\u0433\u0435\u0440","Niger","\u5c3c\u65e5\u723e","Nijer","Niger","\u0627\u0644\u0646\u064a\u062c\u0631","\u0646\u06cc\u062c\u0631","\u5c3c\u65e5\u723e"],y.d)
+A.aHz=new C.ay("Niger","\ud83c\uddf3\ud83c\uddea","NE","227",8,8)
+A.bK5=new B.a_(A.q,["Nig\xe9ria","Nigeria","Nigeria","Nigeria","\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2","Nigeria","\u5c3c\u65e5\u5229\u4e9a","Nigeria","Nigeria","Nig\xe9ria","Nigeria","Nigeria","Nig\xe9ria","\u041d\u0438\u0433\u0435\u0440\u0438\u0458\u0430","Nigerija","\u5948\u53ca\u5229\u4e9e","Nijerya","Nigeria","\u0646\u064a\u062c\u064a\u0631\u064a\u0627","\u0646\u06cc\u062c\u0631\u06cc\u0647","\u5c3c\u65e5\u5229\u4e9e"],y.d)
+A.aHS=new C.ay("Nigeria","\ud83c\uddf3\ud83c\uddec","NG","234",10,11)
+A.bMd=new B.a_(A.q,["Niue","Niue","Niue","Niue","\u30cb\u30a6\u30a8","Niue","\u7ebd\u57c3","Niue","Niue","Niue","Niue","Niue","Niue","\u041d\u0438\u0458\u0443\u0435","Nijue","\u7d10\u57c3","Niue","Niue","\u0646\u064a\u064a\u0648\u064a","\u0646\u06cc\u0648\u0648\u06cc","\u7d10\u57c3"],y.d)
+A.aHt=new C.ay("Niue","\ud83c\uddf3\ud83c\uddfa","NU","683",4,4)
+A.bLh=new B.a_(A.q,["Norfolk","Norfolksullot","Norfolk","Norfolk\xf8ya","\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6","Isola Norfolk","\u8bfa\u798f\u514b\u5c9b","Norfolk","Norfolkinsel","\xcele Norfolk","Isla Norfolk","Norfolk Island","Ilha Norfolk","\u041e\u0441\u0442\u0440\u0432\u043e \u041d\u043e\u0440\u0444\u043e\u043a","Ostrvo Norfok","\u8afe\u798f\u514b\u5cf6","Norfolk Adas\u0131","Insulele Norfolk","\u062c\u0632\u064a\u0631\u0629 \u0646\u0648\u0631\u0641\u0648\u0644\u0643","\u062c\u0632\u06cc\u0631\u0647 \u0646\u0648\u0631\u0641\u06a9","\u8bfa\u798f\u514b\u5c9b"],y.d)
+A.aHq=new C.ay("Norfolk Island","\ud83c\uddf3\ud83c\uddeb","NF","672",15,15)
+A.bJl=new B.a_(A.q,["Severn\xe9 Mari\xe1ny","Davvi-Mari\xe1nat","Mariany P\xf3\u0142nocne","Nord-Marianene","\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6","Isole Marianne settentrionali","\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b","Noordelijke Marianen","N\xf6rdliche Marianen","\xceles Mariannes du Nord","Islas Marianas del Norte","Northern Mariana Islands","Ilhas Marianas do Norte","\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u0440\u0438\u0458\u0430\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Severna Marijanska Ostrva","\u5317\u99ac\u5229\u5b89\u7d0d\u7fa4\u5cf6","Kuzey Mariana Adalar\u0131","Insulelor Mariane de Nord","\u062c\u0632\u0631 \u0645\u0627\u0631\u064a\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629","\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc","\u5317\u99ac\u91cc\u4e9e\u7d0d\u7fa4\u5cf6"],y.d)
+A.aHf=new C.ay("Northern Mariana Islands","\ud83c\uddf2\ud83c\uddf5","MP","1670",7,7)
+A.bLH=new B.a_(A.q,["N\xf3rsko","Norga","Norwegia","Norge","\u30ce\u30eb\u30a6\u30a7\u30fc","Norvegia","\u632a\u5a01","Noorwegen","Norwegen","Norv\xe8ge","Noruega","Norway","Noruega","\u041d\u043e\u0440\u0432\u0435\u0448\u043a\u0430","Norve\u0161ka","\u632a\u5a01","Norve\xe7","Norvegia","\u0627\u0644\u0646\u0631\u0648\u064a\u062c","\u0646\u0631\u0648\u0698","\u632a\u5a01"],y.d)
+A.aHC=new C.ay("Norway","\ud83c\uddf3\ud83c\uddf4","NO","47",8,8)
+A.bKt=new B.a_(A.q,["Om\xe1n","Oman","Oman","Oman","\u30aa\u30de\u30fc\u30f3","Oman","\u963f\u66fc","Oman","Oman","Oman","Om\xe1n","Oman","Om\xe3","\u041e\u043c\u0430\u043d","Oman","\u963f\u66fc","Umman","Oman","\u0639\u0645\u0627\u0646","\u0639\u0645\u0627\u0646","\u963f\u66fc"],y.d)
+A.aIb=new C.ay("Oman","\ud83c\uddf4\ud83c\uddf2","OM","968",8,8)
+A.bJX=new B.a_(A.q,["Pakistan","Pakistan","Pakistan","Pakistan","\u30d1\u30ad\u30b9\u30bf\u30f3","Pakistan","\u5df4\u57fa\u65af\u5766","Pakistan","Pakistan","Pakistan","Pakist\xe1n","Pakistan","Paquist\xe3o","\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d","Pakistan","\u5df4\u57fa\u65af\u5766","Pakistan","Pakistan","\u0628\u0627\u0643\u0633\u062a\u0627\u0646","\u067e\u0627\u06a9\u0633\u062a\u0627\u0646","\u5df4\u57fa\u65af\u5766"],y.d)
+A.aJ1=new C.ay("Pakistan","\ud83c\uddf5\ud83c\uddf0","PK","92",10,10)
+A.bLs=new B.a_(A.q,["Palau","Palau","Palau","Palau","\u30d1\u30e9\u30aa","Palau","\u5e15\u52b3","Palau","Palau","Palaos","Palaos","Palau","Palau","\u041f\u0430\u043b\u0430\u0443","Palau","\u5e1b\u7409","Palau","Palau","\u0628\u0627\u0644\u0627\u0648","\u067e\u0627\u0644\u0627\u0626\u0648","\u5e15\u52b3"],y.d)
+A.aGb=new C.ay("Palau","\ud83c\uddf5\ud83c\uddfc","PW","680",7,7)
+A.bL2=new B.a_(A.q,["Palest\xednske \xfazemia","Palestina","Terytoria Palesty\u0144skie","Det palestinske omr\xe5det","\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a","Territori palestinesi","\u5df4\u52d2\u65af\u5766\u9886\u571f","Palestijnse gebieden","Pal\xe4stinensische Autonomiegebiete","Territoires palestiniens","Territorios Palestinos","Palestinian Territories","Territ\xf3rios Palestinos","\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430","Palestina","\u5df4\u52d2\u65af\u5766","Filistin","Palestina","\u0641\u0644\u0633\u0637\u064a\u0646","\u0641\u0644\u0633\u0637\u06cc\u0646","\u5df4\u52d2\u65af\u5766\uff0c\u56fd"],y.d)
+A.aIY=new C.ay("Palestinian Territory, Occupied","\ud83c\uddf5\ud83c\uddf8","PS","970",9,9)
+A.bJN=new B.a_(A.q,["Panama","Panama","Panama","Panama","\u30d1\u30ca\u30de","Panam\xe1","\u5df4\u62ff\u9a6c","Panama","Panama","Panama","Panam\xe1","Panama","Panam\xe1","\u041f\u0430\u043d\u0430\u043c\u0430","Panama","\u5df4\u62ff\u99ac","Panama","Panama","\u0628\u0646\u0645\u0627","\u067e\u0627\u0646\u0627\u0645\u0627","\u5df4\u62ff\u99ac"],y.d)
+A.aJJ=new C.ay("Panama","\ud83c\uddf5\ud83c\udde6","PA","507",8,8)
+A.bMH=new B.a_(A.q,["Papua-Nov\xe1 Guinea","Papua-O\u0111\u0111a-Guinea","Papua-Nowa Gwinea","Papua Ny-Guinea","\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2","Papua Nuova Guinea","\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a","Papoea-Nieuw-Guinea","Papua-Neuguinea","Papouasie-Nouvelle-Guin\xe9e","Pap\xfaa Nueva Guinea","Papua New Guinea","Papua Nova Guin\xe9","\u041f\u0430\u043f\u0443\u0430 \u041d\u043e\u0432\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430","Papua Nova Gvineja","\u5df4\u5e03\u4e9e\u65b0\u5e7e\u5167\u4e9e","Papua Yeni Gine","Papua Noua Guinee","\u0628\u0627\u0628\u0648\u0627 \u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629","\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648","\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a"],y.d)
+A.aGe=new C.ay("Papua New Guinea","\ud83c\uddf5\ud83c\uddec","PG","675",11,11)
+A.bLT=new B.a_(A.q,["Paraguaj","Paraguay","Paragwaj","Paraguay","\u30d1\u30e9\u30b0\u30a2\u30a4","Paraguay","\u5df4\u62c9\u572d","Paraguay","Paraguay","Paraguay","Paraguay","Paraguay","Paraguai","\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0458","Paragvaj","\u5df4\u62c9\u572d","Paraguay","Paraguay","\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a","\u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647","\u5df4\u62c9\u572d"],y.d)
+A.aGH=new C.ay("Paraguay","\ud83c\uddf5\ud83c\uddfe","PY","595",10,10)
+A.bJI=new B.a_(A.q,["Peru","Peru","Peru","Peru","\u30da\u30eb\u30fc","Per\xf9","\u79d8\u9c81","Peru","Peru","P\xe9rou","Per\xfa","Peru","Peru","\u041f\u0435\u0440\u0443","Peru","\u79d8\u9c81","Peru","Peru","\u0628\u064a\u0631\u0648","\u067e\u0631\u0648","\u79d8\u9b6f"],y.d)
+A.aIy=new C.ay("Peru","\ud83c\uddf5\ud83c\uddea","PE","51",9,9)
+A.bLw=new B.a_(A.q,["Filip\xedny","Filippiinnat","Filipiny","Filippinene","\u30d5\u30a3\u30ea\u30d4\u30f3","Filippine","\u83f2\u5f8b\u5bbe","Filipijnen","Philippinen","Philippines","Filipinas","Philippines","Filipinas","\u0424\u0438\u043b\u0438\u043f\u0438\u043d\u0438","Filipini","\u83f2\u5f8b\u8cd3","Filipinler","Filipine","\u0627\u0644\u0641\u0644\u0628\u064a\u0646","\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646","\u83f2\u5f8b\u8cd3"],y.d)
+A.aJr=new C.ay("Philippines","\ud83c\uddf5\ud83c\udded","PH","63",10,10)
+A.bLK=new B.a_(A.q,["Pitcairnove ostrovy","Pitcairn","Pitcairn","Pitcairn\xf8yene","\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6","Isole Pitcairn","\u76ae\u7279\u51ef\u6069\u7fa4\u5c9b","Pitcairneilanden","Pitcairninseln","\xceles Pitcairn","Islas Pitcairn","Pitcairn Islands","Ilhas Pitcairn","\u041e\u0441\u0442\u0440\u0432\u0430 \u041f\u0438\u0442\u043a\u0435\u0440\u043d","Ostrva Pitkern","\u76ae\u7279\u80af\u7fa4\u5cf6","Pitcairn Adalar\u0131","Insulele Pitcairn","\u062c\u0632\u0631 \u0628\u064a\u062a\u0643\u064a\u0631\u0646","\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646","\u76ae\u7279\u51f1\u6069"],y.d)
+A.aIh=new C.ay("Pitcairn","\ud83c\uddf5\ud83c\uddf3","PN","64",10,10)
+A.bJs=new B.a_(A.q,["Po\u013esko","Polen","Polska","Polen","\u30dd\u30fc\u30e9\u30f3\u30c9","Polonia","\u6ce2\u5170","Polen","Polen","Pologne","Polonia","Poland","Pol\xf4nia","\u041f\u043e\u0459\u0441\u043a\u0430","Poljska","\u6ce2\u862d","Polonya","Polonia","\u0628\u0648\u0644\u0646\u062f\u0627","\u0644\u0647\u0633\u062a\u0627\u0646","\u6ce2\u862d"],y.d)
+A.aGO=new C.ay("Poland","\ud83c\uddf5\ud83c\uddf1","PL","48",9,9)
+A.bKi=new B.a_(A.q,["Portugalsko","Portug\xe1la","Portugalia","Portugal","\u30dd\u30eb\u30c8\u30ac\u30eb","Portogallo","\u8461\u8404\u7259","Portugal","Portugal","Portugal","Portugal","Portugal","Portugal","\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0458\u0430","Portugalija","\u8461\u8404\u7259","Portekiz","Portugalia","\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644","\u067e\u0631\u062a\u063a\u0627\u0644","\u8461\u8404\u7259"],y.d)
+A.aH3=new C.ay("Portugal","\ud83c\uddf5\ud83c\uddf9","PT","351",9,9)
+A.bKV=new B.a_(A.q,["Portoriko","Puerto Rico","Portoryko","Puerto Rico","\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3","Portorico","\u6ce2\u591a\u9ece\u5404","Puerto Rico","Puerto Rico","Porto Rico","Puerto Rico","Puerto Rico","Porto Rico","\u041f\u043e\u0440\u0442\u043e \u0420\u0438\u043a\u043e","Porto Riko","\u6ce2\u591a\u9ece\u5404","Porto Riko","Puerto Rico","\u0628\u0648\u0631\u062a\u0648\u0631\u064a\u0643\u0648","\u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648","\u6ce2\u591a\u9ece\u5404"],y.d)
+A.aI6=new C.ay("Puerto Rico","\ud83c\uddf5\ud83c\uddf7","PR","1939",15,15)
+A.bLd=new B.a_(A.q,["Katar","Qatar","Katar","Qatar","\u30ab\u30bf\u30fc\u30eb","Qatar","\u5361\u5854\u5c14","Qatar","Katar","Qatar","Catar","Qatar","Catar","\u041a\u0430\u0442\u0430\u0440","Katar","\u5361\u9054","Katar","Qatar","\u0642\u0637\u0631","\u0642\u0637\u0631","\u5361\u5854\u723e"],y.d)
+A.aG5=new C.ay("Qatar","\ud83c\uddf6\ud83c\udde6","QA","974",8,8)
+A.bJn=new B.a_(A.q,["Rumunsko","Rom\xe1nia","Rumunia","Romania","\u30eb\u30fc\u30de\u30cb\u30a2","Romania","\u7f57\u9a6c\u5c3c\u4e9a","Roemeni\xeb","Rum\xe4nien","Roumanie","Ruman\xeda","Romania","Rom\xeania","\u0420\u0443\u043c\u0443\u043d\u0438\u0458\u0430","Rumunija","\u7f85\u99ac\u5c3c\u4e9e","Romanya","Rom\xe2nia","\u0631\u0648\u0645\u0627\u0646\u064a\u0627","\u0631\u0648\u0645\u0627\u0646\u06cc","\u7f85\u99ac\u5c3c\u4e9e"],y.d)
+A.aHI=new C.ay("Romania","\ud83c\uddf7\ud83c\uddf4","RO","40",9,9)
+A.bKq=new B.a_(A.q,["Rusko","Ruo\u0161\u0161a","Rosja","Russland","\u30ed\u30b7\u30a2","Russia","\u4fc4\u7f57\u65af","Rusland","Russland","Russie","Rusia","Russia","R\xfassia","\u0420\u0443\u0441\u0438\u0458\u0430","Rusija","\u4fc4\u7f85\u65af","Rusya","Rusia","\u0631\u0648\u0633\u064a\u0627","\u0631\u0648\u0633\u06cc\u0647","\u4fc4\u5138\u65af\u806f\u90a6"],y.d)
+A.aJ_=new C.ay("Russia","\ud83c\uddf7\ud83c\uddfa","RU","7",10,10)
+A.bM4=new B.a_(A.q,["Rwanda","Rwanda","Rwanda","Rwanda","\u30eb\u30ef\u30f3\u30c0","Ruanda","\u5362\u65fa\u8fbe","Rwanda","Ruanda","Rwanda","Ruanda","Rwanda","Ruanda","\u0420\u0443\u0430\u043d\u0434\u0430","Ruanda","\u76e7\u5b89\u9054","Ruanda","Rwanda","\u0631\u0648\u0627\u0646\u062f\u0627","\u0631\u0648\u0627\u0646\u062f\u0627","\u76e7\u65fa\u9054"],y.d)
+A.aJk=new C.ay("Rwanda","\ud83c\uddf7\ud83c\uddfc","RW","250",9,9)
+A.bKT=new B.a_(A.q,["R\xe9union","R\xe9union","Reunion","R\xe9union","\u30ec\u30e6\u30cb\u30aa\u30f3","Riunione","\u7559\u5c3c\u6c6a","R\xe9union","R\xe9union","La R\xe9union","Reuni\xf3n","R\xe9union","Reuni\xe3o","\u0420\u0435\u0438\u043d\u0438\u043e\u043d","Reinion","\u7559\u5c3c\u65fa","La R\xe9union","La R\xe9union","\u0644\u0627 \u0631\u064a\u0648\u0646\u064a\u0648\u0646","\u0631\u0626\u0648\u0646\u06cc\u0648\u0646","\u7559\u5c3c\u6c6a"],y.d)
+A.aHg=new C.ay("Reunion","\ud83c\uddf7\ud83c\uddea","RE","262",9,9)
+A.bJa=new B.a_(A.q,["Sv\xe4t\xfd Bartolomej","Saint Barth\xe9lemy","Saint-Barth\xe9lemy","Saint-Barth\xe9lemy","\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc","Saint-Barth\xe9lemy","\u5723\u5df4\u6cf0\u52d2\u7c73","Saint-Barth\xe9lemy","St. Barth\xe9lemy","Saint-Barth\xe9lemy","San Bartolom\xe9","St. Barth\xe9lemy","S\xe3o Bartolomeu","\u0421\u0435\u043d\u0442 \u0411\u0430\u0440\u0442\u0435\u043b\u0435\u043c\u0438","Sent Bartelemi","\u8056\u5df4\u745f\u7c73","Saint Barth\xe9lemy","Saint Barth\xe9lemy","\u0633\u0627\u0646 \u0628\u0627\u0631\u062a\u064a\u0644\u0645\u064a","\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc","\u8056\u5df4\u6cf0\u52d2\u7c73"],y.d)
+A.aJc=new C.ay("Saint Barthelemy","\ud83c\udde7\ud83c\uddf1","BL","590",9,9)
+A.bLO=new B.a_(A.q,["Sv\xe4t\xe1 Helena","Saint Helena","Wyspa \u015awi\u0119tej Heleny","St. Helena","\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca","Sant'Elena","\u5723\u8d6b\u52d2\u62ff","Sint-Helena","St. Helena","Sainte-H\xe9l\xe8ne","Santa Elena","St. Helena","Santa Helena","\u0421\u0432\u0435\u0442\u0430 \u0408\u0435\u043b\u0435\u043d\u0430, \u0410\u0441\u0435\u043d\u0441\u0438\u043e\u043d \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d \u0434\u0430 \u041a\u0443\u045a\u0430","Sveta Jelena, Asension i Tristan de Kunja","\u8056\u51f1\u502b\u62ff\u5cf6","Saint Helena","Sf\xe2nta Elena","\u0633\u0627\u0646\u062a \u0647\u064a\u0644\u0627\u0646\u0629 \u0648\u0623\u0633\u064a\u0646\u0634\u064a\u0646 \u0648\u062a\u0631\u064a\u0633\u062a\u0627\u0646 \u062f\u0627 \u0643\u0648\u0646\u0627","\u0633\u0646\u062a \u0647\u0644\u0646","\u5723\u8d6b\u52d2\u62ff\u3001\u963f\u68ee\u677e\u540c\u7279\u91cc\u65af\u5766\xb7\u8fbe\u5e93\u5c3c\u4e9a"],y.d)
+A.aGL=new C.ay("Saint Helena, Ascension and Tristan Da Cunha","\ud83c\uddf8\ud83c\udded","SH","290",4,4)
+A.bJA=new B.a_(A.q,["Sv\xe4t\xfd Kri\u0161tof a Nevis","Saint Kitts ja Nevis","Saint Kitts i Nevis","Saint Kitts og Nevis","\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30fc\u30f4\u30a3\u30b9","Saint Kitts e Nevis","\u5723\u57fa\u8328\u548c\u5c3c\u7ef4\u65af","Saint Kitts en Nevis","St. Kitts und Nevis","Saint-Christophe-et-Ni\xe9v\xe8s","San Crist\xf3bal y Nieves","St. Kitts & Nevis","S\xe3o Crist\xf3v\xe3o e Nevis","\u0421\u0435\u043d\u0442 \u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441","Sent Kits i Nevis","\u8056\u514b\u91cc\u65af\u591a\u798f\u53ca\u5c3c\u7dad\u65af","Saint Kitts ve Nevis","Sf\xe2ntul Kitts \u0219i Nevis","\u0633\u0627\u0646\u062a \u0643\u064a\u062a\u0633 \u0648\u0646\u064a\u0641\u064a\u0633","\u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633","\u5723\u57fa\u8328\u540c\u5c3c\u7ef4\u65af"],y.d)
+A.aHl=new C.ay("Saint Kitts and Nevis","\ud83c\uddf0\ud83c\uddf3","KN","1869",7,7)
+A.bMo=new B.a_(A.q,["Sv\xe4t\xe1 Lucia","Saint Lucia","Saint Lucia","St. Lucia","\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2","Saint Lucia","\u5723\u5362\u897f\u4e9a","Saint Lucia","St. Lucia","Sainte-Lucie","Santa Luc\xeda","St. Lucia","Santa L\xfacia","\u0421\u0432\u0435\u0442\u0430 \u041b\u0443\u0446\u0438\u0458\u0430","Sveta Lucija","\u8056\u9732\u897f\u4e9e","Saint Lucia","Sf\xe2nta Elena","\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627","\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u0627","\u8056\u76e7\u897f\u4e9e"],y.d)
+A.aJw=new C.ay("Saint Lucia","\ud83c\uddf1\ud83c\udde8","LC","1758",7,7)
+A.bLa=new B.a_(A.q,["Sv\xe4t\xfd Martin (fr.)","Frankriikka Saint Martin","Saint-Martin","Saint-Martin","\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3","Saint Martin","\u6cd5\u5c5e\u5723\u9a6c\u4e01","Saint-Martin","St. Martin","Saint-Martin","San Mart\xedn","St. Martin","S\xe3o Martinho","\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d","Sveti Martin","\u8056\u99ac\u4e01","Saint Martin","Sf\xe2ntul Martin","\u062a\u062c\u0645\u0639 \u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u064a\u0646","\u0633\u0646 \u0645\u0627\u0631\u062a\u0646","\u8056\u99ac\u4e01\uff08\u6cd5\u570b\u90e8\u5206\uff09"],y.d)
+A.aJb=new C.ay("Saint Martin","\ud83c\uddf2\ud83c\uddeb","MF","590",9,9)
+A.bM0=new B.a_(A.q,["Saint Pierre a Miquelon","Saint Pierre ja Miquelon","Saint-Pierre i Miquelon","Saint-Pierre-et-Miquelon","\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6","Saint-Pierre e Miquelon","\u5723\u76ae\u57c3\u5c14\u548c\u5bc6\u514b\u9686\u7fa4\u5c9b","Saint-Pierre en Miquelon","St. Pierre und Miquelon","Saint-Pierre-et-Miquelon","San Pedro y Miquel\xf3n","St. Pierre & Miquelon","S\xe3o Pedro e Miquelon","\u0421\u0435\u043d \u041f\u0458\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d","Sen Pjer i Mikelon","\u8056\u76ae\u57c3\u8207\u5bc6\u514b\u9686\u7fa4\u5cf6","Saint Pierre ve Miquelon","Saint Pierre \u0219i Miquelon","\u0633\u0627\u0646 \u0628\u064a\u064a\u0631 \u0648\u0645\u064a\u0643\u0644\u0648\u0646","\u0633\u0646-\u067e\u06cc\u0631 \u0648 \u0645\u06cc\u06a9\u0644\u0648\u0646","\u8056\u76ae\u57c3\u5c14\u540c\u7c73\u514b\u9686"],y.d)
+A.aHm=new C.ay("Saint Pierre and Miquelon","\ud83c\uddf5\ud83c\uddf2","PM","508",6,6)
+A.bLz=new B.a_(A.q,["Sv\xe4t\xfd Vincent a Grenad\xedny","Saint Vincent ja Grenadine","Saint Vincent i Grenadyny","St. Vincent og Grenadinene","\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u53ca\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6","Saint Vincent e Grenadine","\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af","Saint Vincent en de Grenadines","St. Vincent und die Grenadinen","Saint-Vincent-et-les-Grenadines","San Vicente y las Granadinas","St. Vincent & Grenadines","S\xe3o Vicente e Granadinas","\u0421\u0432\u0435\u0442\u0438 \u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0438","Sveti Vinsent i Grenadini","\u8056\u6587\u68ee\u53ca\u683c\u745e\u90a3\u4e01","Saint Vincent ve Grenadinler","Sf\xe2ntul Vincen\u021biu \u0219i Grenadinele","\u0633\u0627\u0646\u062a \u0641\u064a\u0646\u0633\u0646\u062a \u0648\u0627\u0644\u063a\u0631\u064a\u0646\u0627\u062f\u064a\u0646","\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627","\u8056\u6587\u68ee\u7279\u540c\u683c\u6797\u7eb3\u4e01\u65af"],y.d)
+A.aGR=new C.ay("Saint Vincent and the Grenadines","\ud83c\uddfb\ud83c\udde8","VC","1784",7,7)
+A.bMu=new B.a_(A.q,["Samoa","Samoa","Samoa","Samoa","\u30b5\u30e2\u30a2","Samoa","\u8428\u6469\u4e9a","Samoa","Samoa","Samoa","Samoa","Samoa","Samoa","\u0421\u0430\u043c\u043e\u0430","Samoa","\u85a9\u6469\u4e9e","Samoa","Samoa","\u0633\u0627\u0645\u0648\u0627","\u0633\u0627\u0645\u0648\u0622","\u85a9\u6469\u4e9e"],y.d)
+A.aGZ=new C.ay("Samoa","\ud83c\uddfc\ud83c\uddf8","WS","685",7,7)
+A.bKW=new B.a_(A.q,["San Mar\xedno","San Marino","San Marino","San Marino","\u30b5\u30f3\u30de\u30ea\u30ce","San Marino","\u5723\u9a6c\u529b\u8bfa","San Marino","San Marino","Saint-Marin","San Marino","San Marino","San Marino","\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e","San Marino","\u8056\u99ac\u5229\u8afe","San Marino","San Marino","\u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648","\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648","\u8056\u99ac\u529b\u8afe"],y.d)
+A.aI2=new C.ay("San Marino","\ud83c\uddf8\ud83c\uddf2","SM","378",10,10)
+A.bLe=new B.a_(A.q,["Sv\xe4t\xfd Tom\xe1\u0161 a Princov ostrov","S\xe3o Tom\xe9 ja Pr\xedncipe","Wyspy \u015awi\u0119tego Tomasza i Ksi\u0105\u017c\u0119ca","S\xe3o Tom\xe9 og Pr\xedncipe","\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da","S\xe3o Tom\xe9 e Pr\xedncipe","\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4","Sao Tom\xe9 en Principe","S\xe3o Tom\xe9 und Pr\xedncipe","Sao Tom\xe9-et-Principe","Santo Tom\xe9 y Pr\xedncipe","S\xe3o Tom\xe9 & Pr\xedncipe","S\xe3o Tom\xe9 e Pr\xedncipe","\u0421\u0430\u043e \u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435","Sao Tome i Prinsipe","\u8056\u591a\u7f8e\u666e\u6797\u897f\u6bd4","S\xe3o Tom\xe9 ve Pr\xedncipe","Sao Tome \u015fi Principe","\u0633\u0627\u0648 \u062a\u0648\u0645\u064a \u0648\u0628\u0631\u064a\u0646\u0633\u064a\u0628","\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647 \u0648 \u067e\u0631\u0646\u0633\u06cc\u067e","\u8056\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"],y.d)
+A.aIP=new C.ay("Sao Tome and Principe","\ud83c\uddf8\ud83c\uddf9","ST","239",7,7)
+A.bMD=new B.a_(A.q,["Saudsk\xe1 Ar\xe1bia","Saudi-Ar\xe1bia","Arabia Saudyjska","Saudi-Arabia","\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2","Arabia Saudita","\u6c99\u7279\u963f\u62c9\u4f2f","Saoedi-Arabi\xeb","Saudi-Arabien","Arabie saoudite","Arabia Saud\xed","Saudi Arabia","Ar\xe1bia Saudita","\u0421\u0430\u0443\u0434\u0438\u0458\u0441\u043a\u0430 \u0410\u0440\u0430\u0431\u0438\u0458\u0430","Saudijska Arabija","\u6c99\u70cf\u5730\u963f\u62c9","Suudi Arabistan","Arabia Saudit\u0103","\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629","\u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc","\u6c99\u5730\u963f\u62c9\u4f2f"],y.d)
+A.aG2=new C.ay("Saudi Arabia","\ud83c\uddf8\ud83c\udde6","SA","966",9,9)
+A.bJ_=new B.a_(A.q,["Senegal","Senegal","Senegal","Senegal","\u30bb\u30cd\u30ac\u30eb","Senegal","\u585e\u5185\u52a0\u5c14","Senegal","Senegal","S\xe9n\xe9gal","Senegal","Senegal","Senegal","\u0421\u0435\u043d\u0435\u0433\u0430\u043b","Senegal","\u585e\u5167\u52a0\u723e","Senegal","Senegal","\u0627\u0644\u0633\u0646\u063a\u0627\u0644","\u0633\u0646\u06af\u0627\u0644","\u585e\u5167\u52a0\u723e"],y.d)
+A.aHZ=new C.ay("Senegal","\ud83c\uddf8\ud83c\uddf3","SN","221",9,9)
+A.bLC=new B.a_(A.q,["Srbsko","Serbia","Serbia","Serbia","\u30bb\u30eb\u30d3\u30a2","Serbia","\u585e\u5c14\u7ef4\u4e9a","Servi\xeb","Serbien","Serbie","Serbia","Serbia","S\xe9rvia","\u0421\u0440\u0431\u0438\u0458\u0430","Srbija","\u585e\u723e\u7dad\u4e9e","S\u0131rbistan","Serbia","\u0635\u0631\u0628\u064a\u0627","\u0635\u0631\u0628\u0633\u062a\u0627\u0646","\u585e\u723e\u7dad\u4e9e"],y.d)
+A.aIF=new C.ay("Serbia","\ud83c\uddf7\ud83c\uddf8","RS","381",12,12)
+A.bJC=new B.a_(A.q,["Seychely","Seychellsullot","Seszele","Seychellene","\u30bb\u30fc\u30b7\u30a7\u30eb","Seychelles","\u585e\u820c\u5c14","Seychellen","Seychellen","Seychelles","Seychelles","Seychelles","Seychelles","\u0421\u0435\u0458\u0448\u0435\u043b\u0438","Sej\u0161eli","\u585e\u5e2d\u723e","Sey\u015feller","Seychelles","\u0633\u064a\u0634\u0644","\u0633\u06cc\u0634\u0644","\u585e\u820c\u723e"],y.d)
+A.aHL=new C.ay("Seychelles","\ud83c\uddf8\ud83c\udde8","SC","248",6,6)
+A.bMc=new B.a_(A.q,["Sierra Leone","Sierra Leone","Sierra Leone","Sierra Leone","\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd","Sierra Leone","\u585e\u62c9\u5229\u6602","Sierra Leone","Sierra Leone","Sierra Leone","Sierra Leona","Sierra Leone","Serra Leoa","\u0421\u0438\u0458\u0435\u0440\u0430 \u041b\u0435\u043e\u043d\u0435","Sijera Leone","\u7345\u5b50\u5c71","Sierra Leone","Sierra Leone","\u0633\u064a\u0631\u0627\u0644\u064a\u0648\u0646","\u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646","\u585e\u62c9\u5229\u6602"],y.d)
+A.aGA=new C.ay("Sierra Leone","\ud83c\uddf8\ud83c\uddf1","SL","232",8,8)
+A.bKh=new B.a_(A.q,["Singapur","Singapore","Singapur","Singapore","\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb","Singapore","\u65b0\u52a0\u5761","Singapore","Singapur","Singapour","Singapur","Singapore","Cingapura","\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440","Singapur","\u65b0\u52a0\u5761","Singapur","Singapore","\u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629","\u0633\u0646\u06af\u0627\u067e\u0648\u0631","\u661f\u67b6\u5761"],y.d)
+A.aGI=new C.ay("Singapore","\ud83c\uddf8\ud83c\uddec","SG","65",8,8)
+A.bKD=new B.a_(A.q,["Slovensko","Slov\xe1kia","S\u0142owacja","Slovakia","\u30b9\u30ed\u30d0\u30ad\u30a2","Slovacchia","\u65af\u6d1b\u4f10\u514b","Slowakije","Slowakei","Slovaquie","Eslovaquia","Slovakia","Eslov\xe1quia","\u0421\u043b\u043e\u0432\u0430\u0447\u043a\u0430","Slova\u010dka","\u65af\u6d1b\u4f10\u514b","Slovakya","Slovacia","\u0633\u0644\u0648\u0641\u0627\u0643\u064a\u0627","\u0627\u0633\u0644\u0648\u0627\u06a9\u06cc","\u65af\u6d1b\u4f10\u514b"],y.d)
+A.aG7=new C.ay("Slovakia","\ud83c\uddf8\ud83c\uddf0","SK","421",9,9)
+A.bKB=new B.a_(A.q,["Slovinsko","Slovenia","S\u0142owenia","Slovenia","\u30b9\u30ed\u30d9\u30cb\u30a2","Slovenia","\u65af\u6d1b\u6587\u5c3c\u4e9a","Sloveni\xeb","Slowenien","Slov\xe9nie","Eslovenia","Slovenia","Eslov\xeania","\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u0458\u0435","Slovenija","\u65af\u6d1b\u7dad\u5c3c\u4e9e","Slovenya","Slovenia","\u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627","\u0627\u0633\u0644\u0648\u0648\u0646\u06cc","\u65af\u6d1b\u6587\u5c3c\u4e9e"],y.d)
+A.aG6=new C.ay("Slovenia","\ud83c\uddf8\ud83c\uddee","SI","386",8,8)
+A.bJe=new B.a_(A.q,["\u0160alam\xfanove ostrovy","Salomon-sullot","Wyspy Salomona","Salomon\xf8yene","\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6","Isole Salomone","\u6240\u7f57\u95e8\u7fa4\u5c9b","Salomonseilanden","Salomonen","\xceles Salomon","Islas Salom\xf3n","Solomon Islands","Ilhas Salom\xe3o","\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Solomonska Ostrva","\u6240\u7f85\u9580\u7fa4\u5cf6","Solomon Adalar\u0131","Insulele Solomon","\u062c\u0632\u0631 \u0633\u0644\u064a\u0645\u0627\u0646","\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646","\u6240\u7f85\u9580\u7fa4\u5cf6"],y.d)
+A.aGx=new C.ay("Solomon Islands","\ud83c\uddf8\ud83c\udde7","SB","677",5,5)
+A.bLp=new B.a_(A.q,["Som\xe1lsko","Som\xe1lia","Somalia","Somalia","\u30bd\u30de\u30ea\u30a2","Somalia","\u7d22\u9a6c\u91cc","Somali\xeb","Somalia","Somalie","Somalia","Somalia","Som\xe1lia","\u0421\u043e\u043c\u0430\u043b\u0438\u0458\u0430","Somalija","\u7d22\u99ac\u5229\u4e9e","Somali","Somalia","\u0627\u0644\u0635\u0648\u0645\u0627\u0644","\u0633\u0648\u0645\u0627\u0644\u06cc","\u7d22\u99ac\u91cc"],y.d)
+A.aHU=new C.ay("Somalia","\ud83c\uddf8\ud83c\uddf4","SO","252",8,8)
+A.bLX=new B.a_(A.q,["Ju\u017en\xe1 Afrika","M\xe1tta-Afrihk\xe1","Republika Po\u0142udniowej Afryki","S\xf8r-Afrika","\u5357\u30a2\u30d5\u30ea\u30ab","Sudafrica","\u5357\u975e","Zuid-Afrika","S\xfcdafrika","Afrique du Sud","Sud\xe1frica","South Africa","\xc1frica do Sul","\u0408\u0443\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u0447\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430","Ju\u017enoafri\u010dka Republika","\u5357\u975e","G\xfcney Afrika","Africa de Sud","\u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627","\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc","\u5357\u975e"],y.d)
+A.aIi=new C.ay("South Africa","\ud83c\uddff\ud83c\udde6","ZA","27",9,9)
+A.bJO=new B.a_(A.q,["Ju\u017en\xfd Sud\xe1n","M\xe1ttasudan","Sudan Po\u0142udniowy","S\xf8r-Sudan","\u5357\u30b9\u30fc\u30c0\u30f3","Sud Sudan","\u5357\u82cf\u4e39","Zuid-Soedan","S\xfcdsudan","Soudan du Sud","Sud\xe1n del Sur","South Sudan","Sud\xe3o do Sul","\u0408\u0443\u0436\u043d\u0438 \u0421\u0443\u0434\u0430\u043d","Ju\u017eni Sudan","\u5357\u8607\u4e39","G\xfcney Sudan","Sudanul de Sud","\u062c\u0646\u0648\u0628 \u0627\u0644\u0633\u0648\u062f\u0627\u0646","\u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc","\u5357\u8607\u4e39"],y.d)
+A.aJn=new C.ay("South Sudan","\ud83c\uddf8\ud83c\uddf8","SS","211",9,9)
+A.bKH=new B.a_(A.q,["Ju\u017en\xe1 Georgia a Ju\u017en\xe9 Sandwichove ostrovy","Lulli Georgia ja Lulli Sandwich-sullot","Georgia Po\u0142udniowa i Sandwich Po\u0142udniowy","S\xf8r-Georgia og S\xf8r-Sandwich\xf8yene","\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6","Georgia del Sud e Sandwich australi","\u5357\u4e54\u6cbb\u4e9a\u548c\u5357\u6851\u5a01\u5947\u7fa4\u5c9b","Zuid-Georgia en Zuidelijke Sandwicheilanden","S\xfcdgeorgien und die S\xfcdlichen Sandwichinseln","G\xe9orgie du Sud et \xeeles Sandwich du Sud","Islas Georgia del Sur y Sandwich del Sur","South Georgia & South Sandwich Islands","Ge\xf3rgia do Sul e Ilhas Sandwich do Sul","\u0408\u0443\u0436\u043d\u0430 \u040f\u043e\u0440\u045f\u0438\u0458\u0430 \u0438 \u0408\u0443\u0436\u043d\u0430 \u0421\u0435\u043d\u0434\u0432\u0438\u0447\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Ju\u017ena D\u017eord\u017eija i Ju\u017ena Sendvi\u010dka Ostrva","\u5357\u55ac\u6cbb\u4e9e\u8207\u5357\u4e09\u660e\u6cbb\u7fa4\u5cf6 ","G\xfcney Georgia ve G\xfcney Sandwich Adalar\u0131","Georgia de Sud \u0219i Insulele Sandwich de Sud","\u062c\u0648\u0631\u062c\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629 \u0648\u062c\u0632\u0631 \u0633\u0627\u0646\u062f\u0648\u064a\u062a\u0634 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629","\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc","\u5357\u55ac\u6cbb\u4e9e\u5dde\u540c\u5357\u6851\u5a01\u5947\u7fa4\u5cf6"],y.d)
+A.aHd=new C.ay("South Georgia and the South Sandwich Islands","\ud83c\uddec\ud83c\uddf8","GS","500",15,15)
+A.bL5=new B.a_(A.q,["\u0160panielsko","Sp\xe1nia","Hiszpania","Spania","\u30b9\u30da\u30a4\u30f3","Spagna","\u897f\u73ed\u7259","Spanje","Spanien","Espagne","Espa\xf1a","Spain","Espanha","\u0428\u043f\u0430\u043d\u0438\u0458\u0430","\u0160panija","\u897f\u73ed\u7259","\u0130spanya","Spania","\u0625\u0633\u0628\u0627\u0646\u064a\u0627","\u0627\u0633\u067e\u0627\u0646\u06cc\u0627","\u897f\u73ed\u7259"],y.d)
+A.aHF=new C.ay("Spain","\ud83c\uddea\ud83c\uddf8","ES","34",9,9)
+A.bJD=new B.a_(A.q,["Sr\xed Lanka","Sri Lanka","Sri Lanka","Sri Lanka","\u30b9\u30ea\u30e9\u30f3\u30ab","Sri Lanka","\u65af\u91cc\u5170\u5361","Sri Lanka","Sri Lanka","Sri Lanka","Sri Lanka","Sri Lanka","Sri Lanka","\u0428\u0440\u0438 \u041b\u0430\u043d\u043a\u0430","\u0160ri Lanka","\u65af\u91cc\u862d\u5361","Sri Lanka","Sri Lanka","\u0633\u0631\u064a\u0644\u0627\u0646\u0643\u0627","\u0633\u0631\u06cc\u0644\u0627\u0646\u06a9\u0627","\u65af\u91cc\u862d\u5361"],y.d)
+A.aGk=new C.ay("Sri Lanka","\ud83c\uddf1\ud83c\uddf0","LK","94",9,9)
+A.bJx=new B.a_(A.q,["Sud\xe1n","Davvisudan","Sudan","Sudan","\u30b9\u30fc\u30c0\u30f3","Sudan","\u82cf\u4e39","Soedan","Sudan","Soudan","Sud\xe1n","Sudan","Sud\xe3o","\u0421\u0443\u0434\u0430\u043d","Sudan","\u8607\u4e39","Sudan","Sudan","\u0627\u0644\u0633\u0648\u062f\u0627\u0646","\u0633\u0648\u062f\u0627\u0646","\u8607\u4e39"],y.d)
+A.aH7=new C.ay("Sudan","\ud83c\uddf8\ud83c\udde9","SD","249",9,9)
+A.bLI=new B.a_(A.q,["Surinam","Surinam","Surinam","Surinam","\u30b9\u30ea\u30ca\u30e0","Suriname","\u82cf\u91cc\u5357","Suriname","Suriname","Suriname","Surinam","Suriname","Suriname","\u0421\u0443\u0440\u0438\u043d\u0430\u043c","Surinam","\u8607\u5229\u5357","Surinam","Surinam","\u0633\u0648\u0631\u064a\u0646\u0627\u0645","\u0633\u0648\u0631\u06cc\u0646\u0627\u0645","\u8607\u91cc\u5357"],y.d)
+A.aGC=new C.ay("Suriname","\ud83c\uddf8\ud83c\uddf7","SR","597",7,7)
+A.bKC=new B.a_(A.q,["Svalbard a Jan Mayen","Svalb\xe1rda ja Jan Mayen","Svalbard i Jan Mayen","Svalbard og Jan Mayen","\u30b9\u30d0\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u30fb\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6","Svalbard e Jan Mayen","\u65af\u74e6\u5c14\u5df4\u548c\u626c\u9a6c\u5ef6","Spitsbergen en Jan Mayen","Spitzbergen und Jan Mayen","Svalbard et Jan Mayen","Svalbard y Jan Mayen","Svalbard & Jan Mayen","Svalbard e Jan Mayen","\u0421\u0432\u0430\u043b\u0431\u0430\u0440\u0434","Svalbard","\u65af\u74e6\u5df4\u53ca\u5c16\u68c9","Svalbard ve Jan Mayen","Svalbard \u0219i Jan Mayen","\u0633\u0641\u0627\u0644\u0628\u0627\u0631\u062f \u0648\u064a\u0627\u0646 \u0645\u0627\u064a\u0646","\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646","\u65af\u74e6\u5c14\u5df4\u5fb7\u540c\u626c\xb7\u9a6c\u5ef6"],y.d)
+A.aJK=new C.ay("Svalbard and Jan Mayen","\ud83c\uddf8\ud83c\uddef","SJ","47",8,8)
+A.bMs=new B.a_(A.q,["Eswatini","Svazieana","Eswatini","Eswatini","\u30a8\u30b9\u30ef\u30c6\u30a3\u30cb","Swaziland","\u65af\u5a01\u58eb\u5170","eSwatini","Eswatini","Eswatini","Esuatini","Eswatini","Eswatini","\u0421\u0432\u0430\u0437\u0438\u043b\u0430\u043d\u0434","Svaziland","\u53f2\u74e6\u5e1d\u5c3c","Esvatini","Eswatini","\u0625\u0633\u0648\u0627\u062a\u064a\u0646\u064a","\u0627\u0633\u0648\u0627\u062a\u06cc\u0646\u06cc","\u65af\u5a01\u58eb\u862d"],y.d)
+A.aIf=new C.ay("Eswatini","\ud83c\uddf8\ud83c\uddff","SZ","268",8,8)
+A.bJd=new B.a_(A.q,["\u0160v\xe9dsko","Ruo\u0167\u0167a","Szwecja","Sverige","\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3","Svezia","\u745e\u5178","Zweden","Schweden","Su\xe8de","Suecia","Sweden","Su\xe9cia","\u0428\u0432\u0435\u0434\u0441\u043a\u0430","\u0160vedska","\u745e\u5178","\u0130sve\xe7","Suedia","\u0627\u0644\u0633\u0648\u064a\u062f","\u0633\u0648\u0626\u062f","\u745e\u5178"],y.d)
+A.aHE=new C.ay("Sweden","\ud83c\uddf8\ud83c\uddea","SE","46",7,13)
+A.bJk=new B.a_(A.q,["\u0160vaj\u010diarsko","\u0160veica","Szwajcaria","Sveits","\u30b9\u30a4\u30b9","Svizzera","\u745e\u58eb","Zwitserland","Schweiz","Suisse","Suiza","Switzerland","Su\xed\xe7a","\u0428\u0432\u0430\u0458\u0446\u0430\u0440\u0441\u043a\u0430","\u0160vajcarska","\u745e\u58eb","\u0130svi\xe7re","Elve\u0163ia","\u0633\u0648\u064a\u0633\u0631\u0627","\u0633\u0648\u0626\u06cc\u0633","\u745e\u58eb"],y.d)
+A.aGu=new C.ay("Switzerland","\ud83c\udde8\ud83c\udded","CH","41",9,12)
+A.bMh=new B.a_(A.q,["S\xfdria","Syria","Syria","Syria","\u30b7\u30ea\u30a2","Siria","\u53d9\u5229\u4e9a","Syri\xeb","Syrien","Syrie","Siria","Syria","S\xedria","\u0421\u0438\u0440\u0438\u0458\u0430","Sirija","\u6558\u5229\u4e9e","Suriye","Siria","\u0633\u0648\u0631\u064a\u0627","\u0633\u0648\u0631\u06cc\u0647","\u963f\u62c9\u4f2f\u6558\u5229\u4e9e\u5171\u548c\u570b"],y.d)
+A.aIH=new C.ay("Syrian Arab Republic","\ud83c\uddf8\ud83c\uddfe","SY","963",10,10)
+A.bKE=new B.a_(A.q,["Taiwan","Taiwan","Tajwan","Taiwan","\u53f0\u6e7e","Taiwan","\u53f0\u6e7e","Taiwan","Taiwan","Ta\xefwan","Taiw\xe1n","Taiwan","Taiwan","\u0422\u0430\u0458\u0432\u0430\u043d","Tajvan","\u53f0\u7063","Tayvan","Taiwan","\u062a\u0627\u064a\u0648\u0627\u0646","\u062a\u0627\u06cc\u0648\u0627\u0646","\u53f0\u7063"],y.d)
+A.aJm=new C.ay("Taiwan","\ud83c\uddf9\ud83c\uddfc","TW","886",9,9)
+A.bJP=new B.a_(A.q,["Tad\u017eikistan","Ta\u017eikistan","Tad\u017cykistan","Tadsjikistan","\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3","Tagikistan","\u5854\u5409\u514b\u65af\u5766","Tadzjikistan","Tadschikistan","Tadjikistan","Tayikist\xe1n","Tajikistan","Tajiquist\xe3o","\u0422\u0430\u045f\u0438\u043a\u0438\u0441\u0442\u0430\u043d","Tad\u017eikistan","\u5854\u5409\u514b","Tacikistan","Tadiquist\xe3o","\u0637\u0627\u062c\u064a\u0643\u0633\u062a\u0627\u0646","\u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646","\u5854\u5409\u514b\u65af\u5766"],y.d)
+A.aH6=new C.ay("Tajikistan","\ud83c\uddf9\ud83c\uddef","TJ","992",9,9)
+A.bJW=new B.a_(A.q,["Tanz\xe1nia","Tanz\xe1nia","Tanzania","Tanzania","\u30bf\u30f3\u30b6\u30cb\u30a2","Tanzania","\u5766\u6851\u5c3c\u4e9a","Tanzania","Tansania","Tanzanie","Tanzania","Tanzania","Tanz\xe2nia","\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u0458\u0430","Tanzanija","\u5766\u5c1a\u5c3c\u4e9e","Tanzanya","Tanzania","\u062a\u0646\u0632\u0627\u0646\u064a\u0627","\u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627","\u5766\u6851\u5c3c\u4e9e\uff0c\u806f\u5408\u5171\u548c\u570b"],y.d)
+A.aHo=new C.ay("Tanzania, United Republic of Tanzania","\ud83c\uddf9\ud83c\uddff","TZ","255",9,9)
+A.bL0=new B.a_(A.q,["Thajsko","Thaieana","Tajlandia","Thailand","\u30bf\u30a4","Thailandia","\u6cf0\u56fd","Thailand","Thailand","Tha\xeflande","Tailandia","Thailand","Tail\xe2ndia","\u0422\u0430\u0458\u043b\u0430\u043d\u0434","Tajland","\u6cf0\u570b","Tayland","Tailanda","\u062a\u0627\u064a\u0644\u0627\u0646\u062f","\u062a\u0627\u06cc\u0644\u0646\u062f","\u6cf0\u570b"],y.d)
+A.aJs=new C.ay("Thailand","\ud83c\uddf9\ud83c\udded","TH","66",9,9)
+A.bJq=new B.a_(A.q,["V\xfdchodn\xfd Timor","Nuorta-Timor","Timor Wschodni","\xd8st-Timor","\u6771\u30c6\u30a3\u30e2\u30fc\u30eb","Timor Est","\u4e1c\u5e1d\u6c76","Oost-Timor","Timor-Leste","Timor oriental","Timor-Leste","Timor-Leste","Timor-Leste","\u0418\u0441\u0442\u043e\u0447\u043d\u0438 \u0422\u0438\u043c\u043e\u0440","Isto\u010dni Timor","\u6771\u5e1d\u6c76","Do\u011fu Timor","Timorul de Est","\u062a\u064a\u0645\u0648\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629","\u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc","\u6771\u5e1d\u6c76"],y.d)
+A.aIa=new C.ay("Timor-Leste","\ud83c\uddf9\ud83c\uddf1","TL","670",7,7)
+A.bKo=new B.a_(A.q,["Togo","Togo","Togo","Togo","\u30c8\u30fc\u30b4","Togo","\u591a\u54e5","Togo","Togo","Togo","Togo","Togo","Ir","\u0422\u043e\u0433\u043e","Togo","\u591a\u54e5","Togo","Togo","\u062a\u0648\u063a\u0648","\u062a\u0648\u06af\u0648","\u591a\u54e5"],y.d)
+A.aJ9=new C.ay("Togo","\ud83c\uddf9\ud83c\uddec","TG","228",8,8)
+A.bM2=new B.a_(A.q,["Tokelau","Tokelau","Tokelau","Tokelau","\u30c8\u30b1\u30e9\u30a6","Tokelau","\u6258\u514b\u52b3","Tokelau","Tokelau","Tokelau","Tokelau","Tokelau","Tokelau","\u0422\u043e\u043a\u0435\u043b\u0430\u0443","Tokelau","\u6258\u514b\u52de","Tokelau","Tokelau","\u062a\u0648\u0643\u064a\u0644\u0627\u0648","\u062a\u0648\u06a9\u0644\u0627\u0626\u0648","\u6258\u514b\u52b3"],y.d)
+A.aJg=new C.ay("Tokelau","\ud83c\uddf9\ud83c\uddf0","TK","690",4,4)
+A.bMl=new B.a_(A.q,["Tonga","Tonga","Tonga","Tonga","\u30c8\u30f3\u30ac","Tonga","\u6c64\u52a0","Tonga","Tonga","Tonga","Tonga","Tonga","Tonga","\u0422\u043e\u043d\u0433\u0430","Tonga","\u6771\u52a0","Tonga","Tonga","\u062a\u0648\u0646\u063a\u0627","\u062a\u0648\u0646\u06af\u0627","\u6e6f\u52a0"],y.d)
+A.aJ2=new C.ay("Tonga","\ud83c\uddf9\ud83c\uddf4","TO","676",7,7)
+A.bKk=new B.a_(A.q,["Trinidad a Tobago","Trinidad ja Tobago","Trynidad i Tobago","Trinidad og Tobago","\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4","Trinidad e Tobago","\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5","Trinidad en Tobago","Trinidad und Tobago","Trinit\xe9-et-Tobago","Trinidad y Tobago","Trinidad & Tobago","Trinidad e Tobago","\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e","Trinidad i Tobago","\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5","Trinidad ve Tobago","Trinidad \u015fi Tobago","\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f \u0648\u062a\u0648\u0628\u0627\u063a\u0648","\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648","\u7279\u7acb\u5c3c\u9054\u548c\u591a\u5df4\u54e5"],y.d)
+A.aGw=new C.ay("Trinidad and Tobago","\ud83c\uddf9\ud83c\uddf9","TT","1868",7,7)
+A.bLo=new B.a_(A.q,["Tunisko","Tunisia","Tunezja","Tunisia","\u30c1\u30e5\u30cb\u30b8\u30a2","Tunisia","\u7a81\u5c3c\u65af","Tunesi\xeb","Tunesien","Tunisie","T\xfanez","Tunisia","Tun\xedsia","\u0422\u0443\u043d\u0438\u0441","Tunis","\u7a81\u5c3c\u897f\u4e9e","Tunus","Tunisia","\u062a\u0648\u0646\u0633","\u062a\u0648\u0646\u0633","\u7a81\u5c3c\u65af"],y.d)
+A.aJD=new C.ay("Tunisia","\ud83c\uddf9\ud83c\uddf3","TN","216",8,8)
+A.bJf=new B.a_(A.q,["Turecko","Durka","Turcja","Tyrkia","\u30c8\u30eb\u30b3","Turchia","\u571f\u8033\u5176","Turkije","T\xfcrkei","Turquie","Turqu\xeda","Turkey","Peru","\u0422\u0443\u0440\u0441\u043a\u0430","Turska","\u571f\u8033\u5176","T\xfcrkiye","Turcia","\u062a\u0631\u0643\u064a\u0627","\u062a\u0631\u06a9\u06cc\u0647","\u571f\u8033\u5176"],y.d)
+A.aJj=new C.ay("Turkey","\ud83c\uddf9\ud83c\uddf7","TR","90",10,10)
+A.bKS=new B.a_(A.q,["Turkm\xe9nsko","Turkmenistan","Turkmenistan","Turkmenistan","\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3","Turkmenistan","\u571f\u5e93\u66fc\u65af\u5766","Turkmenistan","Turkmenistan","Turkm\xe9nistan","Turkmenist\xe1n","Turkmenistan","Turcomenist\xe3o","\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d","Turkmenistan","\u571f\u5eab\u66fc","T\xfcrkmenistan","Turkmenistan","\u062a\u0631\u0643\u0645\u0627\u0646\u0633\u062a\u0627\u0646","\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646","\u571f\u5eab\u66fc\u65af\u5766"],y.d)
+A.aGB=new C.ay("Turkmenistan","\ud83c\uddf9\ud83c\uddf2","TM","993",8,8)
+A.bKF=new B.a_(A.q,["Turks a Caicos","Turks ja Caicos-sullot","Turks i Caicos","Turks- og Caicos\xf8yene","\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6","Isole Turks e Caicos","\u7279\u514b\u65af\u548c\u51ef\u79d1\u65af\u7fa4\u5c9b","Turks- en Caicoseilanden","Turks- und Caicosinseln","\xceles Turques-et-Ca\xefques","Islas Turcas y Caicos","Turks & Caicos Islands","Ilhas Turks e Caicos","\u0422\u0443\u0440\u043a\u0441 \u0438 \u041a\u0430\u0458\u043a\u043e\u0441","Turks i Kajkos","\u571f\u514b\u65af\u53ca\u958b\u79d1\u65af\u7fa4\u5cf6","Turks ve Caicos Adalar\u0131","Insulele Turks \u0219i Caicos","\u062c\u0632\u0631 \u062a\u0648\u0631\u0643\u0633 \u0648\u0643\u0627\u064a\u0643\u0648\u0633","\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633","\u7279\u514b\u65af\u540c\u51ef\u79d1\u65af\u7fa4\u5c9b"],y.d)
+A.aGc=new C.ay("Turks and Caicos Islands","\ud83c\uddf9\ud83c\udde8","TC","1649",7,7)
+A.bLJ=new B.a_(A.q,["Tuvalu","Tuvalu","Tuvalu","Tuvalu","\u30c4\u30d0\u30eb","Tuvalu","\u56fe\u74e6\u5362","Tuvalu","Tuvalu","Tuvalu","Tuvalu","Tuvalu","Tuvalu","\u0422\u0443\u0432\u0430\u043b\u0443","Tuvalu","\u5716\u74e6\u76e7","Tuvalu","Tuvalu","\u062a\u0648\u0641\u0627\u0644\u0648","\u062a\u0648\u0648\u0627\u0644\u0648","\u5716\u74e6\u76e7"],y.d)
+A.aGd=new C.ay("Tuvalu","\ud83c\uddf9\ud83c\uddfb","TV","688",6,6)
+A.bKm=new B.a_(A.q,["Uganda","Uganda","Uganda","Uganda","\u30a6\u30ac\u30f3\u30c0","Uganda","\u4e4c\u5e72\u8fbe","Oeganda","Uganda","Ouganda","Uganda","Uganda","Uganda","\u0423\u0433\u0430\u043d\u0434\u0430","Uganda","\u70cf\u5e72\u9054","Uganda","Uganda","\u0623\u0648\u063a\u0646\u062f\u0627","\u0627\u0648\u06af\u0627\u0646\u062f\u0627","\u70cf\u5e72\u9054"],y.d)
+A.aId=new C.ay("Uganda","\ud83c\uddfa\ud83c\uddec","UG","256",9,9)
+A.bM7=new B.a_(A.q,["Ukrajina","Ukraina","Ukraina","Ukraina","\u30a6\u30af\u30e9\u30a4\u30ca","Ucraina","\u4e4c\u514b\u5170","Oekra\xefne","Ukraine","Ukraine","Ucrania","Ukraine","Ucr\xe2nia","\u0423\u043a\u0440\u0430\u0458\u0438\u043d\u0430","Ukrajina","\u70cf\u514b\u862d","Ukrayna","Ucra\xedna","\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627","\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646","\u70cf\u514b\u862d"],y.d)
+A.aHh=new C.ay("Ukraine","\ud83c\uddfa\ud83c\udde6","UA","380",9,9)
+A.bLq=new B.a_(A.q,["Spojen\xe9 arabsk\xe9 emir\xe1ty","Ovttastuvvan Ar\xe1baemir\xe1htat","Zjednoczone Emiraty Arabskie","De forente arabiske emirater","\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6","Emirati Arabi Uniti","\u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd","Verenigde Arabische Emiraten","Vereinigte Arabische Emirate","\xc9mirats arabes unis","Emiratos \xc1rabes Unidos","United Arab Emirates","Emirados \xc1rabes Unidos","\u0423\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u0438 \u0410\u0440\u0430\u043f\u0441\u043a\u0438 \u0415\u043c\u0438\u0440\u0430\u0442\u0438","Ujedinjeni Arapski Emirati","\u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b","Birle\u015fik Arap Emirlikleri","Emiratele Arabe Unite","\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629","\u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc","\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b"],y.d)
+A.aH9=new C.ay("United Arab Emirates","\ud83c\udde6\ud83c\uddea","AE","971",9,9)
+A.bMp=new B.a_(A.q,["Spojen\xe9 kr\xe1\u013eovstvo","Stuorra-Brit\xe1nnia","Wielka Brytania","Storbritannia","\u30a4\u30ae\u30ea\u30b9","Regno Unito","\u82f1\u56fd","Verenigd Koninkrijk","Vereinigtes K\xf6nigreich","Royaume-Uni","Reino Unido","United Kingdom","Reino Unido","\u0423\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u043e \u041a\u0440\u0430\u0459\u0435\u0432\u0441\u0442\u0432\u043e","Ujedinjeno Kraljevstvo","\u82f1\u570b","B\xfcy\xfck Britanya ve Kuzey \u0130rlanda Birle\u015fik Krall\u0131\u011f","Regatul Unit al Marii Britanii \u0219i Irlandei de Nord","\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629","\u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627","\u5927\u4e0d\u5217\u985b\u53ca\u5317\u611b\u723e\u862d\u806f\u5408\u738b\u570b"],y.d)
+A.aHy=new C.ay("United Kingdom","\ud83c\uddec\ud83c\udde7","GB","44",10,10)
+A.bM8=new B.a_(A.q,["Spojen\xe9 \u0161t\xe1ty","Amerihk\xe1 ovttastuvvan st\xe1htat","Stany Zjednoczone","USA","\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd","Stati Uniti","\u7f8e\u56fd","Verenigde Staten","Vereinigte Staaten","\xc9tats-Unis","Estados Unidos","United States","Estados Unidos","\u0421\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u0435 \u0410\u043c\u0435\u0440\u0438\u0447\u043a\u0435 \u0414\u0440\u0436\u0430\u0432\u0435","Sjedinjene Ameri\u010dke Dr\u017eave","\u7f8e\u570b","Amerika Birle\u015fik Devletleri","Statele Unite ale Americii","\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629","\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627","\u7f8e\u5229\u5805\u90c3\u773e\u56ef"],y.d)
+A.aGp=new C.ay("United States","\ud83c\uddfa\ud83c\uddf8","US","1",10,10)
+A.bKu=new B.a_(A.q,["Uruguaj","Uruguay","Urugwaj","Uruguay","\u30a6\u30eb\u30b0\u30a2\u30a4","Uruguay","\u4e4c\u62c9\u572d","Uruguay","Uruguay","Uruguay","Uruguay","Uruguay","Uruguai","\u0423\u0440\u0443\u0433\u0432\u0430\u0458","Urugvaj","\u70cf\u62c9\u572d","Uruguay","Uruguay","\u0627\u0644\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a","\u0627\u0631\u0648\u06af\u0648\u0626\u0647","\u70cf\u62c9\u572d"],y.d)
+A.aJ6=new C.ay("Uruguay","\ud83c\uddfa\ud83c\uddfe","UY","598",9,9)
+A.bJi=new B.a_(A.q,["Uzbekistan","Usbekistan","Uzbekistan","Usbekistan","\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3","Uzbekistan","\u4e4c\u5179\u522b\u514b\u65af\u5766","Oezbekistan","Usbekistan","Ouzb\xe9kistan","Uzbekist\xe1n","Uzbekistan","Uzbequist\xe3o","\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d","Uzbekistan","\u70cf\u7386\u5225\u514b","\xd6zbekistan","Uzbekistan","\u0623\u0648\u0632\u0628\u0643\u0633\u062a\u0627\u0646","\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646","\u6708\u5373\u5225"],y.d)
+A.aHO=new C.ay("Uzbekistan","\ud83c\uddfa\ud83c\uddff","UZ","998",9,9)
+A.bLV=new B.a_(A.q,["Vanuatu","Vanuatu","Vanuatu","Vanuatu","\u30d0\u30cc\u30a2\u30c4","Vanuatu","\u74e6\u52aa\u963f\u56fe","Vanuatu","Vanuatu","Vanuatu","Vanuatu","Vanuatu","Vanuatu","\u0412\u0430\u043d\u0443\u0430\u0442\u0443","Vanuatu","\u74e6\u52aa\u963f\u5716","Vanuatu","Vanuatu","\u0641\u0627\u0646\u0648\u0627\u062a\u0648","\u0648\u0627\u0646\u0648\u0627\u062a\u0648","\u74e6\u52aa\u963f\u5716"],y.d)
+A.aJz=new C.ay("Vanuatu","\ud83c\uddfb\ud83c\uddfa","VU","678",7,7)
+A.bMt=new B.a_(A.q,["Venezuela","Venezuela","Wenezuela","Venezuela","\u30d9\u30cd\u30ba\u30a8\u30e9","Venezuela","\u59d4\u5185\u745e\u62c9","Venezuela","Venezuela","Venezuela","Venezuela","Venezuela","Venezuela","\u0412\u0435\u043d\u0435\u0446\u0443\u0435\u043b\u0430","Venecuela","\u59d4\u5167\u745e\u62c9","Venezuela","Venezuela","\u0641\u0646\u0632\u0648\u064a\u0644\u0627","\u0648\u0646\u0632\u0648\u0626\u0644\u0627","\u59d4\u5167\u745e\u62c9\uff08\u73bb\u5229\u74e6\u723e\u5171\u548c\u570b\uff09"],y.d)
+A.aI0=new C.ay("Venezuela, Bolivarian Republic of Venezuela","\ud83c\uddfb\ud83c\uddea","VE","58",10,10)
+A.bJv=new B.a_(A.q,["Vietnam","Vietnam","Wietnam","Vietnam","\u30d9\u30c8\u30ca\u30e0","Vietnam","\u8d8a\u5357","Vietnam","Vietnam","Vietnam","Vietnam","Vietnam","Vietn\xe3","\u0412\u0438\u0458\u0435\u0442\u043d\u0430\u043c","Vijetnam","\u8d8a\u5357","Vietnam","Vietnam","\u0641\u064a\u062a\u0646\u0627\u0645","\u0648\u06cc\u062a\u0646\u0627\u0645","\u8d8a\u5357"],y.d)
+A.aJu=new C.ay("Vietnam","\ud83c\uddfb\ud83c\uddf3","VN","84",11,11)
+A.bJ0=new B.a_(A.q,["Britsk\xe9 Panensk\xe9 ostrovy","Brittania Virgin-sullot","Brytyjskie Wyspy Dziewicze","De britiske jomfru\xf8yene","\u82f1\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6","Isole Vergini Britanniche","\u82f1\u5c5e\u7ef4\u5c14\u4eac\u7fa4\u5c9b","Britse Maagdeneilanden","Britische Jungferninseln","\xceles Vierges britanniques","Islas V\xedrgenes Brit\xe1nicas","British Virgin Islands","Ilhas Virgens Brit\xe2nicas","\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430 \u0414\u0435\u0432\u0438\u0447\u0430\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Britanska Devi\u010danska Ostrva","\u82f1\u5c6c\u7dad\u4eac\u7fa4\u5cf6","Britanya Virjin Adalar\u0131","Insulele Virgine Britanice","\u062c\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629","\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627","\u7dad\u723e\u4eac\u7fa4\u5cf6\uff08\u82f1\u570b\uff09"],y.d)
+A.aH_=new C.ay("Virgin Islands, British","\ud83c\uddfb\ud83c\uddec","VG","1284",7,7)
+A.bMk=new B.a_(A.q,["Americk\xe9 Panensk\xe9 ostrovy","AOS Virgin-sullot","Wyspy Dziewicze Stan\xf3w Zjednoczonych","De amerikanske jomfru\xf8yene","\u7c73\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6","Isole Vergini Americane","\u7f8e\u5c5e\u7ef4\u5c14\u4eac\u7fa4\u5c9b","Amerikaanse Maagdeneilanden","Amerikanische Jungferninseln","\xceles Vierges des \xc9tats-Unis","Islas V\xedrgenes de EE. UU.","U.S. Virgin Islands","Ilhas Virgens Americanas","\u0410\u043c\u0435\u043f\u0438\u0447\u043a\u0430 \u0414\u0435\u0432\u0438\u0447\u0430\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430","Ameri\u010dka Devi\u010danska Ostrva","\u7f8e\u5c6c\u7dad\u4eac\u7fa4\u5cf6","Amerika Birle\u015fik Devletleri Virjin Adalar\u0131","Insulele Virgine Americane","\u062c\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629","\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627","\u7dad\u723e\u4eac\u7fa4\u5cf6\uff08\u7f8e\u570b\uff09"],y.d)
+A.aHX=new C.ay("Virgin Islands, U.S.","\ud83c\uddfb\ud83c\uddee","VI","1340",7,7)
+A.bJp=new B.a_(A.q,["Wallis a Futuna","Wallis ja Futuna","Wallis i Futuna","Wallis og Futuna","\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca","Wallis e Futuna","\u74e6\u5229\u65af\u548c\u5bcc\u56fe\u7eb3","Wallis en Futuna","Wallis und Futuna","Wallis-et-Futuna","Wallis y Futuna","Wallis & Futuna","Wallis e Futuna","\u0412\u0430\u043b\u0438\u0441 \u0438 \u0424\u0443\u0442\u0443\u043d\u0430","Valis i Futuna","\u74e6\u5229\u65af\u548c\u5bcc\u5716\u90a3","Wallis ve Futuna","Wallis \u0219i Futuna","\u0648\u0627\u0644\u0633 \u0648\u0641\u0648\u062a\u0648\u0646\u0627","\u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627","\u74e6\u5229\u65af\u540c\u5bcc\u56fe\u7eb3"],y.d)
+A.aGU=new C.ay("Wallis and Futuna","\ud83c\uddfc\ud83c\uddeb","WF","681",6,6)
+A.bLv=new B.a_(A.q,["Jemen","Jemen","Jemen","Jemen","\u30a4\u30a8\u30e1\u30f3","Yemen","\u4e5f\u95e8","Jemen","Jemen","Y\xe9men","Yemen","Yemen","I\xe9men","\u0408\u0435\u043c\u0435\u043d","Jemen","\u8449\u9580","Yemen","Yemen","\u0627\u0644\u064a\u0645\u0646","\u06cc\u0645\u0646","\u4e5f\u9580"],y.d)
+A.aG3=new C.ay("Yemen","\ud83c\uddfe\ud83c\uddea","YE","967",9,9)
+A.bJ7=new B.a_(A.q,["Zambia","Zambia","Zambia","Zambia","\u30b6\u30f3\u30d3\u30a2","Zambia","\u8d5e\u6bd4\u4e9a","Zambia","Sambia","Zambie","Zambia","Zambia","Z\xe2mbia","\u0417\u0430\u043c\u0431\u0438\u0458\u0430","Zambija","\u8d0a\u6bd4\u4e9e","Zambiya","Zambia","\u0632\u0627\u0645\u0628\u064a\u0627","\u0632\u0627\u0645\u0628\u06cc\u0627","\u8d0a\u6bd4\u4e9e"],y.d)
+A.aJB=new C.ay("Zambia","\ud83c\uddff\ud83c\uddf2","ZM","260",9,9)
+A.bKg=new B.a_(A.q,["Zimbabwe","Zimbabwe","Zimbabwe","Zimbabwe","\u30b8\u30f3\u30d0\u30d6\u30a8","Zimbabwe","\u6d25\u5df4\u5e03\u97e6","Zimbabwe","Simbabwe","Zimbabwe","Zimbabue","Zimbabwe","Zimb\xe1bue","\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435","Zimbabve","\u8f9b\u5df4\u5a01","Zimbabve","Zimbabwe","\u0632\u064a\u0645\u0628\u0627\u0628\u0648\u064a","\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647","\u6d25\u5df4\u5e03\u97cb"],y.d)
+A.aGg=new C.ay("Zimbabwe","\ud83c\uddff\ud83c\uddfc","ZW","263",9,9)
+A.wF=B.a(x([A.aH4,A.aI7,A.aGm,A.aIN,A.aJE,A.aGy,A.aH2,A.aGf,A.aG_,A.aG0,A.aIp,A.aGN,A.aGo,A.aHJ,A.aJq,A.aHH,A.aJH,A.aHs,A.aGT,A.aIG,A.aIU,A.aI4,A.aJF,A.aGP,A.aGF,A.aGs,A.aIX,A.aGv,A.aJp,A.aHj,A.aFX,A.aGM,A.aJA,A.aGK,A.aGS,A.aIR,A.aJ4,A.aHp,A.aIW,A.aIs,A.aIV,A.aJd,A.aJ0,A.aI5,A.aHY,A.aIe,A.aGt,A.aIq,A.aGV,A.aJ7,A.aIg,A.aH1,A.aIc,A.aHx,A.aGJ,A.aJM,A.aIm,A.aJG,A.aIL,A.aGn,A.aJ8,A.aIA,A.aI3,A.aH0,A.aI_,A.aIQ,A.aG4,A.aIw,A.aIu,A.aI1,A.aHT,A.aHP,A.aJa,A.aIK,A.aIj,A.aGD,A.aHe,A.aJL,A.aGX,A.aHw,A.aJh,A.aIv,A.aHM,A.aG1,A.aIZ,A.aG8,A.aHQ,A.aJO,A.aHr,A.aHV,A.aGq,A.aHk,A.aGr,A.aGh,A.aJt,A.aIz,A.aI8,A.aJ5,A.aIE,A.aHn,A.aIo,A.aFZ,A.aIx,A.aHG,A.aJI,A.aIT,A.aII,A.aH5,A.aGQ,A.aHc,A.aHK,A.aIM,A.aHA,A.aGi,A.aHN,A.aIB,A.aGj,A.aIO,A.aHD,A.aJe,A.aGW,A.aIt,A.aIr,A.aI9,A.aJi,A.aHB,A.aH8,A.aJf,A.aHa,A.aJN,A.aGG,A.aJC,A.aHi,A.aHu,A.aIn,A.aJo,A.aIJ,A.aJx,A.aJv,A.aIk,A.aGY,A.aIC,A.aFY,A.aGa,A.aIl,A.aGE,A.aHv,A.aG9,A.aJy,A.aHW,A.aHR,A.aJl,A.aHb,A.aGl,A.aGz,A.aID,A.aJ3,A.aHz,A.aHS,A.aHt,A.aHq,A.aHf,A.aHC,A.aIb,A.aJ1,A.aGb,A.aIY,A.aJJ,A.aGe,A.aGH,A.aIy,A.aJr,A.aIh,A.aGO,A.aH3,A.aI6,A.aG5,A.aHI,A.aJ_,A.aJk,A.aHg,A.aJc,A.aGL,A.aHl,A.aJw,A.aJb,A.aHm,A.aGR,A.aGZ,A.aI2,A.aIP,A.aG2,A.aHZ,A.aIF,A.aHL,A.aGA,A.aGI,A.aG7,A.aG6,A.aGx,A.aHU,A.aIi,A.aJn,A.aHd,A.aHF,A.aGk,A.aH7,A.aGC,A.aJK,A.aIf,A.aHE,A.aGu,A.aIH,A.aJm,A.aH6,A.aHo,A.aJs,A.aIa,A.aJ9,A.aJg,A.aJ2,A.aGw,A.aJD,A.aJj,A.aGB,A.aGc,A.aGd,A.aId,A.aHh,A.aH9,A.aHy,A.aGp,A.aJ6,A.aHO,A.aJz,A.aI0,A.aJu,A.aH_,A.aHX,A.aGU,A.aG3,A.aJB,A.aGg]),B.r("G<ay>"))})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_163",e:"endPart",h:b})})($__dart_deferred_initializers__,"EoPtL9a3C1fg2gMEISYukoL9WG0=");

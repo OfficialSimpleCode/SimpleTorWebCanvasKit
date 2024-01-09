@@ -49,17 +49,17 @@ x=this.c
 w=$.V().gbs()
 v=A.d("availability",!0)
 v=G.qo(p,w>1,p,p,d,p,p,p,A.d("hereYouCanManageYourScheduleSettings",!0),!1,p,32,v)
-w=C.dT($.d46(),p,p,p,"",new A.dW(),!0,p,p,p,p,p)
-u=C.dT($.d40(),p,p,p,"",new A.dW(),!0,p,p,p,p,p)
-t=C.dT($.d3e(),p,p,p,"",new A.dW(),!0,p,p,p,p,p)
-s=C.dT($.d45(),p,p,p,"",new A.dW(),!0,p,p,p,p,p)
-r=C.dT($.d36(),p,p,p,"",new A.dW(),!0,p,p,p,p,p)
+w=C.dT($.d46(),p,p,p,"",new A.dY(),!0,p,p,p,p,p)
+u=C.dT($.d40(),p,p,p,"",new A.dY(),!0,p,p,p,p,p)
+t=C.dT($.d3e(),p,p,p,"",new A.dY(),!0,p,p,p,p,p)
+s=C.dT($.d45(),p,p,p,"",new A.dY(),!0,p,p,p,p,p)
+r=C.dT($.d36(),p,p,p,"",new A.dY(),!0,p,p,p,p,p)
 q=A.d("showWaitingListWhenThereIsChoisesExplain",!1)
-return A.dD(v,p,H.aIn(E.hG(A.a([w,u,t,s,r,C.dT($.d32(),p,p,p,q,new A.dW(),!0,p,p,p,p,p)],y.e),D.b4,p,x,!1),D.l5),p,p,!1,p,p,23,!1,!1,x,!0)},
+return A.dD(v,p,H.aIn(E.hG(A.a([w,u,t,s,r,C.dT($.d32(),p,p,p,q,new A.dY(),!0,p,p,p,p,p)],y.e),D.b4,p,x,!1),D.l5),p,p,!1,p,p,23,!1,!1,x,!0)},
 $S:96};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.KP,A.z)
 w(A.b2,[B.bXE,B.bXF])})()
 A.aQ(b.typeUniverse,JSON.parse('{"KP":{"z":[],"l":[]}}'))
 var y={e:A.u("G<l>"),j:A.u("jE"),f:A.u("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_468",e:"endPart",h:b})})($__dart_deferred_initializers__,"IrcXkCw85EI/CQ5DOvfQQpc0/6c=");
+a.eventLog.push({p:"main.dart.js_468",e:"endPart",h:b})})($__dart_deferred_initializers__,"VXjbvoiFhDv6WgnO99Xh0RlTUXg=");

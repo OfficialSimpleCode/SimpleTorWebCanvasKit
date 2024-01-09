@@ -274,7 +274,8 @@
   "logginErrorWithDetails": "There was a problem logging in. You can view the",
   "confirmePolicy": "Approval of company policy",
   "typeHere": "Type here",
-  "phoneInfo": "This number will be used by the employee you booked an appointment with to communicate with you - it cannot be changed",  "authenticationCompleted": "Authentication completed successfully",
+  "phoneInfo": "This number will be used by the employee you booked an appointment with to communicate with you",
+  "authenticationCompleted": "Authentication completed successfully",
   "pressOpt": "Enter the code",
   "fullname": "First name + last name",
   "nameInfo": "The name will be shown to the workers you booked a order to",
@@ -2236,11 +2237,6 @@
   "providerDeletion": "deletion of connection source",
   "providerDeletionExplain": "To delete the source, type your cell phone number",
   "joinAt": "Join at",
-<<<<<<< HEAD
-  "cantDeleteLastProviderDeleteUser":"Unable to delete last provider",
-   "oldUserExplain": "This user relies on the cell phone. It is not possible to download this source. Contact support for information"
-}
-=======
   "cantDeleteLastProviderDeleteUser": "Unable to delete last provider - add another login source to continue",
   "oldUserExplain": "This user relies on the cell phone. It is not possible to download this source. Contact support for information",
   "hideFromClients": "hidden from clients",
@@ -3041,4 +3037,3 @@
   "unsyncCalendarExplanation": "Disconnecting the calendar will cancel its synchronization with your calendar, you will not be able to see the events that are in it and make changes to them through the application",
   "youExceedTheMessagesLimitOnlySms": "Exceeding the amount of messages the customer will not receive a reminder"
 }
->>>>>>> ae2dd808931e04981fdbd740efb8febf5f2dc44d
