@@ -2,10 +2,10 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_361",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-WG(d){var x=0,w=A.j(y.b),v,u,t,s
-var $async$WG=A.e(function(e,f){if(e===1)return A.f(f,w)
+WH(d){var x=0,w=A.j(y.b),v,u,t,s
+var $async$WH=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:x=3
-return A.c(A.bK(d,A.cd(A.a([A.ai("bankDetaildPage",0),A.ai("mangePayments",0)],y.d),y.b)),$async$WG)
+return A.c(A.bK(d,A.cd(A.a([A.ai("bankDetaildPage",0),A.ai("mangePayments",0)],y.d),y.b)),$async$WH)
 case 3:u=f
 t=$.L()
 s=t.x
@@ -15,7 +15,7 @@ break}x=u===!0?4:6
 break
 case 4:A.ae("mangePayments")
 x=7
-return A.c(A.pp(d,D.dxt()),$async$WG)
+return A.c(A.pp(d,D.dxt()),$async$WH)
 case 7:v=f
 x=1
 break
@@ -23,13 +23,13 @@ x=5
 break
 case 6:new A.ah(A.d("thereIsProblem",!0),B.k,B.l,B.n,d).L()
 case 5:case 1:return A.h(v,w)}})
-return A.i($async$WG,w)}},D
+return A.i($async$WH,w)}},D
 A=c[0]
 B=c[2]
 C=a.updateHolder(c[263],C)
 D=c[84]
 var z=a.updateTypes([])
-A.aQ(b.typeUniverse,JSON.parse('{"Fq":{"a1":[],"l":[]}}'))
+A.aQ(b.typeUniverse,JSON.parse('{"Fr":{"a1":[],"l":[]}}'))
 var y={d:A.u("G<ag<@>>"),b:A.u("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_361",e:"endPart",h:b})})($__dart_deferred_initializers__,"WakBwDDSOuYkqPN/xc4AULZ2dxo=");
+a.eventLog.push({p:"main.dart.js_361",e:"endPart",h:b})})($__dart_deferred_initializers__,"tqxZBDnTvlB7RlHx5vqvI9AcnM0=");

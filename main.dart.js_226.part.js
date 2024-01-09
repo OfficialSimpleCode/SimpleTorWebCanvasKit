@@ -87,7 +87,7 @@ $1(d){var x=this.a,w=this.b,v=J.f4(x.a,w),u=x.a
 if(!v)J.dm(u,w)
 else J.f5(u,w)
 x.D()},
-$S:47};(function inheritance(){var x=a.inherit,w=a.inheritMany
+$S:50};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.amD,A.z)
 w(A.b2,[B.bdL,B.bdQ,B.bdO])
 w(A.b4,[B.bdN,B.bdM,B.bdP])})()
@@ -98,4 +98,4 @@ E.b7Z=new A.hJ([D.oA,D.oB,D.oC,D.oD],A.u("hJ<m3>"))})();(function lazyInitialize
 x($,"e2h","d3t",()=>A.H([D.oA,"workTime",D.yf,"treatments",D.oB,"notifications",D.oC,"workSettings",D.oD,"scheduleSettings",F.mo,"clients"],y.j,A.u("n")))
 x($,"e2g","doB",()=>A.H([D.oA,G.dZ,D.yf,K.lM,D.oB,L.iK,D.oC,M.Ms,D.oD,N.iL,F.mo,O.hg],y.j,A.u("b_")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_226",e:"endPart",h:b})})($__dart_deferred_initializers__,"/yp/bKtEQ14cSPYbRBuwYbmVXsE=");
+a.eventLog.push({p:"main.dart.js_226",e:"endPart",h:b})})($__dart_deferred_initializers__,"9BtIOxjtigL2qJoXZ/bZ0aloQm8=");

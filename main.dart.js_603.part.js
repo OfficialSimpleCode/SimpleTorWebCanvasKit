@@ -73,8 +73,8 @@ if(!A.v(p,q).a7(A.v(p,q).t(x),!1,!1).m(0,A.v(p,q).a7(A.v(p,q).t(this.a),!1,!1)))
 v=d}J.dm(this.c.a,v)}},
 $S:14};(function installTearOffs(){var x=a.installStaticTearOff
 x(B,"dh6",0,null,["$8$appointments$date$dateListener$listener$maxDate$monthController$oneWeekController$weekView","$7$appointments$date$dateListener$listener$monthController$oneWeekController$weekView","$7$appointments$date$dateListener$listener$monthController$oneWeekController$weekView"],["d16",function(d,e,f,g,h,i,j){return B.d16(d,e,f,g,null,h,i,j)},function(d,e,f,g,h,i,j){return B.d16(d,e,f,g,null,h,i,j)}],0,0)})();(function inheritance(){var x=a.inherit
-x(B.akW,D.NR)
+x(B.akW,D.NS)
 x(B.cPi,A.b2)})()
 var y={a:A.u("G<bZ>"),k:A.u("G<x>"),f:A.u("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_603",e:"endPart",h:b})})($__dart_deferred_initializers__,"oTUjgqGqahw4a6av3jnsDqyR178=");
+a.eventLog.push({p:"main.dart.js_603",e:"endPart",h:b})})($__dart_deferred_initializers__,"rXzgye6dHGKxoGzK03MSHODQALU=");
