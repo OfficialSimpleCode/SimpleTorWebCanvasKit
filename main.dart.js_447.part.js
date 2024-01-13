@@ -42,9 +42,9 @@ var z=a.updateTypes(["H_(B)"])
 C.cP_.prototype={
 $1(d){var x=this
 A.ae("createInvoicePage")
-return D.drm(x.a,x.c,x.d,x.e,x.b)},
+return D.drn(x.a,x.c,x.d,x.e,x.b)},
 $S:z+0};(function inheritance(){var x=a.inherit
 x(C.cP_,A.b8)})()
 var y={d:A.v("dN"),e:A.v("dN?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_447",e:"endPart",h:b})})($__dart_deferred_initializers__,"rBVzN8UBuwJE2+sbRZZIyYz9ydc=");
+a.eventLog.push({p:"main.dart.js_447",e:"endPart",h:b})})($__dart_deferred_initializers__,"wZQ9LnHopB+gTaFuwQ+kck5o5Zo=");

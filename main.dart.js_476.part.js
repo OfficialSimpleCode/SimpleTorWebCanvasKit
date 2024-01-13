@@ -102,22 +102,22 @@ B.aN4.prototype={
 am(){this.aC()},
 n(d){var x=null,w=this.d
 this.a.toString
-return A.duM(x,new B.cnw(this,d),!0,w,x,x,x,x,y.e)}}
+return A.duN(x,new B.cnw(this,d),!0,w,x,x,x,x,y.e)}}
 B.a0B.prototype={
 R(){return"GFCheckboxType."+this.b}}
 B.axi.prototype={
 n(d){var x=this,w=x.byN(d),v=A.q(d),u=A.q(d).ax.cx
-return A.ad(A.a([w,new B.a0A(D.LO,20,v.ax.f,C.A,A.T(C.f.aa(76.5),u.gj(u)>>>16&255,u.gj(u)>>>8&255,u.gj(u)&255),new B.bFr(x),x.w,x.x,null,null)],y.u),C.e,x.f,C.d,null)},
+return A.ad(A.a([w,new B.a0A(D.LP,20,v.ax.f,C.A,A.T(C.f.aa(76.5),u.gj(u)>>>16&255,u.gj(u)>>>8&255,u.gj(u)&255),new B.bFr(x),x.w,x.x,null,null)],y.u),C.e,x.f,C.d,null)},
 byN(d){var x,w=null
 if(!this.r)return new A.m(w,w,w,w)
 x=A.q(d)
-return new A.a9(C.b8,A.ad(A.a([A.ak(w,w,w,A.bt(F.Mk,A.q(d).ax.r,w,w,w),x.ax.f,w,0,!1,new A.ef(C.U,new A.ax(8,8),C.U,new A.ax(8,8)),w,w,w,w,!1,this.d,w,new A.y(4,0,4,0),w,w,!1,!1,w),new A.m(1,w,w,w),A.ak(w,w,w,A.bt(C.fJ,A.q(d).ax.r,w,w,w),A.q(d).ax.f,w,0,!1,new A.ef(new A.ax(8,8),C.U,new A.ax(8,8),C.U),w,w,w,w,!1,this.e,w,new A.y(4,0,4,0),w,w,!1,!1,w)],y.u),C.e,C.h,C.d,w),w)}}
+return new A.a9(C.b8,A.ad(A.a([A.ak(w,w,w,A.bt(F.Ml,A.q(d).ax.r,w,w,w),x.ax.f,w,0,!1,new A.ef(C.U,new A.ax(8,8),C.U,new A.ax(8,8)),w,w,w,w,!1,this.d,w,new A.y(4,0,4,0),w,w,!1,!1,w),new A.m(1,w,w,w),A.ak(w,w,w,A.bt(C.fJ,A.q(d).ax.r,w,w,w),A.q(d).ax.f,w,0,!1,new A.ef(new A.ax(8,8),C.U,new A.ax(8,8),C.U),w,w,w,w,!1,this.e,w,new A.y(4,0,4,0),w,w,!1,!1,w)],y.u),C.e,C.h,C.d,w),w)}}
 B.a47.prototype={
 n(d){var x=this.r
 x=x.ga3(x)
 return new A.X(this.c,new B.bMH(this,A.am(x,!0,A.K(x).k("U.E"))),null,null,y.b)},
 Mz(d,e,f){return H.cUJ(f,new B.bMB(this,d),this.y)},
-BQ(d,e){return this.Mz(d,e,null)},
+BP(d,e){return this.Mz(d,e,null)},
 bSm(){var x={}
 x.a=0
 J.ap(this.c.a,new B.bMN(x))
@@ -133,7 +133,7 @@ x.ay=w
 J.aa(v.a,d.r).cx.i(0,w,x)}}v.D()}}
 var z=a.updateTypes(["I()","l(B,fs)"])
 B.cnw.prototype={
-$1(d){var x,w,v,u=null,t=this.a,s=t.a,r=s.c,q=r===D.LO,p=q?C.br:C.a4,o=!q,n=s.d,m=o?C.hd:C.M
+$1(d){var x,w,v,u=null,t=this.a,s=t.a,r=s.c,q=r===D.LP,p=q?C.br:C.a4,o=!q,n=s.d,m=o?C.hd:C.M
 if(s.y)x=r===D.CM?C.u:s.e
 else x=s.f
 if(r===D.aOy)q=A.kr(3)
@@ -145,7 +145,7 @@ v=A.fp(v,1)
 if(w)if(r===D.CM){s=n*0.8
 s=new A.bM(C.a1,u,C.R,C.y,A.a([A.al(C.v,u,C.j,u,u,u,u,u,u,u,u,u,u,u),A.al(C.v,u,C.j,u,u,new A.cb(D.afz,u,u,u,u,u,u,C.a4),u,s,u,I.fG,u,u,u,s)],y.u),u)}else s=s.z
 else s=s.Q
-t=A.boD(u,!1,A.dvr(!1,u,!0,A.al(u,s,C.j,u,u,new A.cb(x,u,v,q,u,u,u,C.a4),u,n,u,m,u,u,u,n),o,u,!0,!1,u,u,u,p,u,u,u,u,u,u,u,u,u,u,u,u,u,new B.cnv(t,d),u,u,u,u,u,u,u,u),!0,u,C.ck,u,u,u,u)
+t=A.boD(u,!1,A.dvs(!1,u,!0,A.al(u,s,C.j,u,u,new A.cb(x,u,v,q,u,u,u,C.a4),u,n,u,m,u,u,u,n),o,u,!0,!1,u,u,u,p,u,u,u,u,u,u,u,u,u,u,u,u,u,new B.cnv(t,d),u,u,u,u,u,u,u,u),!0,u,C.ck,u,u,u,u)
 s=d.e
 r=s.y
 q=r==null
@@ -185,13 +185,13 @@ p=v.a
 o=v.c
 n=A.E(A.d("noClientsAvaliable",!0),null,!1,!1,null,!1,!1,null,!1,!1,!1,1,null,!1,25,null,"")
 m=$.aj()*0.8
-m=G.Cx(16,m,"",m)
+m=G.Cw(16,m,"",m)
 u=A.q(q)
 t=y.u
 t=A.N(A.a([n,m,p.Mz(o,q,A.ak(null,null,null,A.cZ(A.ad(A.a([new A.bj(C.bR,24,!1,1,!0,!1,!1,null,null),new A.m(10,null,null,null),A.E(A.d("AddClient",!0),null,!1,!1,null,!1,!1,null,!0,!1,!1,1,null,!1,16,null,"")],t),C.e,C.w,C.d,null),C.a3),u.ax.f,null,0,!1,null,null,null,null,null,!1,null,null,new A.y(10,5,10,5),null,null,!1,!1,null))],t),C.e,C.w,C.d)
 u=$.aj()
 m=A.E(A.d("noticePatticinpantsMax",!0),C.m,!1,!1,C.aL,!1,!1,null,!1,!1,!1,1,null,!1,15,null,"")
-n=p.BQ(o,q)
+n=p.BP(o,q)
 s=A.d("pickCustomers",!0)
 r=p.c
 x=2
@@ -289,10 +289,10 @@ w(A.bJ,[B.cSW,B.bMF,B.bMC,B.bME,B.bMN])})()
 A.aV(b.typeUniverse,JSON.parse('{"a0A":{"a2":[],"l":[]},"aN4":{"ab":["a0A"]},"axi":{"A":[],"l":[]},"a47":{"A":[],"l":[]}}'))
 var y={u:A.v("G<l>"),p:A.v("mz"),t:A.v("fs"),w:A.v("n"),b:A.v("X<a3<n,fs>>"),e:A.v("I"),v:A.v("~")};(function constants(){D.afz=new A.k(4279295072)
 D.aMw=new A.y(0,0,0,13)
-D.Kb=new A.y(0,40,0,0)
+D.Kc=new A.y(0,40,0,0)
 D.aOy=new B.a0B(0,"basic")
-D.LO=new B.a0B(1,"circle")
+D.LP=new B.a0B(1,"circle")
 D.CM=new B.a0B(3,"custom")
 D.b1k=new A.a_(C.cH,[],A.v("a_<n,mz>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_476",e:"endPart",h:b})})($__dart_deferred_initializers__,"Hyl0dz7tf2XRdymoX9ZrDjh4fkQ=");
+a.eventLog.push({p:"main.dart.js_476",e:"endPart",h:b})})($__dart_deferred_initializers__,"9/UqULWs2pLhRldiVwtC2rooF38=");

@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_455",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={al8:function al8(d){this.a=d},b9w:function b9w(){},b9x:function b9x(){},b9y:function b9y(d){this.a=d},b9z:function b9z(){},
-dB8(){return new B.aDV(null)},
+dB9(){return new B.aDV(null)},
 aDV:function aDV(d){this.a=d}},D,E
 A=c[0]
 C=c[2]
@@ -20,7 +20,7 @@ B.b9w.prototype={
 $0(){var w=0,v=A.j(x.h)
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,v)
 while(true)switch(w){case 0:w=2
-return A.c(new A.j5().D_(y.c,y.c,!1),$async$$0)
+return A.c(new A.j5().CZ(y.c,y.c,!1),$async$$0)
 case 2:return A.h(null,v)}})
 return A.i($async$$0,v)},
 $S:1}
@@ -29,7 +29,7 @@ $0(){var w="https://officialsimplecode.github.io/SimpleTorHomePage/"
 return new A.j5().I0(w,w)},
 $S:3}
 B.b9y.prototype={
-$0(){return A.dfH(this.a,"simpletor.official")},
+$0(){return A.dfI(this.a,"simpletor.official")},
 $S:0}
 B.b9z.prototype={
 $0(){return new A.j5().xg("0504040624")},
@@ -42,4 +42,4 @@ var x={e:A.v("G<l>"),h:A.v("aw")};(function constants(){D.aMA=new A.y(0,0,0,40)
 D.aNc=new A.y(15,7,15,7)
 D.aP1=new A.t0(61612,"FontAwesomeSolid","font_awesome_flutter",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_455",e:"endPart",h:b})})($__dart_deferred_initializers__,"/ftm9QT+IdxoTrEf5RghbX8XHtU=");
+a.eventLog.push({p:"main.dart.js_455",e:"endPart",h:b})})($__dart_deferred_initializers__,"0/by5H5mlgz+dmz9ea7U1c2Sxb8=");

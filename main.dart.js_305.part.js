@@ -22,7 +22,7 @@ x=s===!0?4:6
 break
 case 4:A.ae("workTime")
 x=7
-return A.c(A.pj(d,E.dCD(r,e,f)),$async$MH)
+return A.c(A.pj(d,E.dCE(r,e,f)),$async$MH)
 case 7:v=h
 x=1
 break
@@ -46,7 +46,7 @@ case 6:x=h===!0?3:5
 break
 case 3:A.ae("treatments")
 x=7
-return A.c(A.pj(d,F.dBZ(e,f)),$async$Wy)
+return A.c(A.pj(d,F.dC_(e,f)),$async$Wy)
 case 7:v=h
 x=1
 break
@@ -84,10 +84,10 @@ G=c[117]
 var z=a.updateTypes(["Lq(B)"])
 C.cPW.prototype={
 $1(d){A.ae("workSettings")
-return G.dCC()},
+return G.dCD()},
 $S:z+0};(function inheritance(){var x=a.inherit
 x(C.cPW,A.b8)})()
 A.aV(b.typeUniverse,JSON.parse('{"Lq":{"A":[],"l":[]}}'))
 var y={d:A.v("G<af<@>>"),b:A.v("@"),a:A.v("ah?")};(function constants(){D.CZ=new A.b0(983130,"MaterialIcons",null,!1)})();(function staticFields(){$.dG=A.aQ("workContext")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_305",e:"endPart",h:b})})($__dart_deferred_initializers__,"nn4y4GJOrXAgEIfgq4qZwOzLAT4=");
+a.eventLog.push({p:"main.dart.js_305",e:"endPart",h:b})})($__dart_deferred_initializers__,"hIJIM94LmbosVC3P9V5bvfOu2d4=");

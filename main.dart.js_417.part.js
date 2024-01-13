@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_417",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,K,L,M,N,F,G,E,O,P,Q,R,B={
-dpo(d,e,f){return new B.X5(d,e,f,null)},
+dpp(d,e,f){return new B.X5(d,e,f,null)},
 X5:function X5(d,e,f,g){var _=this
 _.c=d
 _.d=e
@@ -37,7 +37,7 @@ cdh:function cdh(d){this.a=d},
 cdg:function cdg(d,e){this.a=d
 this.b=e},
 cd5:function cd5(d){this.a=d},
-dL_(d,e){var x,w,v
+dL0(d,e){var x,w,v
 if(d!=null)x=d.as
 else{w=A.as(y.S)
 J.ap(e.a,new B.cKU(w))
@@ -47,7 +47,7 @@ break}if(!w.u(0,v)){x=v
 break}++v}}return x},
 cKU:function cKU(d){this.a=d},
 cKT:function cKT(d){this.a=d},
-dgz(d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e={}
+dgA(d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e={}
 if(!(!(a1.gY()!=null&&!a1.gY().hj())||!1)){new A.ag(A.d("somethingWrong",!0),C.k,C.l,C.n,a0).M()
 return!1}e.a=e.b=!1
 J.ap(b8.a,new B.cQW(e))
@@ -141,7 +141,7 @@ v=null
 x=1
 break}A.ae("treatmentDurationPicker")
 x=4
-return A.c(A.e1(d,!0,P.dBV(e,f),1,null).ej(),$async$b_f)
+return A.c(A.e1(d,!0,P.dBW(e,f),1,null).ej(),$async$b_f)
 case 4:v=h
 x=1
 break
@@ -156,7 +156,7 @@ v=null
 x=1
 break}A.ae("treatmentPricePicker")
 x=4
-return A.c(A.e1(d,!0,Q.dBW(e,f,g,h),1,null).ej(),$async$b_g)
+return A.c(A.e1(d,!0,Q.dBX(e,f,g,h),1,null).ej(),$async$b_g)
 case 4:v=j
 x=1
 break
@@ -191,7 +191,7 @@ a_(){var x=$.an()
 return new B.a9d(new A.b2(null,y.w),new A.cN(C.bf,x),new A.cN(C.bf,x),C.o)}}
 B.a9d.prototype={
 am(){var x,w,v,u,t,s,r,q=this,p=null,o=q.a
-o=B.dL_(o.c,o.e)
+o=B.dL0(o.c,o.e)
 x=$.an()
 w=y.e
 q.dx=new A.P(o,x,w)
@@ -315,7 +315,7 @@ e=u.cx
 e===$&&A.b()
 d=u.ay
 d===$&&A.b()
-v=B.dgz(t,a0,u.d,!0,r,k,i,l,u.w.a.a,n.c,g,o,p,j,e,h,f,m,d,q)
+v=B.dgA(t,a0,u.d,!0,r,k,i,l,u.w.a.a,n.c,g,o,p,j,e,h,f,m,d,q)
 x=1
 break
 case 1:return A.h(v,w)}})
@@ -430,7 +430,7 @@ $S:0}
 B.cdf.prototype={
 $3(d,e,f){var x=null,w=this.a,v=w.at
 v===$&&A.b()
-v=v.a?M.Mq:E.iN
+v=v.a?M.Mr:E.iN
 return A.c4(!1,C.A,A.q(d).ax.db,v,!0,!1,x,new A.y(9,0,9,0),x,!0,new B.cde(w,d),!1,new A.y(6,6,6,6),x,x,x,25,x,x)},
 $S:1480}
 B.cde.prototype={
@@ -515,7 +515,7 @@ t=new A.ce(u)
 t.df(v,u)
 t=t.l(0)
 x=" | "+A.M(w,"AMOUNT",t)}else x=""
-return A.ci(!1,!0,s,!0,!1,!1,!1,!0,!1,!0,new B.cdg(o,d),!1,D.fF,new A.a9(C.bd,new A.bj(R.M0,19,!0,1,!1,!1,!1,s,s),s),5,5,s,!1,p+": "+n+x,s,13,r,s,q,15,0,s)},
+return A.ci(!1,!0,s,!0,!1,!1,!1,!0,!1,!0,new B.cdg(o,d),!1,D.fF,new A.a9(C.bd,new A.bj(R.M1,19,!0,1,!1,!1,!1,s,s),s),5,5,s,!1,p+": "+n+x,s,13,r,s,q,15,0,s)},
 $S:1483}
 B.cdg.prototype={
 $0(){var x=0,w=A.j(y.P),v,u=this,t,s,r,q,p,o,n
@@ -581,7 +581,7 @@ j=h.CW
 j===$&&A.b()
 i=h.ay
 i===$&&A.b()
-return B.dgz(x,g,h.d,!1,w,o,p,q,h.w.a.a,s.c,l,t,u,j,k,n,m,r,i,v)},
+return B.dgA(x,g,h.d,!1,w,o,p,q,h.w.a.a,s.c,l,t,u,j,k,n,m,r,i,v)},
 $S:9}
 B.cKU.prototype={
 $2(d,e){e.c.p(0,new B.cKT(this.a))},
@@ -610,7 +610,7 @@ $0(){var x=0,w=A.j(y.P),v=this,u
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:u=v.b
 x=2
-return A.c(O.Wn(v.a.c,u,v.c,new B.c3a(u),C.m8,null),$async$$0)
+return A.c(O.Wn(v.a.c,u,v.c,new B.c3a(u),C.m7,null),$async$$0)
 case 2:return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1}
@@ -619,7 +619,7 @@ $0(){new A.ag(A.d("alreadyHasTreatmentWithThisColor",!0),C.k,C.l,C.n,this.a).M()
 $S:2}
 B.c3e.prototype={
 $3(d,e,f){var x=null
-return new A.um(new A.k(C.m8[this.a.c.a]),new A.m(24,24,x,x),x,x,!0,x)},
+return new A.um(new A.k(C.m7[this.a.c.a]),new A.m(24,24,x,x),x,x,!0,x)},
 $S:1484}
 B.c3j.prototype={
 $0(){var x=0,w=A.j(y.P),v=this,u,t
@@ -715,4 +715,4 @@ A.aV(b.typeUniverse,JSON.parse('{"X5":{"a2":[],"l":[]},"a9d":{"ab":["X5"]},"aF8"
 var y=(function rtii(){var x=A.v
 return{p:x("G<l>"),w:x("b2<hI>"),P:x("aw"),N:x("n"),B:x("iM"),M:x("X<a3<n,iM>>"),x:x("X<ce>"),z:x("X<I>"),J:x("X<C>"),d:x("P<a3<n,iM>>"),v:x("P<ce>"),f:x("P<I>"),e:x("P<C>"),y:x("I"),S:x("C"),E:x("a3<n,iM>?"),h:x("a3<n,@>?"),u:x("I?")}})();(function constants(){H.aPa=new A.b0(57663,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_417",e:"endPart",h:b})})($__dart_deferred_initializers__,"j3VTLpCJjmYf+NPysP1kVvKY5bQ=");
+a.eventLog.push({p:"main.dart.js_417",e:"endPart",h:b})})($__dart_deferred_initializers__,"Y4YL/S0jkmDElP+FlbyQgglfays=");

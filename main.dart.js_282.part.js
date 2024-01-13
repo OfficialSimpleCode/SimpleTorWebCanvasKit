@@ -57,13 +57,13 @@ F=c[388]
 var z=a.updateTypes(["KS(B)","Ha(B)"])
 B.cPY.prototype={
 $1(d){A.ae("statistcsPage")
-return D.dB0(this.b,this.a)},
+return D.dB1(this.b,this.a)},
 $S:z+0}
 B.cOY.prototype={
 $1(d){A.ae("customersPage")
-return E.drI(this.b,this.a)},
+return E.drJ(this.b,this.a)},
 $S:z+1};(function inheritance(){var x=a.inheritMany
 x(A.b8,[B.cPY,B.cOY])})()
-var y={g:A.v("n"),b:A.v("@")};(function constants(){F.MB=new A.b0(62889,"MaterialIcons",null,!1)})()};
+var y={g:A.v("n"),b:A.v("@")};(function constants(){F.MC=new A.b0(62889,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_282",e:"endPart",h:b})})($__dart_deferred_initializers__,"Hn7t5E1n2B/mt1CCwwZw5c7mGZI=");
+a.eventLog.push({p:"main.dart.js_282",e:"endPart",h:b})})($__dart_deferred_initializers__,"igRNg2WdaOsRIA1pIrIzixVLQ70=");

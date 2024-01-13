@@ -48,9 +48,9 @@ var z=a.updateTypes(["J1(B)"])
 C.cPb.prototype={
 $1(d){var x=this
 A.ae("makeNewPaymentRequest")
-return E.dwl(x.e,x.d,x.a,x.b,x.c)},
+return E.dwm(x.e,x.d,x.a,x.b,x.c)},
 $S:z+0};(function inheritance(){var x=a.inherit
 x(C.cPb,A.b8)})()
 var y={b:A.v("@"),a:A.v("ah?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_454",e:"endPart",h:b})})($__dart_deferred_initializers__,"zszIOxKV6KzWPJHcfDkaJh2ww94=");
+a.eventLog.push({p:"main.dart.js_454",e:"endPart",h:b})})($__dart_deferred_initializers__,"wz+nSXyC2FWUSNWFOStkXDJC8Ys=");

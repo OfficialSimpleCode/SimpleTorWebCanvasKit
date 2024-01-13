@@ -13,9 +13,9 @@ return new C.bP6(x)},
 bP6:function bP6(d){this.a=d},
 d9J(d,e){var x=B.a([],y.v)
 B.bPQ(d,1,40,"typeNumber")
-B.dz1(e,A.aRH,"errorCorrectLevel",null)
+B.dz2(e,A.aRH,"errorCorrectLevel",null)
 return new C.bP3(d,e,d*4+17,x)},
-dyT(d,e){var x,w,v,u,t,s,r,q
+dyU(d,e){var x,w,v,u,t,s,r,q
 for(x=y.t,w=1;w<40;++w){v=C.d9L(w,d)
 u=new C.a4Q(B.a([],x))
 for(t=v.length,s=0,r=0;r<t;++r)s+=v[r].b
@@ -35,8 +35,8 @@ if(v+4<=t)p.tF(0,0,4)
 for(;D.c.ab(p.b,8)!==0;)p.aH8(!1)
 for(s=0;!0;s=r){if(p.b>=t)break
 r=s+1
-p.tF(0,(s&1)===0?236:17,8)}return C.dFy(p,q)},
-dFy(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h=y.T,g=B.bn(e.length,null,!1,h),f=B.bn(e.length,null,!1,h)
+p.tF(0,(s&1)===0?236:17,8)}return C.dFz(p,q)},
+dFz(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h=y.T,g=B.bn(e.length,null,!1,h),f=B.bn(e.length,null,!1,h)
 for(h=d.a,x=0,w=0,v=0,u=0;u<e.length;++u){t=e[u]
 s=t.b
 r=t.a-s
@@ -46,7 +46,7 @@ q=new Uint8Array(s)
 g[u]=q
 for(p=0;p<s;++p)q[p]=h[p+x]&255
 x+=s
-o=C.dFZ(r)
+o=C.dG_(r)
 t=o.a.length-1
 n=C.azZ(q,t).aFZ(o)
 m=new Uint8Array(t)
@@ -70,7 +70,7 @@ case 2:return 13
 case 4:return 16
 case 8:return 12
 default:throw B.t(B.bm("mode:"+d,x))}else throw B.t(B.bm("type:"+e,x))},
-dFZ(d){var x,w=y.t,v=C.azZ(B.a([1],w),0)
+dG_(d){var x,w=y.t,v=C.azZ(B.a([1],w),0)
 for(x=0;x<d;++x)v=v.f2(0,C.azZ(B.a([1,C.d_U(x)],w),0))
 return v},
 bP3:function bP3(d,e,f,g){var _=this
@@ -79,17 +79,17 @@ _.b=e
 _.c=f
 _.d=null
 _.e=g},
-dyU(d){var x,w,v,u,t,s,r,q,p,o,n
+dyV(d){var x,w,v,u,t,s,r,q,p,o,n
 for(x=y.Q,w=d.c,v=d.a,u=d.b,t=d.e,s=0,r=null,q=0;q<8;++q){p=new C.azY(w,v,u,q,B.a([],x))
 o=d.d
 p.auk(q,o==null?d.d=C.dd4(v,u,t):o,!0)
-n=C.dH5(p)
+n=C.dH6(p)
 if(q===0||s>n){r=p
 s=n}}t=r.d
 x=new C.azY(w,v,u,t,B.a([],x))
 x.auk(t,d.gbzM(),!1)
 return x},
-dHa(d,e,f){var x
+dHb(d,e,f){var x
 switch(d){case 0:return(e+f&1)===0
 case 1:return(e&1)===0
 case 2:return D.c.ab(f,3)===0
@@ -101,7 +101,7 @@ case 6:x=e*f
 return(D.c.ab(x,2)+D.c.ab(x,3)&1)===0
 case 7:return(D.c.ab(e*f,3)+D.c.ab(e+f,2)&1)===0
 default:throw B.t(B.bm("bad maskPattern:"+d,null))}},
-dH5(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=d.a
+dH6(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=d.a
 for(x=0,w=0;w<k;++w)for(v=0;v<k;++v){u=d.js(w,v)
 for(t=0,s=-1;s<=1;++s){r=w+s
 if(r<0||k<=r)continue
@@ -122,13 +122,13 @@ _.b=e
 _.c=f
 _.d=g
 _.e=h},
-d9L(d,e){var x,w,v,u,t,s,r=C.dGx(d,e),q=r.length/3|0,p=B.a([],y.J)
+d9L(d,e){var x,w,v,u,t,s,r=C.dGy(d,e),q=r.length/3|0,p=B.a([],y.J)
 for(x=0;x<q;++x){w=x*3
 v=r[w]
 u=r[w+1]
 t=r[w+2]
 for(s=0;s<v;++s)p.push(new C.aA_(u,t))}return p},
-dGx(d,e){switch(e){case 1:return A.vo[(d-1)*4]
+dGy(d,e){switch(e){case 1:return A.vo[(d-1)*4]
 case 0:return A.vo[(d-1)*4+1]
 case 3:return A.vo[(d-1)*4+2]
 case 2:return A.vo[(d-1)*4+3]
@@ -186,12 +186,12 @@ bP4:function bP4(d,e){this.a=d
 this.b=e},
 azX:function azX(){},
 azW:function azW(){},
-dyV(d,e,f){var x,w,v,u,t,s=B.aQ("qrCode")
+dyW(d,e,f){var x,w,v,u,t,s=B.aQ("qrCode")
 try{if(f!==-1){s.sdQ(C.d9J(f,e))
 v=s.Z()
 u=D.bP.dv(d)
 v.e.push(new C.Rm(u))
-v.d=null}else{v=C.d9J(C.dyT(e,B.a([new C.Rm(D.bP.dv(d))],y.v)),e)
+v.d=null}else{v=C.d9J(C.dyU(e,B.a([new C.Rm(D.bP.dv(d))],y.v)),e)
 v.e.push(new C.Rm(D.bP.dv(d)))
 v.d=null
 s.sdQ(v)}v=s.Z()
@@ -209,17 +209,17 @@ return $.cU0()[d]},
 d_U(d){for(;d<0;)d+=255
 for(;d>=256;)d-=255
 return $.d1R()[d]},
-dFz(){var x,w=new Uint8Array(256)
+dFA(){var x,w=new Uint8Array(256)
 for(x=0;x<8;++x)w[x]=D.c.mO(1,x)
 for(x=8;x<256;++x)w[x]=w[x-4]^w[x-5]^w[x-6]^w[x-8]
 return w},
-dFA(){var x,w=new Uint8Array(256)
+dFB(){var x,w=new Uint8Array(256)
 for(x=0;x<255;++x)w[$.d1R()[x]]=x
 return w},
-dIx(d){var x,w=d<<10>>>0
+dIy(d){var x,w=d<<10>>>0
 for(x=w;C.Mh(x)-C.Mh(1335)>=0;)x=(x^D.c.h5(1335,C.Mh(x)-C.Mh(1335)))>>>0
 return((w|x)^21522)>>>0},
-dIy(d){var x,w=d<<12>>>0
+dIz(d){var x,w=d<<12>>>0
 for(x=w;C.Mh(x)-C.Mh(7973)>=0;)x=(x^D.c.h5(7973,C.Mh(x)-C.Mh(7973)))>>>0
 return(w|x)>>>0},
 Mh(d){var x
@@ -334,7 +334,7 @@ if(u[6]!=null)continue
 u[6]=(v&1)===0}for(t=8;t<x;++t){u=w[6]
 if(u[t]!=null)continue
 u[t]=(t&1)===0}},
-bne(d,e){var x,w,v,u,t,s,r=C.dIx((this.c<<3|d)>>>0)
+bne(d,e){var x,w,v,u,t,s,r=C.dIy((this.c<<3|d)>>>0)
 for(x=this.e,w=this.a,v=w-15,u=!e,t=0;t<15;++t){s=u&&(D.c.pa(r,t)&1)===1
 if(t<6)x[t][8]=s
 else if(t<8)x[t+1][8]=s
@@ -343,7 +343,7 @@ if(t<8)x[8][w-t-1]=s
 else{v=15-t-1
 if(t<9)x[8][v+1]=s
 else x[8][v]=s}}x[w-8][8]=u},
-bnf(d){var x,w,v,u,t,s=C.dIy(this.b)
+bnf(d){var x,w,v,u,t,s=C.dIz(this.b)
 for(x=this.e,w=this.a,v=!d,u=0;u<18;++u){t=v&&(D.c.pa(s,u)&1)===1
 x[D.c.U(u,3)][D.c.ab(u,3)+w-8-3]=t}for(u=0;u<18;++u){t=v&&(D.c.pa(s,u)&1)===1
 x[D.c.ab(u,3)+w-8-3][D.c.U(u,3)]=t}},
@@ -351,7 +351,7 @@ bgF(d,e){var x,w,v,u,t,s,r,q,p,o=this.a,n=o-1
 for(x=this.e,w=n,v=-1,u=7,t=0;w>0;w-=2){if(w===6)--w
 for(;!0;){for(s=0;s<2;++s){r=w-s
 if(x[n][r]==null){q=t<d.length&&(D.c.oc(d[t],u)&1)===1
-if(C.dHa(e,n,r))q=!q
+if(C.dHb(e,n,r))q=!q
 x[n][r]=q;--u
 if(u===-1){++t
 u=7}}}n+=v
@@ -372,7 +372,7 @@ C.a4R.prototype={
 a_(){return new C.aRb(D.o)}}
 C.aRb.prototype={
 n(d){var x=this,w=x.a
-w=x.e=C.dyV(w.c,1,w.f)
+w=x.e=C.dyW(w.c,1,w.f)
 x.d=w.a===A.Fh?w.b:null
 return new B.oJ(new C.cuR(x),null)},
 bl1(d,e){var x,w,v,u=null,t=this.d
@@ -393,7 +393,7 @@ v=B.al(w,new B.a9(x.e,x.f,w),D.j,x.d,w,w,w,v,w,w,w,w,w,v)
 return new B.cL(B.cT(w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,x.r,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w),!1,!1,!1,!1,v,w)}}
 C.a4S.prototype={
 bf4(){var x,w,v,u,t,s,r
-this.y=C.dyU(this.x)
+this.y=C.dyV(this.x)
 x=this.as
 w=$.aN()
 v=w.au()
@@ -407,15 +407,15 @@ v=w.au()
 v.sb1(0,D.a0)
 s=x.b
 r=t.R()
-s.i(0,A.a53.l(0)+":"+r,v)
+s.i(0,A.a54.l(0)+":"+r,v)
 v=w.au()
 v.sb1(0,D.a0)
 r=t.R()
-s.i(0,A.a54.l(0)+":"+r,v)
+s.i(0,A.a55.l(0)+":"+r,v)
 v=w.au()
 v.sb1(0,D.a5)
 r=t.R()
-s.i(0,A.a55.l(0)+":"+r,v)}},
+s.i(0,A.a56.l(0)+":"+r,v)}},
 ak(a3,a4){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2=this
 if(a4.gjg()===0){B.b_v().$1("[QR] WARN: width or height is zero. You should set a 'size' value or nest this painter in a Widget that defines a non-zero size")
 return}x=a4.gjg()
@@ -428,7 +428,7 @@ v.e=s
 s=v.f=(x-s)/2
 a2.a9K(A.CE,a3,v)
 a2.a9K(A.CF,a3,v)
-a2.a9K(A.LF,a3,v)
+a2.a9K(A.LG,a3,v)
 r=a2.as.bDz(A.yW)
 r.sT(0,a2.at)
 for(x=w-7,q=t+0,p=0;p<w;++p)for(o=p<7,n=p>=x,m=s+p*q,l=0;l<w;++l){k=l<7
@@ -455,10 +455,10 @@ s=a0.b
 q=(a4.b-s)/2
 g=$.aN().au()
 g.sf1(!0)
-g.spB(D.LE)
+g.spB(D.LF)
 k=x.gci(x)
 a1=x.gb2(x)
-a3.Cu(x,D.v.HQ(new B.ao(k,a1),new B.a1(0,0,k,a1)),D.v.HQ(a0,new B.a1(t,q,t+w,q+s)),g)}},
+a3.Ct(x,D.v.HQ(new B.ao(k,a1),new B.a1(0,0,k,a1)),D.v.HQ(a0,new B.a1(t,q,t+w,q+s)),g)}},
 beC(d,e,f){var x,w=e+1
 if(w>=f)return!1
 x=this.y
@@ -481,14 +481,14 @@ t=v+u-(x+w)
 if(d===A.CE){v+=w
 s=new B.F(v,v)}else{v+=w
 s=d===A.CF?new B.F(v,t):new B.F(t,v)}v=this.as
-r=v.a0L(A.a53,d)
+r=v.a0L(A.a54,d)
 r.sbY(j)
 u=this.at
 r.sT(0,u)
-q=v.a0L(A.a54,d)
+q=v.a0L(A.a55,d)
 q.sbY(j)
 q.sT(0,D.B2)
-p=v.a0L(A.a55,d)
+p=v.a0L(A.a56,d)
 p.sT(0,u)
 v=s.a
 u=s.b
@@ -560,7 +560,7 @@ A.ac0=new C.azW()
 A.b6t=new C.bP5(0,"square")
 A.ac1=new C.azX()
 A.CE=new C.P8(0,"topLeft")
-A.LF=new C.P8(1,"topRight")
+A.LG=new C.P8(1,"topRight")
 A.CF=new C.P8(2,"bottomLeft")
 A.aRH=B.a(x([1,0,3,2]),y.t)
 A.aRM=B.a(x([1,26,19]),y.t)
@@ -764,16 +764,16 @@ A.aWr=B.a(x([6,32,58,84,110,136,162]),y.t)
 A.aWs=B.a(x([6,26,54,82,110,138,166]),y.t)
 A.aWt=B.a(x([6,30,58,86,114,142,170]),y.t)
 A.aYf=B.a(x([D.kB,A.aV5,A.aV6,A.aV9,A.aVf,A.aVl,A.aV7,A.aV8,A.aVa,A.aVe,A.aVg,A.aVk,A.aVm,A.aVb,A.aVc,A.aVd,A.aVh,A.aVi,A.aVj,A.aVn,A.aVL,A.aVM,A.aVN,A.aVO,A.aVP,A.aVQ,A.aVR,A.aT5,A.aT7,A.aT8,A.aT9,A.aTa,A.aTb,A.aTc,A.aWo,A.aWp,A.aWq,A.aWr,A.aWs,A.aWt]),y.S)
-A.aYp=B.a(x([A.CE,A.LF,A.CF]),B.v("G<P8>"))
-A.a53=new C.K_(0,"finderPatternOuter")
-A.a54=new C.K_(1,"finderPatternInner")
-A.a55=new C.K_(2,"finderPatternDot")
+A.aYp=B.a(x([A.CE,A.LG,A.CF]),B.v("G<P8>"))
+A.a54=new C.K_(0,"finderPatternOuter")
+A.a55=new C.K_(1,"finderPatternInner")
+A.a56=new C.K_(2,"finderPatternDot")
 A.yW=new C.K_(3,"codePixel")
 A.b6r=new C.K_(4,"codePixelEmpty")
 A.Fh=new C.a4U(0,"valid")
 A.b6u=new C.a4U(1,"contentTooLong")
 A.b6v=new C.a4U(2,"error")})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"dZS","cU0",()=>C.dFA())
-x($,"dZh","d1R",()=>C.dFz())})()};
+x($,"dZS","cU0",()=>C.dFB())
+x($,"dZh","d1R",()=>C.dFA())})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_168",e:"endPart",h:b})})($__dart_deferred_initializers__,"P/vw6wBbg9VTN9dB/QAHhB30eNY=");
+a.eventLog.push({p:"main.dart.js_168",e:"endPart",h:b})})($__dart_deferred_initializers__,"H5iBuDoTpp+vAi2aqgJLqPZX85k=");
