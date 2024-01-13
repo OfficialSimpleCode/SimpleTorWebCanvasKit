@@ -1,31 +1,50 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_315",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,C={
-P8(d,e,f,g,h,i,j){return new C.aqO(j,i,f,d,g,e,h,null)},
-aqO:function aqO(d,e,f,g,h,i,j,k){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.r=h
-_.w=i
-_.x=j
-_.a=k}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,D,C={
+Wx(d,e,f,g,h,i){var x=0,w=A.j(y.e),v,u,t
+var $async$Wx=A.e(function(j,k){if(j===1)return A.f(k,w)
+while(true)switch(x){case 0:u=$.M().x.fy.a.h(0,$.V().d.c)
+t=u==null?null:J.a4(u,B.zZ)
+if(!(t==null?!0:t)){new A.af(A.d("managerBlockThat",!1),B.k,B.l,B.n,e).M()
+v=null
+x=1
+break}x=6
+return A.c(A.bJ(e,A.ag("createInvoicePage",0)),$async$Wx)
+case 6:x=k===!0?3:5
+break
+case 3:u=A.fd(new C.cQj(d,i,f,g,h),null,y.d)
+x=7
+return A.c(A.Q(e,!1).e9(u),$async$Wx)
+case 7:v=k
+x=1
+break
+x=4
+break
+case 5:new A.af(A.d("thereIsProblem",!0),B.k,B.l,B.n,e).M()
+case 4:v=null
+x=1
+break
+case 1:return A.h(v,w)}})
+return A.i($async$Wx,w)},
+cQj:function cQj(d,e,f,g,h){var _=this
+_.a=d
+_.b=e
+_.c=f
+_.d=g
+_.e=h}}
+J=c[1]
 A=c[0]
 B=c[2]
-D=c[319]
-C=a.updateHolder(c[208],C)
-C.aqO.prototype={
-n(d){var x,w,v=this,u=null,t=y.a,s=A.M(A.a([new A.m($.aj()*0.9,u,A.D(v.c,B.m,!1,!1,u,!1,!1,u,!1,!1,!1,1,u,!1,25,u,""),u)],t),B.e,B.h,B.d),r=A.M(A.a([new A.m($.aj()*0.8,u,A.D(v.d,B.m,!1,!1,u,!1,!1,u,!1,!1,!1,0.7,u,!1,19,u,""),u)],t),B.e,B.h,B.d),q=$.aj(),p=v.r
-if(p==null||v.f==null)p=new A.m(u,u,u,u)
-else{x=A.q(d)
-w=v.f
-w.toString
-p=A.M(A.a([A.al(u,u,u,A.d_(A.ac(A.a([new A.bh(D.bR,24,!1,1,!0,!1,!1,u,u),new A.m(7,u,u,u),A.D(w,u,!1,!1,u,!1,!1,u,!0,!1,!1,1,u,!1,16,u,"")],t),B.e,B.w,B.d,u),B.a5),x.ax.f,u,0,!1,u,u,u,u,u,!1,p,u,new A.y(15,5,15,5),9,u,!1,!1,!1,u)],t),B.e,B.h,B.d)}return A.bE(A.d_(A.M(A.a([new A.m(u,60,u,u),s,new A.m(u,10,u,u),r,new A.a8(B.ha,new A.hb(v.w,q,q,v.e,u),u),p,new A.m(u,$.bN()*0.13,u,u)],t),B.e,B.h,B.d),B.a5),u,u)}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
-x(C.aqO,A.z)})()
-A.aQ(b.typeUniverse,JSON.parse('{"aqO":{"z":[],"l":[]}}'))
-var y={a:A.u("G<l>")}};
+D=c[96]
+C=a.updateHolder(c[161],C)
+var z=a.updateTypes(["Hf(B)"])
+C.cQj.prototype={
+$1(d){var x=this
+A.ae("createInvoicePage")
+return D.dsU(x.a,x.c,x.d,x.e,x.b)},
+$S:z+0};(function inheritance(){var x=a.inherit
+x(C.cQj,A.bk)})()
+var y={d:A.x("dN"),e:A.x("dN?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_315",e:"endPart",h:b})})($__dart_deferred_initializers__,"fWZO/SYejBPO2qbgt5B1UhR3TGk=");
+a.eventLog.push({p:"main.dart.js_315",e:"endPart",h:b})})($__dart_deferred_initializers__,"fRqOviFnwsnokK++9mhrWFqfrLo=");

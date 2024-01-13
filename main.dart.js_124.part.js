@@ -1,21 +1,16 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_124",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-ahN(d,e){var y,x,w="illegalName"
-if(d==null)return d
-if(B.i.u(d,"&&"))return e?"":A.d(w,!0)+" - &&"
-if(B.i.u(d,"~"))return e?"":A.d(w,!0)+" - ~"
-if(d==="guest")return e?"":A.d(w,!0)+" - guest"
-y=d.length
-if(y>30||y<2)return e?"":A.d(w,!0)
-if(y>15&&!B.i.u(d," "))return e?"":A.d(w,!0)
-for(y=Math.min(y,2),x=0;x<y;++x)if(d[x]===" ")return e?"":A.d(w,!0)
-return null}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+d21(d,e){var x=0,w=A.j(y.b),v
+var $async$d21=A.e(function(f,g){if(f===1)return A.f(g,w)
+while(true)switch(x){case 0:x=1
+break
+case 1:return A.h(v,w)}})
+return A.i($async$d21,w)}}
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[266],C)
-var z=a.updateTypes(["n?(n?{withoutTranslate:I})"]);(function installTearOffs(){var y=a.installStaticTearOff
-y(C,"aiC",1,null,["$2$withoutTranslate","$1"],["ahN",function(d){return C.ahN(d,!1)}],0,0)})()};
+B=a.updateHolder(c[89],B)
+var z=a.updateTypes([])
+var y={b:A.y("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_124",e:"endPart",h:b})})($__dart_deferred_initializers__,"zjUfvzx3WDHLfQfn3tHAso4HCkc=");
+a.eventLog.push({p:"main.dart.js_124",e:"endPart",h:b})})($__dart_deferred_initializers__,"7twhHHAxvXLzsf7xrZhSDL4JmqI=");
