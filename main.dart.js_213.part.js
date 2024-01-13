@@ -9,7 +9,7 @@ A=c[384]
 var z=a.updateTypes([]);(function constants(){A.BA=new B.rK(0,"last30Days")
 A.ln=new B.rK(1,"last7Days")
 A.BB=new B.rK(2,"lastYear")
-A.nu=new B.rK(4,"fromBeginOfWorker")
-A.a_h=new C.be([A.BA,"last30Days",A.ln,"last7Days",A.BB,"lastYear",D.ct,"custom",A.nu,"fromBeginOfWorker"],C.v("be<rK,n>"))})()};
+A.nv=new B.rK(4,"fromBeginOfWorker")
+A.a_h=new C.be([A.BA,"last30Days",A.ln,"last7Days",A.BB,"lastYear",D.ct,"custom",A.nv,"fromBeginOfWorker"],C.v("be<rK,n>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_213",e:"endPart",h:b})})($__dart_deferred_initializers__,"2RUk//AgLsLe7o02Xre2ccZShfI=");
+a.eventLog.push({p:"main.dart.js_213",e:"endPart",h:b})})($__dart_deferred_initializers__,"9iC97r/fxTEd6Uw/L193uFqaUMk=");

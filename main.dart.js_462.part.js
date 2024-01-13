@@ -14,6 +14,6 @@ A.hc=new B.hH(1,"deleteCurrentAndFuture")
 A.iE=new B.hH(2,"deleteSpesific")
 A.lr=new B.hH(3,"needConfirmation")
 A.BF=new B.hH(4,"deleteOnlyThisTreatment")
-A.Ec=new C.be([A.hb,"deleteAllEvents",A.hc,"deleteCurrentAndFuture",A.iE,"deleteSpesific",A.lr,"needConfirmation",A.BF,"deleteOnlyThisTreatment"],C.v("be<hH,n>"))})()};
+A.Ed=new C.be([A.hb,"deleteAllEvents",A.hc,"deleteCurrentAndFuture",A.iE,"deleteSpesific",A.lr,"needConfirmation",A.BF,"deleteOnlyThisTreatment"],C.v("be<hH,n>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_462",e:"endPart",h:b})})($__dart_deferred_initializers__,"vn3s7UyjBMCYAvTqy8JBYuuAWUw=");
+a.eventLog.push({p:"main.dart.js_462",e:"endPart",h:b})})($__dart_deferred_initializers__,"yq6rwSFvsX0W7eR2P4C6PoVSqPE=");

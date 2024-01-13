@@ -8,9 +8,9 @@ _.c=f
 _.d=g
 _.e=h
 _.f=i
-_.r=j},bgI:function bgI(d){this.a=d},bgJ:function bgJ(d,e,f){this.a=d
+_.r=j},bgK:function bgK(d){this.a=d},bgL:function bgL(d,e,f){this.a=d
 this.b=e
-this.c=f},bgK:function bgK(d){this.a=d},bgL:function bgL(d,e){this.a=d
+this.c=f},bgM:function bgM(d){this.a=d},bgN:function bgN(d,e){this.a=d
 this.b=e},apx:function apx(d,e,f,g,h,i,j,k,l){var _=this
 _.c=d
 _.d=e
@@ -20,8 +20,8 @@ _.w=h
 _.x=i
 _.y=j
 _.z=k
-_.a=l},bgH:function bgH(d){this.a=d},bgG:function bgG(d,e){this.a=d
-this.b=e},bgF:function bgF(d){this.a=d},apA:function apA(d,e,f,g,h,i,j){var _=this
+_.a=l},bgJ:function bgJ(d){this.a=d},bgI:function bgI(d,e){this.a=d
+this.b=e},bgH:function bgH(d){this.a=d},apA:function apA(d,e,f,g,h,i,j){var _=this
 _.d=d
 _.e=e
 _.f=f
@@ -32,25 +32,25 @@ _.a=j},a59:function a59(d,e,f,g){var _=this
 _.c=d
 _.d=e
 _.e=f
-_.a=g},bQu:function bQu(d){this.a=d},bQt:function bQt(d,e){this.a=d
-this.b=e},bQs:function bQs(d){this.a=d}},D
+_.a=g},bQw:function bQw(d){this.a=d},bQv:function bQv(d,e){this.a=d
+this.b=e},bQu:function bQu(d){this.a=d}},D
 A=c[0]
 C=c[2]
 E=c[214]
 B=a.updateHolder(c[196],B)
 D=c[366]
 B.Hl.prototype={
-Ca(d){return this.bxi(d)},
-bxi(d){var x=0,w=A.j(y.A),v,u=this,t,s,r,q,p,o
-var $async$Ca=A.e(function(e,f){if(e===1)return A.f(f,w)
+Cc(d){return this.bxk(d)},
+bxk(d){var x=0,w=A.j(y.A),v,u=this,t,s,r,q,p,o
+var $async$Cc=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:if(d.aH.a===0||u.b){t=A.d(d.go?"doCancelSigning":"areYouSure",!1)
-s=d.gDP()
+s=d.gDR()
 r=A.M(t,"EVENTNAME",s)+" ?"}else if(u.a)r=d.gmh()?A.d("thisBookingWithDepositSureDeletionWorker",!1):A.d("thisBookingWithPaidPaymentDeletionWorker",!1)
 else r=d.gmh()?A.d("thisBookingWithDepositSureDeletionUser",!1):A.d("thisBookingWithPaidPaymentDeletionUser",!1)
 t=u.f
 s=t!=null
 q=s?t.fr:null
-if(s)if(t.at!==0){if(!u.a)if(d.RG===C.ae)if(!u.b){t=new A.x(Date.now(),!1).v(0,A.X(0,0,0,0,t.at,0))
+if(s)if(t.at!==0){if(!u.a)if(d.RG===C.ae)if(!u.b){t=new A.x(Date.now(),!1).v(0,A.Y(0,0,0,0,t.at,0))
 s=d.Q
 t=t.a>(s==null?d.ok:s).gbD()}else t=!1
 else t=!1
@@ -71,30 +71,30 @@ else if(d.go)s="cancel"
 else s=u.b?"delete":"cancel"
 s=A.d(s,!0)
 x=3
-return A.c(A.jX(A.d(u.b?"cancel":"exit",!0),new B.apx(p,q,r,d,u.a,u.c,u.r,o,null),u.d,s,new B.bgI(u),new B.bgJ(u,p,o),!1,t),$async$Ca)
+return A.c(A.jX(A.d(u.b?"cancel":"exit",!0),new B.apx(p,q,r,d,u.a,u.c,u.r,o,null),u.d,s,new B.bgK(u),new B.bgL(u,p,o),!1,t),$async$Cc)
 case 3:v=f
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$Ca,w)},
-ZX(d){return this.bxo(d)},
-bxo(d){var x=0,w=A.j(y.A),v,u=this,t,s,r,q,p,o
-var $async$ZX=A.e(function(e,f){if(e===1)return A.f(f,w)
+return A.i($async$Cc,w)},
+ZY(d){return this.bxq(d)},
+bxq(d){var x=0,w=A.j(y.A),v,u=this,t,s,r,q,p,o
+var $async$ZY=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:o=u.e
 if(o==null)o=d.r!=null||d.fy!=null?D.hc:D.hb
 t=new A.P(o,$.an(),y.C)
 o=u.b
 s=A.d(o?"deletingEvent":"cancellingEvent",!0)
-r=d.gbRZ()
-q=d.gbRY()
+r=d.gbS0()
+q=d.gbS_()
 p=A.d(o?"delete":"cancel",!0)
 x=3
-return A.c(A.jX(A.d(o?"cancel":"exit",!0),new B.apA(d,q,r,u.a,u.r,t,null),u.d,p,new B.bgK(u),new B.bgL(u,t),!1,s),$async$ZX)
+return A.c(A.jX(A.d(o?"cancel":"exit",!0),new B.apA(d,q,r,u.a,u.r,t,null),u.d,p,new B.bgM(u),new B.bgN(u,t),!1,s),$async$ZY)
 case 3:v=f
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$ZX,w)}}
+return A.i($async$ZY,w)}}
 B.apx.prototype={
 n(d){var x,w=this,v=null,u="AMOUNT",t=w.f,s=t.aH.a,r=w.e
 if(C.i.u(r,u)){x=A.E(r.split(u)[0],v,!1,!1,v,!1,!1,v,!1,!1,!1,1,v,!1,16,v,"")
@@ -102,12 +102,12 @@ r=A.hT(C.dk,A.a([x,A.E(t.gmh()?t.gvv().l(0):t.gnU().l(0),v,!1,!1,v,!1,!0,v,!1,!1
 if(t.w!=null||t.r!=null)if(w.w){s=t.r
 s=s==null?v:s.gfc()
 s=new B.a59(w.y,s,w.z,v)}else s=A.E(A.d("recurrenceDeleteExplainUser",!1),C.m,!1,!1,v,!1,!1,v,!1,!1,!1,1,v,!1,13,v,"")
-else s=t.gra()>1&&w.w&&s===0&&w.x?w.bOp(w.z):new A.m(v,v,v,v)
+else s=t.gra()>1&&w.w&&s===0&&w.x?w.bOr(w.z):new A.m(v,v,v,v)
 if(w.c){x=w.d
 x=new A.a9(C.iF,A.ha(!1,v,!0,!1,!1,!0,!1,14,x==null?A.d("needConfirmationToDelete",!1):x),v)}else x=new A.m(v,v,v,v)
-t=t.gajQ()>1&&w.w&&t.aH.a!==0?A.aC(A.d("deleteAllTheBookingMakeSure",!1),v,v,v,v,v,A.q(d).p3.z.fv(13),C.m,v,v,v):new A.m(v,v,v,v)
+t=t.gajS()>1&&w.w&&t.aH.a!==0?A.aC(A.d("deleteAllTheBookingMakeSure",!1),v,v,v,v,v,A.q(d).p3.z.fv(13),C.m,v,v,v):new A.m(v,v,v,v)
 return A.N(A.a([r,new A.m(v,10,v,v),s,x,t],y.u),C.e,C.h,C.d)},
-bOp(d){return new A.Y(d,new B.bgH(d),null,null,y.j)}}
+bOr(d){return new A.X(d,new B.bgJ(d),null,null,y.j)}}
 B.apA.prototype={
 n(d){var x,w,v,u=this,t=null,s=A.d("doCancelTheEvent",!0),r=u.d,q=C.c.l(r.glm())
 s=A.E(A.M(s,"COUNTER",q),t,!1,!1,t,!1,!1,t,!1,!1,!1,1,t,!1,16,t,"")
@@ -133,46 +133,46 @@ if(!A.a0(x))A.z(A.a4(x))
 x=new A.x(x,!1)}x=t.aS(0,A.u(u,v).a7(A.u(u,v).t(x),!1,!1))===0
 t=x}else t=!1
 if(t)w.e.sj(0,D.iE)
-return new A.Y(w.e,new B.bQu(w),v,v,y.h)}}
+return new A.X(w.e,new B.bQw(w),v,v,y.h)}}
 var z=a.updateTypes(["~(hH)","~(hH?)","fd(B,hH?,l?)","fd(B,hH,l?)"])
-B.bgI.prototype={
-$0(){A.Q(this.a.d,!1).W(null)
-return null},
-$S:0}
-B.bgJ.prototype={
-$0(){var x=this.b?D.lr:this.c.a
-A.Q(this.a.d,!1).W(x)
-return null},
-$S:0}
 B.bgK.prototype={
 $0(){A.Q(this.a.d,!1).W(null)
 return null},
 $S:0}
 B.bgL.prototype={
+$0(){var x=this.b?D.lr:this.c.a
+A.Q(this.a.d,!1).W(x)
+return null},
+$S:0}
+B.bgM.prototype={
+$0(){A.Q(this.a.d,!1).W(null)
+return null},
+$S:0}
+B.bgN.prototype={
 $0(){var x=this.b.a
 A.Q(this.a.d,!1).W(x)
 return null},
 $S:0}
-B.bgH.prototype={
+B.bgJ.prototype={
 $3(d,e,f){var x=null,w=y.u,v=A.a([],w),u=A.a([D.hb,D.BF],y.r)
 C.b.P(u,D.lr)
-C.b.p(u,new B.bgG(v,this.a))
+C.b.p(u,new B.bgI(v,this.a))
 return A.ak(x,x,x,A.N(A.a([new A.m($.aj()*0.6,x,A.ha(!1,x,!0,!1,!1,!0,!1,14,A.d("recurrenceDeleteOption",!0)),x),new A.m(x,5,x,x),A.N(v,C.e,C.h,C.d)],w),C.e,C.h,C.d),x,x,0,!1,x,x,x,x,C.nG,!1,x,x,C.hd,x,x,!1,!1,x)},
 $S:z+2}
-B.bgG.prototype={
+B.bgI.prototype={
 $1(d){var x,w,v=null
 if(d===D.hb)x="cancelTheWholeBooking"
-else{x=D.Ec.h(0,d)
+else{x=D.Ed.h(0,d)
 x.toString}x=A.E(A.d(x,!0),v,!1,!1,v,!1,!1,v,!1,!1,!1,0.7,v,!1,13,v,"")
 w=this.b
-this.a.push(E.aA6(new A.y(5,0,5,0),v,w.a,!1,new B.bgF(w),x,d,y.q))},
+this.a.push(E.aA6(new A.y(5,0,5,0),v,w.a,!1,new B.bgH(w),x,d,y.q))},
 $S:z+0}
-B.bgF.prototype={
+B.bgH.prototype={
 $1(d){var x=this.a
 x.sj(0,d)
 x.D()},
 $S:z+1}
-B.bQu.prototype={
+B.bQw.prototype={
 $3(d,e,f){var x,w=null,v="dd-MM-yyyy",u=y.u,t=A.a([],u),s=A.a([D.hb,D.hc,D.iE],y.r),r=this.a,q=r.c
 if(q!=null){q=A.u(v,w).a7(A.u(v,w).t(q),!1,!1)
 x=r.d
@@ -182,27 +182,27 @@ x=new A.x(x,!1)}x=q.aS(0,A.u(v,w).a7(A.u(v,w).t(x),!1,!1))===0
 q=x}else q=!1
 if(q)C.b.P(s,D.hc)
 C.b.P(s,D.lr)
-C.b.p(s,new B.bQt(r,t))
+C.b.p(s,new B.bQv(r,t))
 return A.ak(w,w,w,A.N(A.a([new A.m($.aj()*0.6,w,A.ha(!1,w,!0,!1,!1,!0,!1,14,A.d("recurrenceDeleteOption",!0)),w),new A.m(w,5,w,w),A.N(t,C.e,C.h,C.d)],u),C.e,C.h,C.d),w,w,0,!1,w,w,w,w,C.nG,!1,w,w,C.hd,w,w,!1,!1,w)},
 $S:z+3}
-B.bQt.prototype={
-$1(d){var x,w=null,v=D.Ec.h(0,d)
+B.bQv.prototype={
+$1(d){var x,w=null,v=D.Ed.h(0,d)
 v.toString
 v=A.E(A.d(v,!0),w,!1,!1,w,!1,!1,w,!1,!1,!1,0.7,w,!1,13,w,"")
 x=this.a
-this.b.push(E.aA6(new A.y(5,0,5,0),w,x.e.a,!1,new B.bQs(x),v,d,y.q))},
+this.b.push(E.aA6(new A.y(5,0,5,0),w,x.e.a,!1,new B.bQu(x),v,d,y.q))},
 $S:z+0}
-B.bQs.prototype={
+B.bQu.prototype={
 $1(d){var x
 if(d!=null){x=this.a.e
 x.sj(0,d)
 x.D()}},
 $S:z+1};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.Hl,A.ah)
-w(A.bb,[B.bgI,B.bgJ,B.bgK,B.bgL])
+w(A.bb,[B.bgK,B.bgL,B.bgM,B.bgN])
 w(A.A,[B.apx,B.apA,B.a59])
-w(A.b8,[B.bgH,B.bgG,B.bgF,B.bQu,B.bQt,B.bQs])})()
+w(A.b8,[B.bgJ,B.bgI,B.bgH,B.bQw,B.bQv,B.bQu])})()
 A.aV(b.typeUniverse,JSON.parse('{"apx":{"A":[],"l":[]},"apA":{"A":[],"l":[]},"a59":{"A":[],"l":[]}}'))
-var y={q:A.v("hH"),r:A.v("G<hH>"),u:A.v("G<l>"),h:A.v("Y<hH>"),j:A.v("Y<hH?>"),C:A.v("P<hH>"),A:A.v("hH?")}};
+var y={q:A.v("hH"),r:A.v("G<hH>"),u:A.v("G<l>"),h:A.v("X<hH>"),j:A.v("X<hH?>"),C:A.v("P<hH>"),A:A.v("hH?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_461",e:"endPart",h:b})})($__dart_deferred_initializers__,"7/74PSzdFBRPjuQHUEjyjVg7dNQ=");
+a.eventLog.push({p:"main.dart.js_461",e:"endPart",h:b})})($__dart_deferred_initializers__,"Axo9ezvofdRlHdFQpxcONqbzBX4=");
