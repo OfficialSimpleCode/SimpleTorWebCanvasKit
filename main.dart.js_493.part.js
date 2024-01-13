@@ -1,77 +1,56 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_493",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,B={
-cWo(d,e,f,g){return new B.apb(d,f,e,g,null)},
-apb:function apb(d,e,f,g,h){var _=this
-_.c=d
-_.d=e
-_.f=f
-_.r=g
-_.a=h},
-bg7:function bg7(d){this.a=d},
-bg6:function bg6(d,e){this.a=d
-this.b=e},
-aZX(d,e,f,g,h){var x=0,w=A.j(y.g),v
-var $async$aZX=A.e(function(i,j){if(i===1)return A.f(j,w)
-while(true)switch(x){case 0:x=3
-return A.c(A.bK(d,A.ai("datePicker",0)),$async$aZX)
-case 3:if(j!==!0){new A.ah(A.d("thereIsProblem",!0),C.k,C.l,C.n,d).M()
-v=null
-x=1
-break}A.ae("datePicker")
-x=4
-return A.c(A.dZ(d,!0,D.dsI(e,f,g,h),1,null).eg(),$async$aZX)
-case 4:v=j
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
+aha(d,e,f){var x=0,w=A.j(y.f),v,u,t,s
+var $async$aha=A.e(function(g,h){if(g===1)return A.f(h,w)
+while(true)switch(x){case 0:if(e.db==null){x=1
+break}x=5
+return A.c(B.cJa(d,e),$async$aha)
+case 5:x=h===!0?3:4
+break
+case 3:u=A.Q(d,!1)
+t=$.aik()
+s=e.db
+s.toString
+x=6
+return A.c(A.bC("assets/animations/delete_animation.json.zip",d,C.I,t.a_D(s),A.d("eventDeleteSuccessfully",!0),u,!0,!1,!0,!0,C.L).bd(),$async$aha)
+case 6:if(h){if(e.db!=null)J.f2($.ch().a.gh0().d,e.db.a)
+t=$.d0()
+u=t.k3
+if(u!=null){s=e.db.a
+u.P(0,s==null?"":s)}t.fx.D()
+if(f)A.Q(d,!1).W(null)}case 4:case 1:return A.h(v,w)}})
+return A.i($async$aha,w)},
+cJa(d,e){var x=0,w=A.j(y.h),v,u,t,s
+var $async$cJa=A.e(function(f,g){if(f===1)return A.f(g,w)
+while(true)switch(x){case 0:u=A.d("eventDeletion",!0)
+t=A.d("deleteEvent",!0)
+s=e.db.b
+if(s==null)s=""
+x=3
+return A.c(A.jX(null,A.aC(A.M(t,"EVENTNAME",s),null,null,null,null,null,null,C.m,null,null,null),d,null,new B.cJb(d),new B.cJc(d),!0,u),$async$cJa)
+case 3:v=g
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$aZX,w)}}
+return A.i($async$cJa,w)},
+cJb:function cJb(d){this.a=d},
+cJc:function cJc(d){this.a=d}}
+J=c[1]
 A=c[0]
 C=c[2]
-D=c[56]
-B=a.updateHolder(c[189],B)
-B.apb.prototype={
-n(d){return new A.X(this.c,new B.bg7(this),null,null,y.i)},
-U4(d){return this.aT_(d)},
-aT_(d){var x=0,w=A.j(y.f),v=this,u,t,s,r,q,p,o,n
-var $async$U4=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:n=v.d
-if(n==null)n=new A.x(Date.now(),!1)
-u=new A.x(Date.now(),!1).v(0,A.Y(1e4,0,0,0,0,0))
-t=v.c
-s=t.a.ae(n)?n:t.a
-x=2
-return A.c(B.aZX(d,s,u,n,A.d("pickDate",!0)),$async$U4)
-case 2:r=f
-if(r!=null){u=r.gE()
-s=r.gI()
-q=r.gad()
-p=t.a.gbg()
-o=t.a.gbF()
-u=A.a7(u,s,q,p,o,0,0,!1)
-if(!A.a0(u))A.A(A.a4(u))
-t.sj(0,new A.x(u,!1))
-u=v.r
-if(u!=null)u.$1(t.a)
-t.D()}return A.h(null,w)}})
-return A.i($async$U4,w)}}
+B=a.updateHolder(c[146],B)
 var z=a.updateTypes([])
-B.bg7.prototype={
-$3(d,e,f){var x=null,w=A.q(d),v=this.a,u=A.v("dd-MM-yyyy",x).t(v.c.a),t=v.f,s=t==null,r=s?22:t
-r=A.aD(u,x,x,x,x,x,A.b_(x,x,A.q(d).ax.f,x,x,x,x,x,x,x,x,r,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x)
-u=A.d(C.oi[e.gdz()],!0)
-if(s)t=22
-s=y.e
-return new A.bM(C.a1,x,C.R,C.y,A.a([A.d_(A.ak(x,x,x,A.N(A.a([r,A.aD(u,x,x,x,x,x,A.b_(x,x,A.q(d).ax.f,x,x,x,x,x,x,x,x,t*0.8,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x)],s),C.e,C.w,C.d),w.ax.cy,x,0,!1,x,x,x,x,new A.y(3,3,3,3),!1,new B.bg6(v,d),x,new A.y(25,10,25,10),10,x,!1,!1,x),C.a3)],s),x)},
-$S:1334}
-B.bg6.prototype={
-$0(){return this.a.U4(this.b)},
-$S:3};(function inheritance(){var x=a.inherit
-x(B.apb,A.z)
-x(B.bg7,A.b3)
-x(B.bg6,A.b4)})()
-A.aQ(b.typeUniverse,JSON.parse('{"apb":{"z":[],"l":[]}}'))
-var y={e:A.u("G<l>"),i:A.u("X<x>"),g:A.u("x?"),f:A.u("~")}};
+B.cJb.prototype={
+$0(){A.Q(this.a,!1).W(null)
+return null},
+$S:0}
+B.cJc.prototype={
+$0(){A.Q(this.a,!1).W(!0)
+return null},
+$S:0};(function inheritance(){var x=a.inheritMany
+x(A.bb,[B.cJb,B.cJc])})()
+var y={h:A.v("I?"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_493",e:"endPart",h:b})})($__dart_deferred_initializers__,"3fizzbaW2hUqUc6FsVBp202Rr9s=");
+a.eventLog.push({p:"main.dart.js_493",e:"endPart",h:b})})($__dart_deferred_initializers__,"f0QIxn7oSUA5CqQcifFc609enKA=");

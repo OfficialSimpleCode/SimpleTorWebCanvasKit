@@ -1,135 +1,165 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_347",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,E,F,B={
-dyq(d){return new B.a3v(d,null)},
-a3v:function a3v(d,e){this.c=d
-this.a=e},
-bHx:function bHx(d,e){this.a=d
-this.b=e},
-bHv:function bHv(d){this.a=d},
-bHw:function bHw(d){this.a=d},
-cI0(d,e,f){var x=0,w=A.j(y.f),v
-var $async$cI0=A.e(function(g,h){if(g===1)return A.f(h,w)
-while(true)switch(x){case 0:x=1
-break
-case 1:return A.h(v,w)}})
-return A.i($async$cI0,w)},
-cOQ(d,e){var x=0,w=A.j(y.f)
-var $async$cOQ=A.e(function(f,g){if(f===1)return A.f(g,w)
-while(true)switch(x){case 0:x=d?2:4
-break
-case 2:x=5
-return A.c(J.aJ(A.ai("userHelper",0),new B.cOR(e),y.e),$async$cOQ)
-case 5:x=3
-break
-case 4:B.aZc(e)
-case 3:A.ct(e,null)
-return A.h(null,w)}})
-return A.i($async$cOQ,w)},
-aZc(d){var x=0,w=A.j(y.e),v,u
-var $async$aZc=A.e(function(e,f){if(e===1)return A.f(f,w)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,D,F,C={a_0:function a_0(d,e,f,g,h){var _=this
+_.d=d
+_.e=e
+_.f=f
+_.r=g
+_.a=h},bgz:function bgz(d,e){this.a=d
+this.b=e},bgy:function bgy(d,e,f,g){var _=this
+_.a=d
+_.b=e
+_.c=f
+_.d=g},bgD:function bgD(d,e,f,g){var _=this
+_.a=d
+_.b=e
+_.c=f
+_.d=g},bgC:function bgC(d){this.a=d},bgB:function bgB(d,e,f,g){var _=this
+_.a=d
+_.b=e
+_.c=f
+_.d=g},bgA:function bgA(d){this.a=d},
+Wx(d,e,f,g,h){var x=0,w=A.j(y.x),v,u
+var $async$Wx=A.e(function(i,j){if(i===1)return A.f(j,w)
 while(true)switch(x){case 0:x=3
-return A.c(F.aZ4(),$async$aZc)
-case 3:u=y.e
-x=4
-return A.c(A.eI(J.aJ(A.ai("userHelper",0),new B.cK4(d),u),new B.cK5(),u,y.o),$async$aZc)
-case 4:v=f
+return A.c(A.bL(f,A.ai("themeProprtiesPagePicker",0)),$async$Wx)
+case 3:u=j
+A.km(g.gol())
+x=u===!0?4:6
+break
+case 4:A.ae("themeProprtiesPagePicker")
+x=7
+return A.c(A.pj(f,F.dBG(d,e,g,h)).L(0,new C.cPE(),y.x),$async$Wx)
+case 7:v=j
+x=1
+break
+x=5
+break
+case 6:new A.ag(A.d("thereIsProblem",!0),B.k,B.l,B.n,f).M()
+case 5:v=null
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$aZc,w)},
-cOR:function cOR(d){this.a=d},
-cK4:function cK4(d){this.a=d},
-cK5:function cK5(){}}
+return A.i($async$Wx,w)},
+cPE:function cPE(){}},E,G,H
 J=c[1]
 A=c[0]
-C=c[2]
-D=c[6]
-E=c[282]
-F=c[291]
-B=a.updateHolder(c[262],B)
-B.a3v.prototype={
-n(d){var x,w=null
-A.bQ(d,!0,y.m)
-x=$.mo()
-return A.al(w,E.fF(A.q(d).ax.f,new B.bHx(this,d),$.V().d.fr.Q),C.j,w,w,w,w,20,w,new A.y(x,0,x,0),w,w,w,25)},
-N0(d,e){return this.buq(d,e)},
-buq(d,e){var x=0,w=A.j(y.f),v=this,u,t,s,r
-var $async$N0=A.e(function(f,g){if(f===1)return A.f(g,w)
-while(true)switch(x){case 0:x=!d?2:4
-break
-case 2:u=$.V().d
-x=u.cx.a!==0||u.CW.a!==0?5:7
-break
-case 5:u=A.aD(A.d("youWillRemoveFromWaitingLists",!0),null,null,null,null,null,null,C.m,null,null,null)
-t=A.d("turnOffNotifications?",!0)
-s=A.d("yes",!0)
-x=8
-return A.c(A.cS(C.af,!1,1,!0,null,A.d("no",!0),u,e,C.M,20,!0,C.z,new B.bHv(e),new B.bHw(e),!1,s,t),$async$N0)
-case 8:r=g
-x=6
-break
-case 7:r=!0
-case 6:if(r===!0)B.cOQ(!1,e)
-x=3
-break
-case 4:B.cI0(!0,e,v.c)
-case 3:return A.h(null,w)}})
-return A.i($async$N0,w)}}
+B=c[2]
+D=c[12]
+F=c[63]
+C=a.updateHolder(c[132],C)
+E=c[445]
+G=c[185]
+H=c[433]
+C.a_0.prototype={
+n(d){var x=null
+return new A.m($.aj()*0.9,x,A.N(A.a([new A.Y(this.d,new C.bgz(this,d),x,x,y.p)],y.u),B.e,B.h,B.d),x)},
+aHZ(d,e,f,g){var x,w=null,v=A.E(f+":",w,!1,!1,w,!1,!1,w,!1,!1,!1,1,w,!1,16,w,""),u=$.fR(),t=A.q(d),s=$.aj()*0.06
+if(e.length===0&&A.d("createdThemes",!0)===f)x=new A.m($.aj()*0.7,w,E.aNL,w)
+else x=g?A.ad(e,B.e,B.aq,B.d,w):A.hT(B.aN,e,B.bx,B.aN,7,$.aj()*0.04)
+return A.N(A.a([new A.bY(B.ca,w,w,v,w),new A.m(w,10,w,w),A.ak(w,w,w,x,t.ax.cy,w,0,!1,w,w,w,w,w,!1,w,w,new A.y(s,14,s,14),15,w,!1,!1,u)],y.u),B.e,B.h,B.d)},
+aHY(d,e,f){var x=null,w=this.d.a.f===f,v=w?1:0.7,u=$.aj()*0.155,t=w?A.fp(A.q(d).ax.db,2):x,s=y.u
+v=A.a([A.d2(A.al(x,x,B.j,x,x,new A.cb(x,x,t,x,x,new A.jQ(B.bt,B.cW,B.cj,A.a([new A.k(e.c>>>0),new A.k(e.a>>>0),new A.k(e.b>>>0)],y.c),x,x),x,B.br),x,u,x,x,x,x,x,u),v),this.bCy(d,f,e)],s)
+u=$.aj()
+return A.bz(x,A.N(A.a([new A.bM(B.a1,x,B.R,B.y,v,x),new A.m(x,5,x,x),A.al(B.v,A.E(e.w,B.m,!1,!1,x,!1,!1,x,!1,!0,!1,1,B.ac,!1,15,x,""),B.j,x,x,x,x,x,x,x,x,x,x,u*0.16)],s),B.e,B.h,B.d),B.t,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,new C.bgD(this,f,e,d),x,x,x,x,x,x,x,x,!1,B.G)},
+bCy(d,e,f){var x=null
+if($.AS().N(0,e))return new A.m(x,x,x,x)
+if(this.r.u(0,e))return new A.m(x,x,x,x)
+return A.c4(!1,x,x,B.bh,!0,!1,x,x,x,!0,new C.bgB(this,e,d,f),!1,new A.y(3,3,3,3),x,x,x,10,x,x)}}
 var z=a.updateTypes([])
-B.bHx.prototype={
-$1(d){return this.aLj(d)},
-aLj(d){var x=0,w=A.j(y.f),v,u=this
-var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:x=3
-return A.c(u.a.N0(d,u.b),$async$$1)
-case 3:v=f
-x=1
-break
-case 1:return A.h(v,w)}})
-return A.i($async$$1,w)},
-$S:47}
-B.bHv.prototype={
-$0(){A.Q(this.a,!1).W(!1)
-return null},
+C.bgz.prototype={
+$3(d,e,f){var x=y.u,w=A.a([],x),v=A.a([],x),u=this.a,t=this.b
+$.d7().e.p(0,new C.bgy(u,w,t,v))
+return A.N(A.a([u.aHZ(t,w,A.d("defaultThemes",!0),!0),new A.m(null,24,null,null),u.aHZ(t,v,A.d("createdThemes",!0),!1)],x),B.e,B.h,B.d)},
+$S:1412}
+C.bgy.prototype={
+$2(d,e){var x=this,w=x.a,v=x.c
+if($.AS().N(0,d))x.b.push(w.aHY(v,e,d))
+else x.d.push(w.aHY(v,e,d))},
+$S:111}
+C.bgD.prototype={
+$0(){var x,w,v,u=this,t=u.a,s=t.d,r=u.b
+if(s.a.f!==r){x=new A.fA(0,0,0,0,0,"","","")
+x.oW(u.c)
+s.sj(0,x)
+w=$.d7()
+if(w.b===s.a.f)return
+w.aAZ(r)
+A.cs(u.d,null)
+if(!t.e){v=A.kN($.L().x.k4)
+v.z=s.a.f
+J.aK(A.ai("settingsHelper.23",0),new C.bgC(v),y.e)}}},
 $S:0}
-B.bHw.prototype={
-$0(){A.Q(this.a,!1).W(!0)
-return null},
-$S:0}
-B.cOR.prototype={
+C.bgC.prototype={
 $1(d){var x=0,w=A.j(y.e),v,u=this
 var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:A.ae("userHelper")
+while(true)switch(x){case 0:A.ae("settingsHelper.23")
 x=3
-return A.c(D.f3().O6(u.a),$async$$1)
+return A.c(D.fX().q3(u.a),$async$$1)
 case 3:v=f
 x=1
 break
 case 1:return A.h(v,w)}})
 return A.i($async$$1,w)},
 $S:4}
-B.cK4.prototype={
+C.bgB.prototype={
+$0(){var x=0,w=A.j(y.F),v,u=this,t,s,r,q,p,o,n,m
+var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
+while(true)switch(x){case 0:m=u.b
+if($.AS().N(0,m)){x=1
+break}t=u.a
+if(t.r.u(0,m)){x=1
+break}s=u.c
+r=new A.fA(0,0,0,0,0,"","","")
+r.oW(u.d)
+x=3
+return A.c(C.Wx(s,t.f,s,r,!0),$async$$0)
+case 3:q=e
+if(q==null){x=1
+break}if(q.f==="deletedTheme"){t.d.D()
+x=1
+break}p=$.d7()
+r=p.e
+o=new A.fA(0,0,0,0,0,"","","")
+o.oW(q)
+r.i(0,m,o)
+if(p.b===m){p.bwl(m,!0)
+A.cs(s,null)}else t.d.D()
+x=!t.e?4:5
+break
+case 4:n=A.kN($.L().x.k4)
+m=n.as
+t=q.f
+s=new A.fA(0,0,0,0,0,"","","")
+s.oW(q)
+m.i(0,t,s)
+x=6
+return A.c(J.aK(A.ai("settingsHelper.23",0),new C.bgA(n),y.e),$async$$0)
+case 6:case 5:case 1:return A.h(v,w)}})
+return A.i($async$$0,w)},
+$S:1}
+C.bgA.prototype={
 $1(d){var x=0,w=A.j(y.e),v,u=this
 var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:A.ae("userHelper")
+while(true)switch(x){case 0:A.ae("settingsHelper.23")
 x=3
-return A.c(D.f3().O5(u.a),$async$$1)
+return A.c(D.fX().q3(u.a),$async$$1)
 case 3:v=f
 x=1
 break
 case 1:return A.h(v,w)}})
 return A.i($async$$1,w)},
 $S:4}
-B.cK5.prototype={
-$2(d,e){return!1},
-$S:22};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.a3v,A.z)
-w(A.b3,[B.bHx,B.cOR,B.cK4])
-w(A.b4,[B.bHv,B.bHw])
-x(B.cK5,A.bG)})()
-A.aQ(b.typeUniverse,JSON.parse('{"a3v":{"z":[],"l":[]}}'))
-var y={o:A.u("af"),m:A.u("l9"),e:A.u("I"),f:A.u("~")}};
+C.cPE.prototype={
+$1(d){A.km(null)
+return d},
+$S:1413};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(C.a_0,A.A)
+w(A.b8,[C.bgz,C.bgC,C.bgA,C.cPE])
+x(C.bgy,A.bJ)
+w(A.bb,[C.bgD,C.bgB])})()
+A.aV(b.typeUniverse,JSON.parse('{"a_0":{"A":[],"l":[]}}'))
+var y={c:A.v("G<k>"),u:A.v("G<l>"),F:A.v("aw"),p:A.v("Y<fA>"),e:A.v("I"),x:A.v("fA?")};(function constants(){E.aNL=new G.a_F(H.K9,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_347",e:"endPart",h:b})})($__dart_deferred_initializers__,"zhgHF0t/5I6wKOG680f3qRBfOeY=");
+a.eventLog.push({p:"main.dart.js_347",e:"endPart",h:b})})($__dart_deferred_initializers__,"idDiPQ+tS92+2ospKf6QF2KSDYM=");
