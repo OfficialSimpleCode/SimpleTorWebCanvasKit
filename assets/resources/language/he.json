@@ -2287,7 +2287,7 @@
   "foundPaymentsRequests": "(COUNTER) בקשות תשלום",
   "thatAutoMaticllyAdded": "כל המידע שנמצא נוסף אוטומטית לחשבון זה",
   "phoneIsVerfied": "הפלאפון שלך אומת בהצלחה",
-  "nowWeCanRecognizeYou": "עכשיו כל הזמנה או קבלה שתירשם למספר הפלאפון (PHONE) תיכנס אוטומטית לחשבון שלך",
+  "nowWeCanRecognizeYou": "עכשיו כל הזמנה, קבלה או בקשת תשלום שתירשם למספר הפלאפון (PHONE) תיכנס אוטומטית לחשבון שלך",
   "updatedEmailSuccessfully": "האימייל התעדכן בהצלחה",
   "cantUpdatePhonelTooShortTimeBetween": "עדכנת כבר היום מספר פלאפון נסה שוב מחר",
   "cantUpdateEmailTooShortTimeBetween": "עדכנת כבר היום אימייל נסה שוב מחר",

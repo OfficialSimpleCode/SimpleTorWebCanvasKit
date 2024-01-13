@@ -1,28 +1,52 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_599",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-dyF(){return new B.ay_(null)},
-ay_:function ay_(d){this.a=d},
-bGx:function bGx(d){this.a=d},
-bGy:function bGy(d){this.a=d}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,G,B={
+dA1(){return new B.RM(null)},
+RM:function RM(d){this.a=d},
+bR1:function bR1(d,e){this.a=d
+this.b=e},
+bR0:function bR0(d){this.a=d},
+bR_:function bR_(){}},D
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[36],B)
-B.ay_.prototype={
-n(d){var x=null,w=$.aj(),v=A.D(A.d("youSignedAsWorker",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,19,x,""),u=$.aj(),t=A.D(A.d("youSignedAsWorkerExplain",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14,x,""),s=$.aj(),r=A.q(d)
-return A.bE(A.M(A.a([new A.m(x,10,x,x),new A.m(w*0.8,x,v,x),new A.m(x,8,x,x),new A.m(u*0.7,x,t,x),new A.m(x,15,x,x),new A.hb("assets/animations/new_worker.json.zip",s*0.65,x,C.be,x),new A.m(x,40,x,x),A.al(C.v,x,x,A.D(A.d("continueToGuide",!0),x,!1,!1,x,!1,!1,x,!0,!1,!1,1,x,!1,16,x,""),r.ax.f,x,0,!1,x,x,x,x,x,!1,new B.bGx(d),x,new A.y(0,10,0,10),x,x,!1,!1,!1,s*0.4),new A.m(x,8,x,x),A.d6(A.D(A.d("skipTheGuide",!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,14,x,""),new B.bGy(d),1),new A.m(x,30,x,x)],y.a),C.e,C.h,C.d),x,x)}}
+E=c[292]
+F=c[309]
+G=c[134]
+B=a.updateHolder(c[76],B)
+D=c[132]
+B.RM.prototype={
+n(d){var x
+A.bQ(d,!0,y.m)
+x=A.cK(null,0,!0)
+return new A.X($.fx().c,new B.bR1(this,x),null,null,y.h)},
+buP(d,e,f){return f.a===0?new D.a3f(!1,A.d("noAvailableBookings",!0),"assets/animations/recurring_booking_animation.json.zip",d,A.d("bookingsAsClientExplainRecurrence",!0),null):D.d58(d,f,!1,!0,50,e,!1,new B.bR_())}}
 var z=a.updateTypes([])
-B.bGx.prototype={
-$0(){A.Q(this.a,!1).W(null)
-$.by().Kq()},
-$S:2}
-B.bGy.prototype={
-$0(){A.Q(this.a,!1).W(null)},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.ay_,A.z)
-w(A.b4,[B.bGx,B.bGy])})()
-A.aQ(b.typeUniverse,JSON.parse('{"ay_":{"z":[],"l":[]}}'))
-var y={a:A.u("G<l>")}};
+B.bR1.prototype={
+$3(d,e,f){var x,w,v,u=null,t=$.V().d.ry.c
+if(t==null)t=A.p(y.g,y.e)
+x=y.g
+w=y.e
+v=A.p(x,w)
+A.dT(t,x,w).p(0,new B.bR0(v))
+w=this.b
+x=y.l
+t=A.ad(A.a([new A.m(35,u,u,u),A.E(A.d("recurringBookings",!0),u,!1,!1,u,!1,!1,u,!1,!1,!1,1,u,!1,16,u,"")],x),C.e,C.w,C.d,u)
+return A.dD(A.ff(A.a([new G.a0h(!1,C.N,u),E.i2(F.bV,A.d("recurringBookingsPageExplain",!0))],x),u,u,u,u,u,t,!0),u,this.a.buP(d,w,v),u,u,!1,u,u,23,!1,!1,w,!0)},
+$S:259}
+B.bR0.prototype={
+$2(d,e){if(!$.fx().c.a.HX(e))return
+if(e.gh3())return
+if(e.r==null)return
+this.a.i(0,d,e)},
+$S:16}
+B.bR_.prototype={
+$2(d,e){return e.ok.aP(0,d.ok)},
+$S:207};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.RM,A.z)
+x(B.bR1,A.b3)
+w(A.bG,[B.bR0,B.bR_])})()
+A.aQ(b.typeUniverse,JSON.parse('{"RM":{"z":[],"l":[]}}'))
+var y={e:A.u("bU"),l:A.u("G<l>"),g:A.u("n"),m:A.u("l9"),h:A.u("X<px>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_599",e:"endPart",h:b})})($__dart_deferred_initializers__,"Ii83H2NNmKPbTQc1XrI4yEurmag=");
+a.eventLog.push({p:"main.dart.js_599",e:"endPart",h:b})})($__dart_deferred_initializers__,"R97bsyg2uMYQ3uQkqQH5eeWyr6w=");

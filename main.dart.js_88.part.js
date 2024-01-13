@@ -1,44 +1,23 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_88",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,C,A={lu:function lu(d,e,f){this.c=d
-this.d=e
-this.a=f},bit:function bit(d){this.a=d},bis:function bis(d){this.a=d},bir:function bir(d,e,f){this.a=d
-this.b=e
-this.c=f},bio:function bio(d){this.a=d},biq:function biq(){},bip:function bip(){}}
-J=c[1]
-B=c[0]
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+duA(){return new B.aqI(null)},
+aqI:function aqI(d){this.a=d},
+bl_:function bl_(d){this.a=d}}
+A=c[0]
 C=c[2]
-A=a.updateHolder(c[204],A)
-A.lu.prototype={
-n(d){var x=null,w={}
-w.a=w.b=!1
-return new B.xG(B.uI(C.d9,B.dtZ(C.b0,this.c,new A.biq(),C.rc,C.b1r,new B.dW(),x,new A.bir(w,this,d),C.cF),x,x,new A.bis(w),x,x,new A.bit(w)),this.d,x)}}
+B=a.updateHolder(c[38],B)
+B.aqI.prototype={
+n(d){var x=null,w=$.aj(),v=A.E(A.d("guideFinish",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,19,x,""),u=$.aj(),t=A.E(A.d("guideFinishExplain",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14,x,""),s=$.aj(),r=A.hb(!1,x,!1,!0,!1,!0,!1,14,A.d("youCanFindTheGuidesInSetting",!0)),q=$.aj(),p=A.q(d)
+return A.bF(A.N(A.a([new A.m(x,10,x,x),new A.m(w*0.8,x,v,x),new A.m(x,3,x,x),new A.m(u*0.7,x,t,x),new A.m(x,15,x,x),new A.hd("assets/animations/finish_create_business.json.zip",s*0.55,x,C.bh,x),new A.m(x,40,x,x),r,A.ak(C.v,x,x,A.E(A.d("ok",!0),x,!1,!1,x,!1,!1,x,!0,!1,!1,1,x,!1,16,x,""),p.ax.f,x,0,!1,x,x,x,x,x,!1,new B.bl_(d),x,new A.y(0,10,0,10),x,x,!1,!1,q*0.4),new A.m(x,30,x,x)],y.a),C.e,C.h,C.d),x,x)}}
 var z=a.updateTypes([])
-A.bit.prototype={
-$1(d){return this.a.b=!1},
-$S:401}
-A.bis.prototype={
-$1(d){return this.a.b=!0},
-$S:93}
-A.bir.prototype={
-$1(d){var x=this.a,w=x.b,v=x.a
-if(d.b&&!w&&!v){x.a=!0
-J.aK(this.b.d.$0(),new A.bio(this.c),y.h)}if(d.d===0)x.a=!1},
-$S:1440}
-A.bio.prototype={
-$1(d){if(d)B.Q(this.a,!1).X(null)},
-$S:45}
-A.biq.prototype={
-$1(d){return B.hd(new A.bip(),y.c)},
-$S:1441}
-A.bip.prototype={
-$0(){return!1},
-$S:9};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(A.lu,B.A)
-w(B.bk,[A.bit,A.bis,A.bir,A.bio,A.biq])
-x(A.bip,B.bi)})()
-B.b6(b.typeUniverse,JSON.parse('{"lu":{"A":[],"l":[]}}'))
-var y={h:B.x("az"),c:B.x("K?")}};
+B.bl_.prototype={
+$0(){A.Q(this.a,!1).W(null)},
+$S:2};(function inheritance(){var x=a.inherit
+x(B.aqI,A.z)
+x(B.bl_,A.b4)})()
+A.aQ(b.typeUniverse,JSON.parse('{"aqI":{"z":[],"l":[]}}'))
+var y={a:A.u("G<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_88",e:"endPart",h:b})})($__dart_deferred_initializers__,"BgRS82yd6YRzMwUlaDQi59bm2Dw=");
+a.eventLog.push({p:"main.dart.js_88",e:"endPart",h:b})})($__dart_deferred_initializers__,"PcX/3p2Bxdh4y44+StPphg0Jw7I=");

@@ -2265,7 +2265,7 @@
   "foundPaymentsRequests": "(COUNTER) Payment Requests",
   "thatAutoMaticllyAdded": "All information found is automatically added to this account",
   "phoneIsVerfied": "Your phone has been successfully verified",
-  "nowWeCanRecognizeYou": "Now every order or receipt registered to the phone number (PHONE) will automatically enter your account",
+  "nowWeCanRecognizeYou": "Now every order, receipt or payment request registered to the phone number (PHONE) will automatically enter your account",
   "phoneMustBeVerified": "To order you must first verify your phone number",
   "purchaseBusiness": "Purchasing a business",
   "updatedEmailSuccessfully": "The email has been successfully updated",
