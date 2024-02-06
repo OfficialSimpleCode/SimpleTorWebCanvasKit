@@ -1,45 +1,60 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_480",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={alu:function alu(d){this.a=d},b9U:function b9U(){},b9V:function b9V(){},b9W:function b9W(d){this.a=d},b9X:function b9X(){},
-dCh(){return new B.aEg(null)},
-aEg:function aEg(d){this.a=d}},D
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,E,B={
+aZ_(d){return B.dLM(d)},
+dLM(d){var x=0,w=A.j(y.b),v,u=2,t,s,r,q,p,o
+var $async$aZ_=A.e(function(e,f){if(e===1){t=f
+x=u}while(true)switch(x){case 0:if($.aM===""){x=1
+break}u=4
+s=new A.P(null,$.an(),y.m)
+q=A.d("buisnessDeletion",!0)
+x=7
+return A.c(E.ahe(A.aG(A.d("ensureDeleteBusiness",!0),null,null,null,null,null,null,C.m,null,null,null),d,s,null,q,25,$.U().d.fr.c),$async$aZ_)
+case 7:r=f
+if(!J.w(r,!0)){x=1
+break}q=A.Q(d,!1)
+x=8
+return A.c(A.bB("assets/animations/delete_animation.json.zip",d,C.H,J.aK(A.ai("managerHelper.4",0),new B.cKb(),y.e),A.d("businessDeleted",!0),q,!0,!1,!0,C.K).bd(),$async$aZ_)
+case 8:q=f
+v=q
+x=1
+break
+u=2
+x=6
+break
+case 4:u=3
+o=t
+x=6
+break
+case 3:x=2
+break
+case 6:case 1:return A.h(v,w)
+case 2:return A.f(t,w)}})
+return A.i($async$aZ_,w)},
+cKb:function cKb(){}}
+J=c[1]
 A=c[0]
 C=c[2]
-E=c[416]
-B=a.updateHolder(c[32],B)
-D=c[415]
-B.alu.prototype={
-n(d){var w=null
-return new A.a8(D.aNf,A.ac(A.a([A.c4(!1,w,w,E.CH,!0,!1,w,w,w,!0,new B.b9U(),!1,w,w,w,w,w,w,w),A.c4(!1,w,w,D.aP5,!0,!1,w,w,w,!0,new B.b9V(),!1,w,w,w,w,w,w,w),A.c4(!1,w,w,C.rH,!0,!1,w,w,w,!0,new B.b9W(d),!1,w,w,w,w,w,w,w),A.c4(!1,w,w,C.hW,!0,!1,w,w,w,!0,new B.b9X(),!1,w,w,w,w,w,w,w)],x.e),C.e,C.dR,C.d,w),w)}}
-B.aEg.prototype={
-n(d){var w=null,v=A.q(d),u=$.nO(),t=$.bN(),s=A.bZ(w,w,w),r=$.aj(),q=x.e
-return A.ak(w,A.M(A.a([new B.alu(w),s,A.b3(A.ak(w,A.M(A.a([A.b3(new A.a8(D.aMD,new A.hb("assets/animations/cuntact_us_animation.json.zip",w,w,C.be,w),w),1),A.d2(A.D(A.d("SupportDscription",!0),C.m,!1,!1,w,!1,!1,w,!1,!0,!1,1,w,!1,20,w,""),0.6)],q),C.e,C.h,C.d),C.j,w,w,w,w,w,w,w,new A.y(0,0,0,20),w,w,r*0.85),1)],q),C.e,C.ap,C.d),C.j,v.ax.cy,w,w,w,t*0.7,w,w,new A.y(0,0,0,30),w,w,u)}}
+D=c[221]
+E=c[243]
+B=a.updateHolder(c[79],B)
 var z=a.updateTypes([])
-B.b9U.prototype={
-$0(){var w=0,v=A.j(x.h)
-var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,v)
-while(true)switch(w){case 0:w=2
-return A.c(new A.j8().D5(y.c,y.c,!1),$async$$0)
-case 2:return A.h(null,v)}})
-return A.i($async$$0,v)},
-$S:1}
-B.b9V.prototype={
-$0(){var w="https://officialsimplecode.github.io/SimpleTorHomePage/"
-return new A.j8().I9(w,w)},
-$S:3}
-B.b9W.prototype={
-$0(){return A.dgF(this.a,"simpletor.official")},
-$S:0}
-B.b9X.prototype={
-$0(){return new A.j8().xo("0504040624")},
-$S:0};(function inheritance(){var w=a.inheritMany
-w(A.A,[B.alu,B.aEg])
-w(A.b8,[B.b9U,B.b9V,B.b9W,B.b9X])})()
-A.aW(b.typeUniverse,JSON.parse('{"alu":{"A":[],"l":[]},"aEg":{"A":[],"l":[]}}'))
-var y={c:"https://officialsimplecode.github.io/SimpleCodeWeb/"}
-var x={e:A.v("G<l>"),h:A.v("ax")};(function constants(){D.aMD=new A.y(0,0,0,40)
-D.aNf=new A.y(15,7,15,7)
-D.aP5=new A.t9(61612,"FontAwesomeSolid","font_awesome_flutter",!1)})()};
+B.cKb.prototype={
+$1(d){var x=0,w=A.j(y.e),v,u,t
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:A.af("managerHelper.4")
+u=D.Dy()
+t=$.L().w
+x=3
+return A.c(u.O1(t.go,t.CW,t.fx,t.db),$async$$1)
+case 3:v=f
+x=1
+break
+case 1:return A.h(v,w)}})
+return A.i($async$$1,w)},
+$S:4};(function inheritance(){var x=a.inherit
+x(B.cKb,A.b8)})()
+var y={m:A.v("P<mP?>"),e:A.v("J"),b:A.v("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_480",e:"endPart",h:b})})($__dart_deferred_initializers__,"Fy9plMN1FrcDtl9gpfRxdXRSmGc=");
+a.eventLog.push({p:"main.dart.js_480",e:"endPart",h:b})})($__dart_deferred_initializers__,"LGdF6urA/AFbmtkKkXSVVI2uyvg=");
