@@ -34,11 +34,11 @@ C=a.updateHolder(c[11],C)
 C.aGh.prototype={
 n(d){var x=null
 $.e4.b=d
-return A.hq(A.a([new C.aFU(x),this.bWy(),this.bLe(d),new A.m(x,30,x,x)],y.u),B.b_,new A.y(0,0,0,0),x,!1)},
-bWy(){var x=null,w=$.U().r.b5$
+return A.hq(A.a([new C.aFU(x),this.bWx(),this.bLd(d),new A.m(x,30,x,x)],y.u),B.b_,new A.y(0,0,0,0),x,!1)},
+bWx(){var x=null,w=$.U().r.b5$
 if(w.gbW(w)==null)return new A.m(x,x,x,x)
 return D.dl($.d4q(),x,x,x,"",new A.e0(),!0,x,x,x,x,x)},
-bLe(d){var x=null
+bLd(d){var x=null
 return D.dl(A.a([D.c6(!1,!1,E.R,x,x,B.Mz,3,!1,!1,B.P,"myBookings",!1,!1,x,x,new C.caf(d),0,x,!0,!1,x,x,x,!0,!0,x,x,!0,x)],y.j),x,x,x,"",x,!0,x,x,x,x,x)}}
 C.aFU.prototype={
 n(d){var x,w,v,u,t,s,r,q,p=null
@@ -143,8 +143,8 @@ case 8:case 5:case 1:return A.h(v,w)}})
 return A.i($async$$0,w)},
 $S:1};(function inheritance(){var x=a.inheritMany
 x(A.A,[C.aGh,C.aFU,C.ale])
-x(A.bd,[C.caf,C.c7Z,C.b9X])})()
+x(A.bc,[C.caf,C.c7Z,C.b9X])})()
 A.b_(b.typeUniverse,JSON.parse('{"aGh":{"A":[],"l":[]},"aFU":{"A":[],"l":[]},"ale":{"A":[],"l":[]}}'))
 var y={j:A.v("G<oa>"),u:A.v("G<l>"),F:A.v("aw"),C:A.v("mQ"),z:A.v("jE"),b:A.v("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_516",e:"endPart",h:b})})($__dart_deferred_initializers__,"+RKrOlScYBvPVCxbcf7UCBxFUGM=");
+a.eventLog.push({p:"main.dart.js_516",e:"endPart",h:b})})($__dart_deferred_initializers__,"f0Mq2Wm+Xg56v3AtU90i7qfyxxc=");

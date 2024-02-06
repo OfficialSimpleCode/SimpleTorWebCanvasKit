@@ -60,9 +60,9 @@ $1(d){A.af("recurreenceBookingsPage")
 return E.dAJ()},
 $S:z+0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.aye,A.A)
-w(A.bd,[B.bJl,B.bJm])
+w(A.bc,[B.bJl,B.bJm])
 x(B.cQV,A.b8)})()
 A.b_(b.typeUniverse,JSON.parse('{"aye":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),p:A.v("aw"),b:A.v("@"),a:A.v("aj?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_508",e:"endPart",h:b})})($__dart_deferred_initializers__,"dTyXP3i4fkCqcWJKynyeYFXYoCE=");
+a.eventLog.push({p:"main.dart.js_508",e:"endPart",h:b})})($__dart_deferred_initializers__,"T0QPNUro87ozn0K01GyNwiSyL5c=");

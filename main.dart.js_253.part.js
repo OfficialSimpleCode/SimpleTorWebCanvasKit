@@ -17,14 +17,14 @@ s=J
 x=5
 return A.c(A.bB("assets/animations/success_animation.json.zip",d,C.H,B.ahc(d),A.d("logoutSuccessfully",!0),v,!0,!0,!1,C.K).bd(),$async$aZp)
 case 5:if(s.w(f,!0)){A.rC(d)
-A.EB(d).afK()}case 3:return A.h(null,w)}})
+A.EB(d).afJ()}case 3:return A.h(null,w)}})
 return A.i($async$aZp,w)},
 ahc(d){var x=0,w=A.j(y.e),v,u
 var $async$ahc=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:u=y.e
 x=3
 return A.c(A.eI(J.aK(A.ai("userHelper.17",0),new B.cKd(),u),new B.cKe(),u,y.o),$async$ahc)
-case 3:if(!f){$.bl().dh(0,"Failed to load the library UserHelper")
+case 3:if(!f){$.bn().dh(0,"Failed to load the library UserHelper")
 v=!1
 x=1
 break}x=4
@@ -61,9 +61,9 @@ $S:91}
 B.cKe.prototype={
 $2(d,e){return!1},
 $S:22};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.bd,[B.cO8,B.cO9])
+x(A.bc,[B.cO8,B.cO9])
 w(B.cKd,A.b8)
 w(B.cKe,A.bL)})()
 var y={o:A.v("aj"),e:A.v("J"),b:A.v("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_253",e:"endPart",h:b})})($__dart_deferred_initializers__,"32Rw4CqlYqno9AftKvpFvhMDwD8=");
+a.eventLog.push({p:"main.dart.js_253",e:"endPart",h:b})})($__dart_deferred_initializers__,"anqRaIYO39KnEDL9Z4CoW8sowUk=");

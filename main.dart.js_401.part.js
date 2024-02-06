@@ -26,7 +26,7 @@ return A.i($async$$0,v)},
 $S:1}
 B.bae.prototype={
 $0(){var w="https://officialsimplecode.github.io/SimpleTorHomePage/"
-return new A.j5().I8(w,w)},
+return new A.j5().I7(w,w)},
 $S:3}
 B.baf.prototype={
 $0(){return A.dhc(this.a,"simpletor.official")},
@@ -35,11 +35,11 @@ B.bag.prototype={
 $0(){return new A.j5().xi("0504040624")},
 $S:0};(function inheritance(){var w=a.inheritMany
 w(A.A,[B.ali,B.aE4])
-w(A.bd,[B.bad,B.bae,B.baf,B.bag])})()
+w(A.bc,[B.bad,B.bae,B.baf,B.bag])})()
 A.b_(b.typeUniverse,JSON.parse('{"ali":{"A":[],"l":[]},"aE4":{"A":[],"l":[]}}'))
 var y={c:"https://officialsimplecode.github.io/SimpleCodeWeb/"}
 var x={e:A.v("G<l>"),h:A.v("aw")};(function constants(){D.aMH=new A.y(0,0,0,40)
 D.aNk=new A.y(15,7,15,7)
 D.aPe=new A.uG(61612,"FontAwesomeSolid","font_awesome_flutter",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_401",e:"endPart",h:b})})($__dart_deferred_initializers__,"3phMoJhJ7JnJxfo4O+vOmYM9YZw=");
+a.eventLog.push({p:"main.dart.js_401",e:"endPart",h:b})})($__dart_deferred_initializers__,"zYeV97IG4Udk/nf6EJTB1GbyR+s=");

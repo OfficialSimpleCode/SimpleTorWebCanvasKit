@@ -194,8 +194,8 @@ if(J.ej(u.a)||J.ce(J.im(u.a)).c===0){x=Date.now()
 w=$.ck().a.y2.e
 v=A.a2(0,1,1,0,0,0,0,!1)
 if(!A.Z(v))A.z(A.a0(v))
-u.sj(0,A.H([t,new A.kW(new A.x(x,!1),t,0,w)],y.N,y.g))}return this.bAN(J.ce(J.im(u.a)),d)},
-bAN(d,e){var x,w,v,u=this,t=null,s=I.zH(t,!1,C.f.l(d.c),u.d,!0,new A.e0(),new B.bh0(d),t,t,1,!0,!1),r=d.d,q=A.dD(new A.cN(new A.dd(r,C.aN,C.aw),$.an()),t,t,t,t,A.d("description",!0),t,B.dR6(),t,t,t,t,t,new B.bh1(d),t,t,t,!1,t,t,!1,new A.aa(E.Kb,A.bw(C.bf,t,t,t,19),t),!1,!0,!0,!1,t,t,C.ar)
+u.sj(0,A.H([t,new A.kW(new A.x(x,!1),t,0,w)],y.N,y.g))}return this.bAM(J.ce(J.im(u.a)),d)},
+bAM(d,e){var x,w,v,u=this,t=null,s=I.zH(t,!1,C.f.l(d.c),u.d,!0,new A.e0(),new B.bh0(d),t,t,1,!0,!1),r=d.d,q=A.dD(new A.cN(new A.dd(r,C.aN,C.aw),$.an()),t,t,t,t,A.d("description",!0),t,B.dR6(),t,t,t,t,t,new B.bh1(d),t,t,t,!1,t,t,!1,new A.aa(E.Kb,A.bw(C.bf,t,t,t,19),t),!1,!0,!0,!1,t,t,C.ar)
 if(d.c>0){r=A.bw(M.f6,t,t,t,19)
 x=A.d("createdAt",!0)
 w=d.a
@@ -238,8 +238,8 @@ p=A.ac(A.a([new B.axw(x,u,w,q,r),new B.azo(n,p===!0,s.z,s.w,r)],t),C.e,C.aq,C.d,
 return A.ak(r,r,r,A.N(A.a([p,s.f||s.y===C.aZ?new A.m(r,r,r,r):new B.aAx(s.d,s.x,w,s.Q,r)],t),C.e,C.h,C.d),o,r,0,!1,r,r,r,r,r,!1,r,r,new A.y(10,10,10,10),10,r,!1,!1,v*0.95)}}
 B.axw.prototype={
 n(d){var x=this,w=null,v=x.e,u=y.p
-return A.bg(A.ac(A.a([A.eq("",60,v===C.ab?"assets/woman_profile.webp":"assets/man_profile.webp",!1),new A.m(5,w,w,w),A.bg(A.N(A.a([A.C(x.c,w,!1,!1,w,!1,!1,w,!1,!1,!0,1,w,!1,22,w,""),new A.m(w,5,w,w),x.aP1(x.d,d,v)],u),C.ao,C.h,C.d),1)],u),C.e,C.h,C.d,w),1)},
-aP1(d,e,f){var x,w,v=null,u=this.f.xr,t=u.a.h(0,d)
+return A.bg(A.ac(A.a([A.eq("",60,v===C.ab?"assets/woman_profile.webp":"assets/man_profile.webp",!1),new A.m(5,w,w,w),A.bg(A.N(A.a([A.C(x.c,w,!1,!1,w,!1,!1,w,!1,!1,!0,1,w,!1,22,w,""),new A.m(w,5,w,w),x.aP0(x.d,d,v)],u),C.ao,C.h,C.d),1)],u),C.e,C.h,C.d,w),1)},
+aP0(d,e,f){var x,w,v=null,u=this.f.xr,t=u.a.h(0,d)
 if(t==null)return new A.m(v,v,v,v)
 switch(t.vF(u.b.b,$.ck().a).a){case 7:x=A.d(f===C.ab?"deletedClientFenale":"deletedClient",!1)
 w=C.aD
@@ -269,10 +269,10 @@ default:x=""
 w=C.t}return A.aG(x,v,v,v,v,v,A.b1(v,v,w,v,v,v,v,v,v,v,v,v,v,v,v,v,v,!0,v,v,v,v,v,v,v,v),v,v,v,v)}}
 B.azo.prototype={
 n(d){var x=this,w=null,v=x.c,u=y.p
-return new A.aa(C.bp,A.N(A.a([A.ac(A.a([A.C(v.split("-").length>1&&J.w(v.split("-")[1],"")?A.d("noPhoneNumber",!0):A.hk(v),w,!1,!1,w,!1,!0,w,!1,!1,!0,1,w,!1,19,w,""),new L.qi(x.d,0.8,!0,w)],u),C.e,C.h,C.d,w),new A.m(w,10,w,w),A.ac(A.a([x.afk(d,v),new A.m(15,w,w,w),x.al4(v,d),new A.m(12,w,w,w),H.dbC(w,w,x.f,w,!1,21,w,x.e)],u),C.e,C.h,C.d,w)],u),C.e,C.h,C.d),w)},
-afk(d,e){var x=null,w=e.split("-").length>1&&!J.w(e.split("-")[1],"")
+return new A.aa(C.bp,A.N(A.a([A.ac(A.a([A.C(v.split("-").length>1&&J.w(v.split("-")[1],"")?A.d("noPhoneNumber",!0):A.hk(v),w,!1,!1,w,!1,!0,w,!1,!1,!0,1,w,!1,19,w,""),new L.qi(x.d,0.8,!0,w)],u),C.e,C.h,C.d,w),new A.m(w,10,w,w),A.ac(A.a([x.afj(d,v),new A.m(15,w,w,w),x.al3(v,d),new A.m(12,w,w,w),H.dbC(w,w,x.f,w,!1,21,w,x.e)],u),C.e,C.h,C.d,w)],u),C.e,C.h,C.d),w)},
+afj(d,e){var x=null,w=e.split("-").length>1&&!J.w(e.split("-")[1],"")
 return A.c9(!1,A.q(d).ax.cy,x,G.o1,w,!1,x,C.M,x,!0,new B.bNF(e,d),!1,new A.y(8,8,8,8),x,x,x,23,x,x)},
-al4(d,e){var x=null,w=A.q(e),v=d.split("-").length>1&&!J.w(d.split("-")[1],"")
+al3(d,e){var x=null,w=A.q(e),v=d.split("-").length>1&&!J.w(d.split("-")[1],"")
 return A.c9(!1,w.ax.cy,x,C.hX,v,!1,x,C.M,x,!0,new B.bNG(d,e),!1,new A.y(7,7,7,7),x,x,x,26,x,x)}}
 B.aAx.prototype={
 n(d){var x=A.a([],y.p)
@@ -363,7 +363,7 @@ if(d.d!==u.d&&$.U().gbq()<2){this.a.a=!0
 return A.hd(new B.cUu(),y.P)}x=$.u8()
 w=d.a
 v=d.c
-return x.aPC(d.b,w,v,u)},
+return x.aPB(d.b,w,v,u)},
 $S:1360}
 B.cUu.prototype={
 $0(){return null},
@@ -394,7 +394,7 @@ w=A.d(w+"Reminder",!1)
 this.b.push(new A.aa(D.aNv,A.ac(A.a([new A.bf(t,18,!0,1,!1,!1,!1,v,v),new A.m(4,v,v,v),A.C(A.M(x,"TYPE",w),v,!1,!1,v,!1,!1,v,!1,!0,!1,1,v,!1,13,v,"")],y.p),C.e,C.h,C.d,v),v))},
 $S:55};(function installTearOffs(){var x=a._static_1
 x(B,"dR6","dLo",0)})();(function inheritance(){var x=a.inheritMany
-x(A.bd,[B.cIm,B.cIn,B.cOn,B.cOo,B.cJC,B.cJD,B.bgZ,B.cKf,B.cKg,B.cLT,B.cLU,B.cSp,B.cSq,B.cUu,B.bNF,B.bNG])
+x(A.bc,[B.cIm,B.cIn,B.cOn,B.cOo,B.cJC,B.cJD,B.bgZ,B.cKf,B.cKg,B.cLT,B.cLU,B.cSp,B.cSq,B.cUu,B.bNF,B.bNG])
 x(A.bL,[B.cJB,B.bh0,B.bSo])
 x(A.A,[B.apo,B.YL,B.Z_,B.aoP,B.axw,B.azo,B.aAx])
 x(A.b8,[B.bh1,B.bh2,B.bh_,B.cUv,B.cUw])})()
@@ -403,4 +403,4 @@ var y=(function rtii(){var x=A.v
 return{g:x("kW"),R:x("ag<dy?>"),w:x("G<dy>"),p:x("G<l>"),l:x("b0<hr>"),P:x("aw"),N:x("n"),I:x("W<a9<n,kW>>"),d:x("P<a9<n,kW>>"),z:x("@"),b:x("dy?"),x:x("a9<n,kW>?"),u:x("J?")}})();(function constants(){D.aNv=new A.y(20,8,20,2)
 D.Mk=new A.aX(58287,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_437",e:"endPart",h:b})})($__dart_deferred_initializers__,"JIAZiWauCFbJkazhbwemxp42HJ8=");
+a.eventLog.push({p:"main.dart.js_437",e:"endPart",h:b})})($__dart_deferred_initializers__,"dvKGVgJ+DyepiO8yvWADwNOuKoU=");
