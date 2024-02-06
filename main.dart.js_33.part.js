@@ -29,7 +29,7 @@ B.aCM.prototype={
 n(d){var x=null,w=$.an(),v=y.o,u=new A.P("",w,v),t=this.d,s=t?$.bV()*0.5:$.bV()*0.4,r=$.ah(),q=A.C(A.d("tiredOfTypeCard",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,19,x,""),p=$.ah(),o=A.C(A.d("cardExplain",!0),C.m,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,15,x,"")
 w=t?this.bys(0,d,u,new A.P("",w,v)):new A.YZ(x,!1,x)
 v=y.e
-return A.bz(C.aW,A.N(A.a([A.am(x,A.bE(A.cR(new A.m(r*0.88,x,A.N(A.a([new A.m(x,10,x,x),q,new A.m(x,5,x,x),new A.m(p*0.7,x,o,x),new A.m(x,20,x,x),w,new A.W(u,new B.bYO(this,u),x,x,y.m)],v),C.e,C.h,C.d),x),C.a0),x,x),C.j,x,x,x,x,s,x,x,x,x,x,x)],v),C.e,C.h,C.d),C.u,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,new B.bYP(d),x,x,x,x,x,x,x,x,!1,C.F)},
+return A.bz(C.aS,A.N(A.a([A.am(x,A.bE(A.cI(new A.m(r*0.94,x,A.N(A.a([new A.m(x,10,x,x),q,new A.m(x,5,x,x),new A.m(p*0.8,x,o,x),new A.m(x,20,x,x),w,new A.W(u,new B.bYO(this,u),x,x,y.m)],v),C.e,C.h,C.d),x),C.a0),x,x),C.j,x,x,x,x,s,x,x,x,x,x,x)],v),C.e,C.h,C.d),C.u,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,new B.bYP(d),x,x,x,x,x,x,x,x,!1,C.F)},
 bys(d,e,f,g){var x,w,v,u=null,t=A.a3P(!0,A.d("password",!0),new B.bYS(this,f),f),s=A.a3P(!1,A.d("repeatPassword",!0),u,g),r=A.q(e).ax,q=r.y
 r=q==null?r.f:q
 q=y.e
@@ -87,4 +87,4 @@ w(A.b8,[B.bYO,B.bYU,B.bYR])})()
 A.b_(b.typeUniverse,JSON.parse('{"aCM":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),p:A.v("aw"),m:A.v("W<n>"),o:A.v("P<n>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_33",e:"endPart",h:b})})($__dart_deferred_initializers__,"kVebeSwVVumzqyjy7Ge+NyQYTVw=");
+a.eventLog.push({p:"main.dart.js_33",e:"endPart",h:b})})($__dart_deferred_initializers__,"BxdfvIWWWYQIJa98NIwJ0H3fY2k=");

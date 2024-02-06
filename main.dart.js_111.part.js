@@ -14,10 +14,10 @@ D=c[294]
 E=c[444]
 C.Du.prototype={
 n(d){var x=null,w=A.C("Simple Tor",x,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,34,x,""),v=A.FZ(),u=$.d6().c.ax.a===B.aF?"assets/logoDark.webp":"assets/launch_icon.webp",t=y.e
-return new A.aa(E.Ka,A.N(A.a([A.cR(A.nY(new A.aa(new A.y(10,0,10,0),A.ac(A.a([w,new A.m(8,x,x,x),A.eq("",37*v.a,u,!1)],t),B.e,B.w,B.d,x),x),B.aH),B.a0),A.C(A.d("joinOurFamily",!0),B.m,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14.5,x,"")],t),B.e,B.h,B.d),x)}}
+return new A.aa(E.Ka,A.N(A.a([A.cI(A.nY(new A.aa(new A.y(10,0,10,0),A.ac(A.a([w,new A.m(8,x,x,x),A.eq("",37*v.a,u,!1)],t),B.e,B.w,B.d,x),x),B.aH),B.a0),A.C(A.d("joinOurFamily",!0),B.m,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14.5,x,"")],t),B.e,B.h,B.d),x)}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
 x(C.Du,A.A)})()
 A.b_(b.typeUniverse,JSON.parse('{"Du":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),f:A.v("ih"),g:A.v("n")};(function constants(){D.MB=new A.aX(61477,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_111",e:"endPart",h:b})})($__dart_deferred_initializers__,"HhuZkAowLRdhqMZkkMcZaeOxzpA=");
+a.eventLog.push({p:"main.dart.js_111",e:"endPart",h:b})})($__dart_deferred_initializers__,"bGR+oW3G5BWch6QocVyOA7H5SU0=");

@@ -16,7 +16,7 @@ case 2:v=A.Q(d,!1)
 s=J
 x=5
 return A.c(A.bB("assets/animations/success_animation.json.zip",d,C.H,B.ahc(d),A.d("logoutSuccessfully",!0),v,!0,!0,!1,C.K).bd(),$async$aZp)
-case 5:if(s.w(f,!0)){A.rC(d)
+case 5:if(s.w(f,!0)){A.rD(d)
 A.EB(d).afJ()}case 3:return A.h(null,w)}})
 return A.i($async$aZp,w)},
 ahc(d){var x=0,w=A.j(y.e),v,u
@@ -66,4 +66,4 @@ w(B.cKd,A.b8)
 w(B.cKe,A.bL)})()
 var y={o:A.v("aj"),e:A.v("J"),b:A.v("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_253",e:"endPart",h:b})})($__dart_deferred_initializers__,"anqRaIYO39KnEDL9Z4CoW8sowUk=");
+a.eventLog.push({p:"main.dart.js_253",e:"endPart",h:b})})($__dart_deferred_initializers__,"XAwcfnh1AGsEqlO6KYCG4twSBR8=");

@@ -7,7 +7,7 @@ var $async$bdO=A.e(function(j,k){if(j===1)return A.f(k,w)
 while(true)switch(x){case 0:u=y.z
 t=J
 x=3
-return A.c(D.b3b.hn("getContacts",A.H(["query",h,"withThumbnails",!1,"photoHighResolution",!1,"orderByGivenName",!1,"iOSLocalizedLabels",!1,"androidLocalizedLabels",!1],y.N,u),!1,u),$async$bdO)
+return A.c(D.b3c.hn("getContacts",A.H(["query",h,"withThumbnails",!1,"photoHighResolution",!1,"orderByGivenName",!1,"iOSLocalizedLabels",!1,"androidLocalizedLabels",!1],y.N,u),!1,u),$async$bdO)
 case 3:v=t.ec(k,new B.bdP(),y.f).eE(0)
 x=1
 break
@@ -346,7 +346,7 @@ a0(){return new B.aKj(new A.P("",$.an(),y.J),C.o)}}
 B.aKj.prototype={
 n(d){var x=null,w=$.ah(),v=L.a6t(x,x,x,this.d,!1,!0),u=this.a,t=u.e,s=u.f
 if(J.ej(u.c)){u=$.ah()*0.05
-u=new A.aa(new A.y(u,0,u,0),A.N(A.a([new A.bf(D.aQd,75,!0,1,!1,!1,!1,x,x),new A.m(x,7,x,x),A.C(A.d("noContactFound",!1),C.m,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,30,x,""),new A.m(x,$.bV()*0.2,x,x)],y.p),C.e,C.w,C.d),x)}else u=this.bJd()
+u=new A.aa(new A.y(u,0,u,0),A.N(A.a([new A.bf(D.aQe,75,!0,1,!1,!1,!1,x,x),new A.m(x,7,x,x),A.C(A.d("noContactFound",!1),C.m,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,30,x,""),new A.m(x,$.bV()*0.2,x,x)],y.p),C.e,C.w,C.d),x)}else u=this.bJd()
 return A.N(A.a([new A.m(x,10,x,x),new A.m(w*0.9,x,v,x),new B.aBS(t,s,new A.df("SelectedContactsList",y.X)),A.bg(u,1)],y.p),C.e,C.h,C.d)},
 bJd(){return new A.W(this.d,new B.cjb(this),null,null,y.B)},
 bJb(d,e){var x,w,v,u=null
@@ -361,7 +361,7 @@ w=A.q(w).ax
 v=w.y
 w=v==null?w.f:v
 v=$.ah()
-return K.cZH(A.bE(A.cR(A.ak(u,u,u,A.ja(u,C.y,u,new B.cj8(this,d),d.length,u,u,C.b_,C.M,u,!1,!1,C.J,!0),w,u,0,!1,u,u,u,u,new A.y(0,0,0,10),!1,u,u,u,15,u,!1,!1,v*0.9),C.a0),u,u),x)},
+return K.cZH(A.bE(A.cI(A.ak(u,u,u,A.ja(u,C.y,u,new B.cj8(this,d),d.length,u,u,C.b_,C.M,u,!1,!1,C.J,!0),w,u,0,!1,u,u,u,u,new A.y(0,0,0,10),!1,u,u,u,15,u,!1,!1,v*0.9),C.a0),u,u),x)},
 bEf(d){var x=A.a([],y.F)
 J.ao(this.a.c,new B.cj6(this,d,x))
 return x},
@@ -378,7 +378,7 @@ w=x.length
 v=0
 for(;v<x.length;x.length===w||(0,A.aP)(x),++v){u=x[v].b
 if(u!=null){t=u.length
-u=A.u6(u,e,0)}else u=!1
+u=A.u7(u,e,0)}else u=!1
 if(u)return!0}return!1}}
 B.a0L.prototype={
 a0(){return new B.aNk($.U().d.id,C.o)}}
@@ -498,7 +498,7 @@ v=x.x
 u=x.f
 t=x.r
 s=y.p
-return A.N(A.a([new B.aF2(t,C.A,u,v,x.d,x.y,w,r),x.ag4(),A.bg(A.R0(A.a([new B.a0L(t,w,r),new B.Z4(e,u,t,C.A,v,new A.df("ContactsList",y.X))],s),C.y,u,C.u,r,!0,new A.m1(r),!1,r),1)],s),C.e,C.h,C.d)},
+return A.N(A.a([new B.aF2(t,C.A,u,v,x.d,x.y,w,r),x.ag4(),A.bg(A.R0(A.a([new B.a0L(t,w,r),new B.Z4(e,u,t,C.A,v,new A.df("ContactsList",y.X))],s),C.y,u,C.u,r,!0,new A.m2(r),!1,r),1)],s),C.e,C.h,C.d)},
 $S:z+5}
 B.bi2.prototype={
 $3(d,e,f){var x,w,v=null,u=A.q(d).ax,t=u.y
@@ -579,7 +579,7 @@ $2(d,e){var x,w,v=null,u=this.a,t=this.b,s=t.b
 s=A.C(s===""?t.a:s,v,!1,!1,v,!1,!1,v,!1,!0,!1,1,v,!1,15,v,"")
 x=A.eq("",40,t.Q===C.ab?"assets/woman_profile.webp":"assets/man_profile.webp",!1)
 w=A.q(d).ax.f
-return A.lX(!1,v,!0,G.bwm(!1,v,v,v,!0,v,!1,x,v,v,!1,v,v,v,v,v,s,A.d2(A.bw(H.MA,A.T(204,w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255),v,v,v),u,0.5),v),v,!0,v,v,v,v,v,v,v,v,v,v,v,u,v,v,v,v,v,v,v)},
+return A.lY(!1,v,!0,G.bwm(!1,v,v,v,!0,v,!1,x,v,v,!1,v,v,v,v,v,s,A.d2(A.bw(H.MA,A.T(204,w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255),v,v,v),u,0.5),v),v,!0,v,v,v,v,v,v,v,v,v,v,v,u,v,v,v,v,v,v,v)},
 $S:1163}
 B.coB.prototype={
 $1(d){var x,w,v,u,t=d.at[0].b
@@ -604,7 +604,7 @@ $S:z+9}
 B.bW5.prototype={
 $2(d,e){var x,w,v,u=null,t=J.a8(this.b,e),s=t.ay
 if(s==null||J.aB(s)===0)x=A.eq("",75,$.U().d.id===C.ab?"assets/woman_profile.webp":"assets/man_profile.webp",!1)
-else x=A.am(C.cY,A.iG(A.d_(new A.aA(500,500)),new A.wR(A.bTX(u,u,new A.uR(s,1)),u,u,u,u,u,u,C.eE,u,u,C.v,C.ef,!1,u),C.aU),C.j,u,u,u,u,75,u,u,new A.y(8,8,8,8),u,u,75)
+else x=A.am(C.cY,A.iG(A.d_(new A.aA(500,500)),new A.wR(A.bTX(u,u,new A.uR(s,1)),u,u,u,u,u,u,C.eE,u,u,C.v,C.ef,!1,u),C.aV),C.j,u,u,u,u,75,u,u,new A.y(8,8,8,8),u,u,75)
 w=t.b
 if(w==null)w=""
 v=y.p
@@ -617,7 +617,7 @@ x.D()},
 $S:0}
 B.bZa.prototype={
 $3(d,e,f){var x,w,v,u,t,s=null,r=this.a,q=r.c
-r.w=J.eG(r.d.a,q)
+r.w=J.eF(r.d.a,q)
 x=q.ay
 w=q.b
 if(w==null)w=""
@@ -688,7 +688,7 @@ return{f:x("ho"),O:x("ct"),W:x("Dh"),F:x("G<ho>"),I:x("G<Dh>"),G:x("G<aj>"),R:x(
 D.a9h=new B.N8(1,"google")
 D.a9i=new B.N8(2,"whatsapp")
 D.a9j=new B.N8(3,"other")
-D.aQd=new A.aX(61975,"MaterialIcons",null,!1)
-D.b3b=new A.ie("github.com/clovisnicolas/flutter_contacts",C.bg,null)})()};
+D.aQe=new A.aX(61975,"MaterialIcons",null,!1)
+D.b3c=new A.ie("github.com/clovisnicolas/flutter_contacts",C.bg,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_201",e:"endPart",h:b})})($__dart_deferred_initializers__,"HUSLmYmdYUxzKHa4SVdkvibk6cI=");
+a.eventLog.push({p:"main.dart.js_201",e:"endPart",h:b})})($__dart_deferred_initializers__,"S5CirQjqyO6u16McTbl0kzLHDEk=");

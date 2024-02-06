@@ -307,7 +307,7 @@ p.Ba(g)
 p.ES(g,!1,r.gaEM(),!1)
 t=e.a
 w=7
-return A.c(A.u4(d,e,null,!0,null,t,t.as,null,null,null,!1),$async$aij)
+return A.c(A.u5(d,e,null,!0,null,t,t.as,null,null,null,!1),$async$aij)
 case 7:if(i===!0)if(f!=null)$.fj().a.v(0,f.a.to)
 p.nA()
 q.b=!0
@@ -398,7 +398,7 @@ p=p.gfI()
 $.ci()
 r=new A.cg(p)
 r.dc(s,p)
-return A.ak(q,q,q,A.ac(A.a([u,t,new A.m(4,q,q,q),A.C(r.l(0),q,!1,!1,C.aD,!1,!1,q,!1,!1,!0,1,q,!1,15,q,"")],x.p),C.e,C.w,C.d,q),v,q,0,!1,q,q,q,q,new A.y(0,10,0,0),!1,q,q,E.aNJ,q,q,!1,!1,w)}}
+return A.ak(q,q,q,A.ac(A.a([u,t,new A.m(4,q,q,q),A.C(r.l(0),q,!1,!1,C.aD,!1,!1,q,!1,!1,!0,1,q,!1,15,q,"")],x.p),C.e,C.w,C.d,q),v,q,0,!1,q,q,q,q,new A.y(0,10,0,0),!1,q,q,E.aNK,q,q,!1,!1,w)}}
 B.aFQ.prototype={
 n(d){var w,v,u,t,s,r,q,p,o,n,m,l,k,j=null,i="notKnown",h="moreThen",g="treatments",f={}
 f.a=f.b=0
@@ -419,7 +419,7 @@ v=A.q(d).ax
 s=v.y
 v=s==null?v.f:s
 s=w.as
-s=A.cR(new B.apf(s==null?w.a:s,j),C.a0)
+s=A.cI(new B.apf(s==null?w.a:s,j),C.a0)
 r=A.cf(j,20,j)
 q=A.C(A.d("price",!0),j,!1,!1,j,!1,!1,j,!1,!1,!0,0.7,j,!1,13.5,j,"")
 p=u!==""?A.C(u,j,!1,!1,j,!1,!1,j,!1,!1,!0,1,j,!1,14,j,""):new A.m(j,j,j,j)
@@ -544,7 +544,7 @@ case 6:n=n.a
 if(n==null){new A.ae(A.d("paymentNoFound",!1),C.k,C.l,C.n,d).J()
 w=1
 break}w=7
-return A.c(A.rB(d,!0,null,null,null,null,n,null,m.a.c),$async$kq)
+return A.c(A.rC(d,!0,null,null,null,null,n,null,m.a.c),$async$kq)
 case 7:case 1:return A.h(u,v)}})
 return A.i($async$kq,v)},
 a4h(d){return this.bPe(d)},
@@ -936,7 +936,7 @@ $0(){var w=0,v=A.j(x.P),u,t=this,s,r,q
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,v)
 while(true)switch(w){case 0:s=t.a.c
 w=3
-return A.c($.u8().Tb(s,$.U().d),$async$$0)
+return A.c($.u9().Tb(s,$.U().d),$async$$0)
 case 3:r=e
 q=J.X(r)
 if(q.gA(r)<s.aa.a)new A.ae(A.d("someInvoicesNotFound",!1),C.k,C.l,C.az,t.b).J()
@@ -1083,6 +1083,6 @@ A.b_(b.typeUniverse,JSON.parse('{"apf":{"A":[],"l":[]},"akH":{"A":[],"l":[]},"al
 var y={b:"assets/animations/delete_animation.json.zip",c:"assets/animations/success_animation.json.zip"}
 var x=(function rtii(){var w=A.v
 return{k:w("x"),A:w("G<ox>"),p:w("G<l>"),P:w("aw"),C:w("jg"),N:w("n"),V:w("W<bX>"),f:w("P<bX>"),y:w("J"),u:w("J?"),H:w("~")}})();(function constants(){E.aNd=new A.y(12,0,12,8)
-E.aNJ=new A.y(6,4,6,4)})()};
+E.aNK=new A.y(6,4,6,4)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_513",e:"endPart",h:b})})($__dart_deferred_initializers__,"vRSgT65a9wdWXUhxvRSSHMDz7Sc=");
+a.eventLog.push({p:"main.dart.js_513",e:"endPart",h:b})})($__dart_deferred_initializers__,"HG8LEAy42/r8tasGIp+Y3CLEWm4=");
